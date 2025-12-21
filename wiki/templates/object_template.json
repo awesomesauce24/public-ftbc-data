@@ -1,0 +1,177 @@
+{
+  "difficulties": {
+    "Effortless": "#17a897",
+    "Easy": "#10da8d",
+    "Moderate": "#07fc55",
+    "Normal": "#a1ff27",
+    "Intermediate": "#ffb700",
+    "Hard": "#FF7700",
+    "Difficult": "#f54f25",
+    "Extreme": "#ed2727",
+    "Unforgiving": "#ff143f",
+    "Insane": "#ff1c95",
+    "Dreadful": "#db25ff",
+    "Terrifying": "#8b17ff",
+    "Arduous": "#5d0cff",
+    "Strenuous": "#4048e5",
+    "Remorseless": "#2084ff",
+    "Horrifying": "#2bd0fd",
+    "IMPOSSIBLE": "#000000",
+    "medal": "#331900",
+    "Secret": "#000000"
+  },
+  "realms": {
+    "Main Realm": {
+      "background_file": "Main Realm Sky.webp",
+      "theme_accent_color": "-webkit-linear-gradient(#23bd1c,#188a13)",
+      "theme_accent_label_color": "#ffffff",
+      "text_color": "#000000"
+    },
+    "Inverted Realm": {
+      "background_file": "Inverted-realm-image.png",
+      "theme_accent_color": "-webkit-linear-gradient(#C45508,#EEDC5B)",
+      "theme_accent_label_color": "#ffffff",
+      "text_color": "#000000"
+    },
+    "Yoyleland": {
+      "background_file": "Yoyleland.png",
+      "theme_accent_color": "-webkit-linear-gradient(#cd58e3,#70287a)",
+      "theme_accent_label_color": "#ffffff",
+      "text_color": "#000000"
+    },
+    "Backrooms": {
+      "background_file": "Backrooms.png",
+      "theme_accent_color": "-webkit-linear-gradient(#f2e06d,#c4b71a)",
+      "theme_accent_label_color": "#000000",
+      "text_color": "#000000"
+    },
+    "Yoyle Factory": {
+      "background_files": {
+        "Normal Factory": "Normal YoyleFactory.png",
+        "Abandonment": "Lights Out.png",
+        "Meltdown": "Meltdown.png",
+        "Out of Bounds": "Out of Bounds.png"
+      },
+      "background_size": "2700px",
+      "theme_accent_color": "-webkit-linear-gradient(#ff6f00,#b34700)",
+      "theme_accent_label_color": "#ffffff",
+      "text_color": "#000000"
+    },
+    "Classic Paradise": {
+      "background_file": "Classic Paradise.png",
+      "background_size": "2700px",
+      "theme_accent_color": "-webkit-linear-gradient(#ff5ed1,#b3008e)",
+      "theme_accent_label_color": "#ffffff",
+      "text_color": "#000000"
+    },
+    "Evil Forest": {
+      "background_file": "Evil Forest Sky.png",
+      "theme_accent_color": "-webkit-linear-gradient(#8e24aa,#4a0072)",
+      "theme_accent_label_color": "#ffffff",
+      "text_color": "#000000"
+    },
+    "Cherry Grove": {
+      "background_file": "Cherry Grove.png",
+      "theme_accent_color": "-webkit-linear-gradient(#896a2e,#cf973a)",
+      "theme_accent_label_color": "#ffffff",
+      "text_color": "#000000"
+    },
+    "Barren Desert": {
+      "background_file": "Barren_desert.png",
+      "theme_accent_color": "-webkit-linear-gradient(#ffb14a,#5b2d00)",
+      "theme_accent_label_color": "#000000",
+      "text_color": "#000000"
+    },
+    "Frozen World": {
+      "background_file": "Darkice.jpg",
+      "theme_accent_color": "-webkit-linear-gradient(#4dd0e1,#006064)",
+      "theme_accent_label_color": "#000000",
+      "text_color": "#000000"
+    },
+    "Timber Peaks": {
+      "background_file": "Timber Peaks.png",
+      "theme_accent_color": "-webkit-linear-gradient(#8bc34a,#33691e)",
+      "theme_accent_label_color": "#000000",
+      "text_color": "#000000"
+    },
+    "Midnight Rooftops": {
+      "background_file": "Midnight-rooftops.png",
+      "theme_accent_color": "-webkit-linear-gradient(#050522,#140f4a)",
+      "theme_accent_label_color": "#ffffff",
+      "text_color": "#000000"
+    },
+    "Magma Canyon": {
+      "background_file": "Magma Canyon.png",
+      "theme_accent_color": "-webkit-linear-gradient(#954116,#e93b14)",
+      "theme_accent_label_color": "#ffffff",
+      "text_color": "#000000"
+    },
+    "Sakura Serenity": {
+      "background_file": "Sakura Serenity.png",
+      "theme_accent_color": "-webkit-linear-gradient(#b56f8f,#8e4f5f)",
+      "theme_accent_label_color": "#ffffff",
+      "text_color": "#000000"
+    },
+    "Polluted Marshlands": {
+      "background_file": "Leak2.png",
+      "theme_accent_color": "-webkit-linear-gradient(#6e7f00,#c3d100)",
+      "theme_accent_label_color": "#000000",
+      "text_color": "#000000"
+    }
+  },
+  "object_template": {
+    "name": "Object Name",
+    "character_images": [
+      {
+        "filename": "image.png",
+        "caption": "Object Name"
+      }
+    ],
+    "difficulty": "[[File:Difficulty.png]] <span style=\"color:difficultycolor\">'''Difficulty'''</span>",
+    "area": "[[Area/Realm Name]]",
+    "hint": "description",
+    "previous_difficulties": [],
+    "info": "player input goes here",
+    "obtaining": "player input goes here",
+    "trivia": [],
+    "realm": "Main Realm",
+    "categories": [
+      "Objects",
+      "Difficulty Objects",
+      "Area Objects",
+      "Realm Name Objects"
+    ]
+  },
+  "example": {
+    "name": "American Flag",
+    "character_images": [
+      {
+        "filename": "American Flag New.png",
+        "caption": "American Flag New"
+      },
+      {
+        "filename": "American Flag.png",
+        "caption": "American Flag Old"
+      }
+    ],
+    "difficulty": "[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>",
+    "area": "[[City]]",
+    "hint": "this donut shop is america-certified. LAND OF THE FREEE BABY!!!!!!!!",
+    "previous_difficulties": [
+      "[[File:Event.png]] <span style=\"color:#DF81C2\">'''Event'''</span>",
+      "[[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>"
+    ],
+    "info": "This object is the flag of the USA",
+    "obtaining": "Above of the Donut Shop in [[City]]",
+    "trivia": [
+      "This used to be an Event object. It would be used to celebrate Independence Day(?)"
+    ],
+    "realm": "Main Realm",
+    "categories": [
+      "Objects",
+      "Effortless Objects",
+      "City Objects",
+      "Main Realm Objects"
+    ]
+  }
+}

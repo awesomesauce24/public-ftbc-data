@@ -1,0 +1,35 @@
+{
+  "parent_realm": "Main Realm",
+  "objects": [
+  {
+    "ObjectName": "Zomball",
+    "Difficulty": "strenuous",
+    "Description": "gargargargagarkgrgrgrga"
+  },
+  {
+    "ObjectName": "Zombified Coiny",
+    "Difficulty": "strenuous",
+    "Description": "grgrggrrrrrraggrggfa"
+  },
+  {
+    "ObjectName": "Zombified Snowball",
+    "Difficulty": "strenuous",
+    "Description": "grgfafaffgrgggrragr"
+  },
+  {
+    "ObjectName": "Zombified Conch Shell",
+    "Difficulty": "strenuous",
+    "Description": "grrgrgragggrgrrhra"
+  },
+  {
+    "ObjectName": "Zombified Two",
+    "Difficulty": "strenuous",
+    "Description": "grrgrgagrgghrgrrgagrgf"
+  },
+  {
+    "ObjectName": "Zombified Clapboard",
+    "Difficulty": "strenuous",
+    "Description": "grgrggaggghrrrgrgg"
+  }
+  ]
+}

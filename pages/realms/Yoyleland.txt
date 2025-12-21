@@ -1,0 +1,248 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:YoylelandBG.webp|2700px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.70); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+== How to enter ==
+{{Location|title=Yoyleland|image=[[File:Yoyleland.png]]}}
+Touch a purple bush in [[Goiky]], near [[Rubber Spatula]]
+
+== Info ==
+[[Yoyleland]] is a large city filled with tall buildings, strange terrain, and a massive purple hill.  
+A river cuts through the realm, containing several objects you can collect.
+
+== Objects ==
+=== Effortless ===
+{{ObjectDifficultyList
+|name = Effortless
+|icon = Effortless.png
+|color = #17a897
+|total = 8
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Boombox.png|[[File:Effortless.png|18px]] '''[[Boombox]]'''
+File:Eyes in the Dark.png|[[File:Effortless.png|18px]] '''[[Eyes in the Dark]]'''
+File:Hand-Powered Recovery Center.png|[[File:Effortless.png|18px]] '''[[Hand-Powered Recovery Center]]'''
+File:Ice Cream.png|[[File:Effortless.png|18px]] '''[[Ice Cream]]'''
+File:Ice Cube Jr..png|[[File:Effortless.png|18px]] '''[[Ice Cube Jr.]]'''
+File:Knife.png|[[File:Effortless.png|18px]] '''[[Knife]]'''
+File:Long Pencil.png|[[File:Effortless.png|18px]] '''[[Long Pencil]]'''
+File:Orange.png|[[File:Effortless.png|18px]] '''[[Orange]]'''
+</gallery>
+}}
+=== Easy ===
+{{ObjectDifficultyList
+|name = Easy
+|icon = Easy.png
+|color = #10da8d
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Grape.png|[[File:Easy.png|18px]] '''[[Grape]]'''
+File:Lewis.png|[[File:Easy.png|18px]] '''[[Lewis]]'''
+File:Lollipop Plush.png|[[File:Easy.png|18px]] '''[[Lollipop Plush]]'''
+File:Pandora Book.png|[[File:Easy.png|18px]] '''[[Pandora Book]]'''
+File:Swappy.png|[[File:Easy.png|18px]] '''[[Swappy]]'''
+File:Unpainted Gaty.png|[[File:Easy.png|18px]] '''[[Unpainted Gaty]]'''
+</gallery>
+}}
+=== Moderate ===
+{{ObjectDifficultyList
+|name = Moderate
+|icon = Moderate.png
+|color = #07fc55
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:A Tree.png|[[File:Moderate.png|18px]] '''[[A Tree]]'''
+File:Carrot Cake.png|[[File:Moderate.png|18px]] '''[[Carrot Cake]]'''
+File:Choo Choo The Train.png|[[File:Moderate.png|18px]] '''[[Choo Choo The Train]]'''
+File:Dreartop.png|[[File:Moderate.png|18px]] '''[[Dreartop]]'''
+File:Metal Ball.png|[[File:Moderate.png|18px]] '''[[Metal Ball]]'''
+File:Runner Up.png|[[File:Moderate.png|18px]] '''[[Runner Up]]'''
+</gallery>
+}}
+=== Normal ===
+{{ObjectDifficultyList
+|name = Normal
+|icon = Normal.png
+|color = #a1ff27
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Aloe Vera.png|[[File:Normal.png|18px]] '''[[Aloe Vera]]'''
+File:Blue Gelatin.png|[[File:Normal.png|18px]] '''[[Blue Gelatin]]'''
+File:Brownie.png|[[File:Normal.png|18px]] '''[[Brownie]]'''
+File:Stop Light.png|[[File:Normal.png|18px]] '''[[Stop Light]]'''
+</gallery>
+}}
+=== Intermediate ===
+{{ObjectDifficultyList
+|name = Intermediate
+|icon = Intermediate FTBC.png
+|color = #ffb700
+|total = 5
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Fish Cracker.png|[[File:Intermediate FTBC.png|18px]] '''[[Fish Cracker]]'''
+File:Lasery.png|[[File:Intermediate FTBC.png|18px]] '''[[Lasery]]'''
+File:Paragraph.png|[[File:Intermediate FTBC.png|18px]] '''[[Paragraph]]'''
+File:Sketchpad.png|[[File:Intermediate FTBC.png|18px]] '''[[Sketchpad]]'''
+File:Yoylelite.png|[[File:Intermediate FTBC.png|18px]] '''[[Yoylelite]]'''
+</gallery>
+}}
+=== Hard ===
+{{ObjectDifficultyList
+|name = Hard
+|icon = Hard.png
+|color = #FF7700
+|total = 7
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Beehive.png|[[File:Hard.png|18px]] '''[[Beehive]]'''
+File:Dragon Scale.png|[[File:Hard.png|18px]] '''[[Dragon Scale]]'''
+File:Pi.png|[[File:Hard.png|18px]] '''[[Pi]]'''
+File:Pill.png|[[File:Hard.png|18px]] '''[[Pill]]'''
+File:Shower.png|[[File:Hard.png|18px]] '''[[Shower]]'''
+File:Stabby.png|[[File:Hard.png|18px]] '''[[Stabby]]'''
+File:Yoyle Soda.png|[[File:Hard.png|18px]] '''[[Yoyle Soda]]'''
+</gallery>
+}}
+=== Difficult ===
+{{ObjectDifficultyList
+|name = Difficult
+|icon = Difficult.png
+|color = #f54f25
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Bicycle Wheel.png|[[File:Difficult.png|18px]] '''[[Bicycle Wheel]]'''
+File:Daffodil.png|[[File:Difficult.png|18px]] '''[[Daffodil]]'''
+File:Kennel.png|[[File:Difficult.png|18px]] '''[[Kennel]]'''
+File:Piano Key.png|[[File:Difficult.png|18px]] '''[[Piano Key]]'''
+</gallery>
+}}
+=== Extreme ===
+{{ObjectDifficultyList
+|name = Extreme
+|icon = Extreme.png
+|color = #ed2727
+|total = 5
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Evil Price Tag.png|[[File:Extreme.png|18px]] '''[[Evil Price Tag]]'''
+File:Ink Ball.png|[[File:Extreme.png|18px]] '''[[Ink Ball]]'''
+File:Poison Marker.png|[[File:Extreme.png|18px]] '''[[Poison Marker]]'''
+File:Robot Firey.png|[[File:Extreme.png|18px]] '''[[Robot Firey]]'''
+File:Swordy.png|[[File:Extreme.png|18px]] '''[[Swordy]]'''
+</gallery>
+}}
+=== Unforgiving ===
+{{ObjectDifficultyList
+|name = Unforgiving
+|icon = Unforgiving.png
+|color = #ff143f
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Bolf Gall.png|[[File:Unforgiving.png|18px]] '''[[Bolf Gall]]'''
+File:Match Box.png|[[File:Unforgiving.png|18px]] '''[[Match Box]]'''
+File:Paint Drop.png|[[File:Unforgiving.png|18px]] '''[[Paint Drop]]'''
+File:Robot Leafy.png|[[File:Unforgiving.png|18px]] '''[[Robot Leafy]]'''
+File:Squeaky Hammer.png|[[File:Unforgiving.png|18px]] '''[[Squeaky Hammer]]'''
+File:Wasabi.png|[[File:Unforgiving.png|18px]] '''[[Wasabi]]'''
+</gallery>
+}}
+=== Insane ===
+{{ObjectDifficultyList
+|name = Insane
+|icon = Insane.png
+|color = #ff1c95
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Frog Four.png|[[File:Insane.png|18px]] '''[[Frog Four]]'''
+File:Sky.png|[[File:Insane.png|18px]] '''[[Sky]]'''
+</gallery>
+}}
+=== Dreadful ===
+{{ObjectDifficultyList
+|name = Dreadful
+|icon = Dreadful.png
+|color = #db25ff
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:IV Bag.png|[[File:Dreadful.png|18px]] '''[[IV Bag]]'''
+File:Lipstick.png|[[File:Dreadful.png|18px]] '''[[Lipstick]]'''
+File:Mangosteen.png|[[File:Dreadful.png|18px]] '''[[Mangosteen]]'''
+File:Vacuum.png|[[File:Dreadful.png|18px]] '''[[Vacuum]]'''
+</gallery>
+}}
+=== Arduous ===
+{{ObjectDifficultyList
+|name = Arduous
+|icon = Arduous.png
+|color = #5d0cff
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:A BFDI.png|[[File:Arduous.png|18px]] '''[[A BFDI]]'''
+File:Spongezilla.png|[[File:Arduous.png|18px]] '''[[Spongezilla]]'''
+</gallery>
+}}
+=== Strenuous ===
+{{ObjectDifficultyList
+|name = Strenuous
+|icon = Strenuous.png
+|color = #4048e5
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Fax Machine.png|[[File:Strenuous.png|18px]] '''[[Fax Machine]]'''
+</gallery>
+}}
+=== Remorseless ===
+{{ObjectDifficultyList
+|name = Remorseless
+|icon = Remorseless.png
+|color = #2084ff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:A BFDIA.png|[[File:Remorseless.png|18px]] '''[[A BFDIA]]'''
+</gallery>
+}}
+=== Secrets ===
+{{ObjectDifficultyList
+|name = <span style="color:#ffd3ac; -webkit-text-stroke-width:1px; -webkit-text-stroke-color:#ffffff; font-size:32px; text-shadow:0 0 10px #ffffff">ꌗꍟꉓꋪꍟ꓄</span>
+|icon = SECRET.png
+|color = #FFD3AC
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+...what.webp|[[File:SECRET.png|18px]] '''[[Baguette from BOTO]]'''
+</gallery>
+}}
+
+=== Medallions ===
+{{ObjectDifficultyList
+|name = Medallions
+|icon = Medallion.png
+|color = #331900
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Yoyleland Medallion.png|[[File:Medallion.png|18px]] '''[[Yoyleland Medallion]]'''
+</gallery>
+}}
+
+
+== Music ==
+'''BFB OST – Night Mote (HQ)'''  
+[[File:BFB OST - Night Mote (HQ).mp3|thumb|600x600px|left]]
+
+[[Category:Realms]]
+
+</div>

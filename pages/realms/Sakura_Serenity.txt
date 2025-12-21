@@ -1,0 +1,120 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Sakura Serenity.png|2700px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.70); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+== How to enter ==
+{{Location|title=Sakura Serenity|image=[[File:Sakura Serenity.png]]}}
+Go to [[Cherry Grove]]. Find a hidden path behind where you spawn, Then do some parkour to the top of the building.
+
+== Info ==
+[[Sakura Serenity]] looks alot like Japan and has some japanese buildings and cherry trees. [[Cherry Grove]] is only about a few minutes away from [[Sakura Serenity]] as you can see it from [[Sakura Serenity]].
+
+== Objects ==
+{{ObjectDifficultyList
+|name = Hard
+|icon = Hard.png
+|color = #FF7700
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Bonsai.png|[[File:Hard.png|18px]] '''[[Bonsai]]'''
+File:Bugspray.png|[[File:Hard.png|18px]] '''[[Bugspray]]'''
+File:Grapefruit.png|[[File:Hard.png|18px]] '''[[Grapefruit]]'''
+File:K.png|[[File:Hard.png|18px]] '''[[k]]'''
+File:Planter.png|[[File:Hard.png|18px]] '''[[Planter]]'''
+File:Robot Saw.png|[[File:Hard.png|18px]] '''[[Robot Saw]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Extreme
+|icon = Extreme.png
+|color = #ed2727
+|total = 8
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Autumn Leaf.webp|[[File:Extreme.png|18px]] '''[[Autumn Leaf]]'''
+File:Bamboo.png|[[File:Extreme.png|18px]] '''[[Bamboo]]'''
+File:Bean Can.png|[[File:Extreme.png|18px]] '''[[Bean Can]]'''
+File:Butters.png|[[File:Extreme.png|18px]] '''[[Butters]]'''
+File:Horn.png|[[File:Extreme.png|18px]] '''[[Horn]]'''
+File:Locket.webp|[[File:Extreme.png|18px]] '''[[Locket]]'''
+File:Snickerdoodle.png|[[File:Extreme.png|18px]] '''[[Snickerdoodle]]'''
+File:Taiyaki.png|[[File:Extreme.png|18px]] '''[[Taiyaki]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Insane
+|icon = Insane.png
+|color = #FF1C95
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Chocolate Circle.png|[[File:Insane.png|18px]] '''[[Chocolate Circle]]'''
+File:Davidy.png|[[File:Insane.png|18px]] '''[[Davidy]]'''
+File:Humorous Hummus.png|[[File:Insane.png|18px]] '''[[Humorous Humus]]'''
+File:Plant.png|[[File:Insane.png|18px]] '''[[Plant]]'''
+File:Red Leaf.png|[[File:Insane.png|18px]] '''[[Red Leaf]]'''
+File:Spikey.png|[[File:Insane.png|18px]] '''[[Spikey]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Terrifying
+|icon = Terrifying.png
+|color = #8b17ff
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Non-Slip Shoes so Ha.png|[[File:Terrifying.png|18px]] '''[[Non-Slip Shoes so Ha]]'''
+File:oMg.png|[[File:Terrifying.png|18px]] '''[[oMg]]'''
+File:Red crayon who is also blue but probably isn't green.png|[[File:Terrifying.png|18px]] '''[[Red crayon who is also blue but probably isn't green]]'''
+File:Wildy.png|[[File:Terrifying.png|18px]] '''[[Wildy]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Strenuous
+|icon = Strenuous.png
+|color = #4048e5
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:?.png|[[File:Strenuous.png|18px]] '''[[?]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Remorseless
+|icon = Remorseless.png
+|color = #2084ff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Moon.png|[[File:Remorseless.png|18px]] '''[[Moon]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Medallion
+|icon = Medallion.png
+|color = #331900
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Sakura Serenity Medallion.png|[[File:Medallion.png|18px]] '''[[Sakura Serenity Medallion]]'''
+</gallery>
+}}
+
+== Music ==
+[https://create.roblox.com/store/asset/9047068959 Dick Walter - Japanese Tradition]
+[[Category:Realms]]

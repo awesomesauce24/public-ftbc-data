@@ -1,0 +1,168 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Level 153.png|2900px]]
+</div>
+<!-- Subtle static + vignette overlays -->
+<div style="opacity:0.05; pointer-events:none; position:fixed; z-index:3; top:0; left:0; right:0; bottom:0;">
+[[File:Staticbg.gif|1500px]]
+</div>
+<div style="opacity:0.06; pointer-events:none; position:fixed; z-index:2; top:0; left:0; right:0; bottom:0;">
+[[File:Level 153.png|1600px]]
+</div>
+
+{{DISPLAYTITLE:'''Level 153''': <span style="
+	font-family:Times New Roman;
+	background:linear-gradient(180deg,linen,#F1A176);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	text-shadow:0 0 5px linen,0 0 10px beige,0 0 15px #F1A176;
+	letter-spacing:2px;
+">'''''Antique Workspace'''''</span>}}
+__NOTOC__
+[[File:Vintage Office Building.mp3|left|thumb|150x150px]]
+<!-- GLOBAL TEXT STYLE WRAPPER -->
+<div style="
+	font-family:'Times New Roman',serif;
+	color:#ffffff;
+	text-shadow:0 0 3px rgba(0,0,0,0.9),0 0 6px rgba(0,0,0,0.8);
+	line-height:1.6;
+	letter-spacing:0.3px;
+">
+
+{{Zoneinfobox
+| title1 = Level 153
+| image1 = [[File:Level 153.png]]
+| caption1 = Antique Workspace
+| Objects = 12 + 1 Medallion
+| creator = [https://backrooms.fandom.com/wiki/Level_153 CanineAnnoyer]
+| average_difficulty = <span style="color:#8b17ff">'''Terrifying'''</span> [[File:Terrifying.png|frameless]]
+| bordering_zones = [[Level 4]]
+| realms = [[Backrooms]]
+| subzones = "A strange force prevents you from going further..."
+}}
+
+----
+
+== <span style="
+	background:linear-gradient(180deg,linen,#F1A176);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	text-shadow:0 0 8px #F1A176;
+	letter-spacing:2px;
+">Info</span> ==
+
+'''Level 153''', known as '''Antique Workspace''', is an office-themed sub-realm inspired by its Backrooms counterpart.  
+Sprint is disabled in this level.
+
+Upon entry, players experience light screen static and an increased field of view (FOV). The environment consists of dimly lit office rooms, outdated furniture, flickering lights, and malfunctioning electronics. The longer one remains inside, the more disorienting the atmosphere becomes. 
+
+----
+
+== <span style="
+	background:linear-gradient(180deg,linen,#F1A176);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	text-shadow:0 0 8px #F1A176;
+	letter-spacing:2px;
+">How to Enter</span> ==
+
+From [[Level 4]], walk all the way to the right upon entering the level and locate a translucent door.  
+Beyond it is an opaque door; to pass through, you must [[roblox-glitches:Dance_Clip|Dance Clip]] through it and descend a staircase leading to an exit door.
+
+====== Note ======
+There exists another door labeled “Exit” in [[Level 4]]. It does nothing.
+
+----
+
+== <span style="
+	background:linear-gradient(180deg,linen,#F1A176);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	text-shadow:0 0 8px #F1A176;
+	letter-spacing:2px;
+">Objects</span> ==
+
+
+{{ObjectDifficultyList
+|name = Dreadful
+|icon = Dreadful.png
+|color = #db25ff
+|total = 5
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Accordion.png|[[File:Dreadful.png|18px]] '''[[Accordion]]'''
+File:Civil Siren.png|[[File:Dreadful.png|18px]] '''[[Civil Siren]]'''
+File:Fermata.png|[[File:Dreadful.png|18px]] '''[[Fermata]]'''
+File:Karate Pot.png|[[File:Dreadful.png|18px]] '''[[Karate Pot]]'''
+File:Skateboard.png|[[File:Dreadful.png|18px]] '''[[Skateboard]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Terrifying
+|icon = Terrifying.png
+|color = #8b17ff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Cord.png|[[File:Terrifying.png|18px]] '''[[Cord]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Arduous
+|icon = Arduous.png
+|color = #5d0cff
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Fake Firey.png|[[File:Arduous.png|18px]] '''[[Fake Firey]]'''
+File:Wolfy.png|[[File:Arduous.png|18px]] '''[[Wolfy]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Strenuous
+|icon = Strenuous.png
+|color = #4048e5
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Galaxy Pillow.png|[[File:Strenuous.png|18px]] '''[[Galaxy Pillow]]'''
+File:Grandfather Clock.png|[[File:Strenuous.png|18px]] '''[[Grandfather Clock]]'''
+File:Metronome.png|[[File:Strenuous.png|18px]] '''[[Metronome]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Remorseless
+|icon = Remorseless.png
+|color = #2084ff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Obelus.png|[[File:Remorseless.png|18px]] '''[[Obelus]]'''
+</gallery>
+
+
+}}
+{{ObjectDifficultyList
+|name = Medallion
+|icon = Medallion.png
+|color = #331900
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Behindsquares trophy 2.png|[[File:Medallion.png|18px]] '''[[The Backrooms Medallion]]'''
+</gallery>
+}}
+
+----
+
+[[Category:Sub-Realms]]
+[[Category:Backrooms Levels]]
+
+</div>

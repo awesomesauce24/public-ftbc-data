@@ -1,0 +1,136 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Timber Peaks.png|2700px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.70); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+{{Location|title=Timber Peaks|image=[[File:Timber Peaks.png]]}}
+
+== How to enter ==
+Climb [[Bell]]'s string at [[Goiky]]. Then jump to the clouds. Go straight from [[Puffball]].
+
+== Info ==
+Timber Peaks is a autumn mountain high above the clouds. Similar to [[Classic Paradise]], almost the entire place is studded. To get to the top of the mountain, there will be an obby near spawn which will lead you to the top.
+
+== Objects ==
+
+
+{{ObjectDifficultyList
+|name = Difficult
+|icon = Difficult.png
+|color = #f54f25
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Peanut Butter Jar.png|[[File:Difficult.png|18px]] '''[[Peanut Butter Jar]]'''
+File:S'mores.webp|[[File:Difficult.png|18px]] '''[[S'mores]]'''
+File:Vasey.webp|[[File:Difficult.png|18px]] '''[[Vasey]]'''
+File:Wasabi Chips.webp|[[File:Difficult.png|18px]] '''[[Wasabi Chips]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Extreme
+|icon = Extreme.png
+|color = #ed2727
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Biscuit.webp|[[File:Extreme.png|18px]] '''[[Biscuit]]'''
+File:Cough Drop.webp|[[File:Extreme.png|18px]] '''[[Cough Drop]]'''
+File:Dough.webp|[[File:Extreme.png|18px]] '''[[Dough]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Unforgiving
+|icon = Unforgiving.png
+|color = #ff143f
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Algodoo Marble.png|[[File:Unforgiving.png|18px]] '''[[Algodoo Marble]]'''
+File:Chips.png|[[File:Unforgiving.png|18px]] '''[[Chips]]'''
+File:Frog.png|[[File:Unforgiving.png|18px]] '''[[Frog]]'''
+File:Yoyle Spoon.webp|[[File:Unforgiving.png|18px]] '''[[Yoyle Spoon]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Insane
+|icon = Insane.png
+|color = #FF1C95
+|total = 5
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Mous. V.webp|[[File:Insane.png|18px]] '''[[Mous. V]]'''
+File:Square Root.png|[[File:Insane.png|18px]] '''[[Square Root]]'''
+File:Stump.png|[[File:Insane.png|18px]] '''[[Stump]]'''
+File:Thermometer.png|[[File:Insane.png|18px]] '''[[Thermometer]]'''
+File:Vinyl Record.png|[[File:Insane.png|18px]] '''[[Vinyl Record]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Dreadful
+|icon = Dreadful.png
+|color = #db25ff
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Candle.png|[[File:Dreadful.png|18px]] '''[[Candle]]'''
+File:Cheeseburger.png|[[File:Dreadful.png|18px]] '''[[Cheese Burger]]'''
+File:Spammy.png|[[File:Dreadful.png|18px]] '''[[Spammy]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Terrifying
+|icon = Terrifying.png
+|color = #8b17ff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Network Cable Tester.png|[[File:Terrifying.png|18px]] '''[[Network Cable Tester]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Arduous
+|icon = Arduous.png
+|color = #5d0cff
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Dot.png|[[File:Arduous.png|18px]] '''[[Dot]]'''
+File:Nutty.png|[[File:Arduous.png|18px]] '''[[Nutty]]'''
+File:PUMPKIN 2.0.png|[[File:Arduous.png|18px]] '''[[PUMPKIN 2.0]]'''
+File:Virus.png|[[File:Arduous.png|18px]] '''[[Virus]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Medallion
+|icon = Medallion.png
+|color = #331900
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Timber Peaks Medallion.png|[[File:Medallion.png|18px]] '''[[Timber Peaks Medallion]]'''
+</gallery>
+}}
+
+
+== Music ==
+Flood Escape 2 OST - Eerie Peaks
+[[File:Flood Escape 2 OST Eerie Peaks.mp3|left|thumb|601x601px]]
+
+<br>
+
+[[Category:Realms]]

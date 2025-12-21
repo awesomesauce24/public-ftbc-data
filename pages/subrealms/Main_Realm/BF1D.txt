@@ -1,0 +1,73 @@
+<div style="background:rgba(0,0,0,0.70); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+{{Location|title=BF1D|image=[[File:BF1DIcon.png]]}}
+
+== Info ==
+[[BF1D]]Is a small, strange island where everything is red. The objects here vary a lot from the theme, but some have bfid in the name like [[BF1D Carrot]] and [[BF1D Ball]]. all objects in this realm were made by [[Clux]] (with the exception of [[THE Bot]]) additionally, this realm released during one of the games many hiatuses. This realm also had a secret object, which was the previous mentioned [[THE Bot]], but it was removed as it was not meant to be obtained as early as it was.
+
+== How to enter ==
+Go to the castle in [[Classic Roblox]] and find a red cube, if you hold E on the prompt you will get teleported to this realm.
+
+== Objects ==
+
+=== Easy ===
+
+{{ObjectDifficultyList
+|name = Easy
+|icon = Easy.png
+|color = #10da8d
+|total = 5
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:BF1D Carrot.png|[[File:Easy.png|18px]] '''[[BF1D Carrot]]'''
+File:Postcard.png|[[File:Easy.png|18px]] '''[[Postcard]]'''
+File:Ring.png|[[File:Easy.png|18px]] '''[[Ring]]'''
+File:Stickman.png|[[File:Easy.png|18px]] '''[[Stickman]]'''
+File:Stocking.png|[[File:Easy.png|18px]] '''[[Stocking]]'''
+</gallery>
+}}
+
+=== Normal ===
+
+{{ObjectDifficultyList
+|name = Normal
+|icon = Normal.png
+|color = #a1ff27
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Flag.png|[[File:Normal.png|18px]] '''[[Flag]]'''
+File:Leaf.png|[[File:Normal.png|18px]] '''[[Leaf]]'''
+</gallery>
+}}
+
+=== Hard ===
+
+{{ObjectDifficultyList
+|name = Hard
+|icon = Hard.png
+|color = #FF7700
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:BF1DBall.png|[[File:Hard.png|18px]] '''[[BF1D Ball]]'''
+File:Puddle.png|[[File:Hard.png|18px]] '''[[Puddle]]'''
+</gallery>
+}}
+
+== Music ==
+
+TBA
+
+== Trivia ==
+
+* The fake skybox does not have collision, allowing you to fly though it via frog jumping.
+** This was what led players to find [[THE Bot]] early.
+* The reason [[BF1D Carrot]] and [[BF1D Ball]] have [[BF1D]] Before their names is likely because objects named [[Carrot]] and [[Ball]] Respectively already exist.
+* When [[BF1D]] Released, [[Puddle]] was impossible to get the intended way as the water still had collision on, people still managed to get it with this bug by frog jumping up high then tab glitching into the solid water.
+* This subrealm has the second most [[Objects]], only being beat by [[Basement]].
+* This is the only subrealm in the game to give you a badge for getting every object.
+
+[[Category:Realms]]
+[[Category:Sub-Realms]]
+[[Category:BF1D]]

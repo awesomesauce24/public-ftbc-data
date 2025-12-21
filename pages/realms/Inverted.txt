@@ -1,0 +1,188 @@
+<!-- Background -->
+<div style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0; overflow:hidden;">
+[[File:Inverted-realm-image.png|2500px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.7); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+== How to enter ==
+{{Location
+ |title=Inverted Realm
+ |image=[[File:Inverted-realm-image.png|Inverted Realm]]
+}}
+
+First, go to where [[Blue Shiny Coiny]] is, at Spawn.
+
+Next, go to the left corner.  
+
+Finally, jump down and touch the miscolored area.
+
+== Info ==
+[[Inverted]] is an upside down version of the [[Main Realm]], with most textures now rusted and decaying.
+
+== Objects ==
+=== Hard ===
+{{ObjectDifficultyList
+|name = Hard
+|icon = Hard.png
+|color = #FF7700
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:pen pog.png|[[File:Hard.png|18px]] '''[[Pen Pog]]'''
+File:Penny.png|[[File:Hard.png|18px]] '''[[Penny]]'''
+File:Robot Loser.png|[[File:Hard.png|18px]] '''[[Robot Loser]]'''
+File:VR Headset.png|[[File:Hard.png|18px]] '''[[VR Headset]]'''
+</gallery>
+}}
+
+=== Difficult ===
+{{ObjectDifficultyList
+|name = Difficult
+|icon = Difficult.png
+|color = #f54f25
+|total = 15
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Box.png|[[File:Difficult.png|18px]] '''[[Box]]'''
+File:Box of Free Puppies.png|[[File:Difficult.png|18px]] '''[[Box of Free Puppies]]'''
+File:Coffin.png|[[File:Difficult.png|18px]] '''[[Coffin]]'''
+File:Elevator.png|[[File:Difficult.png|18px]] '''[[Elevator]]'''
+File:Folder.png|[[File:Difficult.png|18px]] '''[[Folder]]'''
+File:Friesland.png|[[File:Difficult.png|18px]] '''[[Friesland]]'''
+File:Liberty Bell.png|[[File:Difficult.png|18px]] '''[[Liberty Bell]]'''
+File:Mango.png|[[File:Difficult.png|18px]] '''[[Mango]]'''
+File:Meester Tweester.png|[[File:Difficult.png|18px]] '''[[Meester Tweester]]'''
+File:Pomegranatey.png|[[File:Difficult.png|18px]] '''[[Pomegranatey]]'''
+File:Red Balloony.png|[[File:Difficult.png|18px]] '''[[Red Balloony]]'''
+File:Scarfy.png|[[File:Difficult.png|18px]] '''[[Scarfy]]'''
+File:Slingshot.png|[[File:Difficult.png|18px]] '''[[Slingshot]]'''
+File:Toxic Mushroom.png|[[File:Difficult.png|18px]] '''[[Toxic Mushroom]]'''
+File:Zero Dollar Bill.png|[[File:Difficult.png|18px]] '''[[Zero Dollar Bill]]'''
+</gallery>
+}}
+
+=== Extreme ===
+{{ObjectDifficultyList
+|name = Extreme
+|icon = Extreme.png
+|color = #ed2727
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Cube.png|[[File:Extreme.png|18px]] '''[[Cube]]'''
+File:Jello.png|[[File:Extreme.png|18px]] '''[[Jello]]'''
+File:Pink Cary.png|[[File:Extreme.png|18px]] '''[[Pink Cary]]'''
+File:Ribbon.png|[[File:Extreme.png|18px]] '''[[Ribbon]]'''
+File:Specimum Sandwich.png|[[File:Extreme.png|18px]] '''[[Specimum Sandwich]]'''
+File:Yellow Pancake.png|[[File:Extreme.png|18px]] '''[[Yellow Pancake]]'''
+</gallery>
+}}
+=== Unforgiving ===
+{{ObjectDifficultyList
+|name = Unforgiving
+|icon = Unforgiving.png
+|color = #ff143f
+|total = 9
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Backpack.png|[[File:Unforgiving.png|18px]] '''[[Backpack]]'''
+File:Gramophone.png|[[File:Unforgiving.png|18px]] '''[[Gramophone]]'''
+File:Max.png|[[File:Unforgiving.png|18px]] '''[[Max]]'''
+File:Mouse Trap.png|[[File:Unforgiving.png|18px]] '''[[Mouse Trap]]'''
+File:Obsidian sis.webp|[[File:Unforgiving.png|18px]] '''[[Obsidian]]'''
+File:Pesticide.png|[[File:Unforgiving.png|18px]] '''[[Pesticide]]'''
+File:Sickle.png|[[File:Unforgiving.png|18px]] '''[[Sickle]]'''
+File:Steel Drum.png|[[File:Unforgiving.png|18px]] '''[[Steel Drum]]'''
+File:Stringy.png|[[File:Unforgiving.png|18px]] '''[[Stringy]]'''
+</gallery>
+}}
+
+=== Insane ===
+{{ObjectDifficultyList
+|name = Insane
+|icon = Insane.png
+|color = #ff1c95
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:City of LAy.png|[[File:Insane.png|18px]] '''[[City of LAy]]'''
+File:Frame.png|[[File:Insane.png|18px]] '''[[Frame]]'''
+File:Hyper.png|[[File:Insane.png|18px]] '''[[Hyper]]'''
+File:Ink.png|[[File:Insane.png|18px]] '''[[Ink]]'''
+File:Ottoman.png|[[File:Insane.png|18px]] '''[[Ottoman]]'''
+File:Toothbrush.png|[[File:Insane.png|18px]] '''[[Toothbrush]]'''
+</gallery>
+}}
+=== Dreadful ===
+{{ObjectDifficultyList
+|name = Dreadful
+|icon = Dreadful.png
+|color = #db25ff
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Demon Ball.png|[[File:Dreadful.png|18px]] '''[[Demon Ball]]'''
+File:Gold Block.png|[[File:Dreadful.png|18px]] '''[[Gold Block]]'''
+File:Jabuticaba.png|[[File:Dreadful.png|18px]] '''[[Jabuticaba]]'''
+File:Piece of Glass New.png|[[File:Dreadful.png|18px]] '''[[Piece of Glass]]'''
+File:Princess Flower.png|[[File:Dreadful.png|18px]] '''[[Princess Flower]]'''
+File:Toxic Bomb.png|[[File:Dreadful.png|18px]] '''[[Toxic Bomb]]'''
+</gallery>
+}}
+
+=== Terrifying ===
+{{ObjectDifficultyList
+|name = Terrifying
+|icon = Terrifying.png
+|color = #8b17ff
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Checkered Flag.png|[[File:Terrifying.png|18px]] '''[[Checkered Flag]]'''
+File:Geocache.png|[[File:Terrifying.png|18px]] '''[[Geocache]]'''
+File:Loading Object.png|[[File:Terrifying.png|18px]] '''[[Loading Object]]'''
+</gallery>
+}}
+
+=== Arduous ===
+{{ObjectDifficultyList
+|name = Arduous
+|icon = Arduous.png
+|color = #5d0cff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Desert Pillar.png|[[File:Arduous.png|18px]] '''[[Desert Pillar]]'''
+</gallery>
+}}
+=== Secrets ===
+{{ObjectDifficultyList
+|name = <span style="color:#ffd3ac; -webkit-text-stroke-width:1px; -webkit-text-stroke-color:#ffffff; font-size:32px; text-shadow:0 0 10px #ffffff">ꌗꍟꉓꋪꍟ꓄</span>
+|icon = SECRET.png
+|color = #FFD3AC
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Aspen Tree.png|[[File:SECRET.png|18px]] '''[[Aspen Tree]]'''
+</gallery>
+}}
+=== Medallions ===
+{{ObjectDifficultyList
+|name = Medallions
+|icon = Medallion.png
+|color = #331900
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:NoilladeM (Inverted Realm Medallion).webp|[[File:Medallion.png|18px]] '''[[Inverted Realm Medallion]]'''
+</gallery>
+}}
+
+
+== Music ==
+Pizza Tower OST – Tombstone Arizona (Wasteyard)  
+[[File:Pizza Tower OST Tombstone Arizona Wasteyard.mp3|thumb|600x600px|left]]
+
+[[Category:Realms]]
+</div>

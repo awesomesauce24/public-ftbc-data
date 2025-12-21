@@ -1,0 +1,8 @@
+==How to enter==
+{{Location|title=RUN|image=[[File:RUN.png||run]]|location=}}You have to enter a code. The code is {{Spoiler|text=/e 1004101914126.}}
+== Info ==
+In this realm, you have to reach the end in 200 seconds. If you're too slow, you'll get kicked. Once you reach the end, you'll get teleported to another realm where {{Spoiler|text=This Monstrosity}} is.
+
+== Music ==
+'''Pizza Tower OST - Thousand March (WAR)'''[[File:Pizza Tower OST Thousand March WAR.mp3|thumb|599x599px|left]]
+[[Category:Sub-Realms]]

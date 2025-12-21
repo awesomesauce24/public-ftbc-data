@@ -1,0 +1,41 @@
+{
+  "parent_realm": "Main Realm",
+  "parent_subrealm": "Classic Roblox",
+  "objects": [
+  {
+    "ObjectName": "BF1D Carrot",
+    "Difficulty": "Easy",
+    "Description": "Hidden in BF1D. Start at Classic Roblox"
+  },
+  {
+    "ObjectName": "Postcard",
+    "Difficulty": "Easy",
+    "Description": "Hidden in BF1D. Start at Classic Roblox"
+  },
+  {
+    "ObjectName": "Ring",
+    "Difficulty": "Easy",
+    "Description": "Hidden in BF1D. Start at Classic Roblox"
+  },
+  {
+    "ObjectName": "Flag",
+    "Difficulty": "Normal",
+    "Description": "Hidden in BF1D. Start at Classic Roblox"
+  },
+  {
+    "ObjectName": "Leaf",
+    "Difficulty": "Normal",
+    "Description": "Hidden in BF1D. Start at Classic Roblox"
+  },
+  {
+    "ObjectName": "BF1D Ball",
+    "Difficulty": "Hard",
+    "Description": "Hidden in BF1D. Start at Classic Roblox"
+  },
+  {
+    "ObjectName": "Puddle",
+    "Difficulty": "Hard",
+    "Description": "Hidden in BF1D. Start at Classic Roblox"
+  }
+  ]
+}

@@ -1,0 +1,121 @@
+<!-- Background -->
+<div style="position:fixed; z-index:-1; top:1; left:0; right:0; bottom:0; overflow:hidden;">
+[[File:Magma Canyon.png|1500px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.7); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+== How to enter ==
+{{Location
+ |title=Magma Canyon
+ |image=[[File:Magma Canyon.png]]
+}}
+
+Go to [[Barren Desert]] and reach [[Sierpinski]]’s obby.  
+After completing the first wrap-around, look beneath the platform. There will be an image of Magma Canyon.  
+Touch it to teleport into the realm.
+
+== Info ==
+[[Magma Canyon]] is a burning, carrot-filled lava world with large mounds of scorched terrain.  
+Several structures from [[Midnight Rooftops]], including cranes, can also be seen partially sunken into the molten landscape.
+
+== Objects ==
+
+{{ObjectDifficultyList
+|name = Normal
+|icon = Normal.png
+|color = #a1ff27
+|total = 5
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Bababa.png|[[File:Normal.png|18px]] '''[[Bababa]]'''
+File:Block Party.png|[[File:Normal.png|18px]] '''[[Block Party]]'''
+File:Gas Canister.webp|[[File:Normal.png|18px]] '''[[Gas Canister]]'''
+File:Spongy's Mother.png|[[File:Normal.png|18px]] '''[[Spongy's Mother]]'''
+File:Turkey.png|[[File:Normal.png|18px]] '''[[Turkey]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Hard
+|icon = Hard.png
+|color = #FF7700
+|total = 5
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Flour.png|[[File:Hard.png|18px]] '''[[Flour]]'''
+File:Mr. Feet.png|[[File:Hard.png|18px]] '''[[Mr. Feet]]'''
+File:Pizza.webp|[[File:Hard.png|18px]] '''[[Pizza]]'''
+File:Shoe.png|[[File:Hard.png|18px]] '''[[Shoe]]'''
+File:wax slitly weathered cut copper stairs.png|[[File:Hard.png|18px]] '''[[wax slitly weathered cut copper stairs]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Extreme
+|icon = Extreme.png
+|color = #ed2727
+|total = 5
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Meatball.png|[[File:Extreme.png|18px]] '''[[Meatball]]'''
+File:Na.png|[[File:Extreme.png|18px]] '''[[Na]]'''
+File:refsbcj.png|[[File:Extreme.png|18px]] '''[[refsbcj]]'''
+File:Robot Puppet.png|[[File:Extreme.png|18px]] '''[[Robot Puppet]]'''
+File:Shrimp Tempura.png|[[File:Extreme.png|18px]] '''[[Shrimp Tempura]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Insane
+|icon = Insane.png
+|color = #FF1C95
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:ca2.png|[[File:Insane.png|18px]] '''[[ca2]]'''
+File:Cardy.png|[[File:Insane.png|18px]] '''[[Cardy]]'''
+File:Erlenmeyer.png|[[File:Insane.png|18px]] '''[[Erlenmeyer]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Strenuous
+|icon = Strenuous.png
+|color = #4048e5
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Dynamite(MagmaCanyon).png|[[File:Strenuous.png|18px]] '''[[Dynamite]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Medallion
+|icon = Medallion.png
+|color = #331900
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Magma Canyon Medallion.png|[[File:Medallion.png|18px]] '''[[Magma Canyon Medallion]]'''
+</gallery>
+}}
+
+== Trivia ==
+*This realm was the thumbnail for the Temporal Shutdown after [[Midnight Rooftops]] released.  
+*No objects in this realm have built-in hints, making Magma Canyon a unique gimmick realm.
+
+== Music ==
+Carrot Canyon Act 1 – Sonic Euphoria OST  
+[[File:Carrot Canyon Act 1 Sonic Euphoria OST.mp3|left|thumb|599x599px]]
+
+<br>
+
+[[Category:Realms]]
+
+</div>

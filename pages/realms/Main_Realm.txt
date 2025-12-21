@@ -1,0 +1,788 @@
+<div style="
+	--theme-accent-color: -webkit-linear-gradient(#23bd1c,#188a13);
+	--theme-accent-label-color: #ffffff;
+	color:#000000;
+">
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Main Realm Sky.webp|2900px]]
+</div>
+
+== Objects ==
+
+{{ObjectDifficultyList
+|name = Effortless
+|icon = Effortless.png
+|color = #17a897
+|total = 84
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:American Flag.png|[[File:Effortless.png|18px]] '''[[American Flag]]'''
+File:Anchor.png|[[File:Effortless.png|18px]] '''[[Anchor]]'''
+File:Bacon.png|[[File:Effortless.png|18px]] '''[[Bacon]]'''
+File:Barbecue Sauce.png|[[File:Effortless.png|18px]] '''[[Barbecue Sauce]]'''
+File:Basketball.png|[[File:Effortless.png|18px]] '''[[Basketball]]'''
+File:Bell.png|[[File:Effortless.png|18px]] '''[[Bell]]'''
+File:Big Nickel.png|[[File:Effortless.png|18px]] '''[[Big Nickel]]'''
+File:Birthday Cake.png|[[File:Effortless.png|18px]] '''[[Birthday Cake]]'''
+File:Bomby.png|[[File:Effortless.png|18px]] '''[[Bomby]]'''
+File:Book.png|[[File:Effortless.png|18px]] '''[[Book]]'''
+File:Burrito.png|[[File:Effortless.png|18px]] '''[[Burrito]]'''
+File:Bushy.png|[[File:Effortless.png|18px]] '''[[Bushy]]'''
+File:Cactus.png|[[File:Effortless.png|18px]] '''[[Cactus]]'''
+File:Camera.png|[[File:Effortless.png|18px]] '''[[Camera]]'''
+File:Cereal Box.png|[[File:Effortless.png|18px]] '''[[Cereal Box]]'''
+File:Chalk.png|[[File:Effortless.png|18px]] '''[[Chalk]]'''
+File:Christmas Tree.png|[[File:Effortless.png|18px]] '''[[Christmas Tree]]'''
+File:Clock.png|[[File:Effortless.png|18px]] '''[[Clock]]'''
+File:Cream Cookie.png|[[File:Effortless.png|18px]] '''[[Cream Cookie]]'''
+File:Diploma.png|[[File:Effortless.png|18px]] '''[[Diploma]]'''
+File:Eight.png|[[File:Effortless.png|18px]] '''[[Eight]]'''
+File:Evil Leafy.png|[[File:Effortless.png|18px]] '''[[Evil Leafy]]'''
+File:Fairy Floss.png|[[File:Effortless.png|18px]] '''[[Fairy Floss]]'''
+File:Fanny.png|[[File:Effortless.png|18px]] '''[[Fanny]]'''
+File:Fifteen.png|[[File:Effortless.png|18px]] '''[[Fifteen]]'''
+File:Firey.png|[[File:Effortless.png|18px]] '''[[Firey]]'''
+File:First Aid Kit.png|[[File:Effortless.png|18px]] '''[[First Aid Kit]]'''
+File:Fishy.png|[[File:Effortless.png|18px]] '''[[Fishy]]'''
+File:Fish Monster.png|[[File:Effortless.png|18px]] '''[[Fish Monster]]'''
+File:Five.png|[[File:Effortless.png|18px]] '''[[Five]]'''
+File:Flower.png|[[File:Effortless.png|18px]] '''[[Flower]]'''
+File:Flower Cake.png|[[File:Effortless.png|18px]] '''[[Flower Cake]]'''
+File:Flower Jr..png|[[File:Effortless.png|18px]] '''[[Flower Jr.]]'''
+File:Fries.png|[[File:Effortless.png|18px]] '''[[Fries]]'''
+File:Fruit Cake.png|[[File:Effortless.png|18px]] '''[[Fruit Cake]]'''
+File:Funny Plant.png|[[File:Effortless.png|18px]] '''[[Funny Plant]]'''
+File:Gaty.png|[[File:Effortless.png|18px]] '''[[Gaty]]'''
+File:Gelatin.png|[[File:Effortless.png|18px]] '''[[Gelatin]]'''
+File:Golf Ball.png|[[File:Effortless.png|18px]] '''[[Golf Ball]]'''
+File:Grassy.png|[[File:Effortless.png|18px]] '''[[Grassy]]'''
+File:Hot Cocoa.png|[[File:Effortless.png|18px]] '''[[Hot Cocoa]]'''
+File:Icey.png|[[File:Effortless.png|18px]] '''[[Icey]]'''
+File:Ice Woody.png|[[File:Effortless.png|18px]] '''[[Ice Woody]]'''
+File:Jaiden.png|[[File:Effortless.png|18px]] '''[[Jaiden]]'''
+File:Leafy.png|[[File:Effortless.png|18px]] '''[[Leafy]]'''
+File:Lotus Flower.png|[[File:Effortless.png|18px]] '''[[Lotus Flower]]'''
+File:Marble Bottle.png|[[File:Effortless.png|18px]] '''[[Marble Bottle]]'''
+File:Marker.png|[[File:Effortless.png|18px]] '''[[Marker]]'''
+File:Match.png|[[File:Effortless.png|18px]] '''[[Match]]'''
+File:Milli.png|[[File:Effortless.png|18px]] '''[[Milli]]'''
+File:Mortar.png|[[File:Effortless.png|18px]] '''[[Mortar]]'''
+File:Naily.png|[[File:Effortless.png|18px]] '''[[Naily]]'''
+File:Noodle Cup.png|[[File:Effortless.png|18px]] '''[[Noodle Cup]]'''
+File:PaintyBook.png|[[File:Effortless.png|18px]] '''[[PaintyBook]]'''
+File:Pillow.png|[[File:Effortless.png|18px]] '''[[Pillow]]'''
+File:Pin.png|[[File:Effortless.png|18px]] '''[[Pin]]'''
+File:Piñata.png|[[File:Effortless.png|18px]] '''[[Piñata]]'''
+File:Pineapple.png|[[File:Effortless.png|18px]] '''[[Pineapple]]'''
+File:Pistachio.png|[[File:Effortless.png|18px]] '''[[Pistachio]]'''
+File:Prince Circle.png|[[File:Effortless.png|18px]] '''[[Prince Circle]]'''
+File:Pumpkin.png|[[File:Effortless.png|18px]] '''[[Pumpkin]]'''
+File:Purple Girl with Wind Hair and Angry Eyes.png|[[File:Effortless.png|18px]] '''[[Purple Girl with Wind Hair and Angry Eyes]]'''
+File:Robot Teardrop.png|[[File:Effortless.png|18px]] '''[[Robot Teardrop]]'''
+File:RTCI Cast.png|[[File:Effortless.png|18px]] '''[[RTCI Cast]]'''
+File:Rusty Coin.png|[[File:Effortless.png|18px]] '''[[Rusty Coin]]'''
+File:Sandcastle.png|[[File:Effortless.png|18px]] '''[[Sandcastle]]'''
+File:Saw.png|[[File:Effortless.png|18px]] '''[[Saw]]'''
+File:Scissors.png|[[File:Effortless.png|18px]] '''[[Scissors]]'''
+File:Selfie Dog.png|[[File:Effortless.png|18px]] '''[[Selfie Dog]]'''
+File:Shopping Cart.png|[[File:Effortless.png|18px]] '''[[Shopping Cart]]'''
+File:Snare Drum.png|[[File:Effortless.png|18px]] '''[[Snare Drum]]'''
+File:Snowman.png|[[File:Effortless.png|18px]] '''[[Snowman]]'''
+File:Sotp Sign.png|[[File:Effortless.png|18px]] '''[[Sotp Sign]]'''
+File:Stapy.png|[[File:Effortless.png|18px]] '''[[Stapy]]'''
+File:Strawberry.png|[[File:Effortless.png|18px]] '''[[Strawberry]]'''
+File:Ten.png|[[File:Effortless.png|18px]] '''[[Ten]]'''
+File:Tent.png|[[File:Effortless.png|18px]] '''[[Tent]]'''
+File:Three.png|[[File:Effortless.png|18px]] '''[[Three]]'''
+File:Traffic Cone.png|[[File:Effortless.png|18px]] '''[[Traffic Cone]]'''
+File:Tree.png|[[File:Effortless.png|18px]] '''[[Tree]]'''
+File:Trombone.png|[[File:Effortless.png|18px]] '''[[Trombone]]'''
+File:Vote.png|[[File:Effortless.png|18px]] '''[[Vote]]'''
+File:Water Bottle.png|[[File:Effortless.png|18px]] '''[[Water Bottle]]'''
+File:Woody.png|[[File:Effortless.png|18px]] '''[[Woody]]'''
+File:X the Arcade Machine.png|[[File:Effortless.png|18px]] '''[[X the Arcade Machine]]'''
+File:Zero.png|[[File:Effortless.png|18px]] '''[[Zero]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+{{ObjectDifficultyList
+|name = Easy
+|icon = Easy.png
+|color = #10da8d
+|total = 60
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:8 Inch Floppy Disk.png|[[File:Easy.png|18px]] '''[[8 Inch Floppy Disk]]'''
+File:Advocado.png|[[File:Easy.png|18px]] '''[[Advocado]]'''
+File:Announcer.png|[[File:Easy.png|18px]] '''[[Announcer]]'''
+File:Apple.png|[[File:Easy.png|18px]] '''[[Apple]]'''
+File:Arron.png|[[File:Easy.png|18px]] '''[[Arron]]'''
+File:Atom.png|[[File:Easy.png|18px]] '''[[Atom]]'''
+File:Baby.png|[[File:Easy.png|18px]] '''[[Baby]]'''
+File:Banana Apple.png|[[File:Easy.png|18px]] '''[[Banana Apple]]'''
+File:Barry.png|[[File:Easy.png|18px]] '''[[Barry]]'''
+File:Birdhouse.png|[[File:Easy.png|18px]] '''[[Birdhouse]]'''
+File:Bozo.png|[[File:Easy.png|18px]] '''[[Bozo]]'''
+File:Car Door.png|[[File:Easy.png|18px]] '''[[Car Door]]'''
+File:Clown Car.png|[[File:Easy.png|18px]] '''[[Clown Car]]'''
+File:Club.png|[[File:Easy.png|18px]] '''[[Club]]'''
+File:Conch Shell.png|[[File:Easy.png|18px]] '''[[Conch Shell]]'''
+File:Cookie.png|[[File:Easy.png|18px]] '''[[Cookie]]'''
+File:Crayon.png|[[File:Easy.png|18px]] '''[[Crayon]]'''
+File:Dane.png|[[File:Easy.png|18px]] '''[[Dane]]'''
+File:Dime.png|[[File:Easy.png|18px]] '''[[Dime]]'''
+File:Discy.png|[[File:Easy.png|18px]] '''[[Discy]]'''
+File:Donut.png|[[File:Easy.png|18px]] '''[[Donut]]'''
+File:Euro.png|[[File:Easy.png|18px]] '''[[Euro]]'''
+File:Evil Marker.png|[[File:Easy.png|18px]] '''[[Evil Marker]]'''
+File:Fire Citrus.png|[[File:Easy.png|18px]] '''[[Fire Citrus]]'''
+File:Fish.png|[[File:Easy.png|18px]] '''[[Fish]]'''
+File:Fork Repellenty.png|[[File:Easy.png|18px]] '''[[Fork Repellenty]]'''
+File:Greeny.png|[[File:Easy.png|18px]] '''[[Greeny]]'''
+File:Hole in the Wall.png|[[File:Easy.png|18px]] '''[[Hole in the Wall]]'''
+File:Jetpacky.png|[[File:Easy.png|18px]] '''[[Jetpacky]]'''
+File:Konpeito Jar.png|[[File:Easy.png|18px]] '''[[Konpeito Jar]]'''
+File:Lamp Post.png|[[File:Easy.png|18px]] '''[[Lamp Post]]'''
+File:Lightning Cherry.png|[[File:Easy.png|18px]] '''[[Lightning Cherry]]'''
+File:Limbless Pin.png|[[File:Easy.png|18px]] '''[[Limbless Pin]]'''
+File:Loser.png|[[File:Easy.png|18px]] '''[[Loser]]'''
+File:Magician Hat.png|[[File:Easy.png|18px]] '''[[Magician Hat]]'''
+File:Needle.png|[[File:Easy.png|18px]] '''[[Needle]]'''
+File:Nickel.png|[[File:Easy.png|18px]] '''[[Nickel]]'''
+File:Ninja Woody.png|[[File:Easy.png|18px]] '''[[Ninja Woody]]'''
+File:Orb.png|[[File:Easy.png|18px]] '''[[Orb]]'''
+File:Ornament.png|[[File:Easy.png|18px]] '''[[Ornament]]'''
+File:Pearl.png|[[File:Easy.png|18px]] '''[[Pearl]]'''
+File:Pickle Juice.png|[[File:Easy.png|18px]] '''[[Pickle Juice]]'''
+File:Piney.png|[[File:Easy.png|18px]] '''[[Piney]]'''
+File:Popcorn.png|[[File:Easy.png|18px]] '''[[Popcorn]]'''
+File:Profiley.png|[[File:Easy.png|18px]] '''[[Profiley]]'''
+File:Roboty.png|[[File:Easy.png|18px]] '''[[Roboty]]'''
+File:Ropey.png|[[File:Easy.png|18px]] '''[[Ropey]]'''
+File:Rose.png|[[File:Easy.png|18px]] '''[[Rose]]'''
+File:Rubber Spatula.png|[[File:Easy.png|18px]] '''[[Rubber Spatula]]'''
+File:Sand.png|[[File:Easy.png|18px]] '''[[Sand]]'''
+File:Sandwich Roll.png|[[File:Easy.png|18px]] '''[[Sandwich Roll]]'''
+File:SaulStories.png|[[File:Easy.png|18px]] '''[[SaulStories]]'''
+File:Spongy.png|[[File:Easy.png|18px]] '''[[Spongy]]'''
+File:Spunce.png|[[File:Easy.png|18px]] '''[[Spunce]]'''
+File:Sun Spray.png|[[File:Easy.png|18px]] '''[[Sun Spray]]'''
+File:Swing.png|[[File:Easy.png|18px]] '''[[Swing]]'''
+File:Tape.png|[[File:Easy.png|18px]] '''[[Tape]]'''
+File:Teardrop.png|[[File:Easy.png|18px]] '''[[Teardrop]]'''
+File:Tophat.png|[[File:Easy.png|18px]] '''[[Tophat]]'''
+File:TV.png|[[File:Easy.png|18px]] '''[[TV]]'''
+File:UFO.png|[[File:Easy.png|18px]] '''[[UFO]]'''
+File:Wish.png|[[File:Easy.png|18px]] '''[[Wish]]'''
+File:Xmas Light.png|[[File:Easy.png|18px]] '''[[Xmas Light]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+{{ObjectDifficultyList
+|name = Moderate
+|icon = Moderate.png
+|color = #07fc55
+|total = 82
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:a.png|[[File:Moderate.png|18px]] '''[[a]]'''
+File:A Duck.png|[[File:Moderate.png|18px]] '''[[A Duck]]'''
+File:Acacia Tree.png|[[File:Moderate.png|18px]] '''[[Acacia Tree]]'''
+File:Awesome Diamond.png|[[File:Moderate.png|18px]] '''[[Awesome Diamond]]'''
+File:Barf Bag.png|[[File:Moderate.png|18px]] '''[[Barf Bag]]'''
+File:Beanie.png|[[File:Moderate.png|18px]] '''[[Beanie]]'''
+File:Bermuda.png|[[File:Moderate.png|18px]] '''[[Bermuda]]'''
+File:Bowl of Petunias.png|[[File:Moderate.png|18px]] '''[[Bowl of Petunias]]'''
+File:Canadian Flag.png|[[File:Moderate.png|18px]] '''[[Canadian Flag]]'''
+File:Carrot.png|[[File:Moderate.png|18px]] '''[[Carrot]]'''
+File:Charcoal.png|[[File:Moderate.png|18px]] '''[[Charcoal]]'''
+File:Cheesy Mayo.png|[[File:Moderate.png|18px]] '''[[Cheesy Mayo]]'''
+File:Chicken Nugget.png|[[File:Moderate.png|18px]] '''[[Chicken Nugget]]'''
+File:Clip.png|[[File:Moderate.png|18px]] '''[[Clip]]'''
+File:Cloudy.png|[[File:Moderate.png|18px]] '''[[Cloudy]]'''
+File:Coiny.png|[[File:Moderate.png|18px]] '''[[Coiny]]'''
+File:Compass.png|[[File:Moderate.png|18px]] '''[[Compass]]'''
+File:Computer Mouse.png|[[File:Moderate.png|18px]] '''[[Computer Mouse]]'''
+File:Cotton Candy.png|[[File:Moderate.png|18px]] '''[[Cotton Candy]]'''
+File:Cranberry.png|[[File:Moderate.png|18px]] '''[[Cranberry]]'''
+File:Crazy Needle.png|[[File:Moderate.png|18px]] '''[[Crazy Needle]]'''
+File:Crumbley.png|[[File:Moderate.png|18px]] '''[[Crumbley]]'''
+File:Dreidel.png|[[File:Moderate.png|18px]] '''[[Dreidel]]'''
+File:Duffel Bag.png|[[File:Moderate.png|18px]] '''[[Duffel Bag]]'''
+File:Electric Guitar.png|[[File:Moderate.png|18px]] '''[[Electric Guitar]]'''
+File:Eraser.png|[[File:Moderate.png|18px]] '''[[Eraser]]'''
+File:Ethernet Splitter.png|[[File:Moderate.png|18px]] '''[[Ethernet Splitter]]'''
+File:Fall Leafy.png|[[File:Moderate.png|18px]] '''[[Fall Leafy]]'''
+File:Firey Plush.png|[[File:Moderate.png|18px]] '''[[Firey Plush]]'''
+File:Foldy.png|[[File:Moderate.png|18px]] '''[[Foldy]]'''
+File:Football Player.png|[[File:Moderate.png|18px]] '''[[Football Player]]'''
+File:Four Plush.png|[[File:Moderate.png|18px]] '''[[Four Plush]]'''
+File:Glue.png|[[File:Moderate.png|18px]] '''[[Glue]]'''
+File:Hammer.png|[[File:Moderate.png|18px]] '''[[Hammer]]'''
+File:Happy Birthday Card.png|[[File:Moderate.png|18px]] '''[[Happy Birthday Card]]'''
+File:Hot Chocolate.png|[[File:Moderate.png|18px]] '''[[Hot Chocolate]]'''
+File:Hot Dog.png|[[File:Moderate.png|18px]] '''[[Hot Dog]]'''
+File:Isabella.png|[[File:Moderate.png|18px]] '''[[Isabella]]'''
+File:Jacknjellify.png|[[File:Moderate.png|18px]] '''[[Jacknjellify]]'''
+File:Jordan.png|[[File:Moderate.png|18px]] '''[[Jordan]]'''
+File:Keytar.png|[[File:Moderate.png|18px]] '''[[Keytar]]'''
+File:King Pen.png|[[File:Moderate.png|18px]] '''[[King Pen]]'''
+File:Kitchen Sink.png|[[File:Moderate.png|18px]] '''[[Kitchen Sink]]'''
+File:Leafy Plush.png|[[File:Moderate.png|18px]] '''[[Leafy Plush]]'''
+File:Leek.png|[[File:Moderate.png|18px]] '''[[Leek]]'''
+File:Microphone.png|[[File:Moderate.png|18px]] '''[[Microphone]]'''
+File:Modern Art.png|[[File:Moderate.png|18px]] '''[[Modern Art]]'''
+File:Mr. Fish.png|[[File:Moderate.png|18px]] '''[[Mr. Fish]]'''
+File:One.png|[[File:Moderate.png|18px]] '''[[One]]'''
+File:Paint Palette.png|[[File:Moderate.png|18px]] '''[[Paint Palette]]'''
+File:Pen.png|[[File:Moderate.png|18px]] '''[[Pen]]'''
+File:Pencil.png|[[File:Moderate.png|18px]] '''[[Pencil]]'''
+File:Price Tag.png|[[File:Moderate.png|18px]] '''[[Price Tag]]'''
+File:Puppet.png|[[File:Moderate.png|18px]] '''[[Puppet]]'''
+File:Puzzle Piece.png|[[File:Moderate.png|18px]] '''[[Puzzle Piece]]'''
+File:Rainbow.png|[[File:Moderate.png|18px]] '''[[Rainbow]]'''
+File:Rainbow Puppy.png|[[File:Moderate.png|18px]] '''[[Rainbow Puppy]]'''
+File:RoboBoi.png|[[File:Moderate.png|18px]] '''[[RoboBoi]]'''
+File:Rutabaga.png|[[File:Moderate.png|18px]] '''[[Rutabaga]]'''
+File:Salt Lamp.png|[[File:Moderate.png|18px]] '''[[Salt Lamp]]'''
+File:Science Book.png|[[File:Moderate.png|18px]] '''[[Science Book]]'''
+File:Shuriken.png|[[File:Moderate.png|18px]] '''[[Shuriken]]'''
+File:Smokebox.png|[[File:Moderate.png|18px]] '''[[Smokebox]]'''
+File:Sock.png|[[File:Moderate.png|18px]] '''[[Sock]]'''
+File:Space Book.png|[[File:Moderate.png|18px]] '''[[Space Book]]'''
+File:Spray Bottle.png|[[File:Moderate.png|18px]] '''[[Spray Bottle]]'''
+File:Steamy.png|[[File:Moderate.png|18px]] '''[[Steamy]]'''
+File:Sticker.png|[[File:Moderate.png|18px]] '''[[Sticker]]'''
+File:Sugar Cube.png|[[File:Moderate.png|18px]] '''[[Sugar Cube]]'''
+File:Taco.png|[[File:Moderate.png|18px]] '''[[Taco]]'''
+File:Toilet Paper.png|[[File:Moderate.png|18px]] '''[[Toilet Paper]]'''
+File:VHSy.png|[[File:Moderate.png|18px]] '''[[VHSy]]'''
+File:Vibe Check X.png|[[File:Moderate.png|18px]] '''[[Vibe Check X]]'''
+File:Waffle.png|[[File:Moderate.png|18px]] '''[[Waffle]]'''
+File:Wallet.png|[[File:Moderate.png|18px]] '''[[Wallet]]'''
+File:Watermelon Slice.png|[[File:Moderate.png|18px]] '''[[Watermelon Slice]]'''
+File:Winner.png|[[File:Moderate.png|18px]] '''[[Winner]]'''
+File:Yo-Yo.png|[[File:Moderate.png|18px]] '''[[Yo-Yo]]'''
+File:Zipper.png|[[File:Moderate.png|18px]] '''[[Zipper]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+{{ObjectDifficultyList
+|name = Normal
+|icon = Normal.png
+|color = #a1ff27
+|total = 54
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:8-Ball.png|[[File:Normal.png|18px]] ''' [[8-Ball]] '''
+File:9-Ball.png|[[File:Normal.png|18px]] ''' [[9-Ball]] '''
+File:Amethysty.png|[[File:Normal.png|18px]] ''' [[Amethysty]] '''
+File:Awesome Face.png|[[File:Normal.png|18px]] ''' [[Awesome Face]] '''
+File:Baking Soda.png|[[File:Normal.png|18px]] ''' [[Baking Soda]] '''
+File:Ball.png|[[File:Normal.png|18px]] ''' [[Ball]] '''
+File:Balloony.png|[[File:Normal.png|18px]] ''' [[Balloony]] '''
+File:Bally.png|[[File:Normal.png|18px]] ''' [[Bally]] '''
+File:BFDI Marker.png|[[File:Normal.png|18px]] ''' [[BFDI Marker]] '''
+File:Bitty.png|[[File:Normal.png|18px]] ''' [[Bitty]] '''
+File:Blender.png|[[File:Normal.png|18px]] ''' [[Blender]] '''
+File:Bottle.png|[[File:Normal.png|18px]] ''' [[Bottle]] '''
+File:Bracelety.png|[[File:Normal.png|18px]] ''' [[Bracelety]] '''
+File:Butter.png|[[File:Normal.png|18px]] ''' [[Butter]] '''
+File:Buzzsaw.png|[[File:Normal.png|18px]] ''' [[Buzzsaw]] '''
+File:Car Engine.png|[[File:Normal.png|18px]] ''' [[Car Engine]] '''
+File:Cave Drawing.png|[[File:Normal.png|18px]] ''' [[Cave Drawing]] '''
+File:Cheese.png|[[File:Normal.png|18px]] ''' [[Cheese]] '''
+File:Chestnut.png|[[File:Normal.png|18px]] ''' [[Chestnut]] '''
+File:Chocolate Bar.png|[[File:Normal.png|18px]] ''' [[Chocolate Bar]] '''
+File:Clover.png|[[File:Normal.png|18px]] ''' [[Clover]] '''
+File:Cologne.png|[[File:Normal.png|18px]] ''' [[Cologne]] '''
+File:Cookie Pizza.png|[[File:Normal.png|18px]] ''' [[Cookie Pizza]] '''
+File:Dark Gemstone.png|[[File:Normal.png|18px]] ''' [[Dark Gemstone]] '''
+File:Domino.png|[[File:Normal.png|18px]] ''' [[Domino]] '''
+File:Drinky Bird.png|[[File:Normal.png|18px]] ''' [[Drinky Bird]] '''
+File:Fettuccine.png|[[File:Normal.png|18px]] ''' [[Fettuccine]] '''
+File:Firey Jr..png|[[File:Normal.png|18px]] ''' [[Firey Jr.]] '''
+File:Fourteen.png|[[File:Normal.png|18px]] ''' [[Fourteen]] '''
+File:Green Egg.png|[[File:Normal.png|18px]] ''' [[Green Egg]] '''
+File:Hexagon.png|[[File:Normal.png|18px]] ''' [[Hexagon]] '''
+File:Kabab.png|[[File:Normal.png|18px]] ''' [[Kabab]] '''
+File:Lemonade.png|[[File:Normal.png|18px]] ''' [[Lemonade]] '''
+File:Lightning.png|[[File:Normal.png|18px]] ''' [[Lightning]] '''
+File:Lollipop.png|[[File:Normal.png|18px]] ''' [[Lollipop]] '''
+File:Meat Cube.png|[[File:Normal.png|18px]] ''' [[Meat Cube]] '''
+File:Metal Scrap.png|[[File:Normal.png|18px]] ''' [[Metal Scrap]] '''
+File:Milkshake.png|[[File:Normal.png|18px]] ''' [[Milkshake]] '''
+File:Nine and Six Combined.png|[[File:Normal.png|18px]] ''' [[Nine and Six Combined]] '''
+File:Pasty.png|[[File:Normal.png|18px]] ''' [[Pasty]] '''
+File:Plump Dog.png|[[File:Normal.png|18px]] ''' [[Plump Dog]] '''
+File:Pop Tart.png|[[File:Normal.png|18px]] ''' [[Pop Tart]] '''
+File:Purple Dragon.png|[[File:Normal.png|18px]] ''' [[Purple Dragon]] '''
+File:Robot Flower.png|[[File:Normal.png|18px]] ''' [[Robot Flower]] '''
+File:Rocky.png|[[File:Normal.png|18px]] ''' [[Rocky]] '''
+File:Ruby.png|[[File:Normal.png|18px]] ''' [[Ruby]] '''
+File:Seaweed.png|[[File:Normal.png|18px]] ''' [[Seaweed]] '''
+File:Slug.png|[[File:Normal.png|18px]] ''' [[Slug]] '''
+File:S'mores Milkshake.png|[[File:Normal.png|18px]] ''' [[S'mores Milkshake]] '''
+File:Snake.png|[[File:Normal.png|18px]] ''' [[Snake]] '''
+File:Taco Guy.png|[[File:Normal.png|18px]] ''' [[Taco Guy]] '''
+File:Triangle.png|[[File:Normal.png|18px]] ''' [[Triangle]] '''
+File:USB.png|[[File:Normal.png|18px]] ''' [[USB]] '''
+File:V.png|[[File:Normal.png|18px]] ''' [[V]] '''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Intermediate
+|icon = Intermediate FTBC.png
+|color = #ffb700
+|total = 41
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Banana.png|[[File:Intermediate FTBC.png|18px]] '''[[Banana]]'''
+File:Bird.png|[[File:Intermediate FTBC.png|18px]] '''[[Bird]]'''
+File:Blanket.png|[[File:Intermediate FTBC.png|18px]] '''[[Blanket]]'''
+File:Blue_Lion.png|[[File:Intermediate FTBC.png|18px]] '''[[Blue Lion]]'''
+File:Blue_Shiny_Coiny.png|[[File:Intermediate FTBC.png|18px]] '''[[Blue Shiny Coiny]]'''
+File:Boom_Mic.png|[[File:Intermediate FTBC.png|18px]] '''[[Boom Mic]]'''
+File:Bready.png|[[File:Intermediate FTBC.png|18px]] '''[[Bready]]'''
+File:Cartridge.png|[[File:Intermediate FTBC.png|18px]] '''[[Cartridge]]'''
+File:Chanterelle.png|[[File:Intermediate FTBC.png|18px]] '''[[Chanterelle]]'''
+File:Chef_David.png|[[File:Intermediate FTBC.png|18px]] '''[[Chef David]]'''
+File:Crate.png|[[File:Intermediate FTBC.png|18px]] '''[[Crate]]'''
+File:David.png|[[File:Intermediate FTBC.png|18px]] '''[[David]]'''
+File:Davidworm.png|[[File:Intermediate FTBC.png|18px]] '''[[Davidworm]]'''
+File:Dollar_Bill.png|[[File:Intermediate FTBC.png|18px]] '''[[Dollar Bill]]'''
+File:Flower_Crown.png|[[File:Intermediate FTBC.png|18px]] '''[[Flower Crown]]'''
+File:Fortune_Cookie.png|[[File:Intermediate FTBC.png|18px]] '''[[Fortune Cookie]]'''
+File:Four_and_X.png|[[File:Intermediate FTBC.png|18px]] '''[[Four and X]]'''
+File:Genderfluid_Book.png|[[File:Intermediate FTBC.png|18px]] '''[[Genderfluid Book]]'''
+File:Good_Rhombicodidodecahedron.png|[[File:Intermediate FTBC.png|18px]] '''[[Good Rhombicodidodecahedron]]'''
+File:Green_Rocky.png|[[File:Intermediate FTBC.png|18px]] '''[[Green Rocky]]'''
+File:Idoit.png|[[File:Intermediate FTBC.png|18px]] '''[[Idoit]]'''
+File:Knifeball.png|[[File:Intermediate FTBC.png|18px]] '''[[Knifeball]]'''
+File:Lever.png|[[File:Intermediate FTBC.png|18px]] '''[[Lever]]'''
+File:Lip_Gloss.png|[[File:Intermediate FTBC.png|18px]] '''[[Lip Gloss]]'''
+File:Mail.png|[[File:Intermediate FTBC.png|18px]] '''[[Mail]]'''
+File:Meteor.png|[[File:Intermediate FTBC.png|18px]] '''[[Meteor]]'''
+File:Miku.png|[[File:Intermediate FTBC.png|18px]] '''[[Miku]]'''
+File:Milli_Book.png|[[File:Intermediate FTBC.png|18px]] '''[[Milli Book]]'''
+File:Pea.png|[[File:Intermediate FTBC.png|18px]] '''[[Pea]]'''
+File:Pixelated_Heart.png|[[File:Intermediate FTBC.png|18px]] '''[[Pixelated Heart]]'''
+File:Remote.png|[[File:Intermediate FTBC.png|18px]] '''[[Remote]]'''
+File:Sand_Jar.png|[[File:Intermediate FTBC.png|18px]] '''[[Sand Jar]]'''
+File:SD_Card.png|[[File:Intermediate FTBC.png|18px]] '''[[SD Card]]'''
+File:Seven.png|[[File:Intermediate FTBC.png|18px]] '''[[Seven]]'''
+File:Six.png|[[File:Intermediate FTBC.png|18px]] '''[[Six]]'''
+File:Spoony.png|[[File:Intermediate FTBC.png|18px]] '''[[Spoony]]'''
+File:Succulent.png|[[File:Intermediate FTBC.png|18px]] '''[[Succulent]]'''
+File:Symbol.png|[[File:Intermediate FTBC.png|18px]] '''[[Symbol]]'''
+File:Tabley.png|[[File:Intermediate FTBC.png|18px]] '''[[Tabley]]'''
+File:Texas_Donut.png|[[File:Intermediate FTBC.png|18px]] '''[[Texas Donut]]'''
+File:Well.png|[[File:Intermediate FTBC.png|18px]] '''[[Well]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+
+{{ObjectDifficultyList
+|name = Hard
+|icon = Hard.png
+|color = #ff7e21
+|total = 49
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Air.png|[[File:Hard.png|18px]] '''[[Air]]'''
+File:Among_Us_X.png|[[File:Hard.png|18px]] '''[[Among Us X]]'''
+File:Barf_Molecule.png|[[File:Hard.png|18px]] '''[[Barf Molecule]]'''
+File:Blob.png|[[File:Hard.png|18px]] '''[[Blob]]'''
+File:Bowling_Ball.png|[[File:Hard.png|18px]] '''[[Bowling Ball]]'''
+File:Bright_Radiant_Plasma_Needle.png|[[File:Hard.png|18px]] '''[[Bright Radiant Plasma Needle]]'''
+File:Calculator.png|[[File:Hard.png|18px]] '''[[Calculator]]'''
+File:Candy.png|[[File:Hard.png|18px]] '''[[Candy]]'''
+File:Candy_Corn.png|[[File:Hard.png|18px]] '''[[Candy Corn]]'''
+File:Cary.png|[[File:Hard.png|18px]] '''[[Cary]]'''
+File:Cat.png|[[File:Hard.png|18px]] '''[[Cat]]'''
+File:Chocolate_Chip.png|[[File:Hard.png|18px]] '''[[Chocolate Chip]]'''
+File:Chocolate_Pop.png|[[File:Hard.png|18px]] '''[[Chocolate Pop]]'''
+File:Coffee_Bean.png|[[File:Hard.png|18px]] '''[[Coffee Bean]]'''
+File:Diskette.png|[[File:Hard.png|18px]] '''[[Diskette]]'''
+File:Eggy.png|[[File:Hard.png|18px]] '''[[Eggy]]'''
+File:English_Cream_Cake.png|[[File:Hard.png|18px]] '''[[English Cream Cake]]'''
+File:Fire_Spatula.png|[[File:Hard.png|18px]] '''[[Fire Spatula]]'''
+File:Fossil.png|[[File:Hard.png|18px]] '''[[Fossil]]'''
+File:Fridge.png|[[File:Hard.png|18px]] '''[[Fridge]]'''
+File:Fronk.png|[[File:Hard.png|18px]] '''[[Fronk]]'''
+File:Gear.png|[[File:Hard.png|18px]] '''[[Gear]]'''
+File:Giant_Tree.png|[[File:Hard.png|18px]] '''[[Giant Tree]]'''
+File:Gifty.png|[[File:Hard.png|18px]] '''[[Gifty]]'''
+File:Halporhini_Cube.png|[[File:Hard.png|18px]] '''[[Halporhini Cube]]'''
+File:Ice_Cube.png|[[File:Hard.png|18px]] '''[[Ice Cube]]'''
+File:Irony.png|[[File:Hard.png|18px]] '''[[Irony]]'''
+File:Jawbreaker.png|[[File:Hard.png|18px]] '''[[Jawbreaker]]'''
+File:Liy.png|[[File:Hard.png|18px]] '''[[Liy]]'''
+File:Mardi_Gras_Bead.png|[[File:Hard.png|18px]] '''[[Mardi Gras Bead]]'''
+File:Marimo_Ball.png|[[File:Hard.png|18px]] '''[[Marimo Ball]]'''
+File:Mechanical_Pencil.png|[[File:Hard.png|18px]] '''[[Mechanical Pencil]]'''
+File:Minty.png|[[File:Hard.png|18px]] '''[[Minty]]'''
+File:Nine.png|[[File:Hard.png|18px]] '''[[Nine]]'''
+File:Palmy.png|[[File:Hard.png|18px]] '''[[Palmy]]'''
+File:Peanut_Butter.png|[[File:Hard.png|18px]] '''[[Peanut Butter]]'''
+File:Pebble.png|[[File:Hard.png|18px]] '''[[Pebble]]'''
+File:Purple_Face.png|[[File:Hard.png|18px]] '''[[Purple Face]]'''
+File:Rollarskate.png|[[File:Hard.png|18px]] '''[[Rollarskate]]'''
+File:Slide_Man.png|[[File:Hard.png|18px]] '''[[Slide Man]]'''
+File:Spark_Plug.png|[[File:Hard.png|18px]] '''[[Spark Plug]]'''
+File:Sundae.png|[[File:Hard.png|18px]] '''[[Sundae]]'''
+File:Tablety.png|[[File:Hard.png|18px]] '''[[Tablety]]'''
+File:Titanium_Knife.png|[[File:Hard.png|18px]] '''[[Titanium Knife]]'''
+File:Tri-Tri.png|[[File:Hard.png|18px]] '''[[Tri-Tri]]'''
+File:Tungsten.png|[[File:Hard.png|18px]] '''[[Tungsten]]'''
+File:Two_Halves.png|[[File:Hard.png|18px]] '''[[Two Halves]]'''
+File:Vomit_Drop.png|[[File:Hard.png|18px]] '''[[Vomit Drop]]'''
+File:Yellow_Face.png|[[File:Hard.png|18px]] '''[[Yellow Face]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+
+{{ObjectDifficultyList
+|name = Difficult
+|icon = Difficult.png
+|color = #f54f25
+|total = 46
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Battery.png|[[File:Difficult.png|18px]] '''[[Battery]]'''
+File:Black_Marker.png|[[File:Difficult.png|18px]] '''[[Black Marker]]'''
+File:Bluecky.png|[[File:Difficult.png|18px]] '''[[Bluecky]]'''
+File:Blue_Needle.png|[[File:Difficult.png|18px]] '''[[Blue Needle]]'''
+File:Blue_Square.png|[[File:Difficult.png|18px]] '''[[Blue Square]]'''
+File:Boaty.png|[[File:Difficult.png|18px]] '''[[Boaty]]'''
+File:Box_Fan.png|[[File:Difficult.png|18px]] '''[[Box Fan]]'''
+File:Clapboard.png|[[File:Difficult.png|18px]] '''[[Clapboard]]'''
+File:De_Stijl.png|[[File:Difficult.png|18px]] '''[[De Stijl]]'''
+File:Dora.png|[[File:Difficult.png|18px]] '''[[Dora]]'''
+File:Em.png|[[File:Difficult.png|18px]] '''[[Em]]'''
+File:Fire.png|[[File:Difficult.png|18px]] '''[[Fire]]'''
+File:Fish_Bowl.png|[[File:Difficult.png|18px]] '''[[Fish Bowl]]'''
+File:Four.png|[[File:Difficult.png|18px]] '''[[Four]]'''
+File:Function.png|[[File:Difficult.png|18px]] '''[[Function]]'''
+File:Hailairhous.png|[[File:Difficult.png|18px]] '''[[Hailairhous]]'''
+File:Headphones.png|[[File:Difficult.png|18px]] '''[[Headphones]]'''
+File:Image.png|[[File:Difficult.png|18px]] '''[[Image]]'''
+File:Jingle_Bell.png|[[File:Difficult.png|18px]] '''[[Jingle Bell]]'''
+File:Junior.png|[[File:Difficult.png|18px]] '''[[Junior]]'''
+File:Lasagna.png|[[File:Difficult.png|18px]] '''[[Lasagna]]'''
+File:Lily.png|[[File:Difficult.png|18px]] '''[[Lily]]'''
+File:Long_Marker.png|[[File:Difficult.png|18px]] '''[[Long Marker]]'''
+File:Metal_Leafy.png|[[File:Difficult.png|18px]] '''[[Metal Leafy]]'''
+File:One_Way_Sign.png|[[File:Difficult.png|18px]] '''[[One Way Sign]]'''
+File:Orange_Cat.png|[[File:Difficult.png|18px]] '''[[Orange Cat]]'''
+File:Paper.png|[[File:Difficult.png|18px]] '''[[Paper]]'''
+File:Pastel_Feather.png|[[File:Difficult.png|18px]] '''[[Pastel Feather]]'''
+File:PDA.png|[[File:Difficult.png|18px]] '''[[PDA]]'''
+File:Portable_Music_Player.png|[[File:Difficult.png|18px]] '''[[Portable Music Player]]'''
+File:Puffball.png|[[File:Difficult.png|18px]] '''[[Puffball]]'''
+File:Santa_Hat.png|[[File:Difficult.png|18px]] '''[[Santa Hat]]'''
+File:Shampoo.png|[[File:Difficult.png|18px]] '''[[Shampoo]]'''
+File:Snowball.png|[[File:Difficult.png|18px]] '''[[Snowball]]'''
+File:Swiss_Roll.png|[[File:Difficult.png|18px]] '''[[Swiss Roll]]'''
+File:Tennis_Ball.png|[[File:Difficult.png|18px]] '''[[Tennis Ball]]'''
+File:Tennis_Ball_Speaker_Box.png|[[File:Difficult.png|18px]] '''[[Tennis Ball Speaker Box]]'''
+File:The_First_Frame.png|[[File:Difficult.png|18px]] '''[[The First Frame]]'''
+File:Touch-Tone.png|[[File:Difficult.png|18px]] '''[[Touch-Tone]]'''
+File:Tropical_Virtual_Pet_Lizard.png|[[File:Difficult.png|18px]] '''[[Tropical Virtual Pet Lizard]]'''
+File:Wet_Clay.png|[[File:Difficult.png|18px]] '''[[Wet Clay]]'''
+File:Win_Token.png|[[File:Difficult.png|18px]] '''[[Win Token]]'''
+File:World_Map.png|[[File:Difficult.png|18px]] '''[[World Map]]'''
+File:Yellow_Watermelon.png|[[File:Difficult.png|18px]] '''[[Yellow Watermelon]]'''
+File:Yoyle_Pie.png|[[File:Difficult.png|18px]] '''[[Yoyle Pie]]'''
+File:YSA_Status.png|[[File:Difficult.png|18px]] '''[[YSA Status]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+
+{{ObjectDifficultyList
+|name = Extreme
+|icon = Extreme.png
+|color = #ED2727
+|total = 37
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Air_Freshener.png|[[File:Extreme.png|18px]] '''[[Air Freshener]]'''
+File:Beach_Ball.png|[[File:Extreme.png|18px]] '''[[Beach Ball]]'''
+File:Bead.png|[[File:Extreme.png|18px]] '''[[Bead]]'''
+File:Bomby_Plush.png|[[File:Extreme.png|18px]] '''[[Bomby Plush]]'''
+File:Cake_Pop.png|[[File:Extreme.png|18px]] '''[[Cake Pop]]'''
+File:Comet.png|[[File:Extreme.png|18px]] '''[[Comet]]'''
+File:Controller.png|[[File:Extreme.png|18px]] '''[[Controller]]'''
+File:CRT.png|[[File:Extreme.png|18px]] '''[[CRT]]'''
+File:Dog_Collar.png|[[File:Extreme.png|18px]] '''[[Dog Collar]]'''
+File:Earth.png|[[File:Extreme.png|18px]] '''[[Earth]]'''
+File:Evil_Bubble.png|[[File:Extreme.png|18px]] '''[[Evil Bubble]]'''
+File:Falafel.png|[[File:Extreme.png|18px]] '''[[Falafel]]'''
+File:Gashapon_Capsule.png|[[File:Extreme.png|18px]] '''[[Gashapon Capsule]]'''
+File:Green_Square.png|[[File:Extreme.png|18px]] '''[[Green Square]]'''
+File:Homeless_Spooky.png|[[File:Extreme.png|18px]] '''[[Homeless Spooky]]'''
+File:Income_Tax_Return_Document.png|[[File:Extreme.png|18px]] '''[[Income Tax Return Document]]'''
+File:Irregular_Polygon.png|[[File:Extreme.png|18px]] '''[[Irregular Polygon]]'''
+File:Lava_Ball.png|[[File:Extreme.png|18px]] '''[[Lava Ball]]'''
+File:Lego_Brick.png|[[File:Extreme.png|18px]] '''[[Lego Brick]]'''
+File:Microwave.png|[[File:Extreme.png|18px]] '''[[Microwave]]'''
+File:Mocha.png|[[File:Extreme.png|18px]] '''[[Mocha]]'''
+File:Omega.png|[[File:Extreme.png|18px]] '''[[Omega]]'''
+File:Pie.png|[[File:Extreme.png|18px]] '''[[Pie]]'''
+File:Pixely.png|[[File:Extreme.png|18px]] '''[[Pixely]]'''
+File:Poker_Chip.png|[[File:Extreme.png|18px]] '''[[Poker Chip]]'''
+File:Puffball_Speaker_Box.png|[[File:Extreme.png|18px]] '''[[Puffball Speaker Box]]'''
+File:Raising_Cane's_Cup.png|[[File:Extreme.png|18px]] '''[[Raising Cane's Cup]]'''
+File:Red_Mushroom.png|[[File:Extreme.png|18px]] '''[[Red Mushroom]]'''
+File:Revolver.png|[[File:Extreme.png|18px]] '''[[Revolver]]'''
+File:Shoiyta.png|[[File:Extreme.png|18px]] '''[[Shoiyta]]'''
+File:Steamboat_Hat.png|[[File:Extreme.png|18px]] '''[[Steamboat Hat]]'''
+File:Strudel.png|[[File:Extreme.png|18px]] '''[[Strudel]]'''
+File:Taco_With_Tophat.png|[[File:Extreme.png|18px]] '''[[Taco With Tophat]]'''
+File:Tune.png|[[File:Extreme.png|18px]] '''[[Tune]]'''
+File:Uni.png|[[File:Extreme.png|18px]] '''[[Uni]]'''
+File:Vanilla_Milkshake.png|[[File:Extreme.png|18px]] '''[[Vanilla Milkshake]]'''
+File:Weird_Speaker_Box.png|[[File:Extreme.png|18px]] '''[[Weird Speaker Box]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+
+{{ObjectDifficultyList
+|name = Unforgiving
+|icon = Unforgiving.png
+|color = #ff143f
+|total = 25
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Beanbag.png|[[File:Unforgiving.png|18px]] '''[[Beanbag]]'''
+File:Cake.png|[[File:Unforgiving.png|18px]] '''[[Cake]]'''
+File:Credit_Card.png|[[File:Unforgiving.png|18px]] '''[[Credit Card]]'''
+File:Demonic_Painting.png|[[File:Unforgiving.png|18px]] '''[[Demonic Painting]]'''
+File:Drilly.png|[[File:Unforgiving.png|18px]] '''[[Drilly]]'''
+File:Earphone_Shotgun.png|[[File:Unforgiving.png|18px]] '''[[Earphone Shotgun]]'''
+File:Exploding_David.png|[[File:Unforgiving.png|18px]] '''[[Exploding David]]'''
+File:Feet.png|[[File:Unforgiving.png|18px]] '''[[Feet]]'''
+File:Firey_Speaker_Box.png|[[File:Unforgiving.png|18px]] '''[[Firey Speaker Box]]'''
+File:Gumbally.png|[[File:Unforgiving.png|18px]] '''[[Gumbally]]'''
+File:Lampy.png|[[File:Unforgiving.png|18px]] '''[[Lampy]]'''
+File:Leafy_Jr..png|[[File:Unforgiving.png|18px]] '''[[Leafy Jr.]]'''
+File:Monarch.png|[[File:Unforgiving.png|18px]] '''[[Monarch]]'''
+File:Onigiri.png|[[File:Unforgiving.png|18px]] '''[[Onigiri]]'''
+File:Ordinary_Banana....png|[[File:Unforgiving.png|18px]] '''[[Ordinary Banana...]]'''
+File:Peanut.png|[[File:Unforgiving.png|18px]] '''[[Peanut]]'''
+File:Quartz.png|[[File:Unforgiving.png|18px]] '''[[Quartz]]'''
+File:Roboty-y.png|[[File:Unforgiving.png|18px]] '''[[Roboty-y]]'''
+File:Spike_Ball.png|[[File:Unforgiving.png|18px]] '''[[Spike Ball]]'''
+File:Stool.png|[[File:Unforgiving.png|18px]] '''[[Stool]]'''
+File:Sun.png|[[File:Unforgiving.png|18px]] '''[[Sun]]'''
+File:Thirteen.png|[[File:Unforgiving.png|18px]] '''[[Thirteen]]'''
+File:Tombstone.png|[[File:Unforgiving.png|18px]] '''[[Tombstone]]'''
+File:Yellow_Leopard.png|[[File:Unforgiving.png|18px]] '''[[Yellow Leopard]]'''
+File:Zombified_Barf_Bag.png|[[File:Unforgiving.png|18px]] '''[[Zombified Barf Bag]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+
+{{ObjectDifficultyList
+|name = Insane
+|icon = Insane.png
+|color = #FF1C95
+|total = 17
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Black_Hole.png|[[File:Insane.png|18px]] '''[[Black Hole]]'''
+File:Bubble.png|[[File:Insane.png|18px]] '''[[Bubble]]'''
+File:Buh.png|[[File:Insane.png|18px]] '''[[Buh]]'''
+File:Feather.png|[[File:Insane.png|18px]] '''[[Feather]]'''
+File:Flower_Speaker_Box.png|[[File:Insane.png|18px]] '''[[Flower Speaker Box]]'''
+File:Four_Colored_Gelatin.png|[[File:Insane.png|18px]] '''[[Four Colored Gelatin]]'''
+File:Frozen_Yogurt.png|[[File:Insane.png|18px]] '''[[Frozen Yogurt]]'''
+File:Geode.png|[[File:Insane.png|18px]] '''[[Geode]]'''
+File:Gingerbread_Man.png|[[File:Insane.png|18px]] '''[[Gingerbread Man]]'''
+File:Laser_Pointer.png|[[File:Insane.png|18px]] '''[[Laser Pointer]]'''
+File:Pride_Cat_Firey.png|[[File:Insane.png|18px]] '''[[Pride Cat Firey]]'''
+File:Shinyleaf.png|[[File:Insane.png|18px]] '''[[Shinyleaf]]'''
+File:Sippy.png|[[File:Insane.png|18px]] '''[[Sippy]]'''
+File:THE_GET_AWAY_FROM_ME_BUTTON!!!!!!!.png|[[File:Insane.png|18px]] '''[[THE GET AWAY FROM ME BUTTON!!!!!!!]]'''
+File:Trash_Can.png|[[File:Insane.png|18px]] '''[[Trash Can]]'''
+File:Two.png|[[File:Insane.png|18px]] '''[[Two]]'''
+File:X.png|[[File:Insane.png|18px]] '''[[X]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+
+{{ObjectDifficultyList
+|name = Dreadful
+|icon = Dreadful.png
+|color = #db25ff
+|total = 8
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Bandana.png|[[File:Dreadful.png|18px]] '''[[Bandana]]'''
+File:d.png|[[File:Dreadful.png|18px]] '''[[d]]'''
+File:Immortality_Thing.png|[[File:Dreadful.png|18px]] '''[[Immortality Thing]]'''
+File:Jellybean_Jar.png|[[File:Dreadful.png|18px]] '''[[Jellybean Jar]]'''
+File:Sad_Cloudy.png|[[File:Dreadful.png|18px]] '''[[Sad Cloudy]]'''
+File:Safe.png|[[File:Dreadful.png|18px]] '''[[Safe]]'''
+File:Torch.png|[[File:Dreadful.png|18px]] '''[[Torch]]'''
+File:Troll_Face.png|[[File:Dreadful.png|18px]] '''[[Troll Face]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+
+{{ObjectDifficultyList
+|name = Terrifying
+|icon = Terrifying.png
+|color = #8b17ff
+|total = 7
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Chicken_Nuggets.png|[[File:Terrifying.png|18px]] '''[[Chicken Nuggets]]'''
+File:Evidence_Bag.png|[[File:Terrifying.png|18px]] '''[[Evidence Bag]]'''
+File:Replicated_Storage.png|[[File:Terrifying.png|18px]] '''[[Replicated Storage]]'''
+File:Quereltrajankyn.png|[[File:Terrifying.png|18px]] '''[[Quereltrajankyn]]'''
+File:Sharp.png|[[File:Terrifying.png|18px]] '''[[Sharp]]'''
+File:Slime_Flashlight.png|[[File:Terrifying.png|18px]] '''[[Slime Flashlight]]'''
+File:This_is_Sparta-Y.png|[[File:Terrifying.png|18px]] '''[[This is Sparta-Y]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+
+{{ObjectDifficultyList
+|name = Arduous
+|icon = Arduous.png
+|color = #5d0cff
+|total = 10
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Alien.png|[[File:Arduous.png|18px]] '''[[Alien]]'''
+File:Boblob.png|[[File:Arduous.png|18px]] '''[[Boblob]]'''
+File:Burger.png|[[File:Arduous.png|18px]] '''[[Burger]]'''
+File:Filler.png|[[File:Arduous.png|18px]] '''[[Filler]]'''
+File:Nanoboty.png|[[File:Arduous.png|18px]] '''[[Nanoboty]]'''
+File:Nonexisty.png|[[File:Arduous.png|18px]] '''[[Nonexisty]]'''
+File:Studio.png|[[File:Arduous.png|18px]] '''[[Studio]]'''
+File:Throne.png|[[File:Arduous.png|18px]] '''[[Throne]]'''
+File:Tiddles.png|[[File:Arduous.png|18px]] '''[[Tiddles]]'''
+File:Ulm.png|[[File:Arduous.png|18px]] '''[[Ulm]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+
+{{ObjectDifficultyList
+|name = Strenuous
+|icon = Strenuous.png
+|color = #4048E5
+|total = 9
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Brainy.png|[[File:Strenuous.png|18px]] '''[[Brainy]]'''
+File:Cauldron.png|[[File:Strenuous.png|18px]] '''[[Cauldron]]'''
+File:Every_Character_Fused.png|[[File:Strenuous.png|18px]] '''[[Every Character Fused]]'''
+File:Fedora.png|[[File:Strenuous.png|18px]] '''[[Fedora]]'''
+File:Glitchy.png|[[File:Strenuous.png|18px]] '''[[Glitchy]]'''
+File:Hornbox.png|[[File:Strenuous.png|18px]] '''[[Hornbox]]'''
+File:King_Skull.png|[[File:Strenuous.png|18px]] '''[[King Skull]]'''
+File:Poison_Cake.png|[[File:Strenuous.png|18px]] '''[[Poison Cake]]'''
+File:Transmitter.png|[[File:Strenuous.png|18px]] '''[[Transmitter]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+
+{{ObjectDifficultyList
+|name = Remorseless
+|icon = Remorseless.png
+|color = #2084FF
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:ARG_Television.png|[[File:Remorseless.png|18px]] '''[[ARG Television]]'''
+File:Chartreuse.png|[[File:Remorseless.png|18px]] '''[[Chartreuse]]'''
+File:Front_Facing_Marker.png|[[File:Remorseless.png|18px]] '''[[Front Facing Marker]]'''
+File:Remote_Event.png|[[File:Remorseless.png|18px]] '''[[Remote Event]]'''
+File:SilvaGunner.png|[[File:Remorseless.png|18px]] '''[[SilvaGunner]]'''
+File:Storm_Ball.png|[[File:Remorseless.png|18px]] '''[[Storm Ball]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+
+{{ObjectDifficultyList
+|name = Horrifying
+|icon = Horrifying.png
+|color = #2bd0fd; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #72e1ff
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Starwalker.png|[[File:Horrifying.png|18px]] '''[[Starwalker]]'''
+File:Wand.png|[[File:Horrifying.png|18px]] '''[[Wand]]'''
+</gallery>
+}}
+
+------------------------------------------------------------
+
+
+==== <span style="color:#000000; -webkit-text-stroke-width:1px; -webkit-text-stroke-color:#ffffff; font-size:32px; text-shadow:0px 0px 10px #ffffff">ꌗꍟꉓꋪꍟ꓄</span> ====
+*[[File:SECRET.png|frameless|20x20px|Unknown]] [[Colorous]]
+*[[File:SECRET.png|frameless|20x20px|Unknown]] [[Red 'n' Blue Triangle]]
+*[[File:SECRET.png|frameless|20x20px|Unknown]] [[Remorseless Mix]]
+*[[File:SECRET.png|frameless|20x20px|Unknown]] [[Ugly]]
+
+------------------------------------------------------------
+
+== Areas ==
+{{AreaGallery}}
+
+== Places ==
+* [[Backrooms (NOT REALM)]]
+* [[Basement (NOT REALM)]]
+* [[Crystal Cave]]
+* [[Emergency Button]]
+* [[EXIT]]
+* [[Firey Speaker Box Obby]]
+* [[Hall of Fame]]
+* [[Medal Room]]
+* [[PDA Obby]]
+* [[Purple Face Mouth]]
+* [[Xbox Controller]]
+* [[Warehouse Factory]]
+
+== Music ==
+Did you know the Main Realm has 10 songs? (02 11 24) 
+
+Listen it on Youtube: https://www.youtube.com/playlist?list=PL6ArR_EE4NsbQv3a8jUXgkvzXd9m5hnyw
+
+== Info ==
+The main realm has it's own main area, whiich is [[Goiky]].
+[[Category:Realms]]
+
+</div>

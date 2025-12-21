@@ -1,0 +1,15 @@
+{
+  "parent_realm": "Classic Paradise",
+  "objects": [
+  {
+    "ObjectName": "2009 Firey",
+    "Difficulty": "Arduous",
+    "Description": "Embrace your inner retro... Find 6 classic Roblox weapons around the map, then head to Starter Place."
+  },
+  {
+    "ObjectName": "Studio",
+    "Difficulty": "Arduous",
+    "Description": "start by finding a QR code on the main map, you must have roblox studio to get this one!"
+  }
+  ]
+}

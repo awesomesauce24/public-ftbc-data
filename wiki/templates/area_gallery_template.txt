@@ -1,0 +1,18 @@
+<gallery>
+File:Candyland.png|link=Candyland|[[Candyland]]
+File:City.png|link=City|[[City]]
+File:Classic__Roblox.png|link=Classic Roblox|[[Classic Roblox]]
+File:Desert.png|link=Desert|[[Desert]]
+File:Factory.png|link=Factory|[[Factory]]
+File:Floating_Island.png|link=Floating Island|[[Floating Island]]
+File:Fossil_Falls.png|link=Fossil Falls|[[Fossil Falls]]
+File:Goiky.png|link=Goiky|[[Goiky]]
+File:Hotel.png|link=Hotel|[[Hotel]]
+File:Jungle.png|link=Jungle|[[Jungle]]
+File:Number_Playground.png|link=Number Playground|[[Number Playground]]
+File:Snowy.png|link=Snowy|[[Snowy]]
+File:Tropical_Islands.png|link=Tropical Islands|[[Tropical Islands]]
+File:Warehouse.png|link=Warehouse|[[Warehouse]]
+</gallery>
+
+[[Category:General wiki templates]]

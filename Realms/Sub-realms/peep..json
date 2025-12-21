@@ -1,0 +1,10 @@
+{
+  "parent_realm": "Main Realm",
+  "objects": [
+  {
+    "ObjectName": "Peep",
+    "Difficulty": "Horrifying",
+    "Description": "peep. for the easter event. find fifteen eggs in fifteen realms!"
+  }
+  ]
+}

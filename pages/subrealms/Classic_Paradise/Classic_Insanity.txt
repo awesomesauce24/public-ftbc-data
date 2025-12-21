@@ -1,0 +1,40 @@
+{{Location|title=Classic Insanity|image=[[File:Leaked.png]]}}
+== Info ==
+'''Classic Insanity''' was released on the 2.13 Update.
+
+== How to Enter ==
+Start in [[Starter Place]], then get on top the roof of the house. Then go here:
+
+[[File:CI e.png|180x180px]]
+
+After that, just walk through the invisible path, You'll be teleported to '''Classic Insanity'''
+
+== Enemies ==
+
+* [[Enemies#Classic%20Noob|Classic Noob]]
+
+== Objects ==
+=== Terrifying ===
+{{ObjectDifficultyList
+|name = Terrifying
+|icon = Terrifying.png
+|color = #8b17ff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Veterany.png|[[File:Terrifying.png|18px]] '''[[Veterany]]'''
+</gallery>
+}}
+=== Remorseless ===
+{{ObjectDifficultyList
+|name = Remorseless
+|icon = Remorseless.png
+|color = #2084ff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Administratory.png|[[File:Remorseless.png|18px]] '''[[Administratory]]'''
+</gallery>
+}}
+
+[[Category:Sub-Realms]]

@@ -1,0 +1,106 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Darkice.jpg}}}|{{{Size|2000px}}}]] </div> <div style="--theme-accent-color:-webkit-linear-gradient(#4dd0e1,#006064); --theme-accent-label-color:#000000;"> <div style="position:relative; z-index:1;">
+
+
+<div style="background:rgba(0,0,0,0.70); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+{{Location|title=Frozen World|image=[[File:Frozen World 512x512.png|Frozen World]]}}
+
+== Info ==
+[[Frozen World]] is a frozen wasteland of ice, there are chunks of ice around the map with characters from the main Realm encased in them, examples include [[Firey]], [[Boom Mic]], [[Dane]], and others. Among the icy wasteland you can find objects like [[Octahedron]] and [[Rosin]]. The emperor of frozen World is [[Freeze Juice]], Whos goal is to encase the whole FTBC universe in a thick sheet of ice. 
+
+==How to Enter==
+Start by dance clipping to this wall at [[Hotel|Hotel]]
+
+[[File:Dcw.png|180x180px|the wall]]
+
+then grab the key. After that, go to [[EXIT|EXIT]] then unlock the door in the back (the one that leads to [[Oodle]], Then touch this wall to get the blue key.
+
+[[File:Touchthewall.png|180x180px|touch it]]
+
+Then, go to [[City|City]] Library, click at Camera's lens, then click at [[Yellow Face]] to go to [[Purple Face Mouth]]. Once your here, go to the blue pod with the key and it will open revealing a button. Once you click this button, a new obby will appear in [[Snowy]], complete this obby and you will be teleported to [[Frozen World]].
+[[File:FrozenWorldEntrance.png|180x180px|FrozenWorldEntrance]]
+
+== Objects ==
+{{ObjectDifficultyList
+|name = Arduous
+|icon = Arduous.png
+|color = #5d0cff
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Frozen Steak.webp|[[File:Arduous.png|18px]] '''[[Frozen Steak]]'''
+File:Octahedron.png|[[File:Arduous.png|18px]] '''[[Octahedron]]'''
+File:Rosin.png|[[File:Arduous.png|18px]] '''[[Rosin]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Strenuous
+|icon = Strenuous.png
+|color = #4048e5
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Winterous.png|[[File:Strenuous.png|18px]] '''[[Winterous]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Remorseless
+|icon = Remorseless.png
+|color = #2084ff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Ice Chunk.webp|[[File:Remorseless.png|18px]] '''[[Ice Chunk]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = <span style="
+color:#2bd0fd;
+text-shadow:
+  0 0 8px rgba(255,255,255,0.9),
+  0 0 18px rgba(220,220,255,0.4);
+letter-spacing:1.5px;
+font-size:22px;
+">'''Horrifying'''</span>
+|icon = Horrifying.png
+|color = #2bd0fd
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Freeze Juice.png|[[File:Horrifying.png|18px]] '''[[Freeze Juice]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Medallion
+|icon = Medallion.png
+|color = #331900
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Frozen World Medallion.png|[[File:Medallion.png|18px]] '''[[Frozen World Medallion]]'''
+</gallery>
+}}
+
+==Music==
+
+=== New ===
+[https://www.youtube.com/watch?v=iTgcIqIsiPs Undertale - Music - 'So cold']
+
+TBA
+
+=== Old ===
+[https://www.roblox.com/library/15123469731/traumatic-recollection DELTARUNE - Flashback Excerpt but slowed down by x0.471937156 (13 semitones down)]
+
+ps- please change the image placements 
+-funky
+
+[[File:Traumatic recollection.ogg|thumb|traumatic recollection.ogg|600x600px]]
+[[Category:Realms]]

@@ -1,0 +1,24 @@
+{{Location|title=Starter Place|image=[[File:Sp icon.png]]}}
+== Info ==
+'''Starter Place''' is uhhh... filled with old roblox stuff.<br>
+'''Starter place''' is also where you get to [[Classic Insanity]] and the code for [[Replicated Storage]]. You also get 2009 Firey here.
+
+== How to Enter ==
+Start in [[Classic Paradise]], then go to the island with the big tree. If you look behind the island, there's a green part in between the rocks. Touch it and you'll be teleporter to '''Starter Place'''.
+
+== Objects ==
+
+=== Arduous ===
+{{ObjectDifficultyList
+|name = Arduous
+|icon = Arduous.png
+|color = #5d0cff
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:2009 Firey.webp|[[File:Arduous.png|18px]] '''[[2009 Firey]]'''
+File:Studio.png|[[File:Arduous.png|18px]] '''[[Studio]]'''
+</gallery>
+}}
+
+[[Category:Sub-Realms]]

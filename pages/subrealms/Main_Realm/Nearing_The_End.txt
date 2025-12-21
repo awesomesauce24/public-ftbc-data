@@ -1,0 +1,23 @@
+== How to Enter ==
+{{Spoiler|text=After solving the Great Rhombicosidodecahedron's puzzle, the code will  take you to a room with a 3d model of [[Great Rhombicosidodecahedron]]. touching it will teleport you here.}}{{Location|title=Nearing the End|image=NTE Icon.png|imagecaption=}}
+
+== Info ==
+Nearing The End is a sub realm, containing the last<small>(lies)</small> object in the game, [[Great Rhombicosidodecahedron]]. He is at the end of the obby, <span style="color: red; text-shadow: 2px 2px 20px red; font-size: 14px"><big>''good luck...''</big></span> 
+
+== Objects ==
+
+====<span style="color:#000000; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #ffffff; font-size:32px; text-shadow: 0px 0px 10px #ffffff">'''ℤ'''</span>====
+*[[File:IMPOSSIBLE.png|frameless|IMPOSSIBLE]] [[Great Rhombicosidodecahedron]]
+
+== Gallery ==
+<gallery>
+File:Rhombi End.png|[[Great Rhombicosidodecahedron]]'s model at the end of the obby.
+</gallery>
+
+== Music ==
+[https://create.roblox.com/store/asset/87540733242308/Undertale-Joking-Aside?externalSource=www&assetType=Audio Undertale: Joking Aside] 
+
+TBA 
+
+[[Category:Sub-Realms]]
+[[Category:Locations]]

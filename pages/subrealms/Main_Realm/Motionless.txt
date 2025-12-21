@@ -1,0 +1,43 @@
+'''Motionless''' is a realm for [[Contestants]] and [[Motionless (Object)|Motionless]]. That's it.
+== How to enter ==
+{{Location|title=Motionless|image=[[Missing_PNG.png]]|level=}}
+Start off by going to where [[Boblob]] is at the sticking out carpet. Then jump off onto the roof where [[Glitchy]] is. You will see a button. After pressing it, go to [[Fish Bowl]] and you will see a portal. 
+
+== Enemies ==
+
+* [[Enemies#Motionless|Motionless]]
+
+=== Remorseless ===
+{{ObjectDifficultyList
+|name = Remorseless
+|icon = Remorseless.png
+|color = #2084ff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Motionless.png|[[File:Remorseless.png|18px]] '''[[Motionless]]'''
+</gallery>
+}}
+=== Horrifying ===
+{{ObjectDifficultyList
+|name = Horrifying
+|icon = Horrifying.png
+|color = #2bd0fd
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Contestants.png|[[File:Horrifying.png|18px]] '''[[Contestants]]'''
+</gallery>
+}}
+=== Secrets ===
+{{ObjectDifficultyList
+|name = <span style="color:#ffd3ac; -webkit-text-stroke-width:1px; -webkit-text-stroke-color:#ffffff; font-size:32px; text-shadow:0 0 10px #ffffff">ꌗꍟꉓꋪꍟ꓄</span>
+|icon = SECRET.png
+|color = #FFD3AC
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Not a Number.png|[[File:SECRET.png|18px]] '''[[Not a Number]]'''
+</gallery>
+}}
+[[Category:Sub-Realms]]

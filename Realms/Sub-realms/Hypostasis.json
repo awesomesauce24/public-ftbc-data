@@ -1,0 +1,11 @@
+{
+  "parent_realm": "Main Realm",
+  "parent_subrealm": "Sanctuary",
+  "objects": [
+  {
+    "ObjectName": "Hypostasis",
+    "Difficulty": "IMPOSSIBLE",
+    "Description": "Hypostasis is the only being capable of nullifying the mere crystallization of the universe. Start in Frozen World, a badge description may help you."
+  }
+  ]
+}

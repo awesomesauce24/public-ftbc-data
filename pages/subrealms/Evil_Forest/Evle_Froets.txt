@@ -1,0 +1,72 @@
+<div align="center" style="position:fixed; z-index:-1; top:-1; left:0; right:0; bottom:0;">
+[[File:Evle.gif|2700px]]
+</div>
+<!-- Subtle static + vignette overlays -->
+<div style="opacity:0.50; pointer-events:none; position:fixed; z-index:3; top:0; left:0; right:0; bottom:0;">
+[[File:Evle.gif|3000px]]
+</div>
+<div style="
+background:rgba(0,0,0,0.78);
+padding:28px;
+border-radius:14px;
+max-width:950px;
+margin:auto;
+box-shadow:0 0 40px rgba(255,0,0,0.15);
+">
+
+<div style="
+color:#990000;
+text-shadow:
+  0 0 6px rgba(255,40,40,0.35),
+  0 0 18px rgba(120,0,0,0.45),
+  0 0 36px rgba(80,0,0,0.35);
+letter-spacing:0.7px;
+font-size:14px;
+line-height:1.65;
+filter: blur(0.15px);
+">
+
+__TOC__
+
+== <span style="color:#ff3b3b; text-shadow:0 0 14px red;">Info</span> ==
+'''Evle Froets''' is a distorted sub-realm of [[Evil Forest]], filled with thick red fog and unstable geometry.  
+Depth perception is unreliable, and distances may subtly shift while moving.  
+Some structures appear partially phased into the fog itself.
+
+The realm is quieter than Evil Forest, yet feels more hostile.
+
+<hr style="border:1px solid #330000;">
+
+=== <span style="color:#ff3b3b; text-shadow:0 0 14px red;">How To Enter</span> ===
+Start in [[Evil Forest]] and locate a white platform near [[Evil David]].  
+The platform is invisible unless viewed from below.  
+Perform three wrap-arounds, then climb the ladder at the end to reach Evle Froets.
+
+<hr style="border:1px solid #330000;">
+
+== <span style="color:#ff3b3b; text-shadow:0 0 14px red;">Objects</span> ==
+
+{{ObjectDifficultyList
+|name = <span style="color:#ffd3ac; -webkit-text-stroke-width:1px; -webkit-text-stroke-color:#ffffff; font-size:28px; text-shadow:0 0 10px #ffffff;">ꌗꍟꉓꋪꍟ꓄</span>
+|icon = SECRET.png
+|color = #FFD3AC
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:FLANew.webp|[[File:SECRET.png|18px]] '''[[Firey.FLA]]'''
+</gallery>
+}}
+
+<hr style="border:1px solid #330000;">
+
+== <span style="color:#ff3b3b; text-shadow:0 0 14px red;">Enemies</span> ==
+* [[Enemies#Evil%20Leafy|Evil Leafy...?]]
+
+<hr style="border:1px solid #330000;">
+
+[[Category:Realms]]
+[[Category:Evil Forest]]
+[[Category:Sub-Realms]]
+
+</div>
+</div>

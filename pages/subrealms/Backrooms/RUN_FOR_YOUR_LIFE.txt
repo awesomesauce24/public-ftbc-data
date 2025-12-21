@@ -1,0 +1,27 @@
+{{Cleanup}}
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:lvl!bg.jpg|2000px]]
+</div>
+
+<div style="--theme-accent-color:-webkit-linear-gradient(#2b2b2b,#212121); --theme-accent-label-color:#ffffff;">
+== How to enter ==
+{{Location|title=RUN FOR YOUR LIFE!!! AAHHHH|image=[[File:Level Run.png]]|level=!}}
+Located behind a no-collision wall near [[Phone]] in [[Level 1]]
+
+== Info ==
+This Level looks like a long, red-lit hospital hallway. There are planks and hospital beds to jump over. Touching black ooze is an insta-kill, and you will be sent back to the start of Level !
+------------------------------------------------------------
+= Backrooms Object List =
+
+==== <span style="color:#FF1C95">'''Insane'''</span> ====
+* [[File:Insane.png|frameless]] [[B.O.D]]
+
+====<span style="color:#2bd0fd; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #72e1ff font-size: 24px">'''Horrifying'''</span>====
+* [[File:Horrifying.png|frameless|Horrifying]] [[Pesky Pentagon]]
+
+<span style="font-size:11px">p.s. [[Pesky Pentagon]] is in [[The End]]. Level ! is simply the entrance area.</span>
+------------------------------------------------------------
+
+[[Category:Realms]]
+[[Category:Backrooms Levels]]
+[[Category:Sub-Realms]]

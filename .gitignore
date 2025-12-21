@@ -1,0 +1,19 @@
+# Private/Local
+rbx_private/
+tests/
+__pycache__/
+*.pyc
+.DS_Store
+# Generated outputs
+outputs/
+
+# Python cache
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
