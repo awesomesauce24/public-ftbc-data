@@ -274,8 +274,8 @@ def edit_object_page(realm_name: str, area_name: str, obj_data: dict, object_pag
     )
     
     # Store markup in the data for reference
-    page_data['wiki_markup'] = wiki_markuphh
-    
+    page_data['wiki_markup'] = wiki_markup
+
     page_data['object']['image'] = image
     page_data['object']['previousDifficulties'] = previous_difficulties
     
@@ -380,7 +380,7 @@ def publish_to_fandom(page_title: str, markup: str, realm_name: str):
     success, msg = publisher.publish_page(
         page_title, 
         markup, 
-        summary=f"Updated object page via FTBC Wiki Bot"
+        summary=f"This change was created By Spongybot! :D"
     )
     
     if success:
@@ -505,7 +505,6 @@ def create_realm_page(realm_cmd):
     all_realms = [r for r in all_realms if r != '.cache']
     
     selected_realm = None
-    selected_area = None
     
     while True:
         if selected_realm is None:
@@ -568,59 +567,16 @@ def create_realm_page(realm_cmd):
                         print(f"[ERR] Invalid selection")
                 except ValueError:
                     print("[ERR] Please enter a valid number")
-        
-        elif selected_area is None:
-            # Area/Subrealm selection mode
-            subrealms = Config.get_subrealms(selected_realm)
-            
-            if subrealms:
-                print("\n" + "="*60)
-                print(f"Realm: {selected_realm} - Select Area/Subrealm")
-                print("="*60)
-                print(f"\nAvailable subrealms:\n")
-                
-                for idx, subrealm in enumerate(subrealms, 1):
-                    print(f"({idx}) {subrealm}")
-                
-                print(f"\n(0) No subrealm - use main realm only")
-                print("\nEnter number to select (or 'back'):")
-                
-                choice_input = input("> ").strip()
-                
-                if choice_input.lower() == 'back':
-                    selected_realm = None
-                    continue
-                
-                try:
-                    choice_idx = int(choice_input)
-                    if choice_idx == 0:
-                        selected_area = selected_realm
-                    elif 0 < choice_idx <= len(subrealms):
-                        selected_area = f"{selected_realm}/{subrealms[choice_idx - 1]}"
-                    else:
-                        print(f"[ERR] Invalid selection")
-                        continue
-                except ValueError:
-                    print("[ERR] Please enter a valid number")
-                    continue
-            else:
-                # No subrealms for this realm
-                selected_area = selected_realm
         else:
-            # Object selection and editing mode
-            next_action = display_realm_create_page(realm_cmd, selected_realm, selected_area, pages_status)
+            # Object selection and editing mode (area auto-detected from object)
+            next_action = display_realm_create_page(realm_cmd, selected_realm, pages_status)
             
             if next_action == 'create':
-                # Create another object in same area
+                # Create another object in same realm
                 continue
             elif next_action == 'realm':
                 # Choose another realm
                 selected_realm = None
-                selected_area = None
-                continue
-            elif next_action == 'area':
-                # Choose another area in same realm
-                selected_area = None
                 continue
             else:
                 # Exit
@@ -637,13 +593,10 @@ def get_area_from_object(realm_name: str, obj_data: dict) -> str:
     return realm_name
 
 
-def display_realm_create_page(realm_cmd, realm_name: str, area_name: str, pages_status: dict) -> str:
-    """Display realm objects for editing with page status. Returns 'create', 'realm', 'area', or 'exit'"""
+def display_realm_create_page(realm_cmd, realm_name: str, pages_status: dict) -> str:
+    """Display realm objects for editing with page status. Returns 'create', 'realm', or 'exit'"""
     print("\n" + "="*60)
-    print(f"Realm: {realm_name}")
-    if area_name != realm_name:
-        print(f"Area: {area_name}")
-    print("Objects")
+    print(f"Realm: {realm_name} - Objects")
     print("="*60)
     
     # Load objects from JSON (already sorted alphabetically)
@@ -686,10 +639,6 @@ def display_realm_create_page(realm_cmd, realm_name: str, area_name: str, pages_
     edit_input = input("> ").strip()
     
     if edit_input.lower() == 'back':
-        # If we have subrealms, go back to area selection, otherwise go to realm selection
-        subrealms = Config.get_subrealms(realm_name)
-        if subrealms and area_name != realm_name:
-            return 'area'
         return 'realm'
     
     try:

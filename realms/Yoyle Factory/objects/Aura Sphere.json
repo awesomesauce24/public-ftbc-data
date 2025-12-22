@@ -1,0 +1,31 @@
+{
+  "object": {
+    "header": {
+      "background_file": "YoylefactoryRealm.png",
+      "background_size": "2000px",
+      "theme_accent_color": "#46515D",
+      "theme_accent_label_color": "#ffffff"
+    },
+    "character_info": {
+      "name": "Aura Sphere",
+      "gallery": [
+        "Aura Sphere.png"
+      ],
+      "difficulty": "dreadful",
+      "area": "Yoyle Factory",
+      "hint": "it looks like it could be an interdimensional portal that teleported an airline on two pieces of camera footage from 2014"
+    },
+    "sections": {
+      "info": "A dark blue sphere with a white outline and a dot in the center",
+      "obtaining": "Go to abandoned zone and found PC with binary on it \"01110010001110000111010100110111\" decrypt it and you will get \"r8u7\", say that as /e code and you will get teleported to aura sphere"
+    },
+    "categories": [
+      "dreadful Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "image": "Aura Sphere.png",
+    "previousDifficulties": ""
+  },
+  "wiki_markup": "<div align=\"center\" style=\"position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;\">\n[[File:YoylefactoryRealm.png|2000px]]\n</div>\n<div style=\"--theme-accent-color:-webkit-linear-gradient(#46515D,#2A3944); --theme-accent-label-color:#ffffff;\">\n<div style=\"position:relative; z-index:1;\">\n\n{{CharacterInfo\n|name=Aura Sphere\n|character=[[File:Aura Sphere.png]]\n|difficulty=[[File:Dreadful.png|link=]] <span style=\"color:#db25ff\">'''<b>Dreadful</b>'''</span>\n|area=[[Yoyle Factory]]\n|hint=it looks like it could be an interdimensional portal that teleported an airline on two pieces of camera footage from 2014\n|additionalinfo\n}}\n\n== Info ==\nA dark blue sphere with a white outline and a dot in the center\n\n== Obtaining ==\n'''''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''''\n<div class=\"mw-collapsible mw-collapsed\" style=\"width:100%\">\n<div class=\"mw-collapsible-content\">Go to abandoned zone and found PC with binary on it \"01110010001110000111010100110111\" decrypt it and you will get \"r8u7\", say that as /e code and you will get teleported to aura sphere</div>\n</div>\n\n[[Category:Dreadful Objects]]\n[[Category:Objects]]\n[[Category:Yoyle Factory Objects]]\n</div>\n</div>"
+}

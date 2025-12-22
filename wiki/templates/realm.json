@@ -1,0 +1,22 @@
+{
+  "realm": {
+    "header": {
+      "background_file": "{{BACKGROUND_IMAGE}}",
+      "background_size": "2000px",
+      "theme_accent_color": "{{THEME_ACCENT_COLOR}}",
+      "theme_accent_label_color": "{{THEME_ACCENT_LABEL_COLOR}}"
+    },
+    "sections": {
+      "description": "{{DESCRIPTION}}",
+      "difficulty": "{{DIFFICULTY}}",
+      "obtaining": "{{OBTAINING_INSTRUCTIONS}}"
+    },
+    "subrealms": [
+      "{{SUBREALM_LIST}}"
+    ],
+    "categories": [
+      "Realms",
+      "{{DIFFICULTY}} Realms"
+    ]
+  }
+}

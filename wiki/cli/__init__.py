@@ -1,19 +1,5 @@
-"""
-CLI (Command-Line Interface) module for FTBC Wiki Bot
-Contains all commands, UI components, and CLI utilities
-"""
+"""CLI modules for user interaction"""
 
-from .commands import (
-    cmd_help,
-    cmd_exit,
-    cmd_search
-)
+from wiki.cli.commands import RealmCommands, SearchCommands, ExportCommands
 
-from .ui import display_welcome
-
-__all__ = [
-    'cmd_help',
-    'cmd_exit',
-    'cmd_search',
-    'display_welcome'
-]
+__all__ = ['RealmCommands', 'SearchCommands', 'ExportCommands']

@@ -1,132 +1,158 @@
-# Wiki Bot - Architecture
+# Architecture Document
 
-The wiki bot is organized into logical, maintainable modules.
+## System Design
 
-## New Architecture
+### Layer 1: Core Data Layer
+- **Config**: Centralized configuration (colors, realm info, paths)
+- **Loader**: Load JSON and text data from disk
+- **Parser**: Extract structured data from wiki markup
+
+### Layer 2: CLI Layer
+- **Commands**: High-level commands for users (RealmCommands, SearchCommands, ExportCommands)
+- **Main**: Interactive CLI interface
+
+### Layer 3: Generator Layer
+- **WikiPageGenerator**: Generate MediaWiki-formatted pages
+- **MarkdownPageGenerator**: Generate markdown pages
+
+### Layer 4: Utility Layer
+- **FileUtils**: Safe file I/O operations
+- **StringUtils**: String normalization and formatting
+
+## Data Flow
 
 ```
-wiki/
-├── main.py                    # Entry point - command routing
-│
-├── cli/                       # Command-Line Interface (NEW!)
-│   ├── __init__.py           # Package exports
-│   ├── commands.py           # All command implementations
-│   ├── ui.py                 # UI/display components
-│   └── utils.py              # CLI utility functions
-│
-├── core/                      # Core functionality
-│   ├── __init__.py           # Package exports
-│   ├── authenticate.py       # Wiki authentication
-│   ├── bot.py                # PyWikiBot operations
-│   ├── scrapers.py           # Wiki content fetching
-│   └── object_formatter.py   # Object formatting
-│
-├── config/                    # Configuration
-│   ├── __init__.py
-│   ├── config.py
-│   └── user-config.py
-│
-├── templates/                 # Templates
-│   ├── __init__.py
-│   └── object_template.json
-│
-└── ARCHITECTURE.md           # This file
+Realms Folder (JSON + TXT)
+    ↓
+Loaders (RealmLoader, SubrealmLoader)
+    ↓
+Parsers (extract structured data)
+    ↓
+Commands (user-facing operations)
+    ↓
+Generators (format output)
+    ↓
+User/Export
 ```
 
-## Module Descriptions
+## Key Relationships
 
-### **main.py** (Entry Point)
-- Command router with `COMMAND_MAP`
-- Main menu loop (~84 lines)
-- Keyboard interrupt handling
+```
+Config
+  ├─ REALMS_PATH → used by Loaders
+  ├─ DIFFICULTY_COLORS → used by Generators
+  └─ REALMS_INFO → realm metadata
 
-### **cli/** (Command-Line Interface)
-All user-facing components consolidated in one folder:
+RealmLoader
+  ├─ loads from REALMS_PATH
+  ├─ creates SubrealmLoader instances
+  └─ used by RealmCommands
 
-- **commands.py**
-  - `cmd_help()` - Display help
-  - `cmd_exit()` - Exit bot
-  - `cmd_realms()` - Show realms
-  - `cmd_subrealms()` - Show subrealms
-  - `cmd_objtemplate()` - Show template
-  - `cmd_createobj()` - Create object workflow
-  - Helper functions for input
+SubrealmLoader
+  ├─ loads from realm subdirectories
+  └─ used by RealmCommands
 
-- **ui.py**
-  - `display_header()` - Formatted headers
-  - `display_footer()` - Separator
-  - `display_welcome()` - Welcome message
-  - `display_help()` - Help display
-  - `display_realms()` - Realm list
-  - `display_subrealm_section()` - Subrealm display
-  - `prompt_post_generation()` - Post-generation menu
+Parsers
+  ├─ process output from Loaders
+  └─ used by Generators
 
-- **utils.py**
-  - `copy_to_clipboard()` - Clipboard operations
-  - `open_browser()` - URL operations
-  - `edit_wiki_page()` - Wiki editing
+Commands
+  ├─ orchestrate Loaders and Parsers
+  ├─ invoked from Main CLI
+  └─ call Generators for output
 
-### **core/** (Core Functionality)
-Wiki operations and data processing:
-
-- **authenticate.py** - Login and authentication
-- **bot.py** - PyWikiBot operations
-- **scrapers.py** - Fetching wiki content
-- **object_formatter.py** - Formatting objects for wiki
-
-### **config/** (Configuration)
-Settings and configuration files for the bot
-
-### **templates/** (Templates)
-Template files and JSON configurations
-
-## Organization Benefits
-
-✅ **Separation of Concerns**
-- CLI logic isolated in `cli/` folder
-- Core wiki operations in `core/` folder
-- Configuration separated in `config/` folder
-
-✅ **Easier Navigation**
-- All CLI components in one place
-- Quick to find UI functions, commands, utils
-- Related code grouped together
-
-✅ **Better Extensibility**
-- Add new command: Add to `cli/commands.py`
-- Add new UI element: Add to `cli/ui.py`
-- Add new wiki operation: Add to `core/`
-
-✅ **Cleaner Imports**
-- `from cli import ...` - All CLI stuff
-- `from core import ...` - All core stuff
-- `from config import ...` - All config stuff
-
-## Usage
-
-Run the bot:
-```bash
-python wiki/main.py
+Generators
+  ├─ format data from Parsers
+  ├─ take Config for styling
+  └─ produce wiki/markdown output
 ```
 
-Import in other projects:
-```python
-from cli import cmd_help, display_welcome
-from core import authenticate, scrape_realms
+## Module Dependencies
+
+```
+main.py
+├─ cli.commands (RealmCommands, SearchCommands, ExportCommands)
+│  ├─ core.loader (RealmLoader, SubrealmLoader)
+│  │  └─ core.config (Config)
+│  └─ core.config
+│
+core.parser
+├─ (no dependencies - pure functions)
+│
+generators
+├─ core.config
+│
+utils
+├─ (no dependencies - pure functions)
 ```
 
-## File Statistics
+## Extension Points
 
-| Component | Lines | Purpose |
-|-----------|-------|---------|
-| main.py | 84 | Command routing & main loop |
-| cli/commands.py | 245 | Command implementations |
-| cli/ui.py | 113 | Display functions |
-| cli/utils.py | 75 | Utility functions |
-| core/authenticate.py | 92 | Authentication |
-| core/scrapers.py | 177 | Web scraping |
-| core/object_formatter.py | 395 | Data formatting |
-| core/bot.py | 66 | Wiki operations |
+### Add New Command Type
+1. Create class in `cli/commands.py`
+2. Implement methods using loaders
+3. Integrate into `main.py` menu
 
+### Add New Parser
+1. Add static method to `ObjectParser` or `RealmParser`
+2. Test with sample wiki markup
+3. Use in generators or commands
 
+### Add New Generator
+1. Create class in `generators/__init__.py`
+2. Implement generation methods
+3. Register in commands
 
+### Add New Config
+1. Add constant to `Config` class
+2. Add accessor method if complex
+3. Document in README
+
+## Design Principles
+
+### Single Responsibility
+- Each class/module handles one concern
+- Loaders handle file I/O
+- Parsers handle data extraction
+- Generators handle formatting
+
+### Separation of Concerns
+- Data loading separate from formatting
+- CLI separate from business logic
+- Configuration separate from logic
+
+### No External Dependencies
+- Uses only Python stdlib
+- Easier to maintain and deploy
+- Lighter footprint
+
+### Reusability
+- All modules can be imported independently
+- Functions are pure where possible
+- Classes are composable
+
+### Testability
+- Clear inputs and outputs
+- Minimal side effects
+- Easy to mock
+
+## Performance Considerations
+
+- Lazy loading: data loaded only when needed
+- In-memory caching possible for frequently accessed data
+- Bulk operations supported for export
+
+## Security Notes
+
+- All file operations use Path for safety
+- Input validation in parsers
+- Safe encoding handling (UTF-8)
+
+## Future Architecture Changes
+
+Could be extended with:
+- Database layer (SQLite/PostgreSQL)
+- REST API layer
+- Caching layer
+- Worker/queue system for batch jobs
+- WebUI on top of CLI
