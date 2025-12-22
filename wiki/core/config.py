@@ -192,6 +192,7 @@ class Config:
         # Yoyle Factory
         "Normal Factory": "Basement",
         "Lights Out": "Abandonment",
+        "Abandonment": "Abandonment",
         "Meltdown": "Meltdown",
         "Out Of Bounds": "Out Of Bounds",
     }
