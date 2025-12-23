@@ -93,7 +93,7 @@ class ObjectPageGenerator:
     @staticmethod
     def generate_object_page(name: str, difficulty: str, area: str, hint: str, 
                             info: str, obtaining: str, image: str = "", 
-                            background: str = "") -> Dict[str, Any]:
+                            old_image: str = "", background: str = "") -> Dict[str, Any]:
         """Generate object page from JSON template"""
         template = TemplateLoader.load_object_template()
         theme = Config.get_realm_info(area)
@@ -116,7 +116,7 @@ class ObjectPageGenerator:
     @staticmethod
     def generate_wiki_markup(name: str, difficulty: str, area: str, hint: str,
                             info: str, obtaining: str, image: str = "",
-                            background: str = "", previous_difficulties: str = "") -> str:
+                            old_image: str = "", background: str = "", previous_difficulties: str = "") -> str:
         """Generate actual wiki markup that can be pasted directly into Fandom editor"""
         # Normalize difficulty to title case for lookups
         difficulty_normalized = difficulty.title() if difficulty.lower() != "impossible" else "IMPOSSIBLE"
@@ -124,6 +124,12 @@ class ObjectPageGenerator:
         # Extract parent realm name from area (handles both "Realm" and "Realm/Subrealm" formats)
         parent_realm = area.split('/')[0] if '/' in area else area
         theme = Config.get_realm_info(parent_realm)
+        
+        # Check for subrealm-specific theme overrides
+        if area in Config.SUBREALM_THEMES:
+            subrealm_theme = Config.SUBREALM_THEMES[area]
+            theme = {**theme, **subrealm_theme}  # Merge with parent theme, subrealm overrides
+        
         difficulty_color = Config.get_color(difficulty_normalized)
         difficulty_icon = ObjectPageGenerator.DIFFICULTY_ICONS.get(difficulty_normalized, "Unknown.png")
         is_arduous_plus = difficulty_normalized in ObjectPageGenerator.ARDUOUS_AND_ABOVE
@@ -132,11 +138,20 @@ class ObjectPageGenerator:
         if not background:
             background = Config.SUBREALM_BACKGROUNDS.get(area, theme.get('background', 'Default.webp'))
         
-        # Normalize image name (ensure .png extension only once)
+        # Normalize image name (ensure .png/.webp extension only once)
         if not image:
             image = f"{name}.png"
-        elif not image.endswith('.png'):
+        elif not image.endswith(('.png', '.webp')):
             image = f"{image}.png"
+        
+        # Build character field with gallery if old image exists
+        if old_image:
+            # Ensure old_image has proper extension
+            if not old_image.endswith(('.png', '.webp')):
+                old_image = f"{old_image}.png"
+            character_field = f"<gallery>\n{image}|Current\n{old_image}|Old\n</gallery>"
+        else:
+            character_field = f"[[File:{image}]]"
         
         # Build obtaining section with spoiler box for Dreadful+
         obtaining_section = ""
@@ -155,11 +170,28 @@ class ObjectPageGenerator:
         if previous_difficulties.strip():
             previous_line = f"|previousdifficulties = {previous_difficulties}\n"
         
-        # Build the area link (show parent realm as text if using subrealm)
-        if '/' in area:
+        # Build the area link and category
+        # Determine if this is a true subrealm (has custom background in SUBREALM_BACKGROUNDS)
+        # or just a simple area within a realm
+        is_subrealm_page = area in Config.SUBREALM_BACKGROUNDS
+        
+        if is_subrealm_page:
+            # True subrealm like "Yoyle Factory/Abandonment"
             area_link = f"[[{area}|{parent_realm}]]"
+            area_category = area
+            additional_category = f"\n[[Category:{parent_realm} Objects]]"
         else:
-            area_link = f"[[{area}]]"
+            # Simple area like "Goiky" or "Candyland" or just "Yoyle Factory"
+            # Extract just the area name if it has a parent (e.g., "Main Realm/Goiky" -> "Goiky")
+            area_name = area.split('/')[-1] if '/' in area else area
+            area_link = f"[[{area_name}]]"
+            area_category = area_name
+            # Add parent realm category ONLY if area is different from parent realm
+            # This avoids duplicating categories like [[Category:Yoyle Factory Objects]] twice
+            realm_subrealms = Config.get_subrealms(parent_realm)
+            additional_category = ""
+            if realm_subrealms and area_name != parent_realm:
+                additional_category = f"\n[[Category:{parent_realm} Objects]]"
         
         # Build the full wiki markup
         markup = f"""<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
@@ -170,7 +202,7 @@ class ObjectPageGenerator:
 
 {{{{CharacterInfo
 |name={name}
-|character=[[File:{image}]]
+|character={character_field}
 |difficulty=[[File:{difficulty_icon}|link=]] <span style="color:{difficulty_color}">'''<b>{difficulty_normalized}</b>'''</span>
 |area={area_link}
 |hint={hint}
@@ -184,8 +216,7 @@ class ObjectPageGenerator:
 
 [[Category:{difficulty_normalized} Objects]]
 [[Category:Objects]]
-[[Category:{area} Objects]]
-{f'[[Category:{parent_realm} Objects]]' if '/' in area else ''}
+[[Category:{area_category} Objects]]{additional_category}
 </div>
 </div>"""
         

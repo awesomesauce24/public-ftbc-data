@@ -1,0 +1,32 @@
+{
+  "object": {
+    "header": {
+      "background_file": "YoylelandRealm.png",
+      "background_size": "2000px",
+      "theme_accent_color": "#cd58e3",
+      "theme_accent_label_color": "#ffffff"
+    },
+    "character_info": {
+      "name": "Mangosteen",
+      "gallery": [
+        "Mangosteen.png"
+      ],
+      "difficulty": "dreadful",
+      "area": "Yoyleland",
+      "hint": "hidden in a blade of grass, oh no not again..."
+    },
+    "sections": {
+      "info": "A smiling Mangosteen with its arms up.",
+      "obtaining": "near the beehive (right side of City), he's hiding as one of the blades of grass. (use [https://www.youtube.com/watch?v=EegvYWZK5gY this tutorial] if you get stuck)"
+    },
+    "categories": [
+      "dreadful Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "image": "Mangosteen.png",
+    "oldImage": "",
+    "previousDifficulties": ""
+  },
+  "wiki_markup": "<div align=\"center\" style=\"position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;\">\n[[File:YoylelandRealm.png|2000px]]\n</div>\n<div style=\"--theme-accent-color:#cd58e3; --theme-accent-label-color:#ffffff;\">\n<div style=\"position:relative; z-index:1;\">\n\n{{CharacterInfo\n|name=Mangosteen\n|character=[[File:Mangosteen.png]]\n|difficulty=[[File:Dreadful.png|link=]] <span style=\"color:#db25ff\">'''<b>Dreadful</b>'''</span>\n|area=[[Yoyleland]]\n|hint=hidden in a blade of grass, oh no not again...\n|additionalinfo\n}}\n\n== Info ==\nA smiling Mangosteen with its arms up.\n\n== Obtaining ==\n'''''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''''\n<div class=\"mw-collapsible mw-collapsed\" style=\"width:100%\">\n<div class=\"mw-collapsible-content\">near the beehive (right side of City), he's hiding as one of the blades of grass. (use [https://www.youtube.com/watch?v=EegvYWZK5gY this tutorial] if you get stuck)</div>\n</div>\n\n[[Category:Dreadful Objects]]\n[[Category:Objects]]\n[[Category:Yoyleland Objects]]\n</div>\n</div>"
+}

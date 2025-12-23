@@ -1,0 +1,32 @@
+{
+  "object": {
+    "header": {
+      "background_file": "YoylelandRealm.png",
+      "background_size": "2000px",
+      "theme_accent_color": "#cd58e3",
+      "theme_accent_label_color": "#ffffff"
+    },
+    "character_info": {
+      "name": "Boombox",
+      "gallery": [
+        "Boombox.webp"
+      ],
+      "difficulty": "effortless",
+      "area": "Yoyleland",
+      "hint": "buy our new leafy detector"
+    },
+    "sections": {
+      "info": "A strange property in [[Yoyleland]] seems to be taking Objects from a completely different universe and putting them in [[Yoyleland]], it seems that this object had that happen to them but it is unknown where they come from.",
+      "obtaining": "Go into Yoyleland, then start walking left and you will see Boombox in a field of Yoyle Bushes."
+    },
+    "categories": [
+      "effortless Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "image": "Boombox.webp",
+    "oldImage": "Boombox.png",
+    "previousDifficulties": ""
+  },
+  "wiki_markup": "<div align=\"center\" style=\"position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;\">\n[[File:YoylelandRealm.png|2000px]]\n</div>\n<div style=\"--theme-accent-color:#cd58e3; --theme-accent-label-color:#ffffff;\">\n<div style=\"position:relative; z-index:1;\">\n\n{{CharacterInfo\n|name=Boombox\n|character=<gallery>\nBoombox.webp|Current\nBoombox.png|Old\n</gallery>\n|difficulty=[[File:Effortless.png|link=]] <span style=\"color:#17a897\">'''<b>Effortless</b>'''</span>\n|area=[[Yoyleland]]\n|hint=buy our new leafy detector\n|additionalinfo\n}}\n\n== Info ==\nA strange property in [[Yoyleland]] seems to be taking Objects from a completely different universe and putting them in [[Yoyleland]], it seems that this object had that happen to them but it is unknown where they come from.\n\n== Obtaining ==\nGo into Yoyleland, then start walking left and you will see Boombox in a field of Yoyle Bushes.\n\n[[Category:Effortless Objects]]\n[[Category:Objects]]\n[[Category:Yoyleland Objects]]\n</div>\n</div>"
+}

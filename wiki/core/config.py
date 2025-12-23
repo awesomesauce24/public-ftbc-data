@@ -144,6 +144,7 @@ class Config:
     # Subrealms structure (maps parent realm to list of subrealms)
     SUBREALMS = {
         "Main Realm": [
+            "Goiky",
             "Motionless",
             "Mythical Forest",
             "Nearing The End",
@@ -189,8 +190,9 @@ class Config:
     
     # Section to subrealm mapping (for auto-detection from JSON)
     SECTION_TO_SUBREALM = {
-        # Yoyle Factory
-        "Normal Factory": "Basement",
+        # Main Realm
+        "Goiky": "Goiky",
+        # Yoyle Factory (only map to subrealms for special areas, not "Normal Factory")
         "Lights Out": "Abandonment",
         "Abandonment": "Abandonment",
         "Meltdown": "Meltdown",
@@ -204,6 +206,14 @@ class Config:
         "Yoyle Factory/Abandonment": "Lights Out.png",
         "Yoyle Factory/Meltdown": "Meltdown.png",
         "Yoyle Factory/Out Of Bounds": "Out of Bounds.png",
+    }
+    
+    # Subrealm-specific theme colors (overrides parent realm colors)
+    SUBREALM_THEMES = {
+        "Yoyle Factory/Meltdown": {
+            "accent_color": "-webkit-linear-gradient(#78ff78,#00ff00)",
+            "accent_label_color": "#ffffff",
+        }
     }
     
     @classmethod

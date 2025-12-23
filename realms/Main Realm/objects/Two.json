@@ -1,0 +1,31 @@
+{
+  "object": {
+    "header": {
+      "background_file": "Default.webp",
+      "background_size": "2000px",
+      "theme_accent_color": "#ff6f00",
+      "theme_accent_label_color": "#ffffff"
+    },
+    "character_info": {
+      "name": "Two",
+      "gallery": [
+        "Two.png"
+      ],
+      "difficulty": "insane",
+      "area": "Main Realm/Goiky",
+      "hint": "invisible platforms are cool. (Start in Goiky)"
+    },
+    "sections": {
+      "info": "Two is a green non-binary number “2”, who is also the host of \"The Power of Two\"",
+      "obtaining": "Start in [[Goiky]].  \nGo to the area near [[Bell]]; there is an invisible platform path you can walk on.  \nFollow the path all the way to the end, then click the invisible box to obtain Two."
+    },
+    "categories": [
+      "insane Objects",
+      "Objects",
+      "Main Realm/Goiky Objects"
+    ],
+    "image": "Two.png",
+    "previousDifficulties": ""
+  },
+  "wiki_markup": "<div align=\"center\" style=\"position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;\">\n[[File:Goiky.png|2000px]]\n</div>\n<div style=\"--theme-accent-color:#23bd1c; --theme-accent-label-color:#ffffff;\">\n<div style=\"position:relative; z-index:1;\">\n\n{{CharacterInfo\n|name=Two\n|character=[[File:Two.png]]\n|difficulty=[[File:Insane.png|link=]] <span style=\"color:#ff1c95\">'''<b>Insane</b>'''</span>\n|area=[[Goiky]]\n|hint=invisible platforms are cool. (Start in Goiky)\n|additionalinfo\n}}\n\n== Info ==\nTwo is a green non-binary number “2”, who is also the host of \"The Power of Two\"\n\n== Obtaining ==\nStart in [[Goiky]].  \nGo to the area near [[Bell]]; there is an invisible platform path you can walk on.  \nFollow the path all the way to the end, then click the invisible box to obtain Two.\n\n[[Category:Insane Objects]]\n[[Category:Objects]]\n[[Category:Goiky Objects]]\n[[Category:Main Realm Objects]]\n</div>\n</div>"
+}

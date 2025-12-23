@@ -247,8 +247,32 @@ def edit_object_page(realm_name: str, area_name: str, obj_data: dict, object_pag
     print("\nEnter image file name (press Enter to use default: {}.png):".format(obj_name))
     image = input("> ").strip() or f"{obj_name}.png"
     
+    # Ask for old image if there is one
+    print("\nDoes this object have an old image? (yes/no):")
+    has_old_image = input("> ").strip().lower() in ['yes', 'y']
+    old_image = ""
+    if has_old_image:
+        print("Enter old image file name:")
+        old_image = input("> ").strip()
+    
     print("\nEnter previous difficulties (if any, e.g., 'Insane, Hard'):")
-    previous_difficulties = input("> ").strip()
+    previous_difficulties_input = input("> ").strip()
+    
+    # Format previous difficulties with icons and colors
+    previous_difficulties = ""
+    if previous_difficulties_input:
+        from wiki.generators import ObjectPageGenerator
+        
+        difficulties = [d.strip().title() if d.strip().lower() != "impossible" else "IMPOSSIBLE" for d in previous_difficulties_input.split(',')]
+        formatted_diffs = []
+        
+        for diff in difficulties:
+            if diff in ObjectPageGenerator.DIFFICULTY_ICONS:
+                icon = ObjectPageGenerator.DIFFICULTY_ICONS[diff]
+                color = Config.get_color(diff)
+                formatted_diffs.append(f"[[File:{icon}]] <span style=\"color:{color}\">'''{diff}'''</span>")
+        
+        previous_difficulties = " ".join(formatted_diffs)
     
     # Generate page using template
     page_data = ObjectPageGenerator.generate_object_page(
@@ -258,7 +282,8 @@ def edit_object_page(realm_name: str, area_name: str, obj_data: dict, object_pag
         hint, 
         info_text, 
         obtaining_text,
-        image=image
+        image=image,
+        old_image=old_image
     )
     
     # Also store the wiki markup for easy copying
@@ -270,6 +295,7 @@ def edit_object_page(realm_name: str, area_name: str, obj_data: dict, object_pag
         info_text,
         obtaining_text,
         image=image,
+        old_image=old_image,
         previous_difficulties=previous_difficulties
     )
     
@@ -277,6 +303,7 @@ def edit_object_page(realm_name: str, area_name: str, obj_data: dict, object_pag
     page_data['wiki_markup'] = wiki_markup
 
     page_data['object']['image'] = image
+    page_data['object']['oldImage'] = old_image
     page_data['object']['previousDifficulties'] = previous_difficulties
     
     # Display source editor preview
@@ -584,12 +611,41 @@ def create_realm_page(realm_cmd):
 
 
 def get_area_from_object(realm_name: str, obj_data: dict) -> str:
-    """Auto-detect area/subrealm from object's Section field"""
+    """Auto-detect area/subrealm from object's Section/Area field or description hints"""
+    import re
+    
+    # Try Section field first (Yoyle Factory uses this)
     section = obj_data.get('Section', '')
     if section:
         subrealm = Config.get_subrealm_from_section(section)
         if subrealm:
             return f"{realm_name}/{subrealm}"
+    
+    # Try Area field (Main Realm uses this)
+    area = obj_data.get('Area', '')
+    if area and area != 'Unknown':
+        # Check if Area maps to a subrealm
+        subrealm = Config.get_subrealm_from_section(area)
+        if subrealm:
+            return f"{realm_name}/{subrealm}"
+    
+    # Parse description for location hints like "(Start in [Location])" or "Found in [Location]"
+    description = obj_data.get('Description', '')
+    if description:
+        # Look for patterns like "(Start in Goiky)" or "(Hidden in [Location])"
+        match = re.search(r'\((?:Start|Found|Hidden) in ([^)]+)\)', description, re.IGNORECASE)
+        if match:
+            location = match.group(1).strip()
+            # Check if this location maps to a subrealm
+            subrealm = Config.get_subrealm_from_section(location)
+            if subrealm:
+                return f"{realm_name}/{subrealm}"
+            # Also check if location name directly matches a subrealm
+            realm_subrealms = Config.get_subrealms(realm_name)
+            for sub in realm_subrealms:
+                if sub.lower() == location.lower():
+                    return f"{realm_name}/{sub}"
+    
     return realm_name
 
 
@@ -650,12 +706,58 @@ def display_realm_create_page(realm_cmd, realm_name: str, pages_status: dict) ->
         if 0 <= obj_idx < len(objects):
             selected_obj = objects[obj_idx]
     except ValueError:
-        # If not a number, try to match by name (case-insensitive)
+        # If not a number, try fuzzy matching by name
+        from difflib import SequenceMatcher
+        
+        # Find all objects with similar names
+        matches = []
         for idx, obj in enumerate(objects):
-            if obj.get('ObjectName', '').lower() == edit_input.lower():
+            obj_name = obj.get('ObjectName', '')
+            # Check for exact match first
+            if obj_name.lower() == edit_input.lower():
                 selected_obj = obj
                 obj_idx = idx
                 break
+            # Then check for fuzzy match
+            similarity = SequenceMatcher(None, obj_name.lower(), edit_input.lower()).ratio()
+            if similarity > 0.6:  # 60% similarity threshold
+                matches.append((similarity, idx, obj_name, obj))
+        
+        # If no exact match but found fuzzy matches
+        if not selected_obj and matches:
+            # Sort by similarity (highest first)
+            matches.sort(reverse=True, key=lambda x: x[0])
+            
+            if len(matches) == 1:
+                # Only one match, use it
+                selected_obj = matches[0][3]
+                obj_idx = matches[0][1]
+            else:
+                # Multiple matches, show them
+                print(f"\nFound {len(matches)} similar objects:")
+                for i, (sim, idx, name, obj) in enumerate(matches, 1):
+                    difficulty = obj.get('Difficulty', 'Unknown')
+                    print(f"({i}) {name}")
+                    print(f"    Difficulty: {difficulty}")
+                
+                print("\nSelect which one (or 'cancel'):")
+                match_input = input("> ").strip()
+                
+                if match_input.lower() == 'cancel':
+                    print("[ERR] Selection cancelled")
+                    return 'create'
+                
+                try:
+                    match_idx = int(match_input) - 1
+                    if 0 <= match_idx < len(matches):
+                        selected_obj = matches[match_idx][3]
+                        obj_idx = matches[match_idx][1]
+                    else:
+                        print(f"[ERR] Invalid selection")
+                        return 'create'
+                except ValueError:
+                    print("[ERR] Please enter a valid number")
+                    return 'create'
     
     if selected_obj:
         # Auto-detect area from object's Section field

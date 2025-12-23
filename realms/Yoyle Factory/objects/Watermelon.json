@@ -1,0 +1,32 @@
+{
+  "object": {
+    "header": {
+      "background_file": "Default.webp",
+      "background_size": "2000px",
+      "theme_accent_color": "#ff6f00",
+      "theme_accent_label_color": "#ffffff"
+    },
+    "character_info": {
+      "name": "Watermelon",
+      "gallery": [
+        "Watermelon.png"
+      ],
+      "difficulty": "unforgiving",
+      "area": "Yoyle Factory/Meltdown",
+      "hint": "look below"
+    },
+    "sections": {
+      "info": "A big Watermelon with a happy expression.",
+      "obtaining": "In the right most area of [[Yoyle Factory/Meltdown|Meltdown]], there will be a few cargo crates. Watermelon will be under the blue one."
+    },
+    "categories": [
+      "unforgiving Objects",
+      "Objects",
+      "Yoyle Factory/Meltdown Objects"
+    ],
+    "image": "Watermelon.png",
+    "oldImage": "",
+    "previousDifficulties": "[[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>"
+  },
+  "wiki_markup": "<div align=\"center\" style=\"position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;\">\n[[File:Meltdown.png|2000px]]\n</div>\n<div style=\"--theme-accent-color:-webkit-linear-gradient(#78ff78,#00ff00); --theme-accent-label-color:#ffffff;\">\n<div style=\"position:relative; z-index:1;\">\n\n{{CharacterInfo\n|name=Watermelon\n|character=[[File:Watermelon.png]]\n|difficulty=[[File:Unforgiving.png|link=]] <span style=\"color:#ff143f\">'''<b>Unforgiving</b>'''</span>\n|area=[[Yoyle Factory/Meltdown|Yoyle Factory]]\n|hint=look below\n|additionalinfo\n|previousdifficulties = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n}}\n\n== Info ==\nA big Watermelon with a happy expression.\n\n== Obtaining ==\nIn the right most area of [[Yoyle Factory/Meltdown|Meltdown]], there will be a few cargo crates. Watermelon will be under the blue one.\n\n[[Category:Unforgiving Objects]]\n[[Category:Objects]]\n[[Category:Yoyle Factory/Meltdown Objects]]\n[[Category:Yoyle Factory Objects]]\n</div>\n</div>"
+}

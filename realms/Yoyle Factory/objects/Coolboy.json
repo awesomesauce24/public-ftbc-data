@@ -1,0 +1,31 @@
+{
+  "object": {
+    "header": {
+      "background_file": "YoylefactoryRealm.png",
+      "background_size": "2000px",
+      "theme_accent_color": "#46515D",
+      "theme_accent_label_color": "#ffffff"
+    },
+    "character_info": {
+      "name": "Coolboy",
+      "gallery": [
+        "Coolboy.png"
+      ],
+      "difficulty": "extreme",
+      "area": "Yoyle Factory",
+      "hint": "only 0.01% of people can find him"
+    },
+    "sections": {
+      "info": "A little bit lighter [[Purple Face]] with a light yellow cap",
+      "obtaining": "Follow the path with blue barrels and scattered ladders, go straight ahead then turn left and then go to the right. Coolboy is in the opened room"
+    },
+    "categories": [
+      "extreme Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "image": "Coolboy.png",
+    "previousDifficulties": ""
+  },
+  "wiki_markup": "<div align=\"center\" style=\"position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;\">\n[[File:YoylefactoryRealm.png|2000px]]\n</div>\n<div style=\"--theme-accent-color:#46515D; --theme-accent-label-color:#ffffff;\">\n<div style=\"position:relative; z-index:1;\">\n\n{{CharacterInfo\n|name=Coolboy\n|character=[[File:Coolboy.png]]\n|difficulty=[[File:Extreme.png|link=]] <span style=\"color:#ed2727\">'''<b>Extreme</b>'''</span>\n|area=[[Yoyle Factory]]\n|hint=only 0.01% of people can find him\n|additionalinfo\n}}\n\n== Info ==\nA little bit lighter [[Purple Face]] with a light yellow cap\n\n== Obtaining ==\nFollow the path with blue barrels and scattered ladders, go straight ahead then turn left and then go to the right. Coolboy is in the opened room\n\n[[Category:Extreme Objects]]\n[[Category:Objects]]\n[[Category:Yoyle Factory Objects]]\n</div>\n</div>"
+}
