@@ -1,0 +1,8 @@
+run = "python app/main.py"
+modules = ["python-3.10"]
+
+[nix]
+channel = "stable-22_11"
+
+[env]
+PYTHONPATH = "/home/runner/public-ftbc-data"

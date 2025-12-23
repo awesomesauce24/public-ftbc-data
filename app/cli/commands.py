@@ -1,7 +1,7 @@
 """CLI command implementations"""
 
-from wiki.core.loader import RealmLoader, SubrealmLoader
-from wiki.core.config import Config
+from core.loader import RealmLoader, SubrealmLoader
+from core.config import Config
 from pathlib import Path
 from typing import List, Optional
 

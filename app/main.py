@@ -15,10 +15,10 @@ if sys.platform == 'win32':
 from pathlib import Path
 
 # Add parent directory to path for imports
-sys.path.insert(0, str(Path(__file__).parent.parent))
+sys.path.insert(0, str(Path(__file__).parent))
 
-from wiki.cli.commands import RealmCommands
-from wiki.core.config import Config
+from cli.commands import RealmCommands
+from core.config import Config
 
 
 def fuzzy_match(query: str, items: list) -> list:
@@ -70,7 +70,7 @@ def load_realm_objects(realm_name: str, realms_path: Path) -> list:
 
 def format_source_editor_preview(page_data: dict) -> str:
     """Format object page data as it would appear in wiki source editor"""
-    from wiki.generators import ObjectPageGenerator
+    from generators import ObjectPageGenerator
     
     obj = page_data.get('object', {})
     
@@ -197,8 +197,8 @@ def display_help():
 def edit_object_page(realm_name: str, area_name: str, obj_data: dict, object_pages: dict) -> str:
     """Edit or create object wiki page. Returns 'create', 'realm', 'area', or 'exit'"""
     import json
-    from wiki.generators import ObjectPageGenerator
-    from wiki.templates import TemplateLoader
+    from generators import ObjectPageGenerator
+    from templates import TemplateLoader
     
     obj_name = obj_data.get('ObjectName', 'Unknown')
     difficulty = obj_data.get('Difficulty', 'Unknown')
@@ -261,7 +261,7 @@ def edit_object_page(realm_name: str, area_name: str, obj_data: dict, object_pag
     # Format previous difficulties with icons and colors
     previous_difficulties = ""
     if previous_difficulties_input:
-        from wiki.generators import ObjectPageGenerator
+        from generators import ObjectPageGenerator
         
         difficulties = [d.strip().title() if d.strip().lower() != "impossible" else "IMPOSSIBLE" for d in previous_difficulties_input.split(',')]
         formatted_diffs = []
@@ -377,7 +377,7 @@ def display_help():
 
 def publish_to_fandom(page_title: str, markup: str, realm_name: str):
     """Publish a page to Fandom wiki using bot credentials"""
-    from wiki.publishers import FandomPublisher, load_credentials
+    from publishers import FandomPublisher, load_credentials
     
     # Load saved credentials
     creds = load_credentials()
@@ -418,7 +418,7 @@ def publish_to_fandom(page_title: str, markup: str, realm_name: str):
 
 def setup_fandom_credentials():
     """Setup Fandom bot login credentials"""
-    from wiki.publishers import save_credentials, load_credentials
+    from publishers import save_credentials, load_credentials
     
     print("\n" + "="*60)
     print("Fandom Bot Credentials Setup")
@@ -439,7 +439,7 @@ def setup_fandom_credentials():
         return
     
     # Test credentials
-    from wiki.publishers import FandomPublisher
+    from publishers import FandomPublisher
     print("\n[...] Testing bot credentials...")
     publisher = FandomPublisher(username, password)
     success, msg = publisher.login()

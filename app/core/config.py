@@ -8,7 +8,7 @@ class Config:
     """Configuration management for wiki system"""
     
     # Paths
-    REALMS_PATH = Path(__file__).parent.parent.parent / "realms"
+    REALMS_PATH = Path(__file__).parent.parent.parent / "data" / "realms"
     
     # Difficulty colors (used for styling)
     DIFFICULTY_COLORS = {
