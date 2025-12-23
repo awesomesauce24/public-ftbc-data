@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """
-FTBC Wiki Web Application
-Full-featured web app for browsing and managing the wiki
+FTBC Wiki Page Creator & Publisher
+Web app for creating and publishing wiki pages to GitHub Pages
 """
 
 from flask import Flask, render_template, request, jsonify, redirect, url_for
 from pathlib import Path
 import json
 import sys
+import subprocess
 
 app = Flask(__name__, template_folder='templates', static_folder='static')
 app.secret_key = 'ftbc-wiki-secret-2025'
@@ -48,91 +49,77 @@ def save_realm(realm_name, objects):
         json.dump(objects, f, indent=2, ensure_ascii=False)
 
 
+def publish_wiki():
+    """Run the wiki generator"""
+    try:
+        result = subprocess.run(
+            [sys.executable, str(PROJECT_ROOT / 'generate_wiki.py')],
+            capture_output=True,
+            text=True,
+            cwd=str(PROJECT_ROOT)
+        )
+        return result.returncode == 0, result.stdout + result.stderr
+    except Exception as e:
+        return False, str(e)
+
+
 # Routes
 @app.route('/')
 def index():
-    """Homepage - Browse realms"""
+    """Homepage - Create wiki pages"""
     realms = load_all_realms()
     return render_template('index.html', realms=realms)
 
 
-@app.route('/realm/<realm_name>')
-def view_realm(realm_name):
-    """View a specific realm"""
+@app.route('/create/<realm_name>')
+def create_object(realm_name):
+    """Create new object page"""
     realms = load_all_realms()
     if realm_name not in realms:
         return "Realm not found", 404
-    
-    objects = realms[realm_name]
-    return render_template('realm.html', realm_name=realm_name, objects=objects, realms=realms)
+    return render_template('create.html', realm_name=realm_name, realms=realms)
 
 
-@app.route('/admin')
-def admin():
-    """Admin dashboard"""
-    realms = load_all_realms()
-    return render_template('admin.html', realms=realms)
-
-
-@app.route('/admin/realm/<realm_name>')
-def admin_realm(realm_name):
-    """Admin edit realm"""
-    realms = load_all_realms()
-    if realm_name not in realms:
-        return "Realm not found", 404
-    
-    objects = realms[realm_name]
-    return render_template('admin_realm.html', realm_name=realm_name, objects=objects, realms=realms)
-
-
-@app.route('/admin/realm/<realm_name>/edit/<int:obj_id>', methods=['GET', 'POST'])
-def admin_edit_object(realm_name, obj_id):
-    """Edit an object"""
+@app.route('/edit/<realm_name>/<int:obj_id>')
+def edit_object(realm_name, obj_id):
+    """Edit object page"""
     objects = load_realm(realm_name)
     
     if obj_id >= len(objects):
         return "Object not found", 404
     
-    if request.method == 'POST':
-        # Update object
-        obj = request.get_json()
-        objects[obj_id] = obj
-        save_realm(realm_name, objects)
-        return jsonify({'status': 'ok', 'message': 'Object updated'})
-    
+    realms = load_all_realms()
     obj = objects[obj_id]
-    realms = load_all_realms()
-    return render_template('admin_edit.html', realm_name=realm_name, obj_id=obj_id, obj=obj, realms=realms)
+    return render_template('edit.html', realm_name=realm_name, obj_id=obj_id, obj=obj, realms=realms)
 
 
-@app.route('/admin/realm/<realm_name>/new', methods=['GET', 'POST'])
-def admin_new_object(realm_name):
-    """Create new object"""
+@app.route('/api/realm/<realm_name>/object', methods=['POST'])
+def api_save_object(realm_name):
+    """API: Save or create object"""
     objects = load_realm(realm_name)
+    data = request.get_json()
     
-    if request.method == 'POST':
-        # Create new object
-        obj = request.get_json()
-        objects.append(obj)
-        save_realm(realm_name, objects)
-        return jsonify({'status': 'ok', 'message': 'Object created', 'id': len(objects) - 1})
+    obj_id = data.get('id')
+    if obj_id is not None and obj_id < len(objects):
+        # Update existing
+        objects[obj_id] = data
+    else:
+        # Create new
+        objects.append(data)
     
-    realms = load_all_realms()
-    return render_template('admin_edit.html', realm_name=realm_name, obj_id=None, obj={}, realms=realms)
+    save_realm(realm_name, objects)
+    return jsonify({'status': 'ok', 'message': 'Page saved'})
 
 
-@app.route('/api/realms')
-def api_realms():
-    """API: Get all realms"""
-    realms = load_all_realms()
-    return jsonify(realms)
-
-
-@app.route('/api/realm/<realm_name>')
-def api_realm(realm_name):
-    """API: Get realm objects"""
-    objects = load_realm(realm_name)
-    return jsonify(objects)
+@app.route('/api/publish', methods=['POST'])
+def api_publish():
+    """API: Publish wiki to GitHub Pages"""
+    success, output = publish_wiki()
+    return jsonify({
+        'status': 'ok' if success else 'error',
+        'message': output,
+        'url': 'https://awesomesauce24.github.io/public-ftbc-data/'
+    })
 
 
 if __name__ == '__main__':

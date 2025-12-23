@@ -1,46 +1,80 @@
 {% extends "base.html" %}
 
-{% block title %}FTBC Wiki - Browse{% endblock %}
+{% block title %}Create Wiki Pages - FTBC Wiki{% endblock %}
 
 {% block content %}
 <div class="page-header">
-    <h1>🎮 FTBC Wiki</h1>
-    <p>Complete guide to realms and collectible objects</p>
-    <input type="text" id="searchInput" placeholder="Search realms or objects..." class="search-box">
+    <h1>📝 Create Wiki Pages</h1>
+    <p>Create and publish wiki pages to the FTBC Wiki</p>
 </div>
 
-<div class="realms-grid" id="realmsContainer">
-    {% for realm_name, objects in realms.items() %}
-    <div class="realm-card">
-        <h2><a href="/realm/{{ realm_name }}">{{ realm_name }}</a></h2>
-        <div class="objects-preview">
-            {% for obj in objects[:5] %}
-            <div class="object-item">
-                <div class="object-name">{{ obj.ObjectName }}</div>
-                <span class="difficulty {{ obj.Difficulty.lower() }}">{{ obj.Difficulty }}</span>
-                <div class="description">{{ obj.Description }}</div>
+<div class="main-layout">
+    <div class="realms-sidebar">
+        <h3>Realms</h3>
+        <div class="realms-list">
+            {% for realm_name, objects in realms.items() %}
+            <div class="realm-item">
+                <a href="#realm-{{ realm_name }}" class="realm-link">{{ realm_name }}</a>
+                <span class="count">{{ objects|length }}</span>
             </div>
             {% endfor %}
-            {% if objects|length > 5 %}
-            <div class="more-text">+ {{ objects|length - 5 }} more objects</div>
-            {% endif %}
         </div>
-        <div class="object-count">Total: {{ objects|length }} objects</div>
     </div>
-    {% endfor %}
+
+    <div class="content-area">
+        <div class="action-buttons">
+            <button onclick="showCreateForm()" class="btn btn-primary">+ New Page</button>
+            <button onclick="publishWiki()" class="btn btn-success">🚀 Publish to Wiki</button>
+        </div>
+
+        <div class="realms-grid" id="realmsContainer">
+            {% for realm_name, objects in realms.items() %}
+            <div class="realm-section" id="realm-{{ realm_name }}">
+                <h2>{{ realm_name }}</h2>
+                <div class="objects-list">
+                    {% for obj in objects %}
+                    <div class="object-item">
+                        <div class="object-header">
+                            <strong>{{ obj.ObjectName }}</strong>
+                            <span class="difficulty {{ obj.Difficulty.lower() }}">{{ obj.Difficulty }}</span>
+                        </div>
+                        <p>{{ obj.Description }}</p>
+                        <a href="/edit/{{ realm_name }}/{{ loop.index0 }}" class="btn-small">Edit</a>
+                    </div>
+                    {% endfor %}
+                </div>
+                <a href="/create/{{ realm_name }}" class="btn btn-outline">+ Add to {{ realm_name }}</a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
 </div>
 
 <script>
-const realms = {{ realms|tojson }};
+function showCreateForm() {
+    const realm = prompt('Enter realm name:');
+    if(realm) {
+        window.location.href = '/create/' + encodeURIComponent(realm);
+    }
+}
 
-document.getElementById('searchInput').addEventListener('keyup', function(e) {
-    const query = e.target.value.toLowerCase();
-    const cards = document.querySelectorAll('.realm-card');
-    
-    cards.forEach(card => {
-        const text = card.innerText.toLowerCase();
-        card.style.display = text.includes(query) ? '' : 'none';
-    });
-});
+function publishWiki() {
+    if(confirm('Publish all changes to GitHub Pages?')) {
+        document.querySelector('.btn-success').disabled = true;
+        document.querySelector('.btn-success').textContent = '⏳ Publishing...';
+        
+        fetch('/api/publish', {method: 'POST'})
+            .then(r => r.json())
+            .then(data => {
+                if(data.status === 'ok') {
+                    alert('✅ Wiki published! Visit: ' + data.url);
+                    document.querySelector('.btn-success').textContent = '🚀 Publish to Wiki';
+                    document.querySelector('.btn-success').disabled = false;
+                } else {
+                    alert('Error: ' + data.message);
+                }
+            });
+    }
+}
 </script>
 {% endblock %}

@@ -1,18 +1,19 @@
 {% extends "base.html" %}
 
-{% block title %}Edit - {{ realm_name }} - FTBC Wiki{% endblock %}
+{% block title %}{% if obj_id is not none %}Edit{% else %}Create{% endif %} - {{ realm_name }}{% endblock %}
 
 {% block content %}
 <div class="breadcrumb">
-    <a href="/">Browse</a> / <a href="/admin">Admin</a> / <a href="/admin/realm/{{ realm_name }}">{{ realm_name }}</a> / <strong>Edit</strong>
+    <a href="/">Create Pages</a> / <strong>{{ realm_name }}</strong>
 </div>
 
-<h1>{% if obj_id is not none %}Edit Object{% else %}New Object{% endif %}</h1>
+<h1>{% if obj_id is not none %}Edit Page{% else %}New Page{% endif %}</h1>
+<p class="subtitle">{{ realm_name }}</p>
 
-<form id="editForm" class="edit-form">
+<form id="pageForm" class="edit-form">
     <div class="form-group">
         <label for="ObjectName">Object Name *</label>
-        <input type="text" id="ObjectName" name="ObjectName" value="{{ obj.get('ObjectName', '') }}" required>
+        <input type="text" id="ObjectName" name="ObjectName" value="{{ obj.get('ObjectName', '') }}" placeholder="e.g., Golden Trophy" required>
     </div>
 
     <div class="form-group">
@@ -28,34 +29,39 @@
     </div>
 
     <div class="form-group">
-        <label for="Description">Description *</label>
-        <textarea id="Description" name="Description" rows="4" required>{{ obj.get('Description', '') }}</textarea>
+        <label for="Description">Description/Hint *</label>
+        <textarea id="Description" name="Description" rows="3" placeholder="Brief description of where/how to find it" required>{{ obj.get('Description', '') }}</textarea>
     </div>
 
     <div class="form-group">
         <label for="Section">Section (Optional)</label>
-        <input type="text" id="Section" name="Section" value="{{ obj.get('Section', '') }}">
+        <input type="text" id="Section" name="Section" value="{{ obj.get('Section', '') }}" placeholder="e.g., Main Area, Hidden Room">
     </div>
 
     <div class="form-group">
         <label for="Area">Area (Optional)</label>
-        <input type="text" id="Area" name="Area" value="{{ obj.get('Area', '') }}">
+        <input type="text" id="Area" name="Area" value="{{ obj.get('Area', '') }}" placeholder="e.g., North Wing">
     </div>
 
     <div class="form-actions">
-        <button type="submit" class="btn">Save Object</button>
-        <a href="/admin/realm/{{ realm_name }}" class="btn-secondary">Cancel</a>
+        <button type="submit" class="btn btn-primary">💾 Save Page</button>
+        <a href="/" class="btn btn-secondary">Cancel</a>
     </div>
+
+    <p class="help-text">📌 After saving, publish your changes to make them visible on the wiki!</p>
 </form>
 
 <script>
-document.getElementById('editForm').addEventListener('submit', async function(e) {
+document.getElementById('pageForm').addEventListener('submit', async function(e) {
     e.preventDefault();
     
     const formData = new FormData(this);
     const obj = Object.fromEntries(formData);
+    {% if obj_id is not none %}
+    obj.id = {{ obj_id }};
+    {% endif %}
     
-    const url = {% if obj_id is not none %}'/admin/realm/{{ realm_name }}/edit/{{ obj_id }}'{% else %}'/admin/realm/{{ realm_name }}/new'{% endif %};
+    const url = '/api/realm/{{ realm_name }}/object';
     
     const response = await fetch(url, {
         method: 'POST',
@@ -65,8 +71,10 @@ document.getElementById('editForm').addEventListener('submit', async function(e)
     
     const result = await response.json();
     if(result.status === 'ok') {
-        alert(result.message);
-        window.location.href = '/admin/realm/{{ realm_name }}';
+        alert('✅ ' + result.message);
+        window.location.href = '/';
+    } else {
+        alert('❌ Error: ' + result.message);
     }
 });
 </script>
