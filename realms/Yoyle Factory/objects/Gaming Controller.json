@@ -1,0 +1,31 @@
+{
+  "object": {
+    "header": {
+      "background_file": "Default.webp",
+      "background_size": "2000px",
+      "theme_accent_color": "#ff6f00",
+      "theme_accent_label_color": "#ffffff"
+    },
+    "character_info": {
+      "name": "Gaming Controller",
+      "gallery": [
+        "Gaming Controller.png"
+      ],
+      "difficulty": "terrifying",
+      "area": "Yoyle Factory/Abandonment",
+      "hint": "click the power button of a computer that is acting strange..."
+    },
+    "sections": {
+      "info": "A badly drawn gaming controller.",
+      "obtaining": "Click the red power button of a computer in [[Yoyle Factory/Abandonment|Abandonment]] that is displaying binary."
+    },
+    "categories": [
+      "terrifying Objects",
+      "Objects",
+      "Yoyle Factory/Abandonment Objects"
+    ],
+    "image": "Gaming Controller.png",
+    "previousDifficulties": ""
+  },
+  "wiki_markup": "<div align=\"center\" style=\"position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;\">\n[[File:YoylefactoryRealm.png|2000px]]\n</div>\n<div style=\"--theme-accent-color:#46515D; --theme-accent-label-color:#ffffff;\">\n<div style=\"position:relative; z-index:1;\">\n\n{{CharacterInfo\n|name=Gaming Controller\n|character=[[File:Gaming Controller.png]]\n|difficulty=[[File:Terrifying.png|link=]] <span style=\"color:#8b17ff\">'''<b>Terrifying</b>'''</span>\n|area=[[Yoyle Factory/Abandonment|Yoyle Factory]]\n|hint=click the power button of a computer that is acting strange...\n|additionalinfo\n}}\n\n== Info ==\nA badly drawn gaming controller.\n\n== Obtaining ==\n'''''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''''\n<div class=\"mw-collapsible mw-collapsed\" style=\"width:100%\">\n<div class=\"mw-collapsible-content\">Click the red power button of a computer in [[Yoyle Factory/Abandonment|Abandonment]] that is displaying binary.</div>\n</div>\n\n[[Category:Terrifying Objects]]\n[[Category:Objects]]\n[[Category:Yoyle Factory/Abandonment Objects]]\n[[Category:Yoyle Factory Objects]]\n</div>\n</div>"
+}

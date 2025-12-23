@@ -1,0 +1,31 @@
+{
+  "object": {
+    "header": {
+      "background_file": "Default.webp",
+      "background_size": "2000px",
+      "theme_accent_color": "#ff6f00",
+      "theme_accent_label_color": "#ffffff"
+    },
+    "character_info": {
+      "name": "Block of Glass",
+      "gallery": [
+        "Block of Glass.png"
+      ],
+      "difficulty": "insane",
+      "area": "Yoyle Factory/Abandonment",
+      "hint": "SHATTER SOUND"
+    },
+    "sections": {
+      "info": "A Block of Glass.",
+      "obtaining": "enter the abandonment area and find a room with a broken door, block of glass is near broken window"
+    },
+    "categories": [
+      "insane Objects",
+      "Objects",
+      "Yoyle Factory/Abandonment Objects"
+    ],
+    "image": "Block of Glass.png",
+    "previousDifficulties": ""
+  },
+  "wiki_markup": "<div align=\"center\" style=\"position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;\">\n[[File:YoylefactoryRealm.png|2000px]]\n</div>\n<div style=\"--theme-accent-color:#46515D; --theme-accent-label-color:#ffffff;\">\n<div style=\"position:relative; z-index:1;\">\n\n{{CharacterInfo\n|name=Block of Glass\n|character=[[File:Block of Glass.png]]\n|difficulty=[[File:Insane.png|link=]] <span style=\"color:#ff1c95\">'''<b>Insane</b>'''</span>\n|area=[[Yoyle Factory/Abandonment|Yoyle Factory]]\n|hint=SHATTER SOUND\n|additionalinfo\n}}\n\n== Info ==\nA Block of Glass.\n\n== Obtaining ==\nenter the abandonment area and find a room with a broken door, block of glass is near broken window\n\n[[Category:Insane Objects]]\n[[Category:Objects]]\n[[Category:Yoyle Factory/Abandonment Objects]]\n[[Category:Yoyle Factory Objects]]\n</div>\n</div>"
+}

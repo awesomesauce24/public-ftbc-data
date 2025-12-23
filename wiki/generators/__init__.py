@@ -121,14 +121,16 @@ class ObjectPageGenerator:
         # Normalize difficulty to title case for lookups
         difficulty_normalized = difficulty.title() if difficulty.lower() != "impossible" else "IMPOSSIBLE"
         
-        theme = Config.get_realm_info(area)
+        # Extract parent realm name from area (handles both "Realm" and "Realm/Subrealm" formats)
+        parent_realm = area.split('/')[0] if '/' in area else area
+        theme = Config.get_realm_info(parent_realm)
         difficulty_color = Config.get_color(difficulty_normalized)
         difficulty_icon = ObjectPageGenerator.DIFFICULTY_ICONS.get(difficulty_normalized, "Unknown.png")
         is_arduous_plus = difficulty_normalized in ObjectPageGenerator.ARDUOUS_AND_ABOVE
         
-        # Use realm background if not specified
+        # Use realm background if not specified, check subrealm-specific first
         if not background:
-            background = theme.get('background', 'Default.webp')
+            background = Config.SUBREALM_BACKGROUNDS.get(area, theme.get('background', 'Default.webp'))
         
         # Normalize image name (ensure .png extension only once)
         if not image:
@@ -153,18 +155,24 @@ class ObjectPageGenerator:
         if previous_difficulties.strip():
             previous_line = f"|previousdifficulties = {previous_difficulties}\n"
         
+        # Build the area link (show parent realm as text if using subrealm)
+        if '/' in area:
+            area_link = f"[[{area}|{parent_realm}]]"
+        else:
+            area_link = f"[[{area}]]"
+        
         # Build the full wiki markup
         markup = f"""<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
 [[File:{background}|2000px]]
 </div>
-<div style="--theme-accent-color:{theme.get('accent', '#ff6f00')}; --theme-accent-label-color:{theme.get('accent_label_color', '#ffffff')};">
+<div style="--theme-accent-color:{theme.get('accent_color', '#ff6f00')}; --theme-accent-label-color:{theme.get('accent_label_color', '#ffffff')};">
 <div style="position:relative; z-index:1;">
 
 {{{{CharacterInfo
 |name={name}
 |character=[[File:{image}]]
 |difficulty=[[File:{difficulty_icon}|link=]] <span style="color:{difficulty_color}">'''<b>{difficulty_normalized}</b>'''</span>
-|area=[[{area}]]
+|area={area_link}
 |hint={hint}
 |additionalinfo
 {previous_line}}}}}
@@ -177,6 +185,7 @@ class ObjectPageGenerator:
 [[Category:{difficulty_normalized} Objects]]
 [[Category:Objects]]
 [[Category:{area} Objects]]
+{f'[[Category:{parent_realm} Objects]]' if '/' in area else ''}
 </div>
 </div>"""
         

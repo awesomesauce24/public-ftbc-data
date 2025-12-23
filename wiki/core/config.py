@@ -194,7 +194,16 @@ class Config:
         "Lights Out": "Abandonment",
         "Abandonment": "Abandonment",
         "Meltdown": "Meltdown",
-        "Out Of Bounds": "Out Of Bounds",
+        "Out of Bounds": "Out Of Bounds",  # JSON has lowercase 'of', subrealm name is capitalized
+        "Out Of Bounds": "Out Of Bounds",  # Also support capitalized version
+    }
+    
+    # Subrealm-specific backgrounds (overrides parent realm background)
+    SUBREALM_BACKGROUNDS = {
+        "Yoyle Factory/Basement": "Basement.png",
+        "Yoyle Factory/Abandonment": "Lights Out.png",
+        "Yoyle Factory/Meltdown": "Meltdown.png",
+        "Yoyle Factory/Out Of Bounds": "Out of Bounds.png",
     }
     
     @classmethod

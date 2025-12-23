@@ -634,25 +634,35 @@ def display_realm_create_page(realm_cmd, realm_name: str, pages_status: dict) ->
     print(f"  [+] WITH PAGE  : {with_pages}")
     print(f"  [x] NO PAGE    : {without_pages}")
     print("="*60)
-    print("\nEnter object number to edit/create (or 'back'):")
+    print("\nEnter object number or name to edit/create (or 'back'):")
     
     edit_input = input("> ").strip()
     
     if edit_input.lower() == 'back':
         return 'realm'
     
+    selected_obj = None
+    obj_idx = -1
+    
+    # Try to match by number first
     try:
         obj_idx = int(edit_input) - 1
         if 0 <= obj_idx < len(objects):
             selected_obj = objects[obj_idx]
-            # Auto-detect area from object's Section field
-            detected_area = get_area_from_object(realm_name, selected_obj)
-            return edit_object_page(realm_name, detected_area, selected_obj, object_pages)
-        else:
-            print(f"[ERR] Invalid object number")
-            return 'create'
     except ValueError:
-        print("[ERR] Please enter a valid number")
+        # If not a number, try to match by name (case-insensitive)
+        for idx, obj in enumerate(objects):
+            if obj.get('ObjectName', '').lower() == edit_input.lower():
+                selected_obj = obj
+                obj_idx = idx
+                break
+    
+    if selected_obj:
+        # Auto-detect area from object's Section field
+        detected_area = get_area_from_object(realm_name, selected_obj)
+        return edit_object_page(realm_name, detected_area, selected_obj, object_pages)
+    else:
+        print(f"[ERR] Object not found")
         return 'create'
 
 
