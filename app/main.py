@@ -370,6 +370,7 @@ def display_help():
     print("  realms              - Display all realms and subrealms")
     print("  create              - Create a new realm page")
     print("  setup               - Setup Fandom credentials for publishing")
+    print("  publish             - Publish wiki to GitHub Pages")
     print("  help                - Show this help menu")
     print("  exit                - Exit the program")
     print("="*60 + "\n")
@@ -457,6 +458,48 @@ def setup_fandom_credentials():
         print("[ERR] Failed to save credentials")
 
 
+def publish_to_github_pages():
+    """Publish the wiki to GitHub Pages"""
+    import subprocess
+    
+    print("\n" + "="*60)
+    print("Publishing to GitHub Pages")
+    print("="*60)
+    
+    # Get the project root directory
+    project_root = Path(__file__).parent.parent
+    script_path = project_root / "generate_wiki.py"
+    
+    if not script_path.exists():
+        print(f"[ERR] Generator script not found at {script_path}")
+        return
+    
+    print("[...] Generating wiki HTML from realm data...")
+    
+    try:
+        # Run the generator script
+        result = subprocess.run(
+            [sys.executable, str(script_path)],
+            capture_output=True,
+            text=True,
+            cwd=str(project_root)
+        )
+        
+        if result.returncode == 0:
+            print("[OK] Wiki generated successfully!")
+            print("[OK] Your site is at: https://awesomesauce24.github.io/public-ftbc-data/")
+            print("\nNext steps:")
+            print("  1. Commit changes: git add docs/ && git commit -m 'Update wiki'")
+            print("  2. Push: git push")
+            print("  3. Site updates in ~1-2 minutes")
+        else:
+            print(f"[ERR] Failed to generate wiki")
+            if result.stderr:
+                print(f"Error: {result.stderr}")
+    except Exception as e:
+        print(f"[ERR] {e}")
+
+
 def main():
     """Main entry point"""
     realm_cmd = RealmCommands()
@@ -482,6 +525,9 @@ def main():
             
             elif command == "setup":
                 setup_fandom_credentials()
+            
+            elif command == "publish":
+                publish_to_github_pages()
             
             elif command == "help":
                 display_help()
