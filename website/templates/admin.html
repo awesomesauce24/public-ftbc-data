@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}Admin - FTBC Wiki{% endblock %}
+
+{% block content %}
+<div class="admin-header">
+    <h1>Admin Dashboard</h1>
+    <p>Manage realms and objects</p>
+</div>
+
+<div class="admin-grid">
+    {% for realm_name, objects in realms.items() %}
+    <div class="admin-card">
+        <h3><a href="/admin/realm/{{ realm_name }}">{{ realm_name }}</a></h3>
+        <p class="count">{{ objects|length }} objects</p>
+        <div class="card-actions">
+            <a href="/admin/realm/{{ realm_name }}" class="btn-small">Manage</a>
+            <a href="/realm/{{ realm_name }}" class="btn-small secondary">View</a>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<div class="admin-actions">
+    <p><strong>Publish to GitHub Pages:</strong></p>
+    <button onclick="publishWiki()" class="btn">Publish Wiki</button>
+    <p class="help-text">This will update your GitHub Pages site with the latest data.</p>
+</div>
+
+<script>
+function publishWiki() {
+    if(confirm('Publish wiki to GitHub Pages? You\'ll need to push changes to GitHub.')) {
+        alert('Run this command in your terminal:\n\npython generate_wiki.py\n\nThen: git add docs/ && git commit -m "Update wiki" && git push');
+    }
+}
+</script>
+{% endblock %}

@@ -1,0 +1,73 @@
+{% extends "base.html" %}
+
+{% block title %}Edit - {{ realm_name }} - FTBC Wiki{% endblock %}
+
+{% block content %}
+<div class="breadcrumb">
+    <a href="/">Browse</a> / <a href="/admin">Admin</a> / <a href="/admin/realm/{{ realm_name }}">{{ realm_name }}</a> / <strong>Edit</strong>
+</div>
+
+<h1>{% if obj_id is not none %}Edit Object{% else %}New Object{% endif %}</h1>
+
+<form id="editForm" class="edit-form">
+    <div class="form-group">
+        <label for="ObjectName">Object Name *</label>
+        <input type="text" id="ObjectName" name="ObjectName" value="{{ obj.get('ObjectName', '') }}" required>
+    </div>
+
+    <div class="form-group">
+        <label for="Difficulty">Difficulty *</label>
+        <select id="Difficulty" name="Difficulty" required>
+            <option value="">-- Select --</option>
+            <option value="easy" {% if obj.get('Difficulty') == 'easy' %}selected{% endif %}>Easy</option>
+            <option value="normal" {% if obj.get('Difficulty') == 'normal' %}selected{% endif %}>Normal</option>
+            <option value="hard" {% if obj.get('Difficulty') == 'hard' %}selected{% endif %}>Hard</option>
+            <option value="intermediate" {% if obj.get('Difficulty') == 'intermediate' %}selected{% endif %}>Intermediate</option>
+            <option value="terrifying" {% if obj.get('Difficulty') == 'terrifying' %}selected{% endif %}>Terrifying</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="Description">Description *</label>
+        <textarea id="Description" name="Description" rows="4" required>{{ obj.get('Description', '') }}</textarea>
+    </div>
+
+    <div class="form-group">
+        <label for="Section">Section (Optional)</label>
+        <input type="text" id="Section" name="Section" value="{{ obj.get('Section', '') }}">
+    </div>
+
+    <div class="form-group">
+        <label for="Area">Area (Optional)</label>
+        <input type="text" id="Area" name="Area" value="{{ obj.get('Area', '') }}">
+    </div>
+
+    <div class="form-actions">
+        <button type="submit" class="btn">Save Object</button>
+        <a href="/admin/realm/{{ realm_name }}" class="btn-secondary">Cancel</a>
+    </div>
+</form>
+
+<script>
+document.getElementById('editForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    
+    const formData = new FormData(this);
+    const obj = Object.fromEntries(formData);
+    
+    const url = {% if obj_id is not none %}'/admin/realm/{{ realm_name }}/edit/{{ obj_id }}'{% else %}'/admin/realm/{{ realm_name }}/new'{% endif %};
+    
+    const response = await fetch(url, {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify(obj)
+    });
+    
+    const result = await response.json();
+    if(result.status === 'ok') {
+        alert(result.message);
+        window.location.href = '/admin/realm/{{ realm_name }}';
+    }
+});
+</script>
+{% endblock %}
