@@ -1,8 +1,8 @@
 """Generators for creating wiki-formatted output"""
 
 from typing import Dict, Any, List
-from wiki.core.config import Config
-from wiki.templates import TemplateLoader
+from core.config import Config
+from templates import TemplateLoader
 
 
 class WikiPageGenerator:

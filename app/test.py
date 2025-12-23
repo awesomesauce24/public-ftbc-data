@@ -1,18 +1,18 @@
 #!/usr/bin/env python3
 """
 Quick test script to verify wiki system is working
-Run: python wiki/test.py
+Run: python app/test.py
 """
 
 import sys
 from pathlib import Path
 
 # Add parent directory to path
-sys.path.insert(0, str(Path(__file__).parent.parent))
+sys.path.insert(0, str(Path(__file__).parent))
 
-from wiki.core.loader import RealmLoader, SubrealmLoader
-from wiki.core.config import Config
-from wiki.cli.commands import RealmCommands, SearchCommands, ExportCommands
+from core.loader import RealmLoader, SubrealmLoader
+from core.config import Config
+from cli.commands import RealmCommands, SearchCommands, ExportCommands
 
 
 def test_config():

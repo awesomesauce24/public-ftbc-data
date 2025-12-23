@@ -18,7 +18,8 @@ class RealmLoader:
         
         realms = []
         for item in self.realms_path.iterdir():
-            if item.is_dir():
+            # Skip hidden directories and cache
+            if item.is_dir() and not item.name.startswith('.'):
                 realms.append(item.name)
         return sorted(realms)
     
