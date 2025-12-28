@@ -1,0 +1,26 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Candyland.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#ff69b4, #ffb6d9); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Pearl
+|character=Pearl.webp
+|difficulty=[[File:Easy.png]] <span style="color:#10da8d">'''Easy'''</span>
+|area=[[Candyland]]
+|hint=look inside a clump of cotton candy
+}}
+
+== Info ==
+A pinkish-purple pearl.
+
+== Obtaining ==
+Inside of a cotton candy clump.
+
+== Notes ==
+'''Pearl''' replaced [[ibbyiscool26]].
+
+[[Category:Candyland Objects]]
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:Main Realm Objects]]
+[[Category:BFDI Mini Contestants]]

@@ -1,0 +1,10 @@
+{
+  "name": "Administratory",
+  "area": "Classic Insanity",
+  "difficulty": "remorseless",
+  "description": "[Start in Starter Place and go onto the house]",
+  "hint": "[Start in Starter Place and go onto the house]",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Administratory|character=[[File:Administratory.png]]|difficulty=Remorseless|area=[[Classic Insanity]]|hint=[Start in Starter Place and go onto the house]",
+  "location": "subrealm:Classic Paradise/Classic Insanity"
+}

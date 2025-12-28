@@ -1,0 +1,10 @@
+{
+  "name": "Dime",
+  "area": "Goiky",
+  "difficulty": "easy",
+  "description": "Golf ball dropped her dime (hidden in Goiky)",
+  "hint": "Golf ball dropped her dime (hidden in Goiky)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Dime|character=<gallery>\nDime New.png|Current\nDime old.png|Old\n</gallery>\n|difficulty=Easy|area=[[Goiky]]|hint=Golf ball dropped her dime (hidden in Goiky)",
+  "location": "realm:Main Realm/Goiky"
+}

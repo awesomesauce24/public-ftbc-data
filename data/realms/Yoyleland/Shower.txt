@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Shower|character=[[Shower.png|thumb]]|difficulty=Hard|area=[[Yoyleland]]|hint=[BLANK]}}
+
+== Character ==
+A shower with legs and a face.
+
+== Obtaining ==
+{{Spoiler|text=In Yoyleland, You will see Shower on the back of a building on a platform, either frog jump or wallhop up a window to get to it.}}
+[[Category:Yoyleland Objects]]
+[[Category:Hard Objects]]
+[[Category:Objects]]

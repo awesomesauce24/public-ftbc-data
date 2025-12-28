@@ -1,0 +1,36 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Inverted-realm-image.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#C45508,#EEDC5B); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name = Desert Pillar
+|character = [[File:Desert Pillar.png]]
+|difficulty = [[File:Arduous.png]] <span style="color:#5d0cff">'''Arduous'''</span>
+|area = [[Inverted]]
+|hint = start at inverted jungle, then go to the area where [[Toxic Bomb]] is located.
+|additionalinfo
+|previousdifficulties = 
+[[File:Remorseless.png]] <span style="color:#2084ff">'''Remorseless'''</span>
+[[File:Strenuous.png]] <span style="color:#4048e5">'''Strenuous'''</span>
+}}
+
+== Info ==
+Desert Pillar is a sandy brown stone pillar with carved markings and a smiling face.
+
+== How to Obtain ==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+Inside one of the trees in Inverted Jungle is a hidden button.  
+After pressing it, go to the rooftop area. The chimney on the rusted Classic House should be open, press the button. Then, head to the Pyramid.  
+A platform will appear. Follow the path it creates, and it will teleport you to Desert Pillar.
+</div>
+</div>
+
+== Notes ==
+*This object was created by '''0OFunkyPurple'''.
+*If you get lost, use [https://www.youtube.com/watch?v=DGLlNJceYKI this video]
+
+[[Category:Arduous Objects]]
+[[Category:Inverted Realm Objects]]
+[[Category:Objects]]

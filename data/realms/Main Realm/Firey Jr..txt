@@ -1,0 +1,18 @@
+{{CharacterInfo
+|name=Firey Jr.
+|character=[[File:Firey Jr..png]]
+|difficulty=Normal
+|area=[[Snowy]]
+|hint=in fire?
+}}
+
+== Character ==
+Firey Jr. appears as a smaller version of [[Firey]].
+
+== Obtaining ==
+Firey Jr. is found inside Snowy. Enter the right-side cabin and check the fireplace. He is sitting directly in the flames.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Normal Objects]]
+[[Category:Snowy Objects]]

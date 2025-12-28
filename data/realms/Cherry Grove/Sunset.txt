@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Sunset|character=[[File:Sunset.png|thumb]]|difficulty=Difficult|area=[[Cherry Grove]]|hint=Find a way to ascend upwards.}}
+
+==Character==
+A square hand-drawn image of a sunset with legs and a face
+
+==Obtaining==
+Go to [[Sour Apple Sauce]] and use waterfall boost to jump to the lonely island with sunset on it.
+[[Category:Difficult Objects]]
+[[Category:Objects]]
+[[Category:Cherry Grove Objects]]

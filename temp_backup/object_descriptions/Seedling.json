@@ -1,0 +1,12 @@
+{
+  "name": "Seedling",
+  "area": "Yoyle Factory",
+  "difficulty": "unforgiving",
+  "description": "There's a seed growing in a box",
+  "hint": "There's a seed growing in a box",
+  "previous_difficulties": [
+    "Insane"
+  ],
+  "wiki_markup": "name=Seedling\n|character=[[File:Seedling.webp|thumb]]\n|difficulty=[[File:Unforgiving.png]] <span style=\"color:#ff143f\">'''Unforgiving'''</span>\n|area=[[Yoyle Factory]]\n|hint=There's a seed growing in a box\n|additionalinfo\n|previousdifficulties = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n",
+  "location": "realm:Yoyle Factory"
+}

@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Studio|character=Studio.png|info=|difficulty=Arduous|area=Main realm|creator=NTailsGoBrrrrr|hint=start by finding a QR code on the main map, you must have roblox studio to get this one!}}
+
+== Studio ==
+Studio is the Roblox Studio icon with some shading.
+
+== Obtaining ==
+Start by going to the [[Desert]], and on top of a tree, a decoy [[Sticker]] will be there. once you touch the decoy, you will be sent to an obby where the real [[Sticker]] is located. Next, look under the start point of the obby. You will find a QR code leading to [https://create.roblox.com/store/asset/16734499711/%3F%3F%3F%3F%3F This website]. Next, when you get the model, open Roblox Studio and add the model. {{Spoiler|text=This will give you the code "r0Blx-St8dio1725" Then, type "/e r0Blx-St8dio1725".}} Lastly, teleport to where [[Replicated Storage]] is located {{Spoiler|text=which is "/e 85176"}} and the back wall will be gone, revealing Studio.
+[[Category:Objects]]
+[[Category:Arduous Objects]]
+[[Category:Main Realm Objects]]

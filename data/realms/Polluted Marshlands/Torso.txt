@@ -1,0 +1,13 @@
+{{CharacterInfo|name=Torso|character=[[File:Torso.png]]|difficulty=Terrifying|area=[[Polluted Marshlands]]|hint=[Hidden in Polluted Marshlands]}}
+==Character==
+Torso is the torso of a living human. <small>(idk how to explain better)</small>
+==Obtaining==
+Start in [[scenerycloud]]'s room, if you look carefully on the acid, there's a part where you don't die. If you got under the acid, you should see a slightly opaque obby.
+
+Do the obby and when reach the top of the room, you should see Torso right around the corner.
+
+(btw the book is for [[Theebs]])
+[[Category:Objects]]
+[[Category:Terrifying Objects]]
+[[Category:Polluted Marshlands Objects]]
+[[Category:BFDI Limbs]]

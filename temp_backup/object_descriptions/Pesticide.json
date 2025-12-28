@@ -1,0 +1,12 @@
+{
+  "name": "Pesticide",
+  "area": "Inverted",
+  "difficulty": "unforgiving",
+  "description": "me when there is a substance used for destroying insects or other organisms harmful to cultivated plants or to animals in my body",
+  "hint": "me when there is a substance used for destroying insects or other organisms harmful to cultivated plants or to animals in my body",
+  "previous_difficulties": [
+    "Insane"
+  ],
+  "wiki_markup": "name=Pesticide\n|character=Pesticide.png\n|difficulty=[[File:Unforgiving.png]] <span style=\"color:#ff143f\">'''Unforgiving'''</span>\n|area=[[Inverted]]\n|hint=me when there is a substance used for destroying insects or other organisms harmful to cultivated plants or to animals in my body\n|additionalinfo\n|previousdifficulties = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n",
+  "location": "realm:Inverted"
+}

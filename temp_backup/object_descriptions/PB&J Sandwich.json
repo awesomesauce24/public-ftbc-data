@@ -1,0 +1,10 @@
+{
+  "name": "PB&J Sandwich",
+  "area": "Midnight Rooftops",
+  "difficulty": "extreme",
+  "description": "<nowiki>https://www.youtube.com/watch?v=I92TZOD560E</nowiki>",
+  "hint": "<nowiki>https://www.youtube.com/watch?v=I92TZOD560E</nowiki>",
+  "previous_difficulties": [],
+  "wiki_markup": "name=PB&J Sandwich|character=[[File:PB&J Sandwich.png]]|difficulty=Extreme|area=[[Midnight Rooftops]]|hint=<nowiki>https://www.youtube.com/watch?v=I92TZOD560E</nowiki>",
+  "location": "realm:Midnight Rooftops"
+}

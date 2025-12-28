@@ -1,0 +1,12 @@
+{{stub}}
+{{CharacterInfo|name=Robot Firey|character=[[File:Robot firey.webp|thumb]]|difficulty=Extreme|area=[[Yoyleland]]|hint=Placeholder.}}
+
+== Character ==
+A robot version of [[Firey]] that has similar characteristics to [[Robot Flower]]
+
+== Obtaining ==
+{{Spoiler|text=Near [[Paragraph]], there will be an obby on the side of the building. Robot Firey will be on a building next to the end of the obby.}}
+
+[[Category:Extreme Objects]]
+[[Category:Objects]]
+[[Category:Yoyleland Objects]]

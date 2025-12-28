@@ -1,0 +1,12 @@
+{
+  "name": "Limbless Pin",
+  "area": "Floating Island",
+  "difficulty": "easy",
+  "description": "How did she managed to get on there without limbs? (Hidden in Floating Island)",
+  "hint": "How did she managed to get on there without limbs? (Hidden in Floating Island)",
+  "previous_difficulties": [
+    "Hard"
+  ],
+  "wiki_markup": "name=Limbless Pin|character=<gallery>\nLimbless Pin New.webp|Current\nLimbless Pin.png|Old\n</gallery>\n|difficulty=Easy|area=[[Floating Island]]|hint=How did she managed to get on there without limbs? (Hidden in Floating Island)|additionalinfo|previousdifficulties=<span style=\"color:#ff7e21\">'''Hard'''</span> [[File:Hard.png]]",
+  "location": "realm:Main Realm/Floating Island"
+}

@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Avocado|character=[[File:Avocado.png]]|difficulty=Easy|area=[[City]]|hint=blending in!}}
+==Character==
+An avocado. Their mouth opens up in a cool way. That's pretty much it.
+==Obtaining==
+One of the items in Floormart in [[City]].
+[[Category:City Objects]]
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:Main Realm Objects]]
+[[Category:TPOT Debuter]]

@@ -1,0 +1,14 @@
+{{CharacterInfo|name=Puffball|character=[[Puffball.png|Puffball]]|difficulty=Difficult|area=[[Goiky]]|hint=i believe i (can't) fly (Hidden in Goiky)|additionalinfo|previousdifficulties=<span style="color:#ED2727">'''Extreme'''</span> [[File:Extreme.png]]}}
+
+== Appearance ==
+Puffball is a light pink puffball, with darker pink shading and an orchid outline. She has no limbs.
+
+== Obtaining ==
+Start near [[Six]], get to it either by walking straight to it or using click to move.
+[[Category:Objects]]
+[[Category:Difficult Objects]]
+[[Category:Goiky Objects]]
+[[Category:BFDIA Contestants]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]
+[[Category:Main Realm Objects]]

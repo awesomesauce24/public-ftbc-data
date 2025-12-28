@@ -1,0 +1,23 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Yoyleland.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#cd58e3,#70287a); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Carrot Cake
+|character=Carrot Cake.png
+|difficulty=[[File:Moderate.png]] <span style="color:#07fc55">'''Moderate'''</span>
+|area=[[Yoyleland]]
+|hint=CARROT CAKE!!!
+|additionalinfo
+|previousdifficulties =[[File:Hard.png]] <span style="color:#ff7e21">'''Hard'''</span>
+}}
+
+==Info==
+A flying piece of carrot cake with no limbs or face.
+
+==Obtaining==
+In Yoyleland, go to where [[Choo Choo The Train]] is and hop onto the roof of the building next to it, from that building you will be able to then jump down and collect Carrot Cake who is hovering over a road.
+
+[[Category:Moderate Objects]]
+[[Category:Yoyleland Objects]]
+[[Category:Objects]]

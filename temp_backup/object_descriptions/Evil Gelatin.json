@@ -1,0 +1,12 @@
+{
+  "name": "Evil Gelatin",
+  "area": "Evil Forest",
+  "difficulty": "dreadful",
+  "description": "<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">TBA</span>",
+  "hint": "<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">TBA</span>",
+  "previous_difficulties": [
+    "Insane"
+  ],
+  "wiki_markup": "name=Evil Gelatin\n|character=[[File:Evil Gelatin.webp|thumb]]\n|difficulty=[[File:Dreadful.png]] <span style=\"color:#db25ff\">'''Dreadful'''</span>\n|area=[[Evil Forest]]\n|hint=<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">TBA</span>\n|additionalinfo\n|previousdifficulties =[[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n",
+  "location": "realm:Evil Forest"
+}

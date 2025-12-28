@@ -1,0 +1,10 @@
+{
+  "name": "Sponge Cake",
+  "area": "Barren Desert",
+  "difficulty": "terrifying",
+  "description": "[https://youtu.be/S30cBkGu1tc?t=23 1... 2... 3... 4... who do we? not adore? spongy!!! spongy!!! spongy!!!]",
+  "hint": "[https://youtu.be/S30cBkGu1tc?t=23 1... 2... 3... 4... who do we? not adore? spongy!!! spongy!!! spongy!!!]",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Sponge Cake\n|character=[[File:Sponge Cake.png]]\n|difficulty=[[File:Terrifying.png]] <span style=\"color:#8B17FF; text-shadow: 0 0 10px rgba(139,23,255,0.35);\">'''Terrifying'''</span>\n|area=[[Barren Desert]]\n|hint=[https://youtu.be/S30cBkGu1tc?t=23 1... 2... 3... 4... who do we? not adore? spongy!!! spongy!!! spongy!!!]\n",
+  "location": "realm:Barren Desert"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Rainbow Orb",
+  "area": "Level 4",
+  "difficulty": "unforgiving",
+  "description": "congratulations, you've made it to level 4!",
+  "hint": "congratulations, you've made it to level 4!",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Rainbow Orb|character=Rainbow Orb.png|difficulty=Unforgiving|area=Level 4|hint=congratulations, you've made it to level 4!",
+  "location": "subrealm:The Backrooms/Level 4"
+}

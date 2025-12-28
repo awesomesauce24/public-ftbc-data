@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Cheddary|character=[[File:Cheddary.webp|thumb]]|difficulty=Intermediate|area=[[Cherry Grove]]|hint=This one's at a gouda spot! Sorry... guess my jokes are a little too CHEESY!}}
+
+==Character==
+Slice of cheddar cheese
+
+==Obtaining==
+Behind the tree near [[Chainsaw]]
+[[Category:Intermediate Objects]]
+[[Category:Objects]]
+[[Category:Cherry Grove Objects]]

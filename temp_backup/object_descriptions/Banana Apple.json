@@ -1,0 +1,10 @@
+{
+  "name": "Banana Apple",
+  "area": "Goiky",
+  "difficulty": "easy",
+  "description": "sitting on a tree...",
+  "hint": "sitting on a tree...",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Banana Apple|character=[[File:Banana Apple2.png]]|difficulty=Easy|area=[[Goiky]]|hint=sitting on a tree...",
+  "location": "realm:Main Realm/Goiky"
+}

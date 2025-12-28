@@ -1,0 +1,10 @@
+{
+  "name": "Ottoman",
+  "area": "Inverted",
+  "difficulty": "insane",
+  "description": "the sick man of the inverted realm",
+  "hint": "the sick man of the inverted realm",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Ottoman\n|character = [[File:Ottoman.png]]\n|difficulty = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n|area = [[Inverted]]\n|hint = the sick man of the inverted realm\n",
+  "location": "realm:Inverted"
+}

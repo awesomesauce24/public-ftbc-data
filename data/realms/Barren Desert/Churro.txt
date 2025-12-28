@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Churro|character=[[File:Churro.png|thumb]]|difficulty=Easy|area=[[Barren Desert]]|hint=yeah}}
+
+==Character==
+Churros
+
+==Obtaining==
+Inside of the house behind you
+[[Category:Easy Objects]]
+[[Category:Barren Desert Objects]]
+[[Category:Objects]]

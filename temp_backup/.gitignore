@@ -1,0 +1,49 @@
+# Private/Local
+rbx/
+rbx_private/
+tests/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+# Generated outputs
+outputs/
+
+# Python cache
+.pytest_cache/
+.venv/
+venv/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pythonlibs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Replit
+.upm/
+.cache/
+.config/
+
+# Project specific - credentials
+wiki/config/.fandom_creds.json
+realms/.cache/

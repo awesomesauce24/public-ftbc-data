@@ -1,0 +1,10 @@
+{
+  "name": "Bicycle Wheel",
+  "area": "Yoyleland",
+  "difficulty": "difficult",
+  "description": "It's near lasery, that's all I'll tell ya.",
+  "hint": "It's near lasery, that's all I'll tell ya.",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Bicycle wheel|character=[[File:Bicyclewheel.webp|thumb]]|difficulty=Difficult|area=[[Yoyleland]]|hint=It's near lasery, that's all I'll tell ya.",
+  "location": "realm:Yoyleland"
+}

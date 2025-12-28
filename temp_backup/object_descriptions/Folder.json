@@ -1,0 +1,12 @@
+{
+  "name": "Folder",
+  "area": "Inverted",
+  "difficulty": "difficult",
+  "description": "cons of being a folder: naming yourself con",
+  "hint": "cons of being a folder: naming yourself con",
+  "previous_difficulties": [
+    "Extreme"
+  ],
+  "wiki_markup": "name=Folder\n|character=[[File:Folder.png]]\n|difficulty=[[File:Difficult.png]] <span style=\"color:#f54f25\">'''Difficult'''</span>\n|area=[[Inverted]]\n|hint=cons of being a folder: naming yourself con\n|additionalinfo\n|previousdifficulties = [[File:Extreme.png]] <span style=\"color:#ed2727\">'''Extreme'''</span>\n",
+  "location": "realm:Inverted"
+}

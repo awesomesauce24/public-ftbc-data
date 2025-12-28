@@ -1,0 +1,12 @@
+{
+  "name": "Traffic Cone",
+  "area": "City",
+  "difficulty": "effortless",
+  "description": "This inanimate objects are getting out of hand (Hidden in City)",
+  "hint": "This inanimate objects are getting out of hand (Hidden in City)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Traffic Cone\n|character=[[File:Traffic Cone.png|thumb]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[City]]\n|hint=This inanimate objects are getting out of hand (Hidden in City)\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/City"
+}

@@ -1,0 +1,28 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=PaintyBook
+|character=[[File:PaintyBook.png|thumb]]
+|difficulty=[[File:Effortless.png]] <span style="color:#17a897">'''Effortless'''</span>
+|area=[[Tropical Islands]]
+|hint=where I keep my masterpieces (hidden in tropical islands)
+|additionalinfo
+|previousdifficulties = [[File:Easy.png]] <span style="color:#10da8d">'''Easy'''</span>
+}}
+
+==Character==
+Fusion of a paintbrush and [[Book]].
+
+==Obtaining==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+Teleport to [[Tropical Islands]] and look on the island that you teleported to, PaintyBook will be lying down on the island.</div>
+</div>
+
+[[Category:Effortless Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Tropical Islands Objects]]

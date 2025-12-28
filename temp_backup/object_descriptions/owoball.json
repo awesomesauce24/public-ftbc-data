@@ -1,0 +1,12 @@
+{
+  "name": "owoball",
+  "area": "Yoyle Factory",
+  "difficulty": "insane",
+  "description": "OWO",
+  "hint": "OWO",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name = owoball\n|character = [[File:owoball.webp]]\n|difficulty = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n|area = [[Yoyle Factory]]\n|hint = OWO\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "realm:Yoyle Factory"
+}

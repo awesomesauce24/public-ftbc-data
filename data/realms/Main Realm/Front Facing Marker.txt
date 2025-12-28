@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Front Facing Marker|character=[[File:Front Facing Marker.png]]|difficulty=Remorseless|area=Unknown|hint=the method to get this is a complete secret. all i'll tell you is that you should try searching for something...}}
+==Character==
+<nowiki>:/</nowiki>
+==Obtaining==
+{{Spoiler|text=If you check [https://find-the-markers-sandbox.fandom.com/wiki/Marker_From_BFB this wiki], you'll see how to obtain it in the "Obtaining" section.}}
+[[Category:Objects]]
+[[Category:Remorseless_Objects]]
+[[Category:Main Realm Objects]]

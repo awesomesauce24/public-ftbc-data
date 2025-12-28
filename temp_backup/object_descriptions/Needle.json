@@ -1,0 +1,10 @@
+{
+  "name": "Needle",
+  "area": "Goiky",
+  "difficulty": "easy",
+  "description": "I wonder where this one could possibly be...... well, look in the haystack, duh.",
+  "hint": "I wonder where this one could possibly be...... well, look in the haystack, duh.",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Needle\n|character = [[File:Needle.png]]\n|difficulty = Effortless\n|area = [[Main Realm]]\n|hint = I wonder where this one could possibly be...... well, look in the haystack, duh.\n",
+  "location": "realm:Main Realm/Goiky"
+}

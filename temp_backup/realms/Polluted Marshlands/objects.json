@@ -1,0 +1,126 @@
+{
+  "objects": [
+    {
+      "name": "Hamburger",
+      "difficulty": "hard",
+      "area": "Polluted Marshlands",
+      "description": ""
+    },
+    {
+      "name": "Soul Cube",
+      "difficulty": "hard",
+      "area": "Polluted Marshlands",
+      "description": "?ecnailla ruoy fo traP eb I naC ,syuG yeH",
+      "hint": "?ecnailla ruoy fo traP eb I naC ,syuG yeH"
+    },
+    {
+      "name": "Blueberry Cupcake",
+      "difficulty": "extreme",
+      "area": "Polluted Marshlands",
+      "description": ""
+    },
+    {
+      "name": "Clothy",
+      "difficulty": "extreme",
+      "area": "Polluted Marshlands",
+      "description": ""
+    },
+    {
+      "name": "Drum Kid",
+      "difficulty": "extreme",
+      "area": "Polluted Marshlands",
+      "description": ""
+    },
+    {
+      "name": "Pink Lemonade",
+      "difficulty": "extreme",
+      "area": "Polluted Marshlands",
+      "description": ""
+    },
+    {
+      "name": "Poppy Seed Roll",
+      "difficulty": "extreme",
+      "area": "Polluted Marshlands",
+      "description": "[Hidden in Polluted Marshlands]",
+      "hint": "[Hidden in Polluted Marshlands]"
+    },
+    {
+      "name": "Austrian Shield",
+      "difficulty": "insane",
+      "area": "Polluted Marshlands",
+      "description": ""
+    },
+    {
+      "name": "Branchy",
+      "difficulty": "insane",
+      "area": "Polluted Marshlands",
+      "description": ""
+    },
+    {
+      "name": "China",
+      "difficulty": "insane",
+      "area": "Polluted Marshlands",
+      "description": "[Hidden in Polluted Marshlands]",
+      "hint": "[Hidden in Polluted Marshlands]"
+    },
+    {
+      "name": "Mojito Glass",
+      "difficulty": "insane",
+      "area": "Polluted Marshlands",
+      "description": ""
+    },
+    {
+      "name": "Starfruit",
+      "difficulty": "insane",
+      "area": "Polluted Marshlands",
+      "description": "patience is key",
+      "hint": "patience is key"
+    },
+    {
+      "name": "Syrup Blob",
+      "difficulty": "insane",
+      "area": "Polluted Marshlands",
+      "description": ""
+    },
+    {
+      "name": "Dragonman",
+      "difficulty": "terrifying",
+      "area": "Polluted Marshlands",
+      "description": "dragon 2",
+      "hint": "dragon 2"
+    },
+    {
+      "name": "Soy",
+      "difficulty": "terrifying",
+      "area": "Polluted Marshlands",
+      "description": ""
+    },
+    {
+      "name": "Theebs",
+      "difficulty": "terrifying",
+      "area": "Polluted Marshlands",
+      "description": ""
+    },
+    {
+      "name": "Torso",
+      "difficulty": "terrifying",
+      "area": "Polluted Marshlands",
+      "description": "[Hidden in Polluted Marshlands]",
+      "hint": "[Hidden in Polluted Marshlands]"
+    },
+    {
+      "name": "Cat Witch",
+      "difficulty": "strenuous",
+      "area": "Polluted Marshlands",
+      "description": "BURN THE WITCH!!",
+      "hint": "BURN THE WITCH!!"
+    },
+    {
+      "name": "Polluted Marshlands Medallion",
+      "difficulty": "medallion",
+      "area": "Polluted Marshlands",
+      "description": "TBA",
+      "hint": "TBA"
+    }
+  ]
+}

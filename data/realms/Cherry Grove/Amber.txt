@@ -1,0 +1,24 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Cherry Grove.png}}}|{{{Size|2000px}}}]] </div> <div style="--theme-accent-color:-webkit-linear-gradient(#896a2e,#cf973a); --theme-accent-label-color:#ffffff;">
+
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo|name=Amber|character=[[File:Amber.png|thumb]]|difficulty=<span style="color:#8b17ff">'''Terrifying'''</span> [[File:Terrifying.png]]|area=[[Cherry Grove]]|hint=Remember this:
+XYYXZWYXZXZWZ}}
+
+==Character==
+Amber is one of [[Ruby|Rubies]] sisters, they have a happy expression and look very excited.
+
+==Obtaining==
+{| class="article-table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;"
+!'''How to Find [SPOILERS]'''||
+|-
+|Firstly, lets look at the hint: "Remember this:XYYXZWYXZXZWZ". This string of letters features the last four letters of the alphabet, keep this in mind. Now, If you have explored [[Cherry Grove]] a bit, near [[Jelly Bread]] you should find a green button with seemingly no purpose. That is until you notice four crates in a row that each can be clicked. What do you do with these crates you may ask? well the crates and the green button on the tree are all part of a keypad that has 4 main inputs. What else has 4 of something? The string of letters in the hint! Using the first letter (W) to represent the first crate on the left, X to represent the second crate and so on, you can input the letters into the crates then press the green button. Once you do, the amber casing near [[Chainsaw]] will open, allowing you to collect Amber.
+|}
+
+==Trivia==
+*As stated in [[Yellow Gemstone]]'s description, [[Yellow Gemstone]] along with this object and [[Orange Gemstone]] were all added in the same update.
+
+[[Category:Cherry Grove Objects]]
+[[Category:Objects]]
+[[Category:Terrifying Objects]]
+[[Category:BFDI Limbs]]

@@ -1,0 +1,12 @@
+{
+  "name": "Gashapon Capsule",
+  "area": "Snowy",
+  "difficulty": "extreme",
+  "description": "im (Hidden in Snowy)",
+  "hint": "im (Hidden in Snowy)",
+  "previous_difficulties": [
+    "Normal"
+  ],
+  "wiki_markup": "name=Gashapon Capsule|character=[[File:Gashapon Capsule.png]]|difficulty=Extreme|area=[[Snowy]]|hint=im (Hidden in Snowy)|additionalinfo|previousdifficulties=<span style=\"color:#a1ff27\">'''Normal'''</span> [[File:Normal.png]]",
+  "location": "realm:Main Realm/Snowy"
+}

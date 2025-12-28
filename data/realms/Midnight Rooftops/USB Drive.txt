@@ -1,0 +1,34 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Midnight-rooftops.png|2000px]]
+</div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#050522, #140f4a); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=USB Drive
+|character=[[File:USB Drive.png]]
+|difficulty=[[File:Remorseless.png|link=]] <span style="color:#2084ff">'''<b>Remorseless</b>'''</span>
+|area=[[Midnight Rooftops]]
+|hint=the highest point of the map. it won't be easy getting up there!
+}}
+
+== Info ==
+A very happy USB drive, that is divided into two main parts.
+
+== Obtaining ==
+'''''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+{| class="article-table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;"
+!'''How to Find [SPOILERS]'''||
+|-
+|Complete the obby on the biggest building of Midnight Rooftops, get there from going to the route of where you would find the egg for [[Peep]]
+|}
+</div>
+</div>
+
+[[Category:Remorseless Objects]]
+[[Category:Objects]]
+[[Category:Midnight Rooftops Objects]]
+</div>
+</div>

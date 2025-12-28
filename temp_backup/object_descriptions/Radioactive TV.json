@@ -1,0 +1,10 @@
+{
+  "name": "Radioactive TV",
+  "area": "Abandonment",
+  "difficulty": "horrifying",
+  "description": "begin by looking through somewhere completely abandoned",
+  "hint": "begin by looking through somewhere completely abandoned",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Radioactive TV|character=[[File:Radioactive TV.png]]|difficulty=Horrifying|area=[[Yoyleland]], [[Abandonment]]|hint=begin by looking through somewhere completely abandoned",
+  "location": "subrealm:Yoyleland/Abandonment"
+}

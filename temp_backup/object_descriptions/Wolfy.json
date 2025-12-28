@@ -1,0 +1,12 @@
+{
+  "name": "Wolfy",
+  "area": "Level 153",
+  "difficulty": "arduous",
+  "description": "behind a file cabinet",
+  "hint": "behind a file cabinet",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Wolfy\n|character=[[File:Wolfy.png]]\n|difficulty=[[File:Arduous.png]] <span style=\"color:#5d0cff\">'''<b>Arduous</b>'''</span>\n|area=[[Level 153]]\n|hint=behind a file cabinet\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "subrealm:The Backrooms/Level 153"
+}

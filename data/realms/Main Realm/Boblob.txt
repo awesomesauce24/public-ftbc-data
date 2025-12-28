@@ -1,0 +1,39 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Boblob
+|character=
+<gallery>
+Boblob New.png|Current
+Boblob.png|Old
+</gallery>
+|difficulty=[[File:Arduous.png]] <span style="color:#5d0cff">'''Arduous'''</span>
+|area=[[Factory]]
+|hint=start by looking near [[Black Hole|black hole]]
+|additionalinfo
+|previousdifficulties =
+[[File:Remorseless.png]] <span style="color:#2084ff">'''Remorseless'''</span>
+[[File:Strenuous.png]] <span style="color:#4048e5">'''Strenuous'''</span>
+}}
+
+
+
+== Appearance ==
+A white circle with fur and black spots.
+
+== Obtaining ==
+There is a code in Black Hole's chamber, but it's encrypted in Base64. Decoding '''"L2UgYW0wbmc="'''  
+
+We get '''"/e am0ng"'''
+
+Then say '''"/e am0ng"''' Then, say '''"/e d0org0avvayp13a5e"''' (Which is found outside [[Tune's Room|'''Tune's Room''']], near [[D|'''d''']].) After opening the door, dance clip on the next one. Go to the "Okay, okay, have your reward" text and hug that wall until you fall. Dance clip behind the fake Boblob and look under.
+
+== Obtaining (new version)==
+ok honestly idk what the puzzles supposed to mean, {{Spoiler|text=but the puzzle's in Black Hole's chamber still. the answer is /e picture. (no idea how this makes sense blame devs) This replaces the /e am0ng step.}}
+
+[[Category:Objects]]
+[[Category:Arduous Objects]]
+[[Category:Factory Objects]]
+[[Category:Main Realm Objects]]

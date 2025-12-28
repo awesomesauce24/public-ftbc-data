@@ -1,0 +1,12 @@
+{
+  "name": "PaintyBook",
+  "area": "Tropical Islands",
+  "difficulty": "effortless",
+  "description": "where I keep my masterpieces (hidden in tropical islands)",
+  "hint": "where I keep my masterpieces (hidden in tropical islands)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=PaintyBook\n|character=[[File:PaintyBook.png|thumb]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Tropical Islands]]\n|hint=where I keep my masterpieces (hidden in tropical islands)\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Tropical Islands"
+}

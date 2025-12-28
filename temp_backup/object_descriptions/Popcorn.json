@@ -1,0 +1,10 @@
+{
+  "name": "Popcorn",
+  "area": "Hotel",
+  "difficulty": "easy",
+  "description": "give me some of that popcorn",
+  "hint": "give me some of that popcorn",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Popcorn\n|character=Popcorn.png\n|difficulty=[[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n|area=[[Hotel]]\n|hint=give me some of that popcorn\n",
+  "location": "realm:Main Realm/Hotel"
+}

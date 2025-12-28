@@ -1,0 +1,12 @@
+{
+  "name": "Winterous",
+  "area": "Frozen World",
+  "difficulty": "strenuous",
+  "description": "go to the edges",
+  "hint": "go to the edges",
+  "previous_difficulties": [
+    "Remorseless"
+  ],
+  "wiki_markup": "name = Winterous\n|character = [[File:Winterous.png]]\n|difficulty = [[File:Strenuous.png]] <span style=\"color:#4048e5\">'''<b>Strenuous</b>'''</span>\n|area = [[Frozen World]]\n|hint = go to the edges\n|additionalinfo\n|previousdifficulties = \n[[File:Remorseless.png]] <span style=\"color:#2084ff\">'''Remorseless'''</span>\n",
+  "location": "realm:Frozen World"
+}

@@ -1,0 +1,30 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:YoylefactoryRealm.png|2000px]]
+</div>
+<div style="--theme-accent-color:#46515D; --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Aura Sphere
+|character=[[File:Aura Sphere.png]]
+|difficulty=[[File:Dreadful.png|link=]] <span style="color:#db25ff">'''<b>Dreadful</b>'''</span>
+|area=[[Yoyle Factory/Abandonment|Yoyle Factory]]
+|hint=it looks like it could be an interdimensional portal that teleported an airline on two pieces of camera footage from 2014
+|additionalinfo
+}}
+
+== Info ==
+A dark blue sphere with a white outline and a dot in the center
+
+== Obtaining ==
+'''''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">Go to abandoned zone and found PC with binary on it "01110010001110000111010100110111" decrypt it and you will get "r8u7", say that as /e code and you will get teleported to aura sphere</div>
+</div>
+
+[[Category:Dreadful Objects]]
+[[Category:Objects]]
+[[Category:Yoyle Factory/Abandonment Objects]]
+[[Category:Yoyle Factory Objects]]
+</div>
+</div>

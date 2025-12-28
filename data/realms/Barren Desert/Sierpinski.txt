@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Sierpinski|character=[[Sierpinski.png|Sierpinski]]|difficulty=Terrifying|area=[[Barren Desert]]|hint=uhm.. what??? also, look under the map}}
+
+== Appearance ==
+Sierpinski is a black sierpinski triangle.
+
+== Obtaining ==
+Look for an obby under the map.
+[[Category:Objects]]
+[[Category:Terrifying Objects]]
+[[Category:Barren Desert Objects]]

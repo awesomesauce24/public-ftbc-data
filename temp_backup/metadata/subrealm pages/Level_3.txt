@@ -1,0 +1,43 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:LEVEL3.png|2700px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.70); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+{{Zoneinfobox
+| title1 = Level 3
+| image1 = [[File:LEVEL3.png]]
+| caption1 = Example
+| Objects = 6
+| creator = Klaptal
+| theme = Electrical Station, [[Backrooms]]
+| average_difficulty = <span style="color:#FF143F">'''Unforgiving'''</span> [[File:Unforgiving.png]] (9.33333333333)
+| bordering_zones = 
+| realms = [[Level 4]]
+| subzones = 
+}}
+<br>
+
+== Info ==
+Level 3 is a giant passage of tunnels, similar to [[Level 2]]. The level is dim, having no main light sources, but not almost pitch black like [[Level 2]].
+
+
+== How to Enter ==
+Find the exit door in [[Level 2]] and find the exit, A map can be found on its page. 
+
+== Objects ==
+
+==== <span style="color:#FF143F">'''Unforgiving'''</span> ====
+*[[File:Unforgiving.png]] [[Badge]]
+*[[File:Unforgiving.png]] [[Black Square]]
+*[[File:Unforgiving.png]] [[Blueberry Machine]]
+*[[File:Unforgiving.png]] [[Icicle]]
+*[[File:Unforgiving.png]] [[Snowglobe]]
+==== <span style="color:#DB25FF">'''Dreadful'''</span> ====
+*[[File:Dreadful.png]] [[Swirl]]
+
+== Map ==
+[[File:FTBC Backrooms Level 3 (stinky).png|650x650px]]
+
+[[Category:Sub-Areas]]
+[[Category:Backrooms Levels]]

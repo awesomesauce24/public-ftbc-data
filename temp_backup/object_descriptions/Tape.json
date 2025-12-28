@@ -1,0 +1,10 @@
+{
+  "name": "Tape",
+  "area": "City",
+  "difficulty": "easy",
+  "description": "they're in a \"sticky\" situation! im not funny",
+  "hint": "they're in a \"sticky\" situation! im not funny",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Tape\n|character=Tape.png\n|difficulty=[[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n|area=[[City]]\n|hint=they're in a \"sticky\" situation! im not funny",
+  "location": "realm:Main Realm/City"
+}

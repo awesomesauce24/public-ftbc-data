@@ -1,0 +1,10 @@
+{
+  "name": "Can of Black Olives",
+  "area": "Barren Desert",
+  "difficulty": "normal",
+  "description": "look around the map",
+  "hint": "look around the map",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Can of Black Olives\n|character=<gallery>\nCan of Black Olives.png\n</gallery>\n|difficulty=[[File:Normal.png|link=]] <span style=\"color:#a1ff27\">'''<b>Normal</b>'''</span>\n|area=[[Barren Desert]]\n|hint=look around the map\n",
+  "location": "realm:Barren Desert"
+}

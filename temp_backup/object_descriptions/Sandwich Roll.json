@@ -1,0 +1,10 @@
+{
+  "name": "Sandwich Roll",
+  "area": "Jungle",
+  "difficulty": "easy",
+  "description": "on top of a giant plant",
+  "hint": "on top of a giant plant",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Sandwich Roll\n|character=Sandwich Roll.png\n|difficulty=[[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n|area=[[Jungle]]\n|hint=on top of a giant plant\n",
+  "location": "realm:Main Realm/Jungle"
+}

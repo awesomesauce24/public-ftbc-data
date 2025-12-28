@@ -1,0 +1,10 @@
+{
+  "name": "Hoodie",
+  "area": "Basement",
+  "difficulty": "dreadful",
+  "description": "oooooo mysterious ooooooo",
+  "hint": "oooooo mysterious ooooooo",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Hoodie\n|character = [[File:Hoodie.png]]\n|difficulty = Dreadful\n|area = [[The Basement]]\n|hint = oooooo mysterious ooooooo\n",
+  "location": "subrealm:Yoyle Factory/Basement"
+}

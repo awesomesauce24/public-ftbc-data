@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Magney|character=[[File:Magney.png]]|difficulty=Insane|area=[[Classic Paradise]]|hint=look around in the large cave}}
+==Character==
+'''Magney''' is a magnet with some iron dusts attached to it.
+==Obtaining==
+Find it in the 2nd floor of the cave at [[Classic Paradise]].
+
+[[Category:Objects]]
+[[Category:Insane Objects]]
+[[Category:Classic Paradise Objects]]

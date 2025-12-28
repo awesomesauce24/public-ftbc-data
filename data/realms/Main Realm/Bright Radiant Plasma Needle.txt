@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Bright Radiant Plasma Needle|character=[[File:Bright Radiant Plasma Needle.webp|thumb]]|difficulty=Hard|area=[[Goiky]]|hint=Needle Family Reunion!}}
+== Character ==
+Self Explanatory.
+== Obtaining ==
+{{Spoiler|text=Go further after getting [[Crazy Needle]]. The path is a conveyor btw.}}
+[[Category:Hard Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Goiky Objects]]
+[[Category:BFDI Contestants]]

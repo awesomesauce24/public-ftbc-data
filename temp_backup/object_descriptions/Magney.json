@@ -1,0 +1,10 @@
+{
+  "name": "Magney",
+  "area": "Classic Paradise",
+  "difficulty": "insane",
+  "description": "look around in the large cave",
+  "hint": "look around in the large cave",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Magney|character=[[File:Magney.png]]|difficulty=Insane|area=[[Classic Paradise]]|hint=look around in the large cave",
+  "location": "realm:Classic Paradise"
+}

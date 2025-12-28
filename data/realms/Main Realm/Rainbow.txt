@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Rainbow|character=[[File:Rainbow.png]]|difficulty=Moderate|area=[[Floating Island]]|hint=check on the rainbow at floating island}}
+==Info==
+Former retired event object, being available in june due to pride month, getting demoted for more relevant objects to be event, then the whole event difficulty is removed, crazy life.
+==Obtainment==
+After getting [[Orb]], climb up the rainbow, Rainbow will be at the side of it, really visible.
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Floating Island Objects]]
+[[Category:Moderate Objects]]

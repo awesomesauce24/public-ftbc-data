@@ -1,0 +1,12 @@
+{
+  "name": "Virus",
+  "area": "Timber Peaks",
+  "difficulty": "arduous",
+  "description": "start in the basement, you'll be able to find something important there.",
+  "hint": "start in the basement, you'll be able to find something important there.",
+  "previous_difficulties": [
+    "Remorseless"
+  ],
+  "wiki_markup": "name=Virus\n|character=[[File:Virus.png|Virus]]\n|difficulty=[[File:Arduous.png]] <span style=\"color:#5d0cff\">'''Arduous'''</span>\n|area=Mixed\n|hint= start in the basement, you'll be able to find something important there.\n|additionalinfo\n|previousdifficulties =\n[[File:Remorseless.png]] <span style=\"color:#2084ff\">'''Remorseless'''</span>\n[[File:Strenuous.png]] <span style=\"color:#4048e5\">'''Strenuous'''</span>\n",
+  "location": "realm:Timber Peaks"
+}

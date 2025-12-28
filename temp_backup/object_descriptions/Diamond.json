@@ -1,0 +1,10 @@
+{
+  "name": "Diamond",
+  "area": "Yoyle Factory",
+  "difficulty": "unforgiving",
+  "description": "Must suck not having a limbs... and not being a circle",
+  "hint": "Must suck not having a limbs... and not being a circle",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Diamond|character=[[File:Diamond.webp|thumb]]|difficulty=Unforgiving|area=[[Yoyle Factory]]|hint=Must suck not having a limbs... and not being a circle",
+  "location": "realm:Yoyle Factory"
+}

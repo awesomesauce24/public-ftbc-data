@@ -1,0 +1,10 @@
+{
+  "name": "Evil Price Tag",
+  "area": "Yoyleland",
+  "difficulty": "extreme",
+  "description": "get on top of a roof",
+  "hint": "get on top of a roof",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Evil Price Tag|character=[[File:Evil Price Tag.png]]|difficulty=Extreme|area=[[Yoyleland]]|hint=get on top of a roof",
+  "location": "realm:Yoyleland"
+}

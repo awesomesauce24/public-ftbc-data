@@ -1,0 +1,15 @@
+{{CharacterInfo
+|name=Gelatin
+|character=[[File:Gelatin.png|Gelatin]]
+|difficulty=Effortless
+|area=[[Goiky]]
+|hint=tbh his resturant is much better then fries' (Hidden in City)
+}}
+
+==Character==
+[[Gelatin]] is a gelatin.
+==Obtaining==
+hes gelatin
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:Goiky Objects]]

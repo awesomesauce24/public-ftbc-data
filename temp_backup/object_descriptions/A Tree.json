@@ -1,0 +1,10 @@
+{
+  "name": "A Tree",
+  "area": "Yoyleland",
+  "difficulty": "moderate",
+  "description": "yeah, just a tree and nothing else",
+  "hint": "yeah, just a tree and nothing else",
+  "previous_difficulties": [],
+  "wiki_markup": "name=A Tree|character=A Tree.png|difficulty=Moderate|area=[[Yoyleland]]|hint=yeah, just a tree and nothing else|info=",
+  "location": "realm:Yoyleland"
+}

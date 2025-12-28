@@ -1,0 +1,19 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Cherry Grove.png}}}|{{{Size|2000px}}}]] </div> <div style="--theme-accent-color:-webkit-linear-gradient(#896a2e,#cf973a); --theme-accent-label-color:#ffffff;">
+
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo|name=Yellow Gemstone|character=[[File:Yellow Gemstone.png]]|difficulty=<span style="color:#2084ff">'''Remorseless'''</span> [[File:Remorseless.png]]|area=[[Cherry Grove]]|hint=isn't it funny how 3 of the 5 new cherry grove objects are gemstone related?}}
+==Character==
+A tiny yellow gemstone, that seems to have connections to [[Orange Gemstone]]. They also have tiny sparkles around them, which implies they are shiny.
+==Obtaining==
+{| class="article-table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;"
+!'''How to Find [SPOILERS]'''||
+|-
+|Perhaps check near [[Orange Gemstone]]?
+|}
+
+==Trivia==
+*As its description states, Yellow Gemstone was added a long with two other gemstones, those being [[Amber]] and [[Orange Gemstone]].
+[[Category:Remorseless Objects]]
+[[Category:Objects]]
+[[Category:Cherry Grove Objects]]

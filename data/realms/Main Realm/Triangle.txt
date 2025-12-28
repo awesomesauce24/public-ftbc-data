@@ -1,0 +1,11 @@
+{{CharacterInfo|name=Triangle|character=Triangle.png|difficulty=Normal|area=Classic Roblox|hint=why are they so mad what went wrong}}
+
+== Character ==
+An angry blue triangle.
+
+== Obtaining ==
+Under the "The Magickal Witch Shoppe" sign.
+[[Category:Classic Roblox Objects]]
+[[Category:Normal Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]

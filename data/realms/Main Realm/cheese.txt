@@ -1,0 +1,15 @@
+{{CharacterInfo
+|name = cheese
+|character = [[File:Cheese.png]]
+|difficulty = Normal
+|area = [[Warehouse]]
+|hint = i should have never put custom avatars into the ultra mega fart donation perks (this is a repeat of fredster's description) (Start in Warehouse)
+}}
+
+== Obtaining ==
+inside of Purple Face Box, in [[Warehouse]]. He is near one of the gears. Check by the green button.
+after getting the gear, drop down to the pole.
+
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Normal Objects]]

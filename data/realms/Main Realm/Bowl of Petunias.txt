@@ -1,0 +1,7 @@
+{{CharacterInfo|name=Bowl of Petunias|character=Bowl_of_Petunias.png|difficulty=Moderate|area=Tropical  Islands|hint=mmmmm... delicious... you ever just eat a bowl of flowers|previousdifficulties=Medium}}
+
+== Info ==
+a Beige bowl of Petunias
+
+== Obtaining ==
+At the edge of An island near a Brown Platform

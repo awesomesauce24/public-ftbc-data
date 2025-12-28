@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Spunce|character=[[File:Spunce.png]]|difficulty=Easy|area=[[Hotel]]|hint=what is this thing even supposed to be? (Hidden at Hotel)}}
+==Character==
+I cant even blame Display for putting "Someone pls edit this" on this page, what the heck even is this thing? or should I say "what the fart is this thing" -[[Hyper]]'s Description
+
+==Obtaining==
+Behind the CRC at [[Hotel]].
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:Hotel Objects]]
+[[Category:Main Realm Objects]]

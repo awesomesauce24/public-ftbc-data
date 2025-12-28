@@ -1,0 +1,12 @@
+{
+  "name": "Barbecue Sauce",
+  "area": "City",
+  "difficulty": "effortless",
+  "description": "look behind gelatin's steakhouse, which for the sake of the game has NOT been remade into gelatin's shadeshouse",
+  "hint": "look behind gelatin's steakhouse, which for the sake of the game has NOT been remade into gelatin's shadeshouse",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Barbecue Sauce\n|character=[[File:Barbecue Sauce.png]]\n|difficulty= [[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[City]]\n|hint=look behind gelatin's steakhouse, which for the sake of the game has NOT been remade into gelatin's shadeshouse\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>",
+  "location": "realm:Main Realm/City"
+}

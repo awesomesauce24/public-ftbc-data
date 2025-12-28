@@ -1,0 +1,12 @@
+{
+  "name": "Accordion",
+  "area": "Level 153",
+  "difficulty": "dreadful",
+  "description": "yes very accordion-like accordion accordion acc",
+  "hint": "yes very accordion-like accordion accordion acc",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Accordion\n|character=[[File:Accordion.png]]\n|difficulty=[[File:Dreadful.png]] <span style=\"color:#db25ff\">'''<b>Dreadful</b>'''</span>\n|area=[[Level 153]]\n|hint=yes very accordion-like accordion accordion acc\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "subrealm:The Backrooms/Level 153"
+}

@@ -1,0 +1,11 @@
+{{CharacterInfo|name=Sausage Roll|character=ROLL.png|difficulty=Arduous|area=[[Classic Paradise]]|hint=sausage roll |additionalinfo|previousdifficulties=<span style="color:#8b17ff">'''Terrifying'''</span> [[File:Terrifying.png]]
+<span style="color:#4048E5">'''Strenuous'''</span> [[File:Strenuous.png]]}}
+== Character ==
+THIS IS JUST A SAUSAGE ROLL
+
+== Obtaining ==
+Halfway through [[Bird From Egypt]]'s obby, look under a platform.
+[[Category:Objects]]
+[[Category:Arduous Objects]]
+[[Category:Classic Paradise Objects]]
+[[Category:BFDI Limbs]]

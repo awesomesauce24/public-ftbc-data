@@ -1,0 +1,12 @@
+{
+  "name": "Pandora Book",
+  "area": "Yoyleland",
+  "difficulty": "easy",
+  "description": "Hiding behind a building somewhere...",
+  "hint": "Hiding behind a building somewhere...",
+  "previous_difficulties": [
+    "Normal"
+  ],
+  "wiki_markup": "name=Pandora Book|character=[[File:Pandora book.webp]]|difficulty=Moderate|area=[[Yoyleland]]|hint=Hiding behind a building somewhere...|additionalinfo|previousdifficulties=<span style=\"color:#a1ff27\">'''Normal'''</span> [[File:Normal.png]]",
+  "location": "realm:Yoyleland"
+}

@@ -1,0 +1,24 @@
+{{CharacterInfo|name=ARG Television|character=[[File:ARG Television.png|ARG Television]]|difficulty=Remorseless|area=Mixed|hint=start in firey speakerbox's area}}
+==Character==
+'''ARG Television''' was a Impossible object during it's 1st variant, then a Horrifying object, and now a Remorseless. It is also the first Impossible & Horrifying object to be added in Find The BFB Characters.
+
+It is a Television with a Lemon metallic screen and a green face.
+
+==Obtaining==
+Start in [[Firey Speaker Box]]'s Area, then {{Spoiler|text=behind Firey Speakerbox, there's a text that says "OTI3NDk0MjM4NQ==", it's encoded in base64 so decoding it gives us 9274942385, which is a place id ( https://www.roblox.com/games/9274942385 ), join that game and you'll see that it looks like a normal starter place, but if you go to the structure surrounded by stone, there's a binary code behind the chest in the middle that reads "00101111 01100101 00100000 01100111 00110000 01101111 01100100 01101010 00110000 001100010 01111001 01101111 00110111", decoding it gives us "'''/e g0odj0byo7'''", which is the final code.}}
+
+== Gallery ==
+<gallery>
+File:ARGTelevisionMuseumTeaser.png|A teaser of ARG Television in the upcoming museum, featuring a full 3D Model.
+File:SaltiKilledWand.png|Ditto, including [[Great Rhombicosidodecahedron|Rhombi]], [[King Skull]] and not [[Wand]] because Salti killed them.
+File:WandRessurection.png|nevermind
+</gallery>
+
+==Trivia==
+*This used to be a Horrifying but on update 2.16.3, it changed to Remorseless.
+*They are referred to as "''CRT television''" rather than ''ARG Television'' in BFB 14's recommended characters scene.<ref>https://battlefordreamisland.fandom.com/wiki/Don%27t_Dig_Straight_Down/Recommended_characters</ref>
+
+== References ==
+[[Category:Objects]]
+[[Category:Remorseless Objects]]
+[[Category:Main Realm Objects]]

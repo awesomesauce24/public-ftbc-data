@@ -1,0 +1,274 @@
+{
+  "objects": [
+    {
+      "name": "Bomby",
+      "difficulty": "effortless",
+      "area": "Hotel",
+      "description": "explode!",
+      "hint": "explode!"
+    },
+    {
+      "name": "Bushy",
+      "difficulty": "effortless",
+      "area": "Hotel",
+      "description": "haha, nice try! but you arent fooling anyone",
+      "hint": "haha, nice try! but you arent fooling anyone"
+    },
+    {
+      "name": "Fish Monster",
+      "difficulty": "effortless",
+      "area": "Hotel",
+      "description": "uhhh I forgor sorry",
+      "hint": "uhhh I forgor sorry"
+    },
+    {
+      "name": "Fishy",
+      "difficulty": "effortless",
+      "area": "Hotel",
+      "description": "we're surrounding by fish, you know what that means? FISH!!!!!!",
+      "hint": "we're surrounding by fish, you know what that means? FISH!!!!!!"
+    },
+    {
+      "name": "Fruit Cake",
+      "difficulty": "effortless",
+      "area": "Hotel",
+      "description": "They're chilling near the hotel",
+      "hint": "They're chilling near the hotel"
+    },
+    {
+      "name": "Jaiden",
+      "difficulty": "effortless",
+      "area": "Hotel",
+      "description": "Woof (hidden in Hotel)",
+      "hint": "Woof (hidden in Hotel)"
+    },
+    {
+      "name": "Marble Bottle",
+      "difficulty": "effortless",
+      "area": "Hotel",
+      "description": "how joyous (Hidden in Hotel)",
+      "hint": "how joyous (Hidden in Hotel)"
+    },
+    {
+      "name": "Marker",
+      "difficulty": "effortless",
+      "area": "Hotel",
+      "description": "Playing toss the dirt (Hidden at Hotel)",
+      "hint": "Playing toss the dirt (Hidden at Hotel)"
+    },
+    {
+      "name": "Milli",
+      "difficulty": "effortless",
+      "area": "Hotel",
+      "description": "Bark (Hidden in Hotel)",
+      "hint": "Bark (Hidden in Hotel)"
+    },
+    {
+      "name": "Stapy",
+      "difficulty": "effortless",
+      "area": "Hotel",
+      "description": "hangin out with marker (hidden at hotel)",
+      "hint": "hangin out with marker (hidden at hotel)"
+    },
+    {
+      "name": "Water Bottle",
+      "difficulty": "effortless",
+      "area": "Hotel",
+      "description": "Water bottle is here to save the day!! (Hidden at Hotel)",
+      "hint": "Water bottle is here to save the day!! (Hidden at Hotel)"
+    },
+    {
+      "name": "Birdhouse",
+      "difficulty": "easy",
+      "area": "Hotel",
+      "description": "nature is epic.............. (Hidden at Hotel)",
+      "hint": "nature is epic.............. (Hidden at Hotel)"
+    },
+    {
+      "name": "Popcorn",
+      "difficulty": "easy",
+      "area": "Hotel",
+      "description": "give me some of that popcorn",
+      "hint": "give me some of that popcorn"
+    },
+    {
+      "name": "Spunce",
+      "difficulty": "easy",
+      "area": "Hotel",
+      "description": "what is this thing even supposed to be? (Hidden at Hotel)",
+      "hint": "what is this thing even supposed to be? (Hidden at Hotel)"
+    },
+    {
+      "name": "Cranberry",
+      "difficulty": "moderate",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Fall Leafy",
+      "difficulty": "moderate",
+      "area": "Hotel",
+      "description": "find a way up a tree (Hidden at Hotel)",
+      "hint": "find a way up a tree (Hidden at Hotel)"
+    },
+    {
+      "name": "Foldy",
+      "difficulty": "moderate",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Hammer",
+      "difficulty": "moderate",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Paint Palette",
+      "difficulty": "moderate",
+      "area": "Hotel",
+      "description": "it's in something pink..",
+      "hint": "it's in something pink.."
+    },
+    {
+      "name": "RoboBoi",
+      "difficulty": "moderate",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Blender",
+      "difficulty": "normal",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Bally",
+      "difficulty": "normal",
+      "area": "Hotel",
+      "description": "every sport needs a ball! i don't think this is the right type",
+      "hint": "every sport needs a ball! i don't think this is the right type"
+    },
+    {
+      "name": "Football Player",
+      "difficulty": "normal",
+      "area": "Hotel",
+      "description": "somebody left their helmet somewhere",
+      "hint": "somebody left their helmet somewhere"
+    },
+    {
+      "name": "Modern Art",
+      "difficulty": "normal",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Space Book",
+      "difficulty": "normal",
+      "area": "Hotel",
+      "description": "haha i have no idea what to put here",
+      "hint": "haha i have no idea what to put here"
+    },
+    {
+      "name": "Davidworm",
+      "difficulty": "intermediate",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Lip Gloss",
+      "difficulty": "intermediate",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Pixelated Heart",
+      "difficulty": "intermediate",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Air",
+      "difficulty": "hard",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Minty",
+      "difficulty": "hard",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Peanut Butter",
+      "difficulty": "hard",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Dog Collar",
+      "difficulty": "extreme",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Earth",
+      "difficulty": "extreme",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Homeless Spooky",
+      "difficulty": "extreme",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Trash Can",
+      "difficulty": "insane",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "The Sewers",
+      "difficulty": "insane",
+      "area": "Hotel",
+      "description": "",
+      "hint": ""
+    },
+    {
+      "name": "Oodle",
+      "difficulty": "terrifying",
+      "area": "Hotel",
+      "description": "something lies deeper within the EXIT...",
+      "hint": "something lies deeper within the EXIT..."
+    },
+    {
+      "name": "Alien",
+      "difficulty": "strenuous",
+      "area": "Hotel",
+      "description": "find 8 buttons scattered around the entire overworld, no hints!",
+      "hint": "find 8 buttons scattered around the entire overworld, no hints!"
+    },
+    {
+      "name": "Cauldron",
+      "difficulty": "strenuous",
+      "area": "Hotel",
+      "description": ""
+    },
+    {
+      "name": "Peep",
+      "difficulty": "horrifying",
+      "area": "Hotel",
+      "description": "peep. for the easter event. find fifteen eggs in fifteen realms!",
+      "hint": "peep. for the easter event. find fifteen eggs in fifteen realms!"
+    },
+    {
+      "name": "Aspen Tree",
+      "difficulty": "secret",
+      "area": "Hotel",
+      "description": "",
+      "hint": ""
+    }
+  ]
+}

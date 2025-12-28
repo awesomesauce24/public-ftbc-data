@@ -1,0 +1,18 @@
+{{CharacterInfo
+|name=Baby
+|character=[[File:Baby.png]]
+|difficulty=[[File:Easy.png]] <span style="color:#10da8d">'''Easy'''</span>
+|area=[[Main Realm]]
+|hint=WAHHHH!!! WAHHHH!!!!! I NEED MILK!!!!!!!!!!! (Hidden In City)
+}}
+
+== Info ==
+David as a Baby from "BFDI: Mini"
+
+== Obtaining ==
+hes in the park, sitting on one of the benches.
+
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Easy Objects]]
+[[Category:BFDI Mini Contestants]]

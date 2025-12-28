@@ -1,0 +1,12 @@
+{
+  "name": "Box of Free Puppies",
+  "area": "Inverted",
+  "difficulty": "difficult",
+  "description": "they're on sale in the steakhouse, which doesn't make any sense now that i'm saying it",
+  "hint": "they're on sale in the steakhouse, which doesn't make any sense now that i'm saying it",
+  "previous_difficulties": [
+    "Extreme"
+  ],
+  "wiki_markup": "name=Box of Free Puppies\n|difficulty=[[File:Difficult.png]] <span style=\"color:#f54f25\">'''Difficult'''</span>\n|area=[[Inverted]]\n|hint=they're on sale in the steakhouse, which doesn't make any sense now that i'm saying it\n|character=Box of Free Puppies.png\n|additionalinfo\n|previousdifficulties=[[File:Extreme.png]] <span style=\"color:#ed2727\">'''Extreme'''</span>\n",
+  "location": "realm:Inverted"
+}

@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Chocolate Chip|character=[[File:Chocolate Chip.png]]|difficulty=Hard|area=[[Candyland]]|hint=find a code at candyland}}
+==Character==
+kisses
+==Obtaining==
+If you look under one of the cookies at [[Candyland]], you'll see "'''/e ch0qo1at3'''". Say that on chat.
+[[Category:Objects]]
+[[Category:Hard Objects]]
+[[Category:Candyland Objects]]

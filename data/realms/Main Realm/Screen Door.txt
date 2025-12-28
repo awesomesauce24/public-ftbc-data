@@ -1,0 +1,15 @@
+{{CharacterInfo
+|name = Screen Door
+|character = [[File:Screen Door.png]]
+|difficulty = Easy
+|area = [[Main Realm]]
+|hint = look inside the warehouse
+}}
+
+== Obtaining ==
+enter the [[Warehouse]], he should be on the left wall of the entrance door.
+
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Easy Objects]]
+[[Category:Warehouse Objects]]

@@ -1,0 +1,12 @@
+{
+  "name": "Metronome",
+  "area": "Level 153",
+  "difficulty": "strenuous",
+  "description": "think about the song that plays",
+  "hint": "think about the song that plays",
+  "previous_difficulties": [
+    "Remorseless"
+  ],
+  "wiki_markup": "name=Metronome\n|character=[[File:Metronome.png]]\n|difficulty=[[File:Strenuous.png]] <span style=\"color:#4048e5\">'''<b>Strenuous</b>'''</span>\n|area=[[Level 153]]\n|hint=think about the song that plays\n|additionalinfo\n|previousdifficulties = [[File:Remorseless.png]] <span style=\"color:#2084ff\">'''Remorseless'''</span>\n",
+  "location": "subrealm:The Backrooms/Level 153"
+}

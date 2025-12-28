@@ -1,0 +1,111 @@
+{
+  "objects": [
+    {
+      "name": "Pineapple",
+      "difficulty": "effortless",
+      "area": "Fossil Falls",
+      "description": "Who lives in pineapple under the sea? (Hidden in fossil falls)",
+      "hint": "Who lives in pineapple under the sea? (Hidden in fossil falls)"
+    },
+    {
+      "name": "Barry",
+      "difficulty": "easy",
+      "area": "Fossil Falls",
+      "description": "",
+      "hint": ""
+    },
+    {
+      "name": "Euro",
+      "difficulty": "easy",
+      "area": "Fossil Falls",
+      "description": "How much will it cost? Not even a euro. (Hidden in Fossil Falls)",
+      "hint": "How much will it cost? Not even a euro. (Hidden in Fossil Falls)"
+    },
+    {
+      "name": "Xmas Light",
+      "difficulty": "easy",
+      "area": "Fossil Falls",
+      "description": "(Hidden in Fossil Falls)",
+      "hint": "(Hidden in Fossil Falls)"
+    },
+    {
+      "name": "Duffel Bag",
+      "difficulty": "moderate",
+      "area": "Fossil Falls",
+      "description": "yeah (Hidden in Fossil Falls)",
+      "hint": "yeah (Hidden in Fossil Falls)"
+    },
+    {
+      "name": "Watermelon Slice",
+      "difficulty": "moderate",
+      "area": "Fossil Falls",
+      "description": "tree climbing simulator (Hidden in Fossil Falls)",
+      "hint": "tree climbing simulator (Hidden in Fossil Falls)"
+    },
+    {
+      "name": "Chestnut",
+      "difficulty": "normal",
+      "area": "Fossil Falls",
+      "description": "(Hidden in Fossil Falls)",
+      "hint": "(Hidden in Fossil Falls)"
+    },
+    {
+      "name": "Dark Gemstone",
+      "difficulty": "normal",
+      "area": "Fossil Falls",
+      "description": "chilling at the peak of fossil falls (Made by 3RR0R_b0i)",
+      "hint": "chilling at the peak of fossil falls (Made by 3RR0R_b0i)"
+    },
+    {
+      "name": "Purple Dragon",
+      "difficulty": "normal",
+      "area": "Fossil Falls",
+      "description": "that foolish dragon",
+      "hint": "that foolish dragon"
+    },
+    {
+      "name": "Cartridge",
+      "difficulty": "intermediate",
+      "area": "Fossil Falls",
+      "description": ""
+    },
+    {
+      "name": "Coffee Bean",
+      "difficulty": "hard",
+      "area": "Fossil Falls",
+      "description": ""
+    },
+    {
+      "name": "Mardi Gras Bead",
+      "difficulty": "hard",
+      "area": "Fossil Falls",
+      "description": "(Hidden in Fossil Falls)",
+      "hint": "(Hidden in Fossil Falls)"
+    },
+    {
+      "name": "Bluecky",
+      "difficulty": "difficult",
+      "area": "Fossil Falls",
+      "description": "i'm BLUE!!!!! DABABDEE!!!!!!! DABADI!!!!!! (Start in Fossil Falls)",
+      "hint": "i'm BLUE!!!!! DABABDEE!!!!!!! DABADI!!!!!! (Start in Fossil Falls)"
+    },
+    {
+      "name": "Em",
+      "difficulty": "difficult",
+      "area": "Fossil Falls",
+      "description": ""
+    },
+    {
+      "name": "Wet Clay",
+      "difficulty": "difficult",
+      "area": "Fossil Falls",
+      "description": ""
+    },
+    {
+      "name": "Tombstone",
+      "difficulty": "unforgiving",
+      "area": "Fossil Falls",
+      "description": ""
+    }
+  ]
+}

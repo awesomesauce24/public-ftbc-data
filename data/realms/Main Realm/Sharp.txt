@@ -1,0 +1,29 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Sharp
+|character=[[File:Sharp .webp|thumb]]
+|difficulty=[[File:Terrifying.png]] <span style="color:#8b17ff">'''Terrifying'''</span>
+|area=[[Candyland]]
+|hint=honey, you okay? you’VE haRdly touched Your !(%i/*@/^! (Start in Candyland, drop down)
+|additionalinfo
+|previousdifficulties = [[File:Insane.png]] <span style="color:#ff1c95">'''Insane'''</span>
+}}
+
+==Character==
+A smiling glitchy spike.
+
+==Obtaining==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+Go to  the Candyland Expansion and find invisible path below, follow the path until you find text "736834727033737472407A6F72", this is a cipher that starts with ASC and if you decode this message using this cypher you will get your code, say this as /e code and you will be teleported to a room with sharp.</div>
+</div>
+
+[[Category:Terrifying Objects]]
+[[Category:Candyland Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:BFDI Limbs]]

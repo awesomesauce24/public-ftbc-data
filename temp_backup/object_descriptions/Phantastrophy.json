@@ -1,0 +1,12 @@
+{
+  "name": "Phantastrophy",
+  "area": "Yoyle Factory",
+  "difficulty": "extreme",
+  "description": "the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming",
+  "hint": "the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming",
+  "previous_difficulties": [
+    "Insane"
+  ],
+  "wiki_markup": "name=Phantastrophy\n|character=[[File:Phantastrophy.png|thumb]]\n|difficulty=[[File:Extreme.png]] <span style=\"color:#ed2727\">'''Extreme'''</span>\n|area=[[Yoyle Factory]]\n|hint=the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming\n|additionalinfo\n|previousdifficulties = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n",
+  "location": "realm:Yoyle Factory"
+}

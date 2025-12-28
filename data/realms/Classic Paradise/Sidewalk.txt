@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Sidewalk|character=[[File:Sidewalk.png]]|difficulty=Intermediate|area=[[Classic Paradise]]|hint=On a sidewalk, where else do you think it would be?}}
+==Character==
+A piece of sidewalk with a neutral expression.
+==Obtaining==
+On the sidewalk to the Crossroads Tower in [[Classic Paradise]].
+
+[[Category:Objects]]
+[[Category:Intermediate Objects]]
+[[Category:Classic Paradise Objects]]

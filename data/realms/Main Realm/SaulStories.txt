@@ -1,0 +1,9 @@
+{{CharacterInfo|name=SaulStories|character=[[File:SaulStories.webp|thumb]]|difficulty=Easy|area=[[Snowy]]|hint=My Name is Saul and THese Are My Sttories. Watch Evan the Wolf! (Made by Meowbah)}}
+== Character ==
+SaulStories is real 2401
+== Obtaining ==
+{{Spoiler|text=Go for the not so very well hidden path near [[Snowball]].}}
+[[Category:Easy Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Snowy Objects]]

@@ -1,0 +1,23 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Yoyleland.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#cd58e3,#70287a); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Kennel
+|character=[[File:Kennel.png|thumb]]
+|difficulty=[[File:Difficult.png]] <span style="color:#f54f25">'''Difficult'''</span>
+|area=[[Yoyleland]]
+|hint=find a way into one of the yoyle city buildings...
+|additionalinfo
+|previousdifficulties = [[File:Extreme.png]] <span style="color:#ed2727">'''Extreme'''</span>
+}}
+
+== Info ==
+The object looks like a kennel used to hold pets that is smiling
+
+== Obtaining ==
+In [[Yoyleland]], Go to where [[Carrot Cake]] is then find a key beside them. use the key on the building [[Unpainted Gaty]] sits beside and Kennel will be inside the building behind a desk.
+
+[[Category:Objects]]
+[[Category:Yoyleland Objects]]
+[[Category:Difficult Objects]]

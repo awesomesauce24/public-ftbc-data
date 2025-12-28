@@ -1,0 +1,12 @@
+{
+  "name": "Eyes in the Dark",
+  "area": "Yoyleland",
+  "difficulty": "effortless",
+  "description": "ooo spoopy eyes",
+  "hint": "ooo spoopy eyes",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Eyes in the Dark\n|character=[[File:Eyes in the Dark.png|thumb]].png]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Yoyleland]]\n|hint=ooo spoopy eyes\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Yoyleland"
+}

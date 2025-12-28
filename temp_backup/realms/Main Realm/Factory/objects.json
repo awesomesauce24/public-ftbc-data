@@ -1,0 +1,225 @@
+{
+  "objects": [
+    {
+      "name": "Big Nickel",
+      "difficulty": "effortless",
+      "area": "Factory",
+      "description": "he's so big i don't know how you wouldn't find him",
+      "hint": "he's so big i don't know how you wouldn't find him"
+    },
+    {
+      "name": "Match",
+      "difficulty": "effortless",
+      "area": "Factory",
+      "description": "the freesmart van noooo!! (Hidden in Factory)",
+      "hint": "the freesmart van noooo!! (Hidden in Factory)"
+    },
+    {
+      "name": "Robot Teardrop",
+      "difficulty": "effortless",
+      "area": "Factory",
+      "description": "Being manufactured in factory",
+      "hint": "Being manufactured in factory"
+    },
+    {
+      "name": "Vote",
+      "difficulty": "effortless",
+      "area": "Factory",
+      "description": "vote using the square brackets! [C] for Blob",
+      "hint": "vote using the square brackets! [C] for Blob"
+    },
+    {
+      "name": "Club",
+      "difficulty": "easy",
+      "area": "Factory",
+      "description": "(Hidden in factory)",
+      "hint": "(Hidden in factory)"
+    },
+    {
+      "name": "Fork Repellenty",
+      "difficulty": "easy",
+      "area": "Factory",
+      "description": "Dropped on the floor (Hidden in Factory)",
+      "hint": "Dropped on the floor (Hidden in Factory)"
+    },
+    {
+      "name": "Hole in the Wall",
+      "difficulty": "easy",
+      "area": "Factory",
+      "description": "Look for, well, a hole in the wall",
+      "hint": "Look for, well, a hole in the wall"
+    },
+    {
+      "name": "Tophat",
+      "difficulty": "easy",
+      "area": "Factory",
+      "description": "very fancy",
+      "hint": "very fancy"
+    },
+    {
+      "name": "UFO",
+      "difficulty": "easy",
+      "area": "Factory",
+      "description": "did you know the population of jupiter is 60,802 (Hidden In Factory)",
+      "hint": "did you know the population of jupiter is 60,802 (Hidden In Factory)"
+    },
+    {
+      "name": "Crumbley",
+      "difficulty": "moderate",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Ethernet Splitter",
+      "difficulty": "moderate",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Yo-Yo",
+      "difficulty": "moderate",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Buzzsaw",
+      "difficulty": "normal",
+      "area": "Factory",
+      "description": "It's everyone's favorite object, Bu- hey wait... what are they doing here?!",
+      "hint": "It's everyone's favorite object, Bu- hey wait... what are they doing here?!"
+    },
+    {
+      "name": "Cave Drawing",
+      "difficulty": "normal",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Ruby",
+      "difficulty": "normal",
+      "area": "Factory",
+      "description": "check inside the factory area",
+      "hint": "check inside the factory area"
+    },
+    {
+      "name": "Lever",
+      "difficulty": "intermediate",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "SD Card",
+      "difficulty": "intermediate",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Diskette",
+      "difficulty": "hard",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Gifty",
+      "difficulty": "hard",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Irony",
+      "difficulty": "hard",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Box Fan",
+      "difficulty": "difficult",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Fish Bowl",
+      "difficulty": "difficult",
+      "area": "Factory",
+      "description": "",
+      "hint": ""
+    },
+    {
+      "name": "Image",
+      "difficulty": "difficult",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Lasagna",
+      "difficulty": "difficult",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Steamboat Hat",
+      "difficulty": "extreme",
+      "area": "Factory",
+      "description": "one must imagine steamboat hat happy",
+      "hint": "one must imagine steamboat hat happy"
+    },
+    {
+      "name": "Uni",
+      "difficulty": "extreme",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Roboty-y",
+      "difficulty": "unforgiving",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Black Hole",
+      "difficulty": "insane",
+      "area": "Factory",
+      "description": "find all 5 scattered code pieces around Spawn and Snowy",
+      "hint": "find all 5 scattered code pieces around Spawn and Snowy"
+    },
+    {
+      "name": "Torch",
+      "difficulty": "dreadful",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Troll Face",
+      "difficulty": "dreadful",
+      "area": "Factory",
+      "description": "problem?",
+      "hint": "problem?"
+    },
+    {
+      "name": "Evidence Bag",
+      "difficulty": "terrifying",
+      "area": "Factory",
+      "description": ""
+    },
+    {
+      "name": "Boblob",
+      "difficulty": "arduous",
+      "area": "Factory",
+      "description": "start by looking near [[Black Hole",
+      "hint": "start by looking near [[Black Hole"
+    },
+    {
+      "name": "Glitchy",
+      "difficulty": "strenuous",
+      "area": "Factory",
+      "description": "\"YOU SHOULDN'T BE HERE\"",
+      "hint": "\"YOU SHOULDN'T BE HERE\""
+    },
+    {
+      "name": "Storm Ball",
+      "difficulty": "remorseless",
+      "area": "Factory",
+      "description": ""
+    }
+  ]
+}

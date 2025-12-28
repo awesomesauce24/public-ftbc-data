@@ -1,0 +1,27 @@
+{{CharacterInfo
+|name = Fourteen
+|character = [[File:Fourteen.png]]
+|difficulty = Normal
+|area = [[Number Playground]]
+|hint = they are a little silly
+}}
+
+== Obtaining ==
+To unlock Fourteen, first find Fourteen by his cage in the [[Number Playground]].
+
+Talk to them twice to trigger the sequence; after the second dialogue, they will teleport away and become touch-activated.
+
+Find the NPC again and touch them four times:
+* Touch #1 - They teleport to a new position  
+* Touch #2 - They move again  
+* Touch #3 - They move a third time  
+* Touch #4 - You can obtain Fourteen
+he does not teleport outside of [[Number Playground]], and he will tween to where he moves. It should be easy to catch.
+
+== Character ==
+Fourteen is a male green number character shaped like a "14", with a neutral smile and wide eyes.
+
+[[Category:Number Playground Objects]]
+[[Category:Normal Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]

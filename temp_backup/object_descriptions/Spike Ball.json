@@ -1,0 +1,12 @@
+{
+  "name": "Spike Ball",
+  "area": "Goiky",
+  "difficulty": "unforgiving",
+  "description": "spikey...",
+  "hint": "spikey...",
+  "previous_difficulties": [
+    "Insane"
+  ],
+  "wiki_markup": "name = Spike Ball\n|character = [[File:Spike Ball.png]]\n|difficulty = [[File:Unforgiving.png]] <span style=\"color:#ff143f\">'''Unforgiving'''</span>\n|area = [[Goiky]]\n|hint = spikey...\n|additionalinfo\n|previousdifficulties = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n",
+  "location": "realm:Main Realm/Goiky"
+}

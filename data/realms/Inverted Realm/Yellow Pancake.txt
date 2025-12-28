@@ -1,0 +1,26 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Inverted-realm-image.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#C45508,#EEDC5B); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Yellow Pancake
+|character=Yellow Pancake.png
+|difficulty=[[File:Extreme.png]] <span style="color:#ed2727">'''Extreme'''</span>
+|area=[[Inverted]]
+|hint=got squished in the pyramid
+|previousdifficulties = [[File:Insane.png]] <span style="color:#ff1c95">'''Insane'''</span>
+}}
+
+== Character ==
+A flat yellow pancake with a sad expression.
+
+== Obtaining ==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+In one of the top corners of the inverted pyramid.</div>
+</div>
+
+[[Category:Inverted Realm Objects]]
+[[Category:Objects]]
+[[Category:Extreme Objects]]

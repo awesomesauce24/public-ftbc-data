@@ -1,0 +1,10 @@
+{
+  "name": "Chanterelle",
+  "area": "Floating Island",
+  "difficulty": "intermediate",
+  "description": "ah yes the void (Hidden in Floating Island)",
+  "hint": "ah yes the void (Hidden in Floating Island)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Chanterelle|character=[[File:Chanterelle.png]]|difficulty=Intermediate|area=[[Floating Island]]|hint=ah yes the void (Hidden in Floating Island)",
+  "location": "realm:Main Realm/Floating Island"
+}

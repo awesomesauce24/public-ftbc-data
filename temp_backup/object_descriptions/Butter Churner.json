@@ -1,0 +1,12 @@
+{
+  "name": "Butter Churner",
+  "area": "Classic Paradise",
+  "difficulty": "unforgiving",
+  "description": "one of the houses is locked... perhaps you should look for a key?",
+  "hint": "one of the houses is locked... perhaps you should look for a key?",
+  "previous_difficulties": [
+    "Extreme"
+  ],
+  "wiki_markup": "name=Butter Churner|character=[[File:Butter Churner.png]]|difficulty=Unforgiving|area=[[Classic Paradise]]|hint=one of the houses is locked... perhaps you should look for a key?|additionalinfo|previousdifficulties=<span style=\"color:#ED2727\">'''Extreme'''</span> [[File:Extreme.png]]",
+  "location": "realm:Classic Paradise"
+}

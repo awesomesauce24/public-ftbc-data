@@ -1,0 +1,12 @@
+{
+  "name": "Milli",
+  "area": "Hotel",
+  "difficulty": "effortless",
+  "description": "Bark (Hidden in Hotel)",
+  "hint": "Bark (Hidden in Hotel)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Milli\n|character=[[File:Milli.png|thumb]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Hotel]]\n|hint=Bark (Hidden in Hotel)\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Hotel"
+}

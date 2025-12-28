@@ -1,0 +1,20 @@
+{{CharacterInfo
+|name = Eraser
+|character = [[File:Eraser.png]]
+|difficulty = Moderate
+|area = [[Goiky]]
+|hint = he's still climbing that string
+|additionalinfo|previousdifficulties=<span style="color:#ff7e21">'''Hard'''</span> [[File:Hard.png]]
+}}
+
+== Obtaining ==
+Go to [[Goiky]] and find [[Bell]].  
+Climb up Bell’s long hanging string. Eraser is located partway up the rope.
+
+[[Category:Goiky Objects]]
+[[Category:Moderate Objects]]
+[[Category:Objects]]
+[[Category:BFDI Contestants]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]
+[[Category:Main Realm Objects]]

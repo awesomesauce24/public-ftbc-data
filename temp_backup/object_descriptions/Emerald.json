@@ -1,0 +1,12 @@
+{
+  "name": "Emerald",
+  "area": "Classic Paradise",
+  "difficulty": "difficult",
+  "description": "cave",
+  "hint": "cave",
+  "previous_difficulties": [
+    "Extreme"
+  ],
+  "wiki_markup": "name=Emerald|character=[[File:Emerald.png]]|difficulty=Difficult|area=[[Classic Paradise]]|hint=cave|additionalinfo|previousdifficulties=<span style=\"color:#ED2727\">'''Extreme'''</span> [[File:Extreme.png]]",
+  "location": "realm:Classic Paradise"
+}

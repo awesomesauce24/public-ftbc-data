@@ -1,0 +1,10 @@
+{
+  "name": "Cherry Grove Medallion",
+  "area": "Cherry Grove",
+  "difficulty": "medallion",
+  "description": "Peace, at last",
+  "hint": "Peace, at last",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Cherry Grove Medallion|character=Cherald \"Medallion\" Grovian.png|difficulty=9.4|area=Cherry Grove Realm|hint=Peace, at last|info=|creator=bjf0619",
+  "location": "realm:Cherry Grove"
+}

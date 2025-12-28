@@ -1,0 +1,10 @@
+{
+  "name": "Four and X",
+  "area": "Number Playground",
+  "difficulty": "intermediate",
+  "description": "it isn't a badge hunt game without a cliche teamwork one",
+  "hint": "it isn't a badge hunt game without a cliche teamwork one",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Four and X\n|character = [[File:Four and X.png]]\n|difficulty = Intermediate\n|area = [[Number Playground]]\n|hint = it isn't a badge hunt game without a cliche teamwork one\n",
+  "location": "realm:Main Realm/Number Playground"
+}

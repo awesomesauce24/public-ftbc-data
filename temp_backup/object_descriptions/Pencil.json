@@ -1,0 +1,12 @@
+{
+  "name": "Pencil",
+  "area": "Snowy",
+  "difficulty": "moderate",
+  "description": "find a paper on the ground and click on it.",
+  "hint": "find a paper on the ground and click on it.",
+  "previous_difficulties": [
+    "Hard"
+  ],
+  "wiki_markup": "name = Pencil\n|character = [[File:Pencil.png]]\n|difficulty = Moderate\n|area = [[Main Realm]]\n|hint = find a paper on the ground and click on it.\n|additionalinfo|previousdifficulties=<span style=\"color:#ff7e21\">'''Hard'''</span> [[File:Hard.png]]\n",
+  "location": "realm:Main Realm/Snowy"
+}

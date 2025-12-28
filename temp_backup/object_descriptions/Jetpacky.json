@@ -1,0 +1,10 @@
+{
+  "name": "Jetpacky",
+  "area": "Warehouse",
+  "difficulty": "easy",
+  "description": "In what situation could you POSSIBLY need a jetpack in a warehouse for? This is the actual hint",
+  "hint": "In what situation could you POSSIBLY need a jetpack in a warehouse for? This is the actual hint",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Jetpacky|character=[[File:Jetpacky.webp|thumb]]|difficulty=Easy|area=[[Warehouse]]|hint=In what situation could you POSSIBLY need a jetpack in a warehouse for? This is the actual hint|creator=DrPepperHeinz",
+  "location": "realm:Main Realm/Warehouse"
+}

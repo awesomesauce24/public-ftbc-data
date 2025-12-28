@@ -1,0 +1,10 @@
+{
+  "name": "Dollar Bill",
+  "area": "Warehouse",
+  "difficulty": "intermediate",
+  "description": "look inside of a bush (Hidden at Warehouse)",
+  "hint": "look inside of a bush (Hidden at Warehouse)",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Dollar Bill\n|character = [[File:Dollar Bill.png]]\n|difficulty = Intermediate\n|area = [[Warehouse]]\n|hint = look inside of a bush (Hidden at Warehouse)\n",
+  "location": "realm:Main Realm/Warehouse"
+}

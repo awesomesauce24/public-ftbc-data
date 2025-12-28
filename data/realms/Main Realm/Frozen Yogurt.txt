@@ -1,0 +1,21 @@
+{{CharacterInfo
+|name=Frozen Yogurt
+|character=[[File:Frozen Yogurt.png]]
+|difficulty=Insane
+|area=[[Candyland]]
+|hint=Start in Candyland
+|additionalinfo|previousdifficulties=<span style="color:#ED2727">'''Extreme'''</span> [[File:Extreme.png]]
+}}
+
+[[File:Spiral pattern.png|thumb|261x261px|the pattern for the carpet. assume north of the spiral is [[Cake Pop]].]]
+
+== Character ==
+Frozen Yogurt appears as a cup filled with light pink frozen yogurt and a simple smiling face.
+
+== Obtaining ==
+Talk to [[Cake Pop]]. They hint at drawing a spiral. On the carpet, draw the spiral shape they describe, and Frozen Yogurt will appear once the pattern is completed.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Insane Objects]]
+[[Category:Candyland Objects]]

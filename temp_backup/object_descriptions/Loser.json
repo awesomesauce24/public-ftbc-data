@@ -1,0 +1,12 @@
+{
+  "name": "Loser",
+  "area": "City",
+  "difficulty": "easy",
+  "description": "sitting in his throne.",
+  "hint": "sitting in his throne.",
+  "previous_difficulties": [
+    "Normal"
+  ],
+  "wiki_markup": "name=Loser|character=[[File:Loser.png]]|difficulty=Easy|area=[[City]]|hint=sitting in his throne.|additionalinfo|previousdifficulties=<span style=\"color:#a1ff27\">'''Normal'''</span> [[File:Normal.png]]",
+  "location": "realm:Main Realm/City"
+}

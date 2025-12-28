@@ -1,0 +1,10 @@
+{
+  "name": "Clover",
+  "area": "Warehouse",
+  "difficulty": "normal",
+  "description": "PLACEHOLDER",
+  "hint": "PLACEHOLDER",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Clover|character=[[File:Clover.png]]|difficulty=Normal|area=[[Warehouse]]|hint=PLACEHOLDER",
+  "location": "realm:Main Realm/Warehouse"
+}

@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Curly Arrow|character=[[File:Curly Arrow.png|thumb]]|difficulty=Easy|area=[[Barren Desert]]|hint=No way!!!!! Real!!!}}
+
+==Character==
+Yellow curly arrow with face
+
+==Obtaining==
+Go to the right until you get to the city, curly arrow is in the rightmost building close to ladder
+[[Category:Easy Objects]]
+[[Category:Objects]]
+[[Category:Barren Desert Objects]]

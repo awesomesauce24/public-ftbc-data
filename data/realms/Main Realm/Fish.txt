@@ -1,0 +1,5 @@
+{{CharacterInfo|name=Fish|character=Fish.png|difficulty=Easy|area=[[Classic Roblox]]|hint=blub blub blub (Hidden in Classic Roblox)}}
+
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:Classic Roblox Objects]]

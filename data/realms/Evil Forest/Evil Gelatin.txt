@@ -1,0 +1,49 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+  [[File:{{{File|EVIL.png}}}|{{{Size|2000px}}}]]
+</div>
+
+<div style="--theme-accent-color:-webkit-linear-gradient(#b00000,#5a0000); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Evil Gelatin
+|character=[[File:Evil Gelatin.webp|thumb]]
+|difficulty=[[File:Dreadful.png]] <span style="color:#db25ff">'''Dreadful'''</span>
+|area=[[Evil Forest]]
+|hint=<span style="color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);">TBA</span>
+|additionalinfo
+|previousdifficulties =[[File:Insane.png]] <span style="color:#ff1c95">'''Insane'''</span>
+}}
+
+<div style="margin-top: 6px;">
+==<span style="color:#ffffff; text-shadow: 0 0 10px rgba(255,0,0,0.65), 0 0 18px rgba(176,0,0,0.45);">Info</span>==
+</div>
+
+<div style="
+  margin: 10px 0 14px 0;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,0,0,0.30);
+  background: rgba(20,0,0,0.55);
+  box-shadow: 0 0 18px rgba(255,0,0,0.16);
+">
+<span style="font-size:105%; color:#ff3b3b; line-height:1.55;
+text-shadow: 0 0 10px rgba(0,0,0,0.35);">
+''An object passing through the [[Evil Forest]] has claimed to see a red creature dragging something towards a abandoned building... Later that night, they reported hearing a loud shriek come from the abandoned building.''
+</span>
+</div>
+
+<div style="margin-top: 10px;">
+==<span style="color:#ffffff; text-shadow: 0 0 10px rgba(255,0,0,0.65), 0 0 18px rgba(176,0,0,0.45);">Obtaining</span>==
+</div>
+<span style="color:#ffb3b3; text-shadow: 0 0 10px rgba(0,0,0,0.35);">
+Do an obby to get to the main part of the forest and find an abandoned Gelatins Steakhouse, Evil Gelatin is at the entrance.
+</span>
+
+[[Category:Dreadful Objects]]
+[[Category:Objects]]
+[[Category:Evil Forest Objects]]
+[[Category:BFDI Limbs]]
+
+</div>
+</div>

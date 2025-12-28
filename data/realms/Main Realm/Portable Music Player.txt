@@ -1,0 +1,23 @@
+{{CharacterInfo
+|name = Portable Music Player
+|character = [[File:Portable Music Player.png]]
+|difficulty = Difficult
+|area = [[City]]
+|hint = get into purple face's mouth
+|additionalinfo|previousdifficulties=<span style="color:#ED2727">'''Extreme'''</span> [[File:Extreme.png]]
+}}
+
+== Character ==
+It's in the name. A handheld, portable music player.
+
+== Obtaining ==
+Go to [[City]], then enter the Library.  
+
+Click the camera on the desk, look behind [[Yellow Face]], and click on [[Purple Face]].  
+
+This teleports you to [[Purple Face Mouth]]; complete the obby to reach Portable Music Player.
+
+[[Category:City Objects]]
+[[Category:Difficult Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]

@@ -1,0 +1,22 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Cake
+|character=[[File:Cake.png]]
+|difficulty=[[File:Unforgiving.png]] <span style="color:#ff143f">'''Unforgiving'''</span>
+|area=[[City]]|
+hint=the cake is a lie
+|additionalinfo
+|previousdifficulties = [[File:Insane.png]] <span style="color:#ff1c95">'''Insane'''</span>
+}}
+==Character==
+Cake appears to be chocolate, with white and pink frosting on top. Cake is also a contestant in BFB.
+==Obtaining==
+Go to [[Calculator]]'s room, then click on the different colored part on the wall. After that go in the lighter colored wall near the obby.
+[[Category:Objects]]
+[[Category:Unforgiving Objects]]
+[[Category:City Objects]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]

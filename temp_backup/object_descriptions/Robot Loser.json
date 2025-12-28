@@ -1,0 +1,10 @@
+{
+  "name": "Robot Loser",
+  "area": "Inverted",
+  "difficulty": "hard",
+  "description": "somewhere isolated",
+  "hint": "somewhere isolated",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Robot Loser\n|character = [[File:Robot Loser.png]]\n|difficulty = [[File:Hard.png]] <span style=\"color:#FF7700\">'''<b>Hard</b>'''</span>\n|area = [[Inverted]]\n|hint = somewhere isolated\n",
+  "location": "realm:Inverted"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ellipsis",
+  "area": "Barren Desert",
+  "difficulty": "normal",
+  "description": "this one is at...",
+  "hint": "this one is at...",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Ellipsis|character=Ellipsis.png|difficulty=Normal|area=Barren Desert|hint=this one is at...",
+  "location": "realm:Barren Desert"
+}

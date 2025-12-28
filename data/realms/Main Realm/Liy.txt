@@ -1,0 +1,13 @@
+{{CharacterInfo|name=Liy|character=[[Liy.png|Liy]]|difficulty=Hard|area=[[City]]|hint=find a hidden light switch somewhere}}{{CharacterInfo}}
+
+== Appearance ==
+'''Liy''' appears to be a plastic light switch from the front and a wooden switch from the back.
+
+== Obtaining ==
+Click a light switch inside the Roblox HQ at [[City]].
+[[Category:Objects]]
+[[Category:Hard Objects]]
+[[Category:City Objects]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]
+[[Category:Main Realm Objects]]

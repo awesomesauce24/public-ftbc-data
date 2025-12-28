@@ -1,0 +1,12 @@
+{
+  "name": "Anchor",
+  "area": "Goiky",
+  "difficulty": "effortless",
+  "description": "in the water",
+  "hint": "in the water",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Anchor\n|character=[[File:Anchor.png]]\n|difficulty= [[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Goiky]]\n|hint=in the water\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Goiky"
+}

@@ -1,0 +1,116 @@
+{
+  "objects": [
+    {
+      "name": "Burrito",
+      "difficulty": "effortless",
+      "area": "Tropical Islands",
+      "description": "i've always had a soft spot for burritos",
+      "hint": "i've always had a soft spot for burritos"
+    },
+    {
+      "name": "PaintyBook",
+      "difficulty": "effortless",
+      "area": "Tropical Islands",
+      "description": "where I keep my masterpieces (hidden in tropical islands)",
+      "hint": "where I keep my masterpieces (hidden in tropical islands)"
+    },
+    {
+      "name": "Prince Circle",
+      "difficulty": "effortless",
+      "area": "Tropical Islands",
+      "description": "What did they do to him (Hidden in Tropical Islands)",
+      "hint": "What did they do to him (Hidden in Tropical Islands)"
+    },
+    {
+      "name": "Pickle Juice",
+      "difficulty": "easy",
+      "area": "Tropical Islands",
+      "description": "they really just need a moment to rethink their life decisions",
+      "hint": "they really just need a moment to rethink their life decisions"
+    },
+    {
+      "name": "Spongy",
+      "difficulty": "easy",
+      "area": "Tropical Islands",
+      "description": "Hes just relaxing on the boat!",
+      "hint": "Hes just relaxing on the boat!"
+    },
+    {
+      "name": "Bowl of Petunias",
+      "difficulty": "moderate",
+      "area": "Tropical Islands",
+      "description": "mmmmm... delicious... you ever just eat a bowl of flowers",
+      "hint": "mmmmm... delicious... you ever just eat a bowl of flowers"
+    },
+    {
+      "name": "Amethysty",
+      "difficulty": "normal",
+      "area": "Tropical Islands",
+      "description": "cool, i guess",
+      "hint": "cool, i guess"
+    },
+    {
+      "name": "Well",
+      "difficulty": "intermediate",
+      "area": "Tropical Islands",
+      "description": ""
+    },
+    {
+      "name": "Fire Spatula",
+      "difficulty": "hard",
+      "area": "Tropical Islands",
+      "description": "remember, x marks the spot!",
+      "hint": "remember, x marks the spot!"
+    },
+    {
+      "name": "Boaty",
+      "difficulty": "difficult",
+      "area": "Tropical Islands",
+      "description": ""
+    },
+    {
+      "name": "Orange Cat",
+      "difficulty": "difficult",
+      "area": "Tropical Islands",
+      "description": ""
+    },
+    {
+      "name": "Swiss Roll",
+      "difficulty": "difficult",
+      "area": "Tropical Islands",
+      "description": ""
+    },
+    {
+      "name": "Tropical Virtual Pet Lizard",
+      "difficulty": "difficult",
+      "area": "Tropical Islands",
+      "description": ""
+    },
+    {
+      "name": "Win Token",
+      "difficulty": "difficult",
+      "area": "Tropical Islands",
+      "description": ""
+    },
+    {
+      "name": "Beach Ball",
+      "difficulty": "extreme",
+      "area": "Tropical Islands",
+      "description": ""
+    },
+    {
+      "name": "Ordinary Banana...",
+      "difficulty": "unforgiving",
+      "area": "Tropical Islands",
+      "description": "",
+      "hint": ""
+    },
+    {
+      "name": "Sandy",
+      "difficulty": "removed objects",
+      "area": "Tropical Islands",
+      "description": "",
+      "hint": ""
+    }
+  ]
+}

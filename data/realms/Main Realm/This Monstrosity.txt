@@ -1,0 +1,95 @@
+<!-- LIMBO / WHITE VOID THEME -->
+<div style="padding:1em; border-radius:6px; border:3px solid #ffffff; background:#0b0b0b;
+box-shadow: 0 0 45px rgba(255,255,255,0.30), inset 0 0 24px rgba(255,255,255,0.08);">
+
+<div style="opacity:0.05; position:absolute; right:10%; top:18%;"></div>
+
+<div style="--theme-accent-color:-webkit-linear-gradient(#eaeaea, #bfbfbf); float:right;">
+
+<!-- Image Box -->
+<div style="padding:0.5em; border-radius:4px; border:4px solid #ffffff; background:linear-gradient(#0f0f0f, #050505);
+box-shadow: 0 0 26px rgba(255,255,255,0.28), 0 0 10px rgba(255,255,255,0.12); image-rendering:pixelated;">
+<center>
+<gallery widths="120" heights="120">
+New_This_Monstrosity.png|Current
+This Monstrosity.png|Old
+</gallery>
+</center>
+</div>
+
+<!-- Difficulty -->
+<div style="padding:0.5em; margin-top:0.5em; border-radius:4px; border:3px solid #ffffff; background:#ffffff;
+box-shadow:0 0 22px rgba(255,255,255,0.28);">
+<center><span style="color:#0b0b0b; font-size:20px; text-shadow:0 0 10px rgba(255,255,255,0.55);">'''Difficulty: Horrifying'''</span></center>
+</div>
+
+<!-- Area -->
+<div style="padding:0.5em; margin-top:0.5em; border-radius:4px; border:3px solid #ffffff; background:#ffffff;
+box-shadow:0 0 22px rgba(255,255,255,0.28);">
+<center><span style="color:#0b0b0b; font-size:20px; text-shadow:0 0 10px rgba(255,255,255,0.55);">'''Area: Mixed'''</span></center>
+</div>
+
+</div>
+
+<!-- Content Panel -->
+<div style="background:linear-gradient(180deg, rgba(0,0,0,0.78), rgba(0,0,0,0.62));
+padding:25px; border-radius:12px; max-width:900px; margin:auto; color:#f2f2f2;
+border:1px solid rgba(255,255,255,0.18);
+box-shadow: 0 0 26px rgba(255,255,255,0.16), inset 0 0 18px rgba(255,255,255,0.06);">
+
+<!-- subtle void rule -->
+<div style="height:2px; margin:2px 0 16px 0;
+background: linear-gradient(to right, rgba(0,0,0,0), rgba(255,255,255,0.55), rgba(0,0,0,0));
+box-shadow: 0 0 14px rgba(255,255,255,0.16);"></div>
+
+==<code><span style="color:#ffffff; text-shadow: 0 0 10px rgba(255,255,255,0.55), 0 0 18px rgba(200,200,200,0.25);">'''Character'''</span></code>==
+<code><span style="color:#f2f2f2; text-shadow: 0 0 12px rgba(255,255,255,0.40);">
+This Monstrosity appears to be a mix of a robot, [[Evil Leafy]], [[Announcer|The Announcer]], [[King Cake]], and other things.
+</span></code>
+
+<div style="height:1px; margin:16px 0;
+background: linear-gradient(to right, rgba(0,0,0,0), rgba(255,255,255,0.35), rgba(0,0,0,0));
+box-shadow: 0 0 12px rgba(255,255,255,0.12);"></div>
+
+==<code><span style="color:#ffffff; text-shadow: 0 0 10px rgba(255,255,255,0.55), 0 0 18px rgba(200,200,200,0.25);">'''Obtaining'''</span></code>==
+
+<div style="font-size:70%; overflow-wrap:anywhere; word-break:break-word;">
+{| class="article-table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;" style="width:100%; table-layout:fixed;"
+!'''How to Find [SPOILERS]'''||
+|-
+|<div style="overflow-wrap:anywhere; word-break:break-word;">
+In the Evil Forest, go to one of the corners of the map and jump down; you'll be able to know where because the invisible barrier isn't there. Afterwards, follow an invisible path that you can see by looking down and do a set of wall-hops. Keep going until you find an invisible truss that leads up; it should lead you to a realm called, "Evle Froets". In the realm, repeat the same process as you did in the Evil Forest (same deal with the invisible parkour) until you get to a place called, "evefdpfroestost". Inside the cabin, there are four brick colors on the ceiling; which in order are Really red, Toothpaste, Earth green, and Black. One thing you should know is that somewhere in the realm next to a tree is a binary code which reads, "0100001101001111010011000100111101010010001000000100001101001111010001000100010101010011". When decoding the binary, it should give you "COLOR CODES" which hints to the color codes of the four colored bricks being important. Convert each Roblox brick color with their respective numbers in order; which are 1004, 1019, 14 1, and 26. Combine all the numbers together to get '''1004101914126''', then return to the main realm. Once there again, say the number combination with /e before, and you should be teleported to a black and white gradient room. When you get to the other side of the room, you will be teleported to a sub-realm called, "RUN". You need to stop everything you're doing and run as fast as you can to get to the end of the long and windy hallway that includes various hazards in your way. When you finally get to the end, you'll be taken to a place called, "Limbo" which is where you can collect This Monstrosity.
+</div>
+|}
+</div>
+
+<div style="height:1px; margin:16px 0;
+background: linear-gradient(to right, rgba(0,0,0,0), rgba(255,255,255,0.35), rgba(0,0,0,0));
+box-shadow: 0 0 12px rgba(255,255,255,0.12);"></div>
+
+==<code><span style="color:#ffffff; text-shadow: 0 0 10px rgba(255,255,255,0.55), 0 0 18px rgba(200,200,200,0.25);">'''Gallery'''</span></code>==
+<gallery>
+File:This Monstrosity.png|This Monstrosity's old design.
+</gallery>
+
+<div style="height:1px; margin:16px 0;
+background: linear-gradient(to right, rgba(0,0,0,0), rgba(255,255,255,0.35), rgba(0,0,0,0));
+box-shadow: 0 0 12px rgba(255,255,255,0.12);"></div>
+
+==<code><span style="color:#ffffff; text-shadow: 0 0 10px rgba(255,255,255,0.55), 0 0 18px rgba(200,200,200,0.25);">'''Trivia'''</span></code>==
+<code><span style="color:#f2f2f2; text-shadow: 0 0 12px rgba(255,255,255,0.35);">
+* This Monstrosity was originally going to be Evil Monkey, which is a recommended character that is also from Family Guy.
+* The person who recommended This Monstrosity is Slinkybot777.
+</span></code>
+
+<!-- subtle void rule -->
+<div style="height:2px; margin:16px 0 2px 0;
+background: linear-gradient(to right, rgba(0,0,0,0), rgba(255,255,255,0.55), rgba(0,0,0,0));
+box-shadow: 0 0 14px rgba(255,255,255,0.16);"></div>
+
+</div><!-- content panel -->
+</div><!-- outer theme -->
+
+[[Category:Objects]]
+[[Category:Horrifying Objects]]
+[[Category:Evil Forest Objects]]

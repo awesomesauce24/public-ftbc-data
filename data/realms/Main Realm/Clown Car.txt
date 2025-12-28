@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Clown Car|character=[[File:Clown Car.png|thumb]]|difficulty=Easy|area=[[Warehouse]]|hint=Go ahead, get in the clown car, you know it suits you (Hidden at Warehouse)}}
+
+==Character==
+A white car with a hat and multicolored spots
+
+==Obtaining==
+Behind [[Warehouse]]
+[[Category:Easy Objects]]
+[[Category:Objects]]
+[[Category:Warehouse Objects]]

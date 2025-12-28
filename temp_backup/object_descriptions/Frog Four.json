@@ -1,0 +1,12 @@
+{
+  "name": "Frog Four",
+  "area": "Yoyleland",
+  "difficulty": "insane",
+  "description": "get it? because you have to \"frog\" jump onto a building for it? nobody clapping?",
+  "hint": "get it? because you have to \"frog\" jump onto a building for it? nobody clapping?",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Frog Four\n|character=<gallery>\nFrog Four.png\n</gallery>\n|difficulty=[[File:Insane.png|link=]] <span style=\"color:#ff1c95\">'''<b>Insane</b>'''</span>\n|area=[[Yoyleland]]\n|hint=get it? because you have to \"frog\" jump onto a building for it? nobody clapping?\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "realm:Yoyleland"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Paper Jam Leafy",
+  "area": "Basement",
+  "difficulty": "terrifying",
+  "description": "Look behind a trash bag.",
+  "hint": "Look behind a trash bag.",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Paper Jam Leafy\n|character = [[File:Paper Jam Leafy.png]]\n|difficulty = Terrifying\n|area = [[The Basement]]\n|hint = Look behind a trash bag.\n",
+  "location": "subrealm:Yoyle Factory/Basement"
+}

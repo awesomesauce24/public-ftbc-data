@@ -1,0 +1,14 @@
+{{CharacterInfo
+|name = Knifeball
+|character = [[File:Knifeball.png]]
+|difficulty = Intermediate
+|area = [[Warehouse]]
+|hint = they give out terrible advice alphabetically (Hidden in Warehouse)
+}}
+
+== Obtaining ==
+Inside of the red box, within the [[Warehouse]], on the right side. It should be on the floor.
+
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Intermediate Objects]]

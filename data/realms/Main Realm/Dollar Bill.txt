@@ -1,0 +1,14 @@
+{{CharacterInfo
+|name = Dollar Bill
+|character = [[File:Dollar Bill.png]]
+|difficulty = Intermediate
+|area = [[Warehouse]]
+|hint = look inside of a bush (Hidden at Warehouse)
+}}
+
+== Obtaining ==
+outside the [[Warehouse]] building, he should be in the bush underneath the right side vine.
+
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Intermediate Objects]]

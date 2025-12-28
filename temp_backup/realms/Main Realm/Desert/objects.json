@@ -1,0 +1,170 @@
+{
+  "objects": [
+    {
+      "name": "Cactus",
+      "difficulty": "effortless",
+      "area": "Desert",
+      "description": "they thought they could blend in lol!!!",
+      "hint": "they thought they could blend in lol!!!"
+    },
+    {
+      "name": "Fanny",
+      "difficulty": "effortless",
+      "area": "Desert",
+      "description": "she's somewhere awfully hot",
+      "hint": "she's somewhere awfully hot"
+    },
+    {
+      "name": "Rusty Coin",
+      "difficulty": "effortless",
+      "area": "Desert",
+      "description": "im broke, buy my stuff.",
+      "hint": "im broke, buy my stuff."
+    },
+    {
+      "name": "Conch Shell",
+      "difficulty": "easy",
+      "area": "Desert",
+      "description": "for someone in the desert area, they look pretty rad",
+      "hint": "for someone in the desert area, they look pretty rad"
+    },
+    {
+      "name": "Sand",
+      "difficulty": "easy",
+      "area": "Desert",
+      "description": "behind something in the sand",
+      "hint": "behind something in the sand"
+    },
+    {
+      "name": "Sun Spray",
+      "difficulty": "easy",
+      "area": "Desert",
+      "description": "in an area where you need it most (not [[Tropical Islands",
+      "hint": "in an area where you need it most (not [[Tropical Islands"
+    },
+    {
+      "name": "Clip",
+      "difficulty": "moderate",
+      "area": "Desert",
+      "description": "clipped onto a frame (Hidden in Desert)",
+      "hint": "clipped onto a frame (Hidden in Desert)"
+    },
+    {
+      "name": "Firey Plush",
+      "difficulty": "moderate",
+      "area": "Desert",
+      "description": "",
+      "hint": ""
+    },
+    {
+      "name": "Glue",
+      "difficulty": "moderate",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Sticker",
+      "difficulty": "moderate",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Lemonade",
+      "difficulty": "normal",
+      "area": "Desert",
+      "description": "this lemonade is minging",
+      "hint": "this lemonade is minging"
+    },
+    {
+      "name": "Plump Dog",
+      "difficulty": "normal",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Seaweed",
+      "difficulty": "normal",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Slug",
+      "difficulty": "normal",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Crate",
+      "difficulty": "intermediate",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Sand Jar",
+      "difficulty": "intermediate",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Comet",
+      "difficulty": "extreme",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Evil Bubble",
+      "difficulty": "extreme",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Lava Ball",
+      "difficulty": "extreme",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Lego Brick",
+      "difficulty": "extreme",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Shoiyta",
+      "difficulty": "extreme",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Firey Speaker Box",
+      "difficulty": "unforgiving",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Yellow Leopard",
+      "difficulty": "unforgiving",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Flower Speaker Box",
+      "difficulty": "insane",
+      "area": "Desert",
+      "description": ""
+    },
+    {
+      "name": "Chicken Nuggets",
+      "difficulty": "terrifying",
+      "area": "Desert",
+      "description": "find a way to destroy a barrel at desert. anything for the nuggets!!!",
+      "hint": "find a way to destroy a barrel at desert. anything for the nuggets!!!"
+    },
+    {
+      "name": "This is Sparta-Y",
+      "difficulty": "terrifying",
+      "area": "Desert",
+      "description": ""
+    }
+  ]
+}

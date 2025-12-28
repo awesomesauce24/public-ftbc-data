@@ -1,0 +1,7 @@
+{{CharacterInfo|name=Strudel|character=[[File:Strudel.png]]|difficulty=Extreme|area=[[Candyland]]|hint=there is so little detail on this that it doesn't even resemble a strudel anymore}}
+==Character==
+someone pls edit this
+==Obtaining==
+First, enter [[Chocolate Chip]]'s room by saying '''/e ch0qo1at3''' in the chat. Then, walk around until you go inside of a wall.
+[[Category:Objects]]
+[[Category:Extreme Objects]]

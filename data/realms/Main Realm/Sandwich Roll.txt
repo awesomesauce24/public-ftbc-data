@@ -1,0 +1,23 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Sandwich Roll
+|character=Sandwich Roll.png
+|difficulty=[[File:Easy.png]] <span style="color:#10da8d">'''Easy'''</span>
+|area=[[Jungle]]
+|hint=on top of a giant plant
+}}
+
+== Character ==
+A sandwich roll with what appears to be cheese, mayo, lettuce, and ham on it.
+
+== Obtaining ==
+You can find '''Sandwich Roll''' on top of a plant in [[Jungle]].
+
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:Jungle Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Cave Drawing]]

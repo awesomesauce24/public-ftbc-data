@@ -1,0 +1,12 @@
+{
+  "name": "Rusty Coin",
+  "area": "Desert",
+  "difficulty": "effortless",
+  "description": "im broke, buy my stuff.",
+  "hint": "im broke, buy my stuff.",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Rusty Coin\n|character=[[File:Rusty Coin.png]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Desert]]\n|hint=im broke, buy my stuff.\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Desert"
+}

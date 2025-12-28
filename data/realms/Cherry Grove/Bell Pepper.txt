@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Bell Pepper|character=[[File:Bell Pepper.webp|thumb]]|difficulty=Unforgiving|area=[[Cherry Grove]]|hint=You may find them hanging on a tree...}}
+
+==Character==
+Yellow Bell Pepper
+
+==Obtaining==
+Bell Pepper is hanging on the [[Cheddary]] tree, go to [[Jelly Bread]] and jump to the top of the tree, now just jump to bell pepper
+[[Category:Unforgiving Objects]]
+[[Category:Objects]]
+[[Category:Cherry Grove Objects]]

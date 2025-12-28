@@ -1,0 +1,11 @@
+{{CharacterInfo|name=Fire Citrus|character=[[File:Fire Citrus.png|thumb]]|difficulty=Easy|area=[[Jungle]]|hint=HOT HOT HOT!!! (Hidden in Jungle)}}
+
+==Character==
+Some kind of fruit that breathes fire
+
+==Obtaining==
+Teleport to [[Jungle]] and go ahead to the last tree on your way, fire citrus is behind the tree
+[[Category:Jungle Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Easy Objects]]

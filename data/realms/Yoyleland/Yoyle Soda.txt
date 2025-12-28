@@ -1,0 +1,14 @@
+{{CharacterInfo|name=Yoyle Soda|character=[[File:Yoyle Soda.webp|thumb]]|difficulty=Hard|area=[[Yoyleland]]|hint=Yoyle (hidden on the windows)}}
+
+==Character==
+Glass with grape soda and straw inside of it
+
+==Obtaining==
+It's on the first window of grey building from left to yoyleneedy (the tower)
+
+==Trivia==
+*This character name  is actually "Grape Soda"
+*Replaced "Baba_Booey5875"
+[[Category:Hard Objects]]
+[[Category:Yoyleland Objects]]
+[[Category:Objects]]

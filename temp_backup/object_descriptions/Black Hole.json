@@ -1,0 +1,12 @@
+{
+  "name": "Black Hole",
+  "area": "Factory",
+  "difficulty": "insane",
+  "description": "find all 5 scattered code pieces around Spawn and Snowy",
+  "hint": "find all 5 scattered code pieces around Spawn and Snowy",
+  "previous_difficulties": [
+    "Extreme"
+  ],
+  "wiki_markup": "name = Black Hole\n|character = [[File:Black Hole.png]]\n|difficulty = Insane\n|area = [[Main Realm]]\n|hint = find all 5 scattered code pieces around Spawn and Snowy\n|additionalinfo|previousdifficulties=<span style=\"color:#ED2727\">'''Extreme'''</span> [[File:Extreme.png]]\n",
+  "location": "realm:Main Realm/Factory"
+}

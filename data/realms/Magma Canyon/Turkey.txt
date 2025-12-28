@@ -1,0 +1,11 @@
+{{CharacterInfo|name=Turkey|character=[[File:Turkey.png]]|difficulty=Normal|area=[[Magma Canyon]]|hint=TBA|creator=@drpepperheinz}}
+
+== Character ==
+turkeh so true and so real, you know turkeys are so silly because they go gobble gobble. what does this have to do with anything? I have no clue.
+
+== Obtaining ==
+Under the bridge you spawn on in [[Magma Canyon]]
+
+[[Category:Normal Objects]]
+[[Category:Magma Canyon Objects]]
+[[Category:Objects]]

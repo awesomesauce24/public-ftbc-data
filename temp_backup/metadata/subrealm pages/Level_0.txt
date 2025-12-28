@@ -1,0 +1,135 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Bakcrooms level 0.png|1350px]]
+</div>
+
+{{Zoneinfobox
+| title1 = <span style="font-family:'GFS Didot','Times New Roman',serif; letter-spacing:3px;">Level 0</span>
+| image1 = [[File:Bakcrooms level 0.png]]
+| caption1 = Example
+| Objects = 5
+| creator = Klaptal
+| theme = Liminal Space, [[Backrooms]]
+| average_difficulty = <span style="color:#ffb700; font-weight:bold;">Intermediate</span> [[File:Intermediate FTBC.png|frameless|Intermediate]] (5.8)
+| bordering_zones =
+| realms = [[Level 1]]
+| subzones =
+}}
+
+<br>
+
+== <span style="
+	font-family:'GFS Didot','Times New Roman',serif;
+	letter-spacing:4px;
+	background:linear-gradient(180deg,#fff6e6,#ffb700);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	text-shadow:0 0 8px #ffb700;
+">HOW TO ENTER</span> ==
+
+First, click the hole in a tree at Goiky near [[Leafy]].  
+Next, go to the darkness on the opposite side of where you would normally go to obtain [[David]].
+
+----
+
+== <span style="
+	font-family:'GFS Didot','Times New Roman',serif;
+	letter-spacing:4px;
+	background:linear-gradient(180deg,#fff6e6,#ffb700);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	text-shadow:0 0 8px #ffb700;
+">INFORMATION</span> ==
+
+'''Level 0''' is the first Backrooms-style sub-realm encountered in the game.  
+It appears as a maze of yellowed rooms with mossy carpeting, flickering fluorescent lights, and a constant loud buzzing hum.
+
+To exit the level, players must navigate until they locate a surveillance room containing cameras.  
+The exit door will always be located within this room.
+
+----
+
+== <span style="
+	font-family:'GFS Didot','Times New Roman',serif;
+	letter-spacing:4px;
+	background:linear-gradient(180deg,#fff6e6,#ffb700);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	text-shadow:0 0 8px #ffb700;
+">OBJECTS</span> ==
+
+==== <span style="color:#ffb700; font-variant:small-caps; letter-spacing:2px;">Intermediate</span> ====
+* [[File:Intermediate FTBC.png|frameless|Intermediate]] [[Clay]]
+* [[File:Intermediate FTBC.png|frameless|Intermediate]] [[Computer]]
+* [[File:Intermediate FTBC.png|frameless|Intermediate]] [[Ringy]]
+
+<hr>
+
+==== <span style="color:#FF7700; font-variant:small-caps; letter-spacing:2px;">Hard</span> ====
+* [[File:Hard.png|frameless|Hard]] [[Poop]]
+
+<hr>
+
+==== <span style="color:#ED2727; font-variant:small-caps; letter-spacing:2px;">Extreme</span> ====
+* [[File:Extreme.png|frameless|Extreme]] [[Cuber]]
+
+----
+
+== <span style="
+	font-family:'GFS Didot','Times New Roman',serif;
+	letter-spacing:4px;
+	background:linear-gradient(180deg,#fff6e6,#ffb700);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	text-shadow:0 0 8px #ffb700;
+">MAP</span> ==
+[[File:FTBC Basement Level 0.png|512x512px]]
+
+----
+<span style="
+	font-family:'GFS Didot','Times New Roman',serif;
+	letter-spacing:4px;
+	background:linear-gradient(180deg,#fff6e6,#ffb700);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	text-shadow:0 0 8px #ffb700;
+">MUSIC</span>
+{{FTBCAudio
+ | file = Level0mp3.mp3
+ | size = 150x150px
+ | title = Level 0 / Ambiance
+ | caption = non-official audio
+ | titlefont = 'GFS Didot','Times New Roman',serif
+ | captionfont = Garamond,serif
+ | titlecolor = #ffb700
+
+ | bg_r = 0
+ | bg_g = 0
+ | bg_b = 0
+ | bg_opacity = 0.25
+
+ | width = 480px
+ | radius = 14px
+}}
+
+
+
+----
+
+== <span style="
+	font-family:'GFS Didot','Times New Roman',serif;
+	letter-spacing:4px;
+	background:linear-gradient(180deg,#fff6e6,#ffb700);
+	-webkit-background-clip:text;
+	-webkit-text-fill-color:transparent;
+	text-shadow:0 0 8px #ffb700;
+">TRIVIA</span> ==
+
+* [[Cuber]] replaced [[BlOckHeAdFORLiFyes]].
+* Under a set of stairs is a hidden code for [[Pesky Pentagon]].
+* There are two buttons for [[Aspen Tree]] in this level.
+* This is the larger version of the Backrooms sub-area found in the [[Main Realm]].
+
+[[Category:Sub-Realms]]
+[[Category:Backrooms Levels]]
+
+</div>

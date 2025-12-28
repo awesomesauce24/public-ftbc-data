@@ -1,0 +1,25 @@
+{{CharacterInfo
+|name = Pin
+|character = [[File:Pin.png]]
+|difficulty = Effortless
+|area = [[Main Realm]]
+|hint = guess what pin? you won a win token! (Hidden in Number Playground)
+}}
+
+== Obtaining ==
+In [[Number Playground]], Pin is lodged inside a tree.  
+Simply walk up and collect her.
+
+== Info ==
+Pin is a tall purple pushpin with a rounded top and a pointed metal tip.  
+She has oval black eyes and a small straight mouth, with thin black stick-like limbs.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:Number Playground Objects]]
+[[Category:BFDI Contestants]]
+[[Category:BFDIA Contestants]]
+[[Category:IDFB Contestants]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]

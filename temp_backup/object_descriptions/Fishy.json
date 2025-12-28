@@ -1,0 +1,12 @@
+{
+  "name": "Fishy",
+  "area": "Hotel",
+  "difficulty": "effortless",
+  "description": "we're surrounding by fish, you know what that means? FISH!!!!!!",
+  "hint": "we're surrounding by fish, you know what that means? FISH!!!!!!",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Fishy\n|character=Fishy.png\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Hotel]]\n|hint=we're surrounding by fish, you know what that means? FISH!!!!!!\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Hotel"
+}

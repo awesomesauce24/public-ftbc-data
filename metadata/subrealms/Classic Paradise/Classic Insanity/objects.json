@@ -1,0 +1,18 @@
+{
+  "objects": [
+    {
+      "name": "Veterany",
+      "difficulty": "terrifying",
+      "area": "Classic Insanity",
+      "description": "[Start in Starter Place and go onto the house]",
+      "hint": "[Start in Starter Place and go onto the house]"
+    },
+    {
+      "name": "Administratory",
+      "difficulty": "remorseless",
+      "area": "Classic Insanity",
+      "description": "[Start in Starter Place and go onto the house]",
+      "hint": "[Start in Starter Place and go onto the house]"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Robot Firey",
+  "area": "Yoyleland",
+  "difficulty": "extreme",
+  "description": "Placeholder.",
+  "hint": "Placeholder.",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Robot Firey|character=[[File:Robot firey.webp|thumb]]|difficulty=Extreme|area=[[Yoyleland]]|hint=Placeholder.",
+  "location": "realm:Yoyleland"
+}

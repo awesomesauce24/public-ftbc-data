@@ -1,0 +1,10 @@
+{
+  "name": "Fossil",
+  "area": "Floating Island",
+  "difficulty": "hard",
+  "description": "click on a fossil somewhere...",
+  "hint": "click on a fossil somewhere...",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Fossil|character=[[File:Fossil.png]]|difficulty=Hard|area=[[Floating Island]]|hint=click on a fossil somewhere...",
+  "location": "realm:Main Realm/Floating Island"
+}

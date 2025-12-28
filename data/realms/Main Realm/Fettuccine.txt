@@ -1,0 +1,12 @@
+{{CharacterInfo|name=Fettuccine|character=[[File:Fettuccine.PNG]]|difficulty=Normal|area=[[Floating Island]]|hint=the first floating island update in one million years (Hidden in [[Floating Island]]) (Made by lowk3y_TJ)|creator=lowk3y_TJ}}
+
+== Character ==
+'''Fettucine''' is fettucine.
+
+== Obtaining ==
+At the base of one of the trees on [[Floating Island]]
+
+[[Category:Normal Objects]]
+[[Category:Objects]]
+[[Category:Floating Island Objects]]
+[[Category:BFDI Limbs]]

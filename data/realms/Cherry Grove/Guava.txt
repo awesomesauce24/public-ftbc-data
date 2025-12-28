@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Guava|character=[[File:Guava.png|thumb]]|difficulty=Intermediate|area=[[Cherry Grove]]|hint=[PLACEHOLDER]}}
+
+== Character ==
+A partially cut guava that has a happy expression.
+
+== Obtaining ==
+{{Spoiler|text=Near the spawn of [[Cherry Grove]] There will be a tiny ledge of an island near one of the waterfalls. [[Guava]] will be on the wall next to the waterfall.}}
+[[Category:Cherry Grove Objects]]
+[[Category:Intermediate Objects]]
+[[Category:Objects]]

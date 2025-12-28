@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Swordy|character=[[File:Swordy.webp|thumb]]|difficulty=Extreme|area=[[Yoyleland]]|hint=Same deal as stabby}}
+
+== Character ==
+Sword with brown handle and aqua blade
+
+== Obtaining ==
+Go to [[Lasery]] and jump to the building of you look behind next building you can see wooden path, follow it and jump to the swordy
+[[Category:Extreme Objects]]
+[[Category:Yoyleland Objects]]
+[[Category:Objects]]

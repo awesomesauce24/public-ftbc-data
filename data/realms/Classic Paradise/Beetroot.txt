@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Beetroot|character=[[File:Beetroot.png]]|difficulty=Insane|area=[[Classic Paradise]]|hint=The beetroot farm}}
+==Character==
+happi beetroot :D
+==Obtaining==
+Do the beetroot farming simulator in [[Classic Paradise]].
+
+[[Category:Objects]]
+[[Category:Insane Objects]]
+[[Category:Classic Paradise Objects]]

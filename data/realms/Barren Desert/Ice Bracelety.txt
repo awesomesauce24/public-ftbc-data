@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Ice Bracelety|character=[[Ice Bracelety.png|Ice Bracelety]]|difficulty=Insane|area=[[Barren Desert]]|hint=ice in desert? how does that make any sense}}
+
+== Appearance ==
+Ice Bracelety is a variation of [[Bracelety]] but the main material is ice.
+
+== Obtaining ==
+Under [[Sierpinski|Sierpinski's]] obby.
+[[Category:Objects]]
+[[Category:Insane Objects]]
+[[Category:Barren Desert Objects]]

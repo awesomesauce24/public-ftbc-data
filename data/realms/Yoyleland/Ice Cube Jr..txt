@@ -1,0 +1,26 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:YoylelandRealm.png|2000px]]
+</div>
+<div style="--theme-accent-color:#cd58e3; --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Ice Cube Jr.
+|character=[[File:Ice Cube Jr..png]]
+|difficulty=[[File:Effortless.png|link=]] <span style="color:#17a897">'''<b>Effortless</b>'''</span>
+|area=[[Yoyleland]]
+|hint=making the water cooler
+|additionalinfo
+}}
+
+== Info ==
+O'Shea Jackson Sr. (born June 15, 1969), known professionally as Ice Cube, is an American rapper, songwriter, actor, and film producer.
+
+== Obtaining ==
+In Yoyleland. Just rotate 180 degrees and you will see her. She's also next to [[Long Pencil]]
+
+[[Category:Effortless Objects]]
+[[Category:Objects]]
+[[Category:Yoyleland Objects]]
+</div>
+</div>

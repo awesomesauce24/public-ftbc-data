@@ -1,0 +1,10 @@
+{
+  "name": "Texas Donut",
+  "area": "Floating Island",
+  "difficulty": "intermediate",
+  "description": "something is off about where  is... (Hidden in Floating Island)",
+  "hint": "something is off about where  is... (Hidden in Floating Island)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Texas Donut|character=[[File:Texas Donut.png]]|difficulty=Intermediate|area=[[Floating Island]]|hint=something is off about where [[Succulent]] is... (Hidden in Floating Island)",
+  "location": "realm:Main Realm/Floating Island"
+}

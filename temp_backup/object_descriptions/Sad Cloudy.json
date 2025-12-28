@@ -1,0 +1,12 @@
+{
+  "name": "Sad Cloudy",
+  "area": "Goiky",
+  "difficulty": "dreadful",
+  "description": "find yourself in an unfortunate predicament after trying to cheese a certain character",
+  "hint": "find yourself in an unfortunate predicament after trying to cheese a certain character",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Sad Cloudy\n|character=[[File:Sad Cloudy.png|Sad Cloudy]]\n|difficulty=[[File:Dreadful.png]] <span style=\"color:#db25ff\">'''Dreadful'''</span>\n|area=[[Goiky]]\n|hint=find yourself in an unfortunate predicament after trying to cheese a certain character\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "realm:Main Realm/Goiky"
+}

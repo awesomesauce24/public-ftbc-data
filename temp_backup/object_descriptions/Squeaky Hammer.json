@@ -1,0 +1,10 @@
+{
+  "name": "Squeaky Hammer",
+  "area": "Yoyleland",
+  "difficulty": "unforgiving",
+  "description": "PLACEHOLDER",
+  "hint": "PLACEHOLDER",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Squeaky Hammer|character=[[File:Squeaky hammer.png|thumb]]|difficulty=Unforgiving|area=[[Yoyleland]]|hint=PLACEHOLDER",
+  "location": "realm:Yoyleland"
+}

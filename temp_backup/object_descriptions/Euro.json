@@ -1,0 +1,10 @@
+{
+  "name": "Euro",
+  "area": "Fossil Falls",
+  "difficulty": "easy",
+  "description": "How much will it cost? Not even a euro. (Hidden in Fossil Falls)",
+  "hint": "How much will it cost? Not even a euro. (Hidden in Fossil Falls)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Euro\n|character=[[File:Euro.png|thumb]]\n|difficulty=[[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n|area=[[Fossil Falls]]\n|hint=How much will it cost? Not even a euro. (Hidden in Fossil Falls)\n|gender=\n",
+  "location": "realm:Main Realm/Fossil Falls"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Oxygen",
+  "area": "Classic Paradise",
+  "difficulty": "strenuous",
+  "description": "Go where the light shines, an unusual light",
+  "hint": "Go where the light shines, an unusual light",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Oxygen|character=[[File:Oxygen.png]]|difficulty=Strenuous|area=[[Classic Paradise]]|hint=Go where the light shines, an unusual light",
+  "location": "realm:Classic Paradise"
+}

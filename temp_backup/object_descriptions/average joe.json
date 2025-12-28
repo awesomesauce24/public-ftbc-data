@@ -1,0 +1,10 @@
+{
+  "name": "average joe",
+  "area": "Basement",
+  "difficulty": "strenuous",
+  "description": "they just want their life to be normal",
+  "hint": "they just want their life to be normal",
+  "previous_difficulties": [],
+  "wiki_markup": "name = average joe\n|character = [[File:average joe.png]]\n|difficulty = Strenuous\n|area = [[The Basement]]\n|hint = they just want their life to be normal\n",
+  "location": "subrealm:Yoyle Factory/Basement"
+}

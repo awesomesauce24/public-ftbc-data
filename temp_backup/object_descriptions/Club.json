@@ -1,0 +1,10 @@
+{
+  "name": "Club",
+  "area": "Factory",
+  "difficulty": "easy",
+  "description": "(Hidden in factory)",
+  "hint": "(Hidden in factory)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Club|character=[[File:Club.png|thumb]]|difficulty=Easy|area=[[Factory]]|hint=(Hidden in factory)",
+  "location": "realm:Main Realm/Factory"
+}

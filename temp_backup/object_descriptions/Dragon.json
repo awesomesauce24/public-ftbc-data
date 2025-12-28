@@ -1,0 +1,12 @@
+{
+  "name": "Dragon",
+  "area": "Cherry Grove",
+  "difficulty": "arduous",
+  "description": "Find 5 buttons scattered throughout the islands",
+  "hint": "Find 5 buttons scattered throughout the islands",
+  "previous_difficulties": [
+    "Remorseless"
+  ],
+  "wiki_markup": "name=Dragon\n|character=[[File:Dragon.webp|thumb]]\n|difficulty=[[File:Arduous.png]] <span style=\"color:#5d0cff\">'''Arduous'''</span>\n|area=[[Cherry Grove]]\n|hint=Find 5 buttons scattered throughout the islands|additionalinformation\n|previousdifficulties= \n[[File:Remorseless.png]] <span style=\"color:#2084ff\">'''Remorseless'''</span>\n[[File:Strenuous.png]] <span style=\"color:#4048e5\">'''Strenuous'''</span>",
+  "location": "realm:Cherry Grove"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Baking Soda",
+  "area": "Warehouse",
+  "difficulty": "normal",
+  "description": "how tasty (Made by lowk3y_TJ) (Start in Warehouse)",
+  "hint": "how tasty (Made by lowk3y_TJ) (Start in Warehouse)",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Baking Soda\n|character = [[File:Baking Soda.png]]\n|difficulty = Normal\n|area = [[Warehouse]]\n|hint = how tasty (Made by lowk3y_TJ) (Start in Warehouse)\n",
+  "location": "realm:Main Realm/Warehouse"
+}

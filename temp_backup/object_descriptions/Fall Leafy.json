@@ -1,0 +1,10 @@
+{
+  "name": "Fall Leafy",
+  "area": "Hotel",
+  "difficulty": "moderate",
+  "description": "find a way up a tree (Hidden at Hotel)",
+  "hint": "find a way up a tree (Hidden at Hotel)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Fall Leafy|character=Fall Leafy.png|difficulty=Moderate|area=[[Hotel]]|hint=find a way up a tree (Hidden at Hotel)|creator=flamer9111<br>jedimaster2041",
+  "location": "realm:Main Realm/Hotel"
+}

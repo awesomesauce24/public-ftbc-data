@@ -1,0 +1,10 @@
+{
+  "name": "Milli Book",
+  "area": "Candyland",
+  "difficulty": "intermediate",
+  "description": "🙂 (Start in Candyland)",
+  "hint": "🙂 (Start in Candyland)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Milli Book\n|character=[[File:Milli Book.png]]\n|difficulty=Intermediate\n|area=[[Candyland]]\n|hint=🙂 (Start in Candyland)\n",
+  "location": "realm:Main Realm/Candyland"
+}

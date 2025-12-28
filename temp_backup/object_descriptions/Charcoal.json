@@ -1,0 +1,12 @@
+{
+  "name": "Charcoal",
+  "area": "Snowy",
+  "difficulty": "moderate",
+  "description": "in a place full of fire and heat (Hidden in Snowy)",
+  "hint": "in a place full of fire and heat (Hidden in Snowy)",
+  "previous_difficulties": [
+    "Normal"
+  ],
+  "wiki_markup": "name=Charcoal\n|character=[[File:Charcoal.png]]\n|difficulty=Moderate\n|area=[[Snowy]]\n|hint=in a place full of fire and heat (Hidden in Snowy)\n|additionalinfo|previousdifficulties=<span style=\"color:#a1ff27\">'''Normal'''</span> [[File:Normal.png]]\n",
+  "location": "realm:Main Realm/Snowy"
+}

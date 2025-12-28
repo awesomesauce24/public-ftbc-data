@@ -1,0 +1,10 @@
+{
+  "name": "Halporhini Cube",
+  "area": "Warehouse",
+  "difficulty": "hard",
+  "description": "that's a weird looking cube (Start in Warehouse)",
+  "hint": "that's a weird looking cube (Start in Warehouse)",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Halporhini Cube\n|character = [[File:Halporhini Cube.png]]\n|difficulty = Hard\n|area = [[Warehouse]]\n|hint = that's a weird looking cube (Start in Warehouse)\n",
+  "location": "realm:Main Realm/Warehouse"
+}

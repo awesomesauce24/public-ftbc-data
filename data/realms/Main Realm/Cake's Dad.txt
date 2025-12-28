@@ -1,0 +1,26 @@
+{{CharacterInfo|name=Cake's Dad|character=[[File:Cake's Dad.png|Cake's Dad]]|difficulty=Horrifying|area=Mixed|hint=Begin by going to Starter Place, check near the huge tree for a hint. Then, go to Timber Peaks, in search of a key. All of this shall lead you to a perilous paradox.}}
+==Character==
+'''Cake's Dad''' Is supposedly a father figure for [[Cake]] which has three white meringue puffs on top, a long light coral icing rim and a moustache. 
+
+== Obtaining ==
+Go to Starter Place and use the delete option for the black and white blocks, delete them and there will be one part of the code for another part of cakes's dad code <!-- shush, dont spoil the code !-->
+
+'''Older Method:''' Start in [[Classic Paradise]], there are 4 things that you can find here:
+* A Bulletin Board with an image of Cake's Dad, {{Spoiler|text=it means you need to go to the Building Tools realm and destroy one of those wallhop looking thing, doing this will reveal a code that says "ifdsha0f01hsd0ah1s"}}
+* A hidden code {{Spoiler|text=under the bridge to the 2nd Obby that says "grloxqpzsziuthfabiykjvdwce"}}
+* Something in Oxygen's room ( inside the door ) that says {{Spoiler|text="_ _ _ _ _ _ _ _ + (grloxqpz)"}}
+* Something near Cake's Dad room ( 2nd floor of Cave ) that says {{Spoiler|text="C_n_l_s Month/Day/Year > Convert (B_s_6_)"}}
+
+Next, go to [[Timber Peaks|Timber Peaks]] and head to Timber Tops, type {{Spoiler|text="/e ifdsha0f01hsd0ah1s" ? and a door should open in Chips' house, there's a thing that says "0-ab 1-iy 2-gr 3-lo 4-ce 5-dw 6-pz 7-hf 8-xq 9-ut &-szi #-kjv", we can use this to convert "grloxqpzsziuthfabiykjvdwce" to "2386 & 9701 #54" (no spaces), this means user id 2386's and user id 9701's 54th follower, which is @Conplus, looking back at "C_n_l_s > Convert (B_s_6_)", we now know that it means "Conplus Month/Day/Year > Convert (Base64)"}}
+
+{{Spoiler|text=if you convert Conplus' join date to base64 you'll get "NDgyMDE5". Also (grloxqpz) is 2386. This means, "_ _ _ _ _ _ _ _ + (grloxqpz)" is "NDgyMDE52386", which is "'''/e NDgyMDE52386'''".}}
+
+Type the code <!-- shush, dont spoil the code !--> in [[Classic Paradise]] and you'll be teleported to Cake's Dad room. Touch the door and you'll get teleported to [[Classic Paradox]].
+
+Good luck with the bossfight!
+
+<span style="font-size:10px">(fun fact: you can dash by pressing "E")</span>
+
+[[Category:Objects]]
+[[Category:Horrifying Objects]]
+[[Category:Classic Paradise Objects]]

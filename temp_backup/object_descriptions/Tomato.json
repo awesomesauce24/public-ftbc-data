@@ -1,0 +1,10 @@
+{
+  "name": "Tomato",
+  "area": "Midnight Rooftops",
+  "difficulty": "hard",
+  "description": "i like tomato uhhhh yeah",
+  "hint": "i like tomato uhhhh yeah",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Tomato\n|character=[[File:Tomato.png]]\n|difficulty=[[File:Hard.png]] <span style=\"color:#FF7700\">'''<b>Hard</b>'''</span>\n|area=[[Midnight Rooftops]]\n|hint=i like tomato uhhhh yeah\n",
+  "location": "realm:Midnight Rooftops"
+}

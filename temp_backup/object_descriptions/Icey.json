@@ -1,0 +1,12 @@
+{
+  "name": "Icey",
+  "area": "Snowy",
+  "difficulty": "effortless",
+  "description": "Basically ice cube but a fine lady (Hidden in Snowy)",
+  "hint": "Basically ice cube but a fine lady (Hidden in Snowy)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Icey\n|character=[[File:Icey.png|thumb]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Snowy]]\n|hint=Basically ice cube but a fine lady (Hidden in Snowy)\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Snowy"
+}

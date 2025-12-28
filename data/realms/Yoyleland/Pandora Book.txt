@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Pandora Book|character=[[File:Pandora book.webp]]|difficulty=Moderate|area=[[Yoyleland]]|hint=Hiding behind a building somewhere...|additionalinfo|previousdifficulties=<span style="color:#a1ff27">'''Normal'''</span> [[File:Normal.png]]}}
+
+== Character ==
+A Purple variation of [[Book]] with white angry eyes and sharp teeth,
+
+== Obtaining ==
+On the side of gray building, close to [[Eyes in the Dark]].
+[[Category:Moderate Objects]]
+[[Category:Objects]]
+[[Category:Yoyleland Objects]]

@@ -1,0 +1,10 @@
+{
+  "name": "Redcurrant",
+  "area": "Classic Paradise",
+  "difficulty": "hard",
+  "description": "get onto the trees at spawn",
+  "hint": "get onto the trees at spawn",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Redcurrant|character=[[File:Redcurrant.png]]|difficulty=Hard|area=[[Classic Paradise]]|hint=get onto the trees at spawn",
+  "location": "realm:Classic Paradise"
+}

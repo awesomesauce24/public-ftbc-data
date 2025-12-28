@@ -1,0 +1,12 @@
+{
+  "name": "Big Nickel",
+  "area": "Factory",
+  "difficulty": "effortless",
+  "description": "he's so big i don't know how you wouldn't find him",
+  "hint": "he's so big i don't know how you wouldn't find him",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Big Nickel\n|character=[[File:Big Nickel.png]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Factory]]\n|hint=he's so big i don't know how you wouldn't find him\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Factory"
+}

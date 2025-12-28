@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Latte|character=[[File:Latte.png]]|difficulty=Intermediate|area=[[Classic Paradise]]|hint=PLACEHOLDER|additionalinfo|previousdifficulties=<span style="color:#ED2727">'''Extreme'''</span> [[File:Extreme.png]]}}
+==Character==
+A mug with coffee creamer that has a peaceful expression.
+==Obtaining==
+It will be on the picnic table near the giant tree.
+
+[[Category:Objects]]
+[[Category:Intermediate Objects]]
+[[Category:Classic Paradise Objects]]

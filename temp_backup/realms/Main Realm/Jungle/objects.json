@@ -1,0 +1,194 @@
+{
+  "objects": [
+    {
+      "name": "Funny Plant",
+      "difficulty": "effortless",
+      "area": "Jungle",
+      "description": "Have you accidentally killed a plant and want to revive it? Then why don't you set it on fire? And then freeze it? Let it grow on the sun? Or zap it? Make it a fancy dinner? Or feed it to a fish monster? Or push it off a cliff? Dance on it? Explode it? Vomit on it? Play with it underwater?",
+      "hint": "Have you accidentally killed a plant and want to revive it? Then why don't you set it on fire? And then freeze it? Let it grow on the sun? Or zap it? Make it a fancy dinner? Or feed it to a fish monster? Or push it off a cliff? Dance on it? Explode it? Vomit on it? Play with it underwater?"
+    },
+    {
+      "name": "Lotus Flower",
+      "difficulty": "effortless",
+      "area": "Jungle",
+      "description": "Placeholder description I'll probably forget to change it but it's funnier like this (Hidden in Jungle)",
+      "hint": "Placeholder description I'll probably forget to change it but it's funnier like this (Hidden in Jungle)"
+    },
+    {
+      "name": "Mortar",
+      "difficulty": "effortless",
+      "area": "Jungle",
+      "description": "Ever watch Brick and Mortar? (hidden in Jungle)",
+      "hint": "Ever watch Brick and Mortar? (hidden in Jungle)"
+    },
+    {
+      "name": "Piñata",
+      "difficulty": "effortless",
+      "area": "Jungle",
+      "description": "it's on a tree, that's basically all you need to know",
+      "hint": "it's on a tree, that's basically all you need to know"
+    },
+    {
+      "name": "Fire Citrus",
+      "difficulty": "easy",
+      "area": "Jungle",
+      "description": "HOT HOT HOT!!! (Hidden in Jungle)",
+      "hint": "HOT HOT HOT!!! (Hidden in Jungle)"
+    },
+    {
+      "name": "Sandwich Roll",
+      "difficulty": "easy",
+      "area": "Jungle",
+      "description": "on top of a giant plant",
+      "hint": "on top of a giant plant"
+    },
+    {
+      "name": "Beanie",
+      "difficulty": "moderate",
+      "area": "Jungle",
+      "description": "look inside of a bush",
+      "hint": "look inside of a bush"
+    },
+    {
+      "name": "Shuriken",
+      "difficulty": "moderate",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Awesome Face",
+      "difficulty": "normal",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Green Egg",
+      "difficulty": "normal",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Hexagon",
+      "difficulty": "normal",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Pasty",
+      "difficulty": "normal",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Snake",
+      "difficulty": "normal",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Taco Guy",
+      "difficulty": "normal",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Banana",
+      "difficulty": "intermediate",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Flower Crown",
+      "difficulty": "intermediate",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Green Rocky",
+      "difficulty": "intermediate",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Symbol",
+      "difficulty": "intermediate",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Slide Man",
+      "difficulty": "hard",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "One Way Sign",
+      "difficulty": "difficult",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Yellow Watermelon",
+      "difficulty": "difficult",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Pixely",
+      "difficulty": "extreme",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Taco With Tophat",
+      "difficulty": "extreme",
+      "area": "Jungle",
+      "description": "TBA",
+      "hint": "TBA"
+    },
+    {
+      "name": "Leafy Jr.",
+      "difficulty": "unforgiving",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Peanut",
+      "difficulty": "unforgiving",
+      "area": "Jungle",
+      "description": "look inside of the jungle trees",
+      "hint": "look inside of the jungle trees"
+    },
+    {
+      "name": "Cauldron",
+      "difficulty": "strenuous",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Gifty",
+      "difficulty": "hard",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Peanut Butter",
+      "difficulty": "hard",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Tombstone",
+      "difficulty": "unforgiving",
+      "area": "Jungle",
+      "description": ""
+    },
+    {
+      "name": "Polluted Marshlands",
+      "difficulty": "unforgiving",
+      "area": "Jungle",
+      "description": "",
+      "hint": ""
+    }
+  ]
+}

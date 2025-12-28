@@ -1,0 +1,10 @@
+{
+  "name": "Evil Forest Medallion",
+  "area": "Evil Forest",
+  "difficulty": "medallion",
+  "description": "<span style=\"color:#ffcaca; text-shadow: 0 0 10px rgba(0,0,0,0.55);\">Made by @cluxser2</span>",
+  "hint": "<span style=\"color:#ffcaca; text-shadow: 0 0 10px rgba(0,0,0,0.55);\">Made by @cluxser2</span>",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Evil Forest Medallion\n|character=Evil Guy the Medallion.png\n|difficulty=<span style=\"color:#ff3b3b; text-shadow: 0 0 12px rgba(255,0,0,0.40);\">'''Medallion'''</span><br><span style=\"color:#ffb0b0; text-shadow: 0 0 10px rgba(0,0,0,0.45);\">16 ([[Medal Room]])</span>\n|area=[[Evil Forest]]\n|hint=<span style=\"color:#ffcaca; text-shadow: 0 0 10px rgba(0,0,0,0.55);\">Made by @cluxser2</span>\n|info=\n|creator=\n",
+  "location": "realm:Evil Forest"
+}

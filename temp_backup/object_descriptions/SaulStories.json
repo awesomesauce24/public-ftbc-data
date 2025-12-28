@@ -1,0 +1,10 @@
+{
+  "name": "SaulStories",
+  "area": "Snowy",
+  "difficulty": "easy",
+  "description": "My Name is Saul and THese Are My Sttories. Watch Evan the Wolf! (Made by Meowbah)",
+  "hint": "My Name is Saul and THese Are My Sttories. Watch Evan the Wolf! (Made by Meowbah)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=SaulStories|character=[[File:SaulStories.webp|thumb]]|difficulty=Easy|area=[[Snowy]]|hint=My Name is Saul and THese Are My Sttories. Watch Evan the Wolf! (Made by Meowbah)",
+  "location": "realm:Main Realm/Snowy"
+}

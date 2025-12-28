@@ -1,0 +1,12 @@
+{
+  "name": "Happy Birthday Card",
+  "area": "Snowy",
+  "difficulty": "moderate",
+  "description": "it still isn't your birthday (Hidden in Snowy)",
+  "hint": "it still isn't your birthday (Hidden in Snowy)",
+  "previous_difficulties": [
+    "Normal"
+  ],
+  "wiki_markup": "name=Happy Birthday Card\n|character=[[File:Happy Birthday Card.png]]\n|difficulty=Moderate\n|area=[[Snowy]]\n|hint=it still isn't your birthday (Hidden in Snowy)\n|additionalinfo|previousdifficulties=<span style=\"color:#a1ff27\">'''Normal'''</span> [[File:Normal.png]]\n",
+  "location": "realm:Main Realm/Snowy"
+}

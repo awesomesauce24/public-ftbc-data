@@ -1,0 +1,12 @@
+{
+  "name": "Boblob",
+  "area": "Factory",
+  "difficulty": "arduous",
+  "description": "start by looking near [[Black Hole",
+  "hint": "start by looking near [[Black Hole",
+  "previous_difficulties": [
+    "Remorseless"
+  ],
+  "wiki_markup": "name=Boblob\n|character=\n<gallery>\nBoblob New.png|Current\nBoblob.png|Old\n</gallery>\n|difficulty=[[File:Arduous.png]] <span style=\"color:#5d0cff\">'''Arduous'''</span>\n|area=[[Factory]]\n|hint=start by looking near [[Black Hole|black hole]]\n|additionalinfo\n|previousdifficulties =\n[[File:Remorseless.png]] <span style=\"color:#2084ff\">'''Remorseless'''</span>\n[[File:Strenuous.png]] <span style=\"color:#4048e5\">'''Strenuous'''</span>\n",
+  "location": "realm:Main Realm/Factory"
+}

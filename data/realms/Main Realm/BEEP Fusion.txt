@@ -1,0 +1,7 @@
+{{CharacterInfo|name=BEEP Fusion|character=[[File:BEEP Fusion.png|BEEP Fusion]]|difficulty=Strenuous|area=[[Backrooms]]|hint=start in level 4 of the backrooms, and find the stairwell}}
+==Character==
+<b>Beep Fusion</b> is a Remorseless character which is a fusion of all characters from Beep Fusion.
+==Obtaining==
+Go to Level 4 of [[Backrooms|The Backrooms]] the dance clip outside. Find a glowing orb then touch it (you'll be teleported to [[stairwell]]). After that, just go down til you spot it.
+[[Category:Objects]]
+[[Category:Strenuous Objects]]

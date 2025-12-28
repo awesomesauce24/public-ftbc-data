@@ -1,0 +1,12 @@
+{
+  "name": "Paint Bucket",
+  "area": "Yoyle Factory",
+  "difficulty": "unforgiving",
+  "description": "He's been up to some mischief",
+  "hint": "He's been up to some mischief",
+  "previous_difficulties": [
+    "Insane"
+  ],
+  "wiki_markup": "name=Paint Bucket\n|character=[[File:Paint bucket.webp|thumb]]\n|difficulty=[[File:Unforgiving.png]] <span style=\"color:#ff143f\">'''Unforgiving'''</span>\n|area=[[Yoyle Factory]]\n|hint=He's been up to some mischief\n|additionalinfo\n|previousdifficulties = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n",
+  "location": "realm:Yoyle Factory"
+}

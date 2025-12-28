@@ -1,0 +1,10 @@
+{
+  "name": "Turkey",
+  "area": "Magma Canyon",
+  "difficulty": "normal",
+  "description": "TBA",
+  "hint": "TBA",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Turkey|character=[[File:Turkey.png]]|difficulty=Normal|area=[[Magma Canyon]]|hint=TBA|creator=@drpepperheinz",
+  "location": "realm:Magma Canyon"
+}

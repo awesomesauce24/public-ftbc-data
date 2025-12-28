@@ -1,0 +1,12 @@
+{
+  "name": "Desert Pillar",
+  "area": "Inverted",
+  "difficulty": "arduous",
+  "description": "start at inverted jungle, then go to the area where  is located.",
+  "hint": "start at inverted jungle, then go to the area where  is located.",
+  "previous_difficulties": [
+    "Remorseless"
+  ],
+  "wiki_markup": "name = Desert Pillar\n|character = [[File:Desert Pillar.png]]\n|difficulty = [[File:Arduous.png]] <span style=\"color:#5d0cff\">'''Arduous'''</span>\n|area = [[Inverted]]\n|hint = start at inverted jungle, then go to the area where [[Toxic Bomb]] is located.\n|additionalinfo\n|previousdifficulties = \n[[File:Remorseless.png]] <span style=\"color:#2084ff\">'''Remorseless'''</span>\n[[File:Strenuous.png]] <span style=\"color:#4048e5\">'''Strenuous'''</span>\n",
+  "location": "realm:Inverted"
+}

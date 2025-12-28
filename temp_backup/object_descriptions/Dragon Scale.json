@@ -1,0 +1,10 @@
+{
+  "name": "Dragon Scale",
+  "area": "Yoyleland",
+  "difficulty": "hard",
+  "description": "Hidden in one of the hundreds of yoylebushes",
+  "hint": "Hidden in one of the hundreds of yoylebushes",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Dragon Scale|character=[[File:Dragon Scale.webp]]|difficulty=Hard|area=[[Yoyleland]]|hint=Hidden in one of the hundreds of yoylebushes",
+  "location": "realm:Yoyleland"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Announcer",
+  "area": "City",
+  "difficulty": "easy",
+  "description": "flying with his ufo!",
+  "hint": "flying with his ufo!",
+  "previous_difficulties": [
+    "Normal"
+  ],
+  "wiki_markup": "name=Announcer\n|character=[[File:Announcer.png]]\n|difficulty=[[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n|area=[[City]]\n|hint=flying with his ufo!\n|additionalinfo\n|previousdifficulties=<span style=\"color:#a1ff27\">'''Normal'''</span> [[File:Normal.png]]",
+  "location": "realm:Main Realm/City"
+}

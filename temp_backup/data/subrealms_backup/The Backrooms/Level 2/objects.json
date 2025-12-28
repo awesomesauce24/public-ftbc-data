@@ -1,0 +1,24 @@
+{
+  "objects": [
+    {
+      "name": "Brick",
+      "difficulty": "difficult",
+      "description": ""
+    },
+    {
+      "name": "Power Outlet",
+      "difficulty": "difficult",
+      "description": ""
+    },
+    {
+      "name": "Announcer x 1222",
+      "difficulty": "unforgiving",
+      "description": ""
+    },
+    {
+      "name": "Morganite",
+      "difficulty": "unforgiving",
+      "description": ""
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "YSA Status",
+  "area": "Warehouse",
+  "difficulty": "difficult",
+  "description": "look, ok. if you had to add the 1025th character to a game about a show that only has about 150 relevant characters, what would YOU add?",
+  "hint": "look, ok. if you had to add the 1025th character to a game about a show that only has about 150 relevant characters, what would YOU add?",
+  "previous_difficulties": [],
+  "wiki_markup": "name = YSA Status\n|character =<gallery>\nYSA Status.png|Current\nYSA Status.webp|Old\n</gallery>\n|difficulty = Difficult\n|area = [[Warehouse]]\n|hint = look, ok. if you had to add the 1025th character to a game about a show that only has about 150 relevant characters, what would YOU add?\n",
+  "location": "realm:Main Realm/Warehouse"
+}

@@ -1,0 +1,15 @@
+{{CharacterInfo
+|name = Watermelon Slice
+|character = [[File:Watermelon Slice.webp]]
+|difficulty = Moderate
+|area = [[Fossil Falls]]
+|hint = tree climbing simulator (Hidden in Fossil Falls)
+}}
+==Info==
+Watermelon Slice is a BFDI Mini Resort contestant blallblablalblahll
+==Obtainment==
+Teleport to Fossil Falls and climb the tree at your side.
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Fossil Falls Object]]
+[[Category:Moderate Objects]]

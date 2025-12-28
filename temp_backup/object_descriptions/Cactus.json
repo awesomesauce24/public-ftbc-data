@@ -1,0 +1,12 @@
+{
+  "name": "Cactus",
+  "area": "Desert",
+  "difficulty": "effortless",
+  "description": "they thought they could blend in lol!!!",
+  "hint": "they thought they could blend in lol!!!",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Cactus\n|character=Cactus.png\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Desert]]\n|hint=they thought they could blend in lol!!!\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Desert"
+}

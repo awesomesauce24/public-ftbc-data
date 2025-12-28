@@ -1,0 +1,10 @@
+{
+  "name": "Fire Spatula",
+  "area": "Tropical Islands",
+  "difficulty": "hard",
+  "description": "remember, x marks the spot!",
+  "hint": "remember, x marks the spot!",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Fire Spatula\n|character=[[File:Fire Spatula.png]]\n|difficulty=Hard\n|area=[[Tropical Islands]]\n|hint=remember, x marks the spot!\n",
+  "location": "realm:Main Realm/Tropical Islands"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ball",
+  "area": "Number Playground",
+  "difficulty": "normal",
+  "description": "looks they got bounced up too high... they landed straight onto a tree!",
+  "hint": "looks they got bounced up too high... they landed straight onto a tree!",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Ball\n|character = [[File:Ball.png]]\n|difficulty = Normal\n|area = [[Number Playground]]\n|hint = looks they got bounced up too high... they landed straight onto a tree!\n",
+  "location": "realm:Main Realm/Number Playground"
+}

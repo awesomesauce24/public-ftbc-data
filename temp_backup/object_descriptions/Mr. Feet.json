@@ -1,0 +1,10 @@
+{
+  "name": "Mr. Feet",
+  "area": "Magma Canyon",
+  "difficulty": "hard",
+  "description": "TBA",
+  "hint": "TBA",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Mr. Feet\n|character=[[File:MrFeet.png|thumb]]\n|difficulty=[[File:Hard.png]] <span style=\"color:#ff7e21\">'''Hard'''</span>\n|area=[[Magma Canyon]]\n|hint=TBA",
+  "location": "realm:Magma Canyon"
+}

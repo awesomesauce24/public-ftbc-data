@@ -1,0 +1,14 @@
+
+{{CharacterInfo|name=King Skull|character=[[File:King Skull.png]]|difficulty=Strenuous|area=[[Main Realm]]|hint=find 14 pieces of code around the entire map, in red text}}
+==Character==
+King Skull is a skull with a red iris on his left eye, a yellow crown, and a red cloak.
+==Obtaining==
+Find 14 pieces of code throughout the [[Main Realm]]. After finding them all, say {{Spoiler|text="'''/e k1ngsk01Ir0()m'''"}}.
+
+== Gallery ==
+<gallery>
+File:SaltiKilledWand.png|King Skull in the upcoming museum remake with [[ARG Television]], [[Great Rhombicosidodecahedron|Rhombi]] and not [[Wand]].
+File:WandRessurection.png|Ditto, up close and with Wand.
+</gallery>
+[[Category:Objects]]
+[[Category:Strenuous Objects]]

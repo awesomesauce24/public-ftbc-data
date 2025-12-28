@@ -1,0 +1,12 @@
+{
+  "name": "Christmas Tree",
+  "area": "Goiky",
+  "difficulty": "effortless",
+  "description": "PLACEHOLDER",
+  "hint": "PLACEHOLDER",
+  "previous_difficulties": [
+    "Event"
+  ],
+  "wiki_markup": "name=Christmas Tree\n|character=[[File:Christmas Tree.png|Christmas Tree]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Goiky]]\n|hint=PLACEHOLDER\n|additionalinfo\n|previousdifficulties = [[File:Event.png]] <span style=\"color:#DF81C2\">'''Event'''</span>\n",
+  "location": "realm:Main Realm/Goiky"
+}

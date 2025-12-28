@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Sock|character=[[File:Sock.png]]|difficulty=Moderate|area=[[Floating Island]]|hint=all alone under the bed (Hidden in Floating Island)}}
+==Info==
+Sock the famous BFB 15 rc (lowkey one of the most forgettable objects by far)
+==Obtainment==
+Its "Hidden" "under" the bed at [[Fifteen]]'s house thing yea
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Floating Island Objects]]
+[[Category:Moderate Objects]]

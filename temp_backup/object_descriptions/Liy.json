@@ -1,0 +1,10 @@
+{
+  "name": "Liy",
+  "area": "City",
+  "difficulty": "hard",
+  "description": "find a hidden light switch somewhere",
+  "hint": "find a hidden light switch somewhere",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Liy|character=[[Liy.png|Liy]]|difficulty=Hard|area=[[City]]|hint=find a hidden light switch somewhere",
+  "location": "realm:Main Realm/City"
+}

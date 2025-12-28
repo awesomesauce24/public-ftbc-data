@@ -1,0 +1,23 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|YoyleFactory.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#46515D,#2A3944); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Seedling
+|character=[[File:Seedling.webp|thumb]]
+|difficulty=[[File:Unforgiving.png]] <span style="color:#ff143f">'''Unforgiving'''</span>
+|area=[[Yoyle Factory]]
+|hint=There's a seed growing in a box
+|additionalinfo
+|previousdifficulties = [[File:Insane.png]] <span style="color:#ff1c95">'''Insane'''</span>
+}}
+
+==Character==
+A tiny sprout with 2 leaves.
+
+==Obtaining==
+Find a forklift carrying boxes, seedling is inside of the box at the top.
+
+[[Category:Yoyle Factory Objects]]
+[[Category:Unforgiving Objects]]
+[[Category:Objects]]

@@ -1,0 +1,16 @@
+{{for}}
+{{Location|title=Benevolence|image=BenevolenceIcon.png|type=Sub-Realm}}
+
+== How to enter ==
+Start by going to the [[Zombie Apocalypse]] realm
+
+Dance clip through any elevator in the hotel and you should see a white square at the bottom of the hotel.
+
+== Enemies ==
+
+* [[Enemies#Possessed Dummy|Possessed Dummy]]
+
+== Objects ==
+====<span style="color:#B266FF; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #7B47B2 font-size: 24px">'''Horrifying'''</span>====
+* [[File:Horrifying.png|frameless|Horrifying]] [[Sphere of Benevolence]]
+[[Category:Sub-Realms]]

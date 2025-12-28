@@ -1,0 +1,23 @@
+{{CharacterInfo
+|name = Needle
+|character = [[File:Needle.png]]
+|difficulty = Effortless
+|area = [[Main Realm]]
+|hint = I wonder where this one could possibly be...... well, look in the haystack, duh.
+}}
+
+== Obtaining ==
+Inside the haystack at [[Goiky]]. Simply check the hay and Needle will be there.
+
+== Info ==
+Needle is a tall, thin, dark-colored needle-shaped character with a pointed top.  
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:Goiky Objects]]
+[[Category:BFDI Contestants]]
+[[Category:BFDIA Contestants]]
+[[Category:BFB Contestants]]
+[[Category:IDFB Contestants]]
+[[Category:TPOT Contestants]]

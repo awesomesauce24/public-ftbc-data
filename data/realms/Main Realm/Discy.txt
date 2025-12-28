@@ -1,0 +1,12 @@
+{{CharacterInfo|name=Discy|character=[[File:Discy.webp|thumb]]|difficulty=Easy|area=[[Classic Roblox]]|hint=Perhaps it's a disc to a game?}}
+
+==Character==
+It's a CD disk
+
+==Obtaining==
+On the PC inside of happy home of Robloxia in [[Classic Roblox]]
+[[Category:Easy Objects]]
+[[Category:Classic Roblox Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:TPOT Debuter]]

@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Redcurrant|character=[[File:Redcurrant.png]]|difficulty=Hard|area=[[Classic Paradise]]|hint=get onto the trees at spawn}}
+==Character==
+Isn't that a Cherry?
+==Obtaining==
+On top of one of the trees at spawn in [[Classic Paradise]].
+
+[[Category:Objects]]
+[[Category:Hard Objects]]
+[[Category:Classic Paradise Objects]]
+[[Category:BFDI Mini Contestants]]

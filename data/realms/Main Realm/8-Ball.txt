@@ -1,0 +1,9 @@
+{{CharacterInfo|name=8-Ball|character=[[File:8-Ball.png|8-Ball]]|difficulty=Normal|area=None|hint=What is the thing on his head? (say in chat)}}
+==Character==
+8-Ball is a character in Find the BFB Characters which appears in the shape of an 8-ball.
+==Obtaining==
+{{Spoiler|text=Type the number "8" in chat and you will be teleported to a room with 8-ball.}}
+[[Category:Objects]]
+[[Category:Normal Objects]]
+[[Category:BFB Contestants]]
+[[Category:Main Realm Objects]]

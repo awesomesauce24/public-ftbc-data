@@ -1,0 +1,10 @@
+{
+  "name": "Cord",
+  "area": "Level 153",
+  "difficulty": "terrifying",
+  "description": "sticking out of a vending machine",
+  "hint": "sticking out of a vending machine",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Cord\n|character=[[File:Cord.png]]\n|difficulty=[[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''<b>Terrifying</b>'''</span>\n|area=[[Level 153]]\n|hint=sticking out of a vending machine\n|additionalinfo\n",
+  "location": "subrealm:The Backrooms/Level 153"
+}

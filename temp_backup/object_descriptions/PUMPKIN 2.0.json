@@ -1,0 +1,12 @@
+{
+  "name": "PUMPKIN 2.0",
+  "area": "Timber Peaks",
+  "difficulty": "arduous",
+  "description": "Placeholder",
+  "hint": "Placeholder",
+  "previous_difficulties": [
+    "Event"
+  ],
+  "wiki_markup": "name=PUMPKIN 2.0\n|character=[[File:PUMPKIN 2.0.png|PUMPKIN 2.0]]\n|difficulty=[[File:Arduous.png]] <span style=\"color:#5d0cff\">'''Arduous'''</span>\n|area=[[Timber Peaks]]\n|hint=Placeholder\n|additionalinfo\n|previousdifficulties = [[File:Event.png]] <span style=\"color:#DF81C2\">'''Event'''</span>\n",
+  "location": "realm:Timber Peaks"
+}

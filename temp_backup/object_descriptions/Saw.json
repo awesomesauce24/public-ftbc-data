@@ -1,0 +1,10 @@
+{
+  "name": "Saw",
+  "area": "Snowy",
+  "difficulty": "effortless",
+  "description": "What's she doing cutting that tree? (Hidden in Snowy)",
+  "hint": "What's she doing cutting that tree? (Hidden in Snowy)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Saw|character=<gallery>\nSaw in game.webp|Current\nSaw old.png|Old\n</gallery>\n|difficulty=Effortless|area=[[Snowy]]|hint=What's she doing cutting that tree? (Hidden in Snowy)",
+  "location": "realm:Main Realm/Snowy"
+}

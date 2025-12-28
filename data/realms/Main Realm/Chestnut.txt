@@ -1,0 +1,15 @@
+{{CharacterInfo
+|name = Chestnut
+|character = [[Chestnut.png]]
+|difficulty = Normal
+|area = [[Fossil Falls]]
+|hint = (Hidden in Fossil Falls)
+}}
+==Info==
+That is indeed a chestnut, not the one from BFDI Mini Nature weirdly enough.
+==Obtainment==
+At Fossil Falls. go ontop of the waterfall and fall on the platform at the right of [[Barry]], Chestnut will be there slightly transparent
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Fossil Falls Object]]
+[[Category:Normal Objects]]

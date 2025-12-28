@@ -1,0 +1,10 @@
+{
+  "name": "Cake Pop",
+  "area": "Candyland",
+  "difficulty": "extreme",
+  "description": "what a lovely day innit bruv",
+  "hint": "what a lovely day innit bruv",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Cake Pop|character=[[File:Cake Pop.png]]|difficulty=Extreme|area=[[Candyland]]|hint=what a lovely day innit bruv",
+  "location": "realm:Main Realm/Candyland"
+}

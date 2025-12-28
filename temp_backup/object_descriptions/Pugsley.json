@@ -1,0 +1,12 @@
+{
+  "name": "Pugsley",
+  "area": "Yoyle Factory",
+  "difficulty": "insane",
+  "description": "Don't be fooled, they have 72 charges of murder in the 1st degree",
+  "hint": "Don't be fooled, they have 72 charges of murder in the 1st degree",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Pugsley\n|character=[[File:PUGSLEY.webp|thumb]]\n|difficulty=[[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n|area=[[Yoyle Factory]]\n|hint=Don't be fooled, they have 72 charges of murder in the 1st degree\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "realm:Yoyle Factory"
+}

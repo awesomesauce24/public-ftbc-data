@@ -1,0 +1,445 @@
+{
+  "objects": [
+    {
+      "name": "Boombox",
+      "difficulty": "effortless",
+      "area": "Yoyleland",
+      "description": "buy our new leafy detector",
+      "hint": "buy our new leafy detector"
+    },
+    {
+      "name": "Eyes in the Dark",
+      "difficulty": "effortless",
+      "area": "Yoyleland",
+      "description": "ooo spoopy eyes",
+      "hint": "ooo spoopy eyes"
+    },
+    {
+      "name": "Hand-Powered Recovery Center",
+      "difficulty": "effortless",
+      "area": "Yoyleland",
+      "description": "this isn't really an animate object but okay",
+      "hint": "this isn't really an animate object but okay"
+    },
+    {
+      "name": "Ice Cream",
+      "difficulty": "effortless",
+      "area": "Yoyleland",
+      "description": "it's almost time.",
+      "hint": "it's almost time."
+    },
+    {
+      "name": "Ice Cube Jr.",
+      "difficulty": "effortless",
+      "area": "Yoyleland",
+      "description": "making the water cooler",
+      "hint": "making the water cooler"
+    },
+    {
+      "name": "Knife",
+      "difficulty": "effortless",
+      "area": "Yoyleland",
+      "description": "hiding in a bush... i think?",
+      "hint": "hiding in a bush... i think?"
+    },
+    {
+      "name": "Long Pencil",
+      "difficulty": "effortless",
+      "area": "Yoyleland",
+      "description": "why did i add this? because i can",
+      "hint": "why did i add this? because i can"
+    },
+    {
+      "name": "Orange",
+      "difficulty": "effortless",
+      "area": "Yoyleland",
+      "description": "hmm i dont know about you guys but i dont think he appreciates classification gasconading",
+      "hint": "hmm i dont know about you guys but i dont think he appreciates classification gasconading"
+    },
+    {
+      "name": "Grape",
+      "difficulty": "easy",
+      "area": "Yoyleland",
+      "description": "PLACEHOLDER",
+      "hint": "PLACEHOLDER"
+    },
+    {
+      "name": "Lewis",
+      "difficulty": "easy",
+      "area": "Yoyleland",
+      "description": "i ain't giving up.. I AIN'T GIVING UP!!!! there's cake at stake lewis!!!",
+      "hint": "i ain't giving up.. I AIN'T GIVING UP!!!! there's cake at stake lewis!!!"
+    },
+    {
+      "name": "Lollipop Plush",
+      "difficulty": "easy",
+      "area": "Yoyleland",
+      "description": "",
+      "hint": ""
+    },
+    {
+      "name": "Pandora Book",
+      "difficulty": "easy",
+      "area": "Yoyleland",
+      "description": "Hiding behind a building somewhere...",
+      "hint": "Hiding behind a building somewhere..."
+    },
+    {
+      "name": "Swappy",
+      "difficulty": "easy",
+      "area": "Yoyleland",
+      "description": "i have no idea what to put here (pun intended)",
+      "hint": "i have no idea what to put here (pun intended)"
+    },
+    {
+      "name": "Unpainted Gaty",
+      "difficulty": "easy",
+      "area": "Yoyleland",
+      "description": "this is gaty, but unpainted... yeah idk what to say",
+      "hint": "this is gaty, but unpainted... yeah idk what to say"
+    },
+    {
+      "name": "A Tree",
+      "difficulty": "moderate",
+      "area": "Yoyleland",
+      "description": "yeah, just a tree and nothing else",
+      "hint": "yeah, just a tree and nothing else"
+    },
+    {
+      "name": "Carrot Cake",
+      "difficulty": "moderate",
+      "area": "Yoyleland",
+      "description": "CARROT CAKE!!!",
+      "hint": "CARROT CAKE!!!"
+    },
+    {
+      "name": "Choo Choo The Train",
+      "difficulty": "moderate",
+      "area": "Yoyleland",
+      "description": "CHOO CHOO!",
+      "hint": "CHOO CHOO!"
+    },
+    {
+      "name": "Dreartop",
+      "difficulty": "moderate",
+      "area": "Yoyleland",
+      "description": "SHEEESH! HE GOT DAT DRIP THOUGH",
+      "hint": "SHEEESH! HE GOT DAT DRIP THOUGH"
+    },
+    {
+      "name": "Metal Ball",
+      "difficulty": "moderate",
+      "area": "Yoyleland",
+      "description": "PLACEHOLDER",
+      "hint": "PLACEHOLDER"
+    },
+    {
+      "name": "Runner Up",
+      "difficulty": "moderate",
+      "area": "Yoyleland",
+      "description": "on the \"second\" light of the tower",
+      "hint": "on the \"second\" light of the tower"
+    },
+    {
+      "name": "Aloe Vera",
+      "difficulty": "normal",
+      "area": "Yoyleland",
+      "description": "how can it grow here? just like pin said too little sun",
+      "hint": "how can it grow here? just like pin said too little sun"
+    },
+    {
+      "name": "Blue Gelatin",
+      "difficulty": "normal",
+      "area": "Yoyleland",
+      "description": "how creative...",
+      "hint": "how creative..."
+    },
+    {
+      "name": "Brownie",
+      "difficulty": "normal",
+      "area": "Yoyleland",
+      "description": "PLACEHOLDER",
+      "hint": "PLACEHOLDER"
+    },
+    {
+      "name": "Stop Light",
+      "difficulty": "normal",
+      "area": "Yoyleland",
+      "description": "PLACEHOLDER",
+      "hint": "PLACEHOLDER"
+    },
+    {
+      "name": "Fish Cracker",
+      "difficulty": "intermediate",
+      "area": "Yoyleland",
+      "description": "who's ready to go swimming?",
+      "hint": "who's ready to go swimming?"
+    },
+    {
+      "name": "Lasery",
+      "difficulty": "intermediate",
+      "area": "Yoyleland",
+      "description": "oh maybe they should'nt have done that",
+      "hint": "oh maybe they should'nt have done that"
+    },
+    {
+      "name": "Paragraph",
+      "difficulty": "intermediate",
+      "area": "Yoyleland",
+      "description": "PLACEHOLDER",
+      "hint": "PLACEHOLDER"
+    },
+    {
+      "name": "Sketchpad",
+      "difficulty": "intermediate",
+      "area": "Yoyleland",
+      "description": "hanging off a platform as if he's some kind of god",
+      "hint": "hanging off a platform as if he's some kind of god"
+    },
+    {
+      "name": "Yoylelite",
+      "difficulty": "intermediate",
+      "area": "Yoyleland",
+      "description": "for one of the rarest minerals in the entire universe, they don't seem like that",
+      "hint": "for one of the rarest minerals in the entire universe, they don't seem like that"
+    },
+    {
+      "name": "Beehive",
+      "difficulty": "hard",
+      "area": "Yoyleland",
+      "description": "Look inside a tree",
+      "hint": "Look inside a tree"
+    },
+    {
+      "name": "Dragon Scale",
+      "difficulty": "hard",
+      "area": "Yoyleland",
+      "description": "Hidden in one of the hundreds of yoylebushes",
+      "hint": "Hidden in one of the hundreds of yoylebushes"
+    },
+    {
+      "name": "Pi",
+      "difficulty": "hard",
+      "area": "Yoyleland",
+      "description": "well, what does pi equal?",
+      "hint": "well, what does pi equal?"
+    },
+    {
+      "name": "Pill",
+      "difficulty": "hard",
+      "area": "Yoyleland",
+      "description": "Robot firey obby",
+      "hint": "Robot firey obby"
+    },
+    {
+      "name": "Shower",
+      "difficulty": "hard",
+      "area": "Yoyleland",
+      "description": "[BLANK]",
+      "hint": "[BLANK]"
+    },
+    {
+      "name": "Stabby",
+      "difficulty": "hard",
+      "area": "Yoyleland",
+      "description": "stuck on the tower..",
+      "hint": "stuck on the tower.."
+    },
+    {
+      "name": "Yoyle Soda",
+      "difficulty": "hard",
+      "area": "Yoyleland",
+      "description": "Yoyle (hidden on the windows)",
+      "hint": "Yoyle (hidden on the windows)"
+    },
+    {
+      "name": "Bicycle Wheel",
+      "difficulty": "difficult",
+      "area": "Yoyleland",
+      "description": "It's near lasery, that's all I'll tell ya.",
+      "hint": "It's near lasery, that's all I'll tell ya."
+    },
+    {
+      "name": "Daffodil",
+      "difficulty": "difficult",
+      "area": "Yoyleland",
+      "description": "look for grass",
+      "hint": "look for grass"
+    },
+    {
+      "name": "Kennel",
+      "difficulty": "difficult",
+      "area": "Yoyleland",
+      "description": "find a way into one of the yoyle city buildings...",
+      "hint": "find a way into one of the yoyle city buildings..."
+    },
+    {
+      "name": "Piano Key",
+      "difficulty": "difficult",
+      "area": "Yoyleland",
+      "description": "[BLANK]",
+      "hint": "[BLANK]"
+    },
+    {
+      "name": "Evil Price Tag",
+      "difficulty": "extreme",
+      "area": "Yoyleland",
+      "description": "get on top of a roof",
+      "hint": "get on top of a roof"
+    },
+    {
+      "name": "Ink Ball",
+      "difficulty": "extreme",
+      "area": "Yoyleland",
+      "description": "at an area of the map where probably no one will check",
+      "hint": "at an area of the map where probably no one will check"
+    },
+    {
+      "name": "Poison Marker",
+      "difficulty": "extreme",
+      "area": "Yoyleland",
+      "description": "",
+      "hint": ""
+    },
+    {
+      "name": "Robot Firey",
+      "difficulty": "extreme",
+      "area": "Yoyleland",
+      "description": "Placeholder.",
+      "hint": "Placeholder."
+    },
+    {
+      "name": "Swordy",
+      "difficulty": "extreme",
+      "area": "Yoyleland",
+      "description": "Same deal as stabby",
+      "hint": "Same deal as stabby"
+    },
+    {
+      "name": "Bolf Gall",
+      "difficulty": "unforgiving",
+      "area": "Yoyleland",
+      "description": "this one's for vextono",
+      "hint": "this one's for vextono"
+    },
+    {
+      "name": "Match Box",
+      "difficulty": "unforgiving",
+      "area": "Yoyleland",
+      "description": "it's exactly where you think it is.",
+      "hint": "it's exactly where you think it is."
+    },
+    {
+      "name": "Paint Drop",
+      "difficulty": "unforgiving",
+      "area": "Yoyleland",
+      "description": "somewhere of its color...",
+      "hint": "somewhere of its color..."
+    },
+    {
+      "name": "Robot Leafy",
+      "difficulty": "unforgiving",
+      "area": "Yoyleland",
+      "description": "look underneath robot firey",
+      "hint": "look underneath robot firey"
+    },
+    {
+      "name": "Squeaky Hammer",
+      "difficulty": "unforgiving",
+      "area": "Yoyleland",
+      "description": "PLACEHOLDER",
+      "hint": "PLACEHOLDER"
+    },
+    {
+      "name": "Wasabi",
+      "difficulty": "unforgiving",
+      "area": "Yoyleland",
+      "description": "find an invisible path near lasery",
+      "hint": "find an invisible path near lasery"
+    },
+    {
+      "name": "Frog Four",
+      "difficulty": "insane",
+      "area": "Yoyleland",
+      "description": "get it? because you have to \"frog\" jump onto a building for it? nobody clapping?",
+      "hint": "get it? because you have to \"frog\" jump onto a building for it? nobody clapping?"
+    },
+    {
+      "name": "Sky",
+      "difficulty": "insane",
+      "area": "Yoyleland",
+      "description": "THE SKY IS LITERALLY FALLING",
+      "hint": "THE SKY IS LITERALLY FALLING"
+    },
+    {
+      "name": "IV Bag",
+      "difficulty": "dreadful",
+      "area": "Yoyleland",
+      "description": "factory",
+      "hint": "factory"
+    },
+    {
+      "name": "Lipstick",
+      "difficulty": "dreadful",
+      "area": "Yoyleland",
+      "description": "find a way upstairs in the stupid pets building. that's the real name lol",
+      "hint": "find a way upstairs in the stupid pets building. that's the real name lol"
+    },
+    {
+      "name": "Mangosteen",
+      "difficulty": "dreadful",
+      "area": "Yoyleland",
+      "description": "hidden in a blade of grass, oh no not again...",
+      "hint": "hidden in a blade of grass, oh no not again..."
+    },
+    {
+      "name": "Vacuum",
+      "difficulty": "dreadful",
+      "area": "Yoyleland",
+      "description": "cleaning on the side of a tower yeah thats completely natural",
+      "hint": "cleaning on the side of a tower yeah thats completely natural"
+    },
+    {
+      "name": "A BFDI",
+      "difficulty": "arduous",
+      "area": "Yoyleland",
+      "description": "[Hidden in the  Realm]",
+      "hint": "[Hidden in the  Realm]"
+    },
+    {
+      "name": "Spongezilla",
+      "difficulty": "arduous",
+      "area": "Yoyleland",
+      "description": "<span style=\"color:#ffeaff; text-shadow: 0 0 10px rgba(0,0,0,0.25);\">there has to be a way up that tower...</span>",
+      "hint": "<span style=\"color:#ffeaff; text-shadow: 0 0 10px rgba(0,0,0,0.25);\">there has to be a way up that tower...</span>"
+    },
+    {
+      "name": "Fax Machine",
+      "difficulty": "strenuous",
+      "area": "Yoyleland",
+      "description": "start in a bfdi's area",
+      "hint": "start in a bfdi's area"
+    },
+    {
+      "name": "A BFDIA",
+      "difficulty": "remorseless",
+      "area": "Yoyleland",
+      "description": "real",
+      "hint": "real"
+    },
+    {
+      "name": "Baguette from BOTO",
+      "difficulty": "<span style=\"color:#ffd3ac; -webkit-text-stroke-width:1px; -webkit-text-stroke-color:#ffffff; font-size:32px; text-shadow:0 0 10px #ffffff\">ꌗꍟꉓꋪꍟ꓄</span>",
+      "area": "Yoyleland",
+      "description": "",
+      "hint": ""
+    },
+    {
+      "name": "Yoyleland Medallion",
+      "difficulty": "medallions",
+      "area": "Yoyleland",
+      "description": "TBA",
+      "hint": "TBA"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ice Bracelety",
+  "area": "Barren Desert",
+  "difficulty": "insane",
+  "description": "ice in desert? how does that make any sense",
+  "hint": "ice in desert? how does that make any sense",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Ice Bracelety|character=[[Ice Bracelety.png|Ice Bracelety]]|difficulty=Insane|area=[[Barren Desert]]|hint=ice in desert? how does that make any sense",
+  "location": "realm:Barren Desert"
+}

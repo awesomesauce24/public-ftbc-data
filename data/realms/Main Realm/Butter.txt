@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Butter|character=[[File:Butter.png|thumb]]|difficulty=Normal|area=[[City]]|hint=This is Butter. From this game.}}
+== Character ==
+The most forgettable object added by Jade ngl.
+== Obtaining ==
+{{Spoiler|text=In the FTBC museum, on the ceiling of the second floor.}}
+[[Category:Normal Objects]]
+[[Category:City Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Objects]]

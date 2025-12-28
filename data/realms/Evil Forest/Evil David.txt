@@ -1,0 +1,13 @@
+{{CharacterInfo|name=Evil David|character=[[File:Evil David.png|thumb]]|difficulty=Terrifying|area=[[Evil Forest]]|hint=Aw Seriously}}
+
+== Character ==
+Aw Seriously
+
+== Obtaining ==
+He is found by the corner where the giant light can be obtained. He is standing under a tree.
+
+== Other ==
+The teleport for [[Evle Froets]] can be found nearby.
+[[Category:Terrifying Objects]]
+[[Category:Objects]]
+[[Category:Evil Forest Objects]]

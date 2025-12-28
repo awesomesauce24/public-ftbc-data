@@ -1,0 +1,10 @@
+{
+  "name": "Coffee Mug",
+  "area": "Yoyle Factory",
+  "difficulty": "unforgiving",
+  "description": "Tea is better",
+  "hint": "Tea is better",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Coffee Mug|character=[[File:Coffee Mug.webp|thumb]]|difficulty=Unforgiving|area=[[Yoyle Factory]]|hint=Tea is better",
+  "location": "realm:Yoyle Factory"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Aloe Vera",
+  "area": "Yoyleland",
+  "difficulty": "normal",
+  "description": "how can it grow here? just like pin said too little sun",
+  "hint": "how can it grow here? just like pin said too little sun",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Aloe Vera|character=[[[File:Aloe Vera.png|thumb]]|difficulty=Normal|area=[[Yoyleland]]|hint=how can it grow here? just like pin said too little sun",
+  "location": "realm:Yoyleland"
+}

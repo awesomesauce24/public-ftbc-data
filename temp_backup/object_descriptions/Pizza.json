@@ -1,0 +1,10 @@
+{
+  "name": "Pizza",
+  "area": "Magma Canyon",
+  "difficulty": "hard",
+  "description": "after AGES... after objects like pizza jr and cookie pizza... after millions of pizza rcs... WE  GET PIZZA IN GAME AS OBJECT!!!!",
+  "hint": "after AGES... after objects like pizza jr and cookie pizza... after millions of pizza rcs... WE  GET PIZZA IN GAME AS OBJECT!!!!",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Pizza\n|character=[[File:Pizza.webp]]\n|difficulty=[[File:Hard.png]] <span style=\"color:#FF7700\">'''<b>Hard</b>'''</span>\n|area=[[Magma Canyon]]\n|hint=after AGES... after objects like pizza jr and cookie pizza... after millions of pizza rcs... WE  GET PIZZA IN GAME AS OBJECT!!!!\n|additionalinfo\n",
+  "location": "realm:Magma Canyon"
+}

@@ -1,0 +1,20 @@
+{{CharacterInfo
+|name = THE GET AWAY FROM ME BUTTON
+|character = [[File:THE GET AWAY FROM ME BUTTON.png]]
+|difficulty = Insane
+|area = [[Goiky]]
+|hint = looks like two dropped his button somewhere
+}}
+
+== Obtaining ==
+Follow the same route used to obtain [[Two]] and [[X]].  
+After reaching the platform where [[X]] is located, walk to the far corner of the platform.  
+The GET AWAY FROM ME BUTTON is sitting there.
+
+== Character ==
+a remote with a yellow-orange tint button on it.
+
+[[Category:Goiky Objects]]
+[[Category:Insane Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]

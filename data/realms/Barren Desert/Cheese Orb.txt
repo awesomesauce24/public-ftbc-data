@@ -1,0 +1,6 @@
+== Character ==
+An orb of cheese.
+{{Character|name=Cheese Orb|image=CheeseOrb.png}}
+
+== Location ==
+Go to the [[Barren Desert]]. Hes on top of one of the rusty temples.

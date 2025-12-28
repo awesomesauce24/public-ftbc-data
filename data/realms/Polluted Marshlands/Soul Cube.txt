@@ -1,0 +1,23 @@
+{{CharacterInfo
+ |name = Soul Cube
+ |character = [[File:Soul Cube.webp]]
+ |difficulty = Hard
+ |area = [[Polluted Marshlands]]
+ |hint = ?ecnailla ruoy fo traP eb I naC ,syuG yeH
+}}
+
+== Character ==
+The object is a version of [[Ice Cube]] with inverted colors.
+
+== Obtaining ==
+On the starting island of [[Polluted Marshlands]], there will be a platform that sometimes appears on the shore. Get on this platform and ride towards the island left of spawn. Soul Cube will be on this island.
+
+== Trivia ==
+
+* Soul Cube was actually requested to be added to the game by alexlion0511 himself, recommender of [[Marker]] and creator of [https://www.roblox.com/games/7896264844/Find-the-Markers Find the Markers].
+** Yes, he did in fact like the game.
+
+[[Category:Hard Objects]]
+[[Category:Polluted Marshlands Objects]]
+[[Category:Objects]]
+[[Category:BFDI Limbs]]

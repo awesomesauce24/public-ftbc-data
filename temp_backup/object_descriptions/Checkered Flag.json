@@ -1,0 +1,10 @@
+{
+  "name": "Checkered Flag",
+  "area": "Inverted",
+  "difficulty": "terrifying",
+  "description": "find an invisible platform.",
+  "hint": "find an invisible platform.",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Checkered Flag\n|character = [[File:Checkered Flag.png]]\n|difficulty = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n|area = [[Inverted]]\n|hint = find an invisible platform.\n",
+  "location": "realm:Inverted"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Birdie",
+  "area": "Classic Paradise",
+  "difficulty": "dreadful",
+  "description": "",
+  "hint": "",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Birdie\n |character = [[File:Birdie.png]]\n |difficulty = Dreadful\n |area = [[Classic Paradise]]\n",
+  "location": "realm:Classic Paradise"
+}

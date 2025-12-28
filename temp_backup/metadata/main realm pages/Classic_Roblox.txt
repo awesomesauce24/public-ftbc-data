@@ -1,0 +1,107 @@
+{{Cleanup}}
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Classic Roblox.png|2700px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.70); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+{{Location|title=Classic Roblox|image=[[File:Classic Roblox.png]]}}
+
+== Info ==
+[[Classic Roblox]] is an area themed on "Old Roblox", similar to [[Classic Paradise]]. This area borders [[Tropical Islands]] and [[Hotel]]. This area is where you get to a few realms, such as [[Classic Paradise]] and [[BF1D]]. In this biome, there is many retro structures such as the Happy Home and the Crossroads Tower. There is also a bridge connecting the two pieces of land and a beach. Off the coast, there is many pirate ships in the water.
+
+== Objects ==
+
+------------------------------------------------------------
+
+====<span style="color:#17a897">'''Effortless'''</span>====
+*[[File:Effortless.png|frameless|Effortless]] [[Diploma]]
+*[[File:Effortless.png|frameless|Effortless]] [[Tent]]
+
+------------------------------------------------------------
+
+====<span style="color:#10da8d">'''Easy'''</span>====
+*[[File:Easy.png]] [[8 Inch Floppy Disk]]
+*[[File:Easy.png]] [[Arron]]
+*[[File:Easy.png]] [[Discy]]
+*[[File:Easy.png]] [[Fish]]
+*[[File:Easy.png]] [[Magician Hat]]
+*[[File:Easy.png]] [[Swing]]
+*[[File:Easy.png]] [[Teardrop]]
+
+------------------------------------------------------------
+
+==== <span style="color:#07FC55">'''Moderate'''</span> ====
+*[[File:Moderate.png|frameless|Moderate]] [[Bermuda]]
+*[[File:Moderate.png|frameless|Moderate]] [[Canadian Flag]]
+*[[File:Moderate.png|frameless|Moderate]] [[Chicken Nugget]]
+*[[File:Moderate.png|frameless|Moderate]] [[Computer Mouse]]
+*[[File:Moderate.png|frameless|Moderate]] [[Isabella]]
+*[[File:Moderate.png|frameless|Moderate]] [[Keytar]]
+*[[File:Moderate.png|frameless|Moderate]] [[Leafy Plush]]
+*[[File:Moderate.png|frameless|Moderate]] [[Mr. Fish]]
+*[[File:Moderate.png|frameless|Moderate]] [[Rutabaga]]
+*[[File:Moderate.png|frameless|Moderate]] [[Zipper]]
+
+------------------------------------------------------------
+
+====<span style="color:#a1ff27">'''Normal'''</span>====
+*[[File:Normal.png]] [[BFDI Marker]]
+*[[File:Normal.png]] [[Bitty]]
+*[[File:Normal.png]] [[Cookie Pizza]]
+*[[File:Normal.png]] [[S'mores MIlkshake]]
+*[[File:Normal.png]] [[Triangle]]
+
+------------------------------------------------------------
+
+====<span style="color:#ffb700">'''Intermediate'''</span>====
+*[[File:Intermediate FTBC.png|frameless|Intermediate]] [[Bird]]
+*[[File:Intermediate FTBC.png|frameless|Intermediate]] [[Mail]]
+*[[File:Intermediate FTBC.png|frameless|Intermediate]] [[Meteor]]
+*[[File:Intermediate FTBC.png|frameless|Intermediate]] [[Pea]]
+
+------------------------------------------------------------
+
+====<span style="color:#ff7e21">'''Hard'''</span>====
+*[[File:Hard.png]] [[Cary]]
+*[[File:Hard.png]] [[Fronk]]
+*[[File:Hard.png]] [[Spark Plug]]
+*[[File:Hard.png]] [[Two Halves]]
+
+------------------------------------------------------------
+
+====<span style="color:#f54f25">'''Difficult'''</span>====
+*[[File:Difficult.png|frameless|Difficult]] [[De Stijl]]
+
+------------------------------------------------------------
+
+====<span style="color:#ed2727">'''Extreme'''</span>====
+*[[File:Extreme.png]] [[EpicHatesAbba]]
+
+------------------------------------------------------------
+
+=== Multiple Biomes Objects (Which Classic Roblox is part to...)===
+
+====<span style="color:#ff7e21">'''Hard'''</span>====
+*[[File:Hard.png]] [[Gifty]]
+
+====<span style="color:#ed2727">'''Extreme'''</span>====
+*[[File:Extreme.png]] [[Dog Collar]]
+*[[File:Extreme.png]] [[Orange Cat]]
+
+====<span style="color:#ff1c95">'''Insane'''</span>====
+*[[File:Insane.png]] [[Ordinary Banana...]]
+
+== Realms ==
+Realms located in Classic Roblox yeah you got the deal.
+* [[Classic Paradise]]
+* [[peep.]]
+
+== Trivia ==
+
+* Classic Roblox originally didnt had the beach, it was added alongside the Inverted Realm expansion.
+** The Beach was also inspired by the Soul Shore Realm in Find the Idoits, using structures taken from it.
+*** Which is also inspired by Soul Shore Act 1 from Sonic Hysteria.
+**** And that Act has the same song which plays in the radio of [[Swiss Roll]]'s Island.
+
+[[Category:Areas]]

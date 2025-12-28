@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Match Box|character=[[File:Match Box.png|thumb]]|difficulty=Unforgiving|area=[[Yoyleland]]|hint=it's exactly where you think it is.}}
+
+== Character ==
+A match box with a very big smile.
+
+== Obtaining ==
+{{Spoiler|text= In Yoyleland, Go to where Squeaky Hammer is then drop down on a ledge near the purple building next to the factory. Match Box will be there.}}
+[[Category:Unforgiving Objects]]
+[[Category:Yoyleland Objects]]
+[[Category:Objects]]

@@ -1,0 +1,24 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo|name=Income Tax Return Document
+|character=<gallery>
+Income Tax Return Document.png
+</gallery>
+|difficulty=[[File:Extreme.png|link=]] <span style="color:#ed2727">'''<b>Extreme</b>'''</span>
+|area=[[City]]
+|hint=just thinking about their life decisions... (Start in City)
+}}
+==Info==
+Income Tax Return Document appears as a white tax form.
+
+==Obtaining==
+Go to Fries' Restaurant and press the emergency button behind the counter. Move to the right side and jump onto the sideways metal pole. Carefully walk across it to the other end, then go through the non-collidable wall to reach the document.
+
+[[Category:Extreme Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+
+</div>
+</div>

@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Robot Leafy|character=[[File:Robot Leafy.webp|thumb]]|difficulty=Unforgiving|area=[[Yoyleland]]|hint=look underneath robot firey}}
+== Character ==
+A robot-fied version of our beloved [[Leafy|Leafy Battle For Dream Island]].
+== Obtaining ==
+{{Spoiler|text= Behind [[Robot Firey]]. Inside a miscolored wall..}}
+== Trivia ==
+*A piece of code for [[A BFDIA]] used to be right above Robot Leafy. it has been removed since the revamp. (this is the most interesting thing that Robot Leafy has ok?)
+[[Category:Unforgiving Objects]]
+[[Category:Yoyleland Objects]]
+[[Category:Objects]]

@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Ground|character=[[File:Ground.png]]|difficulty=Strenuous|area=[[Yoyle Factory]]|hint=this is the face of someone who has seen it all|creator=[https://www.roblox.com/users/4240237922/profile This_manisnothim]}}
+
+== Character ==
+its just a face broe
+
+== Obtainment ==
+in the yoylefactory realm, dance clip outside and find a bunch of random stuff near [[Missing Texture Block]], walk through the storage container to get ground
+[[Category:Objects]]
+[[Category:Yoyle Factory Objects]]
+[[Category:Strenuous Objects]]

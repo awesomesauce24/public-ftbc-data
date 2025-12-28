@@ -1,0 +1,18 @@
+{{CharacterInfo
+|name=Titanium Knife
+|character=[[File:Titanium Knife.png]]
+|difficulty=Hard
+|area=[[Warehouse]]
+|hint=start by finding a button in desert.
+}}
+
+== Character ==
+Titanium Knife appears as a reflective iridescent knife with a gray handle.
+
+== Obtaining ==
+In the Desert, go to the upper left corner and look for a bush. A button is hidden on the ground beneath it. Press the button, then return to the Warehouse. Climb the ladder that appeared on the left side.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Hard Objects]]
+[[Category:Warehouse Objects]]

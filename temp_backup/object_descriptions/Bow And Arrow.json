@@ -1,0 +1,10 @@
+{
+  "name": "Bow And Arrow",
+  "area": "Barren Desert",
+  "difficulty": "easy",
+  "description": "next to some other bows",
+  "hint": "next to some other bows",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Bow And Arrow\n|character=<gallery>\nBow And Arrow.png\n</gallery>\n|difficulty=[[File:Easy.png|link=]] <span style=\"color:#10da8d\">'''<b>Easy</b>'''</span>\n|area=[[Barren Desert]]\n|hint=next to some other bows\n",
+  "location": "realm:Barren Desert"
+}

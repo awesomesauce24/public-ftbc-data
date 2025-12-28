@@ -1,0 +1,7 @@
+{{CharacterInfo|name=Beanie|character=Beanie.png|difficulty=Moderate|area=Jungle|hint=look inside of a bush|previousdifficulties=Medium}}
+
+== Info ==
+A Green and Grey Beanie
+
+== Obtaining ==
+Inside of a Bush near the edge of Jungle

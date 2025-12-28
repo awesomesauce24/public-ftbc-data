@@ -1,0 +1,12 @@
+{
+  "name": "Civil Siren",
+  "area": "Level 153",
+  "difficulty": "dreadful",
+  "description": "WEE WOO WEE WOO!!!",
+  "hint": "WEE WOO WEE WOO!!!",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Civil Siren\n|character=[[File:Civil Siren.png]]\n|difficulty=[[File:Dreadful.png]] <span style=\"color:#db25ff\">'''<b>Dreadful</b>'''</span>\n|area=[[Level 153]]\n|hint=WEE WOO WEE WOO!!!\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "subrealm:The Backrooms/Level 153"
+}

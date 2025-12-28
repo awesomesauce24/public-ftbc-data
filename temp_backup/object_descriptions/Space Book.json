@@ -1,0 +1,10 @@
+{
+  "name": "Space Book",
+  "area": "Hotel",
+  "difficulty": "normal",
+  "description": "haha i have no idea what to put here",
+  "hint": "haha i have no idea what to put here",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Space Book|character=Space_Book.webp|difficulty=Moderate|area=[[Hotel]]|hint=haha i have no idea what to put here",
+  "location": "realm:Main Realm/Hotel"
+}

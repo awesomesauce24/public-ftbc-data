@@ -1,0 +1,53 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Midnight-rooftops.png|2000px]]
+</div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#050522, #140f4a); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Singapore Map
+|character=[[File:Singapore Map.png]]
+|difficulty=[[File:Strenuous.png|link=]] <span style="color:#4048e5">'''<b>Strenuous</b>'''</span>
+|area=[[Midnight Rooftops]]
+|hint=oh boy would you look at that it's another button hunt!!! how fun and exciting!!!!!
+}}
+
+== Info ==
+*Singapore Map is... a map of [https://www.britannica.com/place/Singapore Singapore]. Are we serious?
+
+== Obtaining ==
+'''''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+{| class="article-table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;"
+!'''How to Find [SPOILERS]'''||
+|-
+|To obtain Singapore Map, find 8 buttons:
+
+'''1:''' After passing the 2nd orange bridge, go to the first floor of the left side of the building you are standing on. The button is in the corner.<br> 
+
+'''2:''' Directly beneath the '''Realm Egg''' for [[peep]].<br>   
+
+'''3:''' Near button 1. Walk down the metallic grey stairs on the side of the building. The button is on the bottom step near the void (angle your jump).<br> 
+
+'''4:''' Next to [[Burger Blanket]]: on the right corner of the same building, on the wall (assuming you are looking from Spawn)<br>   
+
+'''5:''' On the crane railings, near the entrance to [[Bandy]].<br>   
+
+'''6:''' On the crates behind spawn, on top of the building.<br>   
+
+'''7:''' After the 1st orange bridge, turn right. On the “Hotel” building — on the bottom third floor, left window, bottom-left corner.<br>   
+
+'''8:''' Walk the long path to the end where the burning barrel and door are (near [[Spray Can]] and [[Thready]]). The button is on the door.<br> 
+
+After crossing the new path at spawn (behind spawn, near the crates of button 6), you will reach the building where Singapore Map is located.<br>   
+He is found on the upper-right side of the building, on the bottom floor.
+|}
+</div>
+</div>
+
+[[Category:Strenuous Objects]]
+[[Category:Objects]]
+[[Category:Midnight Rooftops Objects]]
+</div>
+</div>

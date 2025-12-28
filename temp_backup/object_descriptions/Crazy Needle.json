@@ -1,0 +1,10 @@
+{
+  "name": "Crazy Needle",
+  "area": "Goiky",
+  "difficulty": "moderate",
+  "description": "At the end of the rainbow.",
+  "hint": "At the end of the rainbow.",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Crazy Needle|character=[[File:Crazy Needle.webp|thumb]]|difficulty=Normal|area=[[Goiky]]|hint=At the end of the rainbow.",
+  "location": "realm:Main Realm/Goiky"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Burrito",
+  "area": "Tropical Islands",
+  "difficulty": "effortless",
+  "description": "i've always had a soft spot for burritos",
+  "hint": "i've always had a soft spot for burritos",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Burrito\n|character=Burrito.png\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Tropical Islands]]\n|hint=i've always had a soft spot for burritos\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Tropical Islands"
+}

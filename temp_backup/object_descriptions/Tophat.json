@@ -1,0 +1,10 @@
+{
+  "name": "Tophat",
+  "area": "Factory",
+  "difficulty": "easy",
+  "description": "very fancy",
+  "hint": "very fancy",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Tophat\n|character=Tophat.png\n|difficulty=[[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n|area=[[Factory]]\n|hint=very fancy",
+  "location": "realm:Main Realm/Factory"
+}

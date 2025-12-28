@@ -1,0 +1,30 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:Classic paraside.png|2000px]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#ff69b4, #c53cb1ff); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+
+{{CharacterInfo
+|name=Bird From Egypt
+|character=[[File:Bird From Egypt.png]]
+|difficulty=[[File:Remorseless.png]] <span style="color:#2084ff">'''<b>Remorseless</b>'''</span>
+|area=[[Classic Paradise]]
+|hint=It's time to feel pain. Find the hieroglyphs.
+}}
+
+== Info ==
+[https://www.youtube.com/watch?v=OOBXmJRPO_s bird]
+
+== Obtaining ==
+{| class="article-table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;"
+!'''How to Find [SPOILERS]'''||
+|-
+|Enter the Cave via clicking on [[Buzzer]]'s head, then walk through the maze until you spot an egyptian painting?. That painting is actually in front of [[Cake's Dad]] room, so if you get there and dance clip outside you can get there very quickly. Touch the painting and you'll be teleported to an obby with rising lava.
+|}
+
+[[Category:Objects]]
+[[Category:Remorseless Objects]]
+[[Category:Classic Paradise Objects]]
+[[Category:Classic Paradise Objects]]
+
+</div>
+</div>

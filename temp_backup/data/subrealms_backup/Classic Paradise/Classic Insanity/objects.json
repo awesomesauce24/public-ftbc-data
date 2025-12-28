@@ -1,0 +1,14 @@
+{
+  "objects": [
+    {
+      "name": "Veterany",
+      "difficulty": "terrifying",
+      "description": ""
+    },
+    {
+      "name": "Administratory",
+      "difficulty": "remorseless",
+      "description": ""
+    }
+  ]
+}

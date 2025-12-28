@@ -1,0 +1,10 @@
+{
+  "name": "USB Drive",
+  "area": "Midnight Rooftops",
+  "difficulty": "remorseless",
+  "description": "the highest point of the map. it won't be easy getting up there!",
+  "hint": "the highest point of the map. it won't be easy getting up there!",
+  "previous_difficulties": [],
+  "wiki_markup": "name=USB Drive\n|character=[[USB_Drive.png|USB Drive]]\n|difficulty= [[File:Remorseless.png]] <span style=\"color:#2084ff\">'''Remorseless'''</span>\n|area=[[Midnight Rooftops]]\n|hint=the highest point of the map. it won't be easy getting up there!",
+  "location": "realm:Midnight Rooftops"
+}

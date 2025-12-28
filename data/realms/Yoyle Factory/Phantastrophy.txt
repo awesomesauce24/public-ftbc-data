@@ -1,0 +1,23 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|YoyleFactory.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#46515D,#2A3944); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Phantastrophy
+|character=[[File:Phantastrophy.png|thumb]]
+|difficulty=[[File:Extreme.png]] <span style="color:#ed2727">'''Extreme'''</span>
+|area=[[Yoyle Factory]]
+|hint=the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming
+|additionalinfo
+|previousdifficulties = [[File:Insane.png]] <span style="color:#ff1c95">'''Insane'''</span>
+}}
+
+==Character==
+A black version of  [[Snowball]] with navy colored lines.
+
+==Obtaining==
+There's a room with containers next to the meltdown area entrance, phantastrophy is at the end of the conveyor to the right.
+
+[[Category:Extreme Objects]]
+[[Category:Objects]]
+[[Category:Yoyle Factory Objects]]

@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Calamari Ring|character=[[File:Calamari Ring.png]]|difficulty=Dreadful|area=[[Classic Paradise]]|hint=something is up with the lancer cave room...}}
+==Character==
+A calamari ring with similar characteristics to [[Donut]].
+==Obtaining==
+Find a fallen torch in [[Lancer]]'s Cave room, then walk towards the wall.
+
+[[Category:Objects]]
+[[Category:Dreadful Objects]]
+[[Category:Classic Paradise Objects]]

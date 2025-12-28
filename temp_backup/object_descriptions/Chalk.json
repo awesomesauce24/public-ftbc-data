@@ -1,0 +1,12 @@
+{
+  "name": "Chalk",
+  "area": "City",
+  "difficulty": "effortless",
+  "description": "hmmmmm",
+  "hint": "hmmmmm",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Chalk|\ncharacter=Chalk.webp\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[City]]\n|hint=hmmmmm\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/City"
+}

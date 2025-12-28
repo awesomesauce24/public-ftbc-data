@@ -1,0 +1,11 @@
+{{CharacterInfo|name=Tornado|character=<gallery>
+TornadoNew.png|Current
+Tornado.png|Old
+</gallery>
+|difficulty=Dreadful|area=[[Storm Of Doom]]|hint=find a ladder that leads outside}}
+==Character==
+Tornado is a violently rotating column of air.
+==Obtaining==
+Go to [[Cake]]'s room then climb the ladder, you'll be teleported to [[Storm Of Doom]]. Now you just need to complete the obby.
+[[Category:Objects]]
+[[Category:Dreadful Objects]]

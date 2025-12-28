@@ -1,0 +1,26 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:Main Realm Sky.webp|2000px]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#78ff78, #00ff00); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+
+{{CharacterInfo
+|name=Birthday Cake
+|character=[[File:Birthday Cake.png]]
+|difficulty=[[File:Effortless.png]] <span style="color:#17a897">'''<b>Effortless</b>'''</span>
+|area=[[Main Realm]]
+|hint=happy birthday! (it isn't your birthday) [Hidden in Candyland]
+}}
+
+== Info ==
+A birthday cake with a candle and frosting with sprinkles on top.
+
+== Obtaining ==
+Teleport to [[Candyland]]. Cross the chocolate river. In a big puddle of.. ice... frosting.. blue stuff???? I have no idea. He's clearly out in the open, though.
+
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Main Realm Objects]]
+
+</div>
+</div>

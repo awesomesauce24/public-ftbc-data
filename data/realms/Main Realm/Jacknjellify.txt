@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Jacknjellify|character=[[File:Jacknjellify.png]]|difficulty=Moderate|area=[[Floating Island]]|hint=WHAT (Hidden in Floating Island)}}
+==Info==
+Lots of mud! ok thats like the worst BFDIA episode i hate you jnj.
+==Obtainment==
+At the left side of the island, behind one of the trees at the middle.
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Floating Island Objects]]
+[[Category:Moderate Objects]]

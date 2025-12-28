@@ -1,0 +1,10 @@
+{
+  "name": "Glowstick",
+  "area": "Yoyle Factory",
+  "difficulty": "insane",
+  "description": "Find a strange light source",
+  "hint": "Find a strange light source",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Glowstick|character=[[File:Glowstick.webp|thumb]]|difficulty=Insane|area=[[Yoyle Factory]]|hint=Find a strange light source",
+  "location": "realm:Yoyle Factory"
+}

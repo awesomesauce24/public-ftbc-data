@@ -1,0 +1,14 @@
+{{CharacterInfo|name=Electric Guitar|character=[[File:Electric Guitar.png]]
+|difficulty=Moderate
+|area=[[Floating Island]]
+|hint=ah yes the void (Hidden in Floating Island)
+|additionalinfo
+|previousdifficulties=[[File:Extreme.png]] <span style="color:#ED2727">'''Extreme'''</span>}}
+==Info==
+Electric Guitat BFDI mini again; Also random fun fact, Electric Guitar used to be Extreme, which is... interesting.
+==Obtainment==
+After getting [[Orb]] go to the other end of the trees and gg.
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Floating Island Objects]]
+[[Category:Moderate Objects]]

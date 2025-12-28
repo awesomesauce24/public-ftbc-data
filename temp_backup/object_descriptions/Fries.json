@@ -1,0 +1,10 @@
+{
+  "name": "Fries",
+  "area": "City",
+  "difficulty": "effortless",
+  "description": "i cant belive he managed to get his own resturant!",
+  "hint": "i cant belive he managed to get his own resturant!",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Fries|character=[[File:Fries.png]]|difficulty=Effortless|area=[[City]]|hint=i cant belive he managed to get his own resturant!",
+  "location": "realm:Main Realm/City"
+}

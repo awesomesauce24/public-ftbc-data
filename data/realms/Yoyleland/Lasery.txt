@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Lasery|character=[[File:Lasery.webp|thumb]]|difficulty=Intermediate|area=[[Yoyleland]]|hint=oh maybe they should'nt have done that}}
+== Character ==
+a laser gun, this guy is also legless.
+== Obtaining ==
+{{Spoiler|text=They're on the brown building in Yoylecity. Get on top of the lime colored building next to the fun library using the tree. Then walk on the laser and youre done.}}
+
+[[category:Yoyleland Objects]]
+[[category:Intermediate Objects]]
+[[category:Objects]]

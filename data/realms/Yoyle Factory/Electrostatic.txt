@@ -1,0 +1,23 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Meltdown.png}}}|{{{Size|2000px}}}]] </div> <div style="--theme-accent-color:-webkit-linear-gradient(#78ff78,#00ff00); --theme-accent-label-color:#ffffff;">
+
+{{CharacterInfo
+|name=Electrostatic
+|character=Electrostatic.webp
+|difficulty=[[File:Insane.png]] <span style="color:#ff1c95">'''Insane'''</span>
+|area=[[Yoyle Factory/Meltdown]]
+|hint=find a way to destroy something suspicious.
+|creator=Cadalac8999
+|additionalinfo
+|previousdifficulties = [[File:Terrifying.png]] <span style="color:#8b17ff">'''Terrifying'''</span>
+}}
+
+== Info ==
+A red Positive Charge and a blue Negative Charge.
+
+== Obtaining ==
+In the section of [[Yoyle Factory/Meltdown|Meltdown]] near [[Delicious Fruit]], Direct the bullets from the turret to hit the nearby pillar in the acid 3 times. once you do this, Electrostatic will appear where the pillar was.
+
+[[Category:Yoyle Factory Objects]]
+[[Category:Yoyle Factory/Meltdown Objects]]
+[[Category:Objects]]
+[[Category:Insane Objects]]

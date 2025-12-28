@@ -1,0 +1,10 @@
+{
+  "name": "Plus",
+  "area": "Level 1",
+  "difficulty": "unforgiving",
+  "description": "find a ladder.. or not",
+  "hint": "find a ladder.. or not",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Plus|character=[[File:Plus.png]]|difficulty=Insane|area=[[Backrooms]]|hint=find a ladder.. or not",
+  "location": "subrealm:The Backrooms/Level 1"
+}

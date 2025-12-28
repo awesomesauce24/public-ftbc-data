@@ -1,0 +1,13 @@
+{{CharacterInfo|name=Pillow|character=[[File:Pillow.png|thumb]]|difficulty=Effortless|area=[[Goiky]]|hint=Sleeping (hidden in Goiky)}}
+
+== Character ==
+Pillow
+
+== Obtaining ==
+Go to [[Christmas Tree]] house and pillow is on bed
+[[Category:Objects]]
+[[Category:Goiky Objects]]
+[[Category:Effortless Objects]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]
+[[Category:Main Realm Objects]]

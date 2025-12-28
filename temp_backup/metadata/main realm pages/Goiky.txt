@@ -1,0 +1,235 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Goiky.png|2700px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.70); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+{{Location|title=Goiky|image=[[File:Goiky.png|Goiky]]}}
+==Info==
+'''Goiky''' is the main area of [[Find the BFB Characters|FTBC]]. In [[goiky]], you will find houses towards the north and trees towards the east. Goiky connects to [[Candyland]] and [[Snowy]]. in the fall, goikys foliage becomes orange and in the winter, snow, candycanes, and presents appear.
+
+== Objects ==
+
+{{ObjectDifficultyList
+|name = Effortless
+|icon = Effortless.png
+|color = #17a897
+|total = 13
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Anchor.png|[[File:Effortless.png|18px]] '''[[Anchor]]'''
+File:Bell.png|[[File:Effortless.png|18px]] '''[[Bell]]'''
+File:Christmas Tree.png|[[File:Effortless.png|18px]] '''[[Christmas Tree]]'''
+File:Evil Leafy.png|[[File:Effortless.png|18px]] '''[[Evil Leafy]]'''
+File:Firey.png|[[File:Effortless.png|18px]] '''[[Firey]]'''
+File:Flower.png|[[File:Effortless.png|18px]] '''[[Flower]]'''
+File:Golf Ball.png|[[File:Effortless.png|18px]] '''[[Golf Ball]]'''
+File:Grassy.png|[[File:Effortless.png|18px]] '''[[Grassy]]'''
+File:Leafy.png|[[File:Effortless.png|18px]] '''[[Leafy]]'''
+File:Pillow.png|[[File:Effortless.png|18px]] '''[[Pillow]]'''
+File:Pumpkin.png|[[File:Effortless.png|18px]] '''[[Pumpkin]]'''
+File:Strawberry.png|[[File:Effortless.png|18px]] '''[[Strawberry]]'''
+File:Tree.png|[[File:Effortless.png|18px]] '''[[Tree]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Easy
+|icon = Easy.png
+|color = #10da8d
+|total = 10
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Apple.png|[[File:Easy.png|18px]] '''[[Apple]]'''
+File:Banana Apple.png|[[File:Easy.png|18px]] '''[[Banana Apple]]'''
+File:Cookie.png|[[File:Easy.png|18px]] '''[[Cookie]]'''
+File:Dime.png|[[File:Easy.png|18px]] '''[[Dime]]'''
+File:Lightning Cherry.png|[[File:Easy.png|18px]] '''[[Lightning Cherry]]'''
+File:Needle.png|[[File:Easy.png|18px]] '''[[Needle]]'''
+File:Ninja Woody.png|[[File:Easy.png|18px]] '''[[Ninja Woody]]'''
+File:Piney.png|[[File:Easy.png|18px]] '''[[Piney]]'''
+File:Profiley.png|[[File:Easy.png|18px]] '''[[Profiley]]'''
+File:Ropey.png|[[File:Easy.png|18px]] '''[[Ropey]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Moderate
+|icon = Moderate.png
+|color = #07fc55
+|total = 9
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Blocky.png|[[File:Moderate.png|18px]] '''[[Blocky]]'''
+File:Cloudy.png|[[File:Moderate.png|18px]] '''[[Cloudy]]'''
+File:Coiny.png|[[File:Moderate.png|18px]] '''[[Coiny]]'''
+File:Crazy Needle.png|[[File:Moderate.png|18px]] '''[[Crazy Needle]]'''
+File:Eraser.png|[[File:Moderate.png|18px]] '''[[Eraser]]'''
+File:Price Tag.png|[[File:Moderate.png|18px]] '''[[Price Tag]]'''
+File:Salt Lamp.png|[[File:Moderate.png|18px]] '''[[Salt Lamp]]'''
+File:Steamy.png|[[File:Moderate.png|18px]] '''[[Steamy]]'''
+File:Taco.png|[[File:Moderate.png|18px]] '''[[Taco]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Normal
+|icon = Normal.png
+|color = #a1ff27
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Lightning.png|[[File:Normal.png|18px]] '''[[Lightning]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Intermediate
+|icon = Intermediate FTBC.png
+|color = #ffb700
+|total = 8
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Blanket.png|[[File:Intermediate FTBC.png|18px]] '''[[Blanket]]'''
+File:Blue Shiny Coiny.png|[[File:Intermediate FTBC.png|18px]] '''[[Blue Shiny Coiny]]'''
+File:David.png|[[File:Intermediate FTBC.png|18px]] '''[[David]]'''
+File:Idoit.png|[[File:Intermediate FTBC.png|18px]] '''[[Idoit]]'''
+File:Miku.png|[[File:Intermediate FTBC.png|18px]] '''[[Miku]]'''
+File:Remote.png|[[File:Intermediate FTBC.png|18px]] '''[[Remote]]'''
+File:Six.png|[[File:Intermediate FTBC.png|18px]] '''[[Six]]'''
+File:Tabley.png|[[File:Intermediate FTBC.png|18px]] '''[[Tabley]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Hard
+|icon = Hard.png
+|color = #FF7700
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Bright Radiant Plasma Needle.png|[[File:Hard.png|18px]] '''[[Bright Radiant Plasma Needle]]'''
+File:Palmy.png|[[File:Hard.png|18px]] '''[[Palmy]]'''
+File:Pebble.png|[[File:Hard.png|18px]] '''[[Pebble]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Difficult
+|icon = Difficult.png
+|color = #f54f25
+|total = 15
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Battery.png|[[File:Difficult.png|18px]] '''[[Battery]]'''
+File:Black Marker.png|[[File:Difficult.png|18px]] '''[[Black Marker]]'''
+File:Blue Needle.png|[[File:Difficult.png|18px]] '''[[Blue Needle]]'''
+File:Dora.png|[[File:Difficult.png|18px]] '''[[Dora]]'''
+File:Four.png|[[File:Difficult.png|18px]] '''[[Four]]'''
+File:Jingle Bell.png|[[File:Difficult.png|18px]] '''[[Jingle Bell]]'''
+File:Junior.png|[[File:Difficult.png|18px]] '''[[Junior]]'''
+File:Long Marker.png|[[File:Difficult.png|18px]] '''[[Long Marker]]'''
+File:Paper.png|[[File:Difficult.png|18px]] '''[[Paper]]'''
+File:Pastel Feather.png|[[File:Difficult.png|18px]] '''[[Pastel Feather]]'''
+File:Puffball.png|[[File:Difficult.png|18px]] '''[[Puffball]]'''
+File:The First Frame.png|[[File:Difficult.png|18px]] '''[[The First Frame]]'''
+File:Touch-Tone.png|[[File:Difficult.png|18px]] '''[[Touch-Tone]]'''
+File:World Map.png|[[File:Difficult.png|18px]] '''[[World Map]]'''
+File:Yoyle Pie.png|[[File:Difficult.png|18px]] '''[[Yoyle Pie]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Extreme
+|icon = Extreme.png
+|color = #ed2727
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Revolver.png|[[File:Extreme.png|18px]] '''[[Revolver]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Unforgiving
+|icon = Unforgiving.png
+|color = #ff143f
+|total = 8
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Demonic Painting.png|[[File:Unforgiving.png|18px]] '''[[Demonic Painting]]'''
+File:Drilly.png|[[File:Unforgiving.png|18px]] '''[[Drilly]]'''
+File:Gumbally.png|[[File:Unforgiving.png|18px]] '''[[Gumbally]]'''
+File:Lampy.png|[[File:Unforgiving.png|18px]] '''[[Lampy]]'''
+File:Monarch.png|[[File:Unforgiving.png|18px]] '''[[Monarch]]'''
+File:Quartz.png|[[File:Unforgiving.png|18px]] '''[[Quartz]]'''
+File:Spike Ball.png|[[File:Unforgiving.png|18px]] '''[[Spike Ball]]'''
+File:Sun.png|[[File:Unforgiving.png|18px]] '''[[Sun]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Insane
+|icon = Insane.png
+|color = #ff1c95
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Four Colored Gelatin.png|[[File:Insane.png|18px]] '''[[Four Colored Gelatin]]'''
+File:GET AWAY BUTTON.png|[[File:Insane.png|18px]] '''[[THE GET AWAY FROM ME BUTTON!!!!!!!]]'''
+File:Two.png|[[File:Insane.png|18px]] '''[[Two]]'''
+File:X.png|[[File:Insane.png|18px]] '''[[X]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Dreadful
+|icon = Dreadful.png
+|color = #db25ff
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Oodle.png|[[File:Dreadful.png|18px]] '''[[Oodle]]'''
+File:Sad Cloudy.png|[[File:Dreadful.png|18px]] '''[[Sad Cloudy]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Arduous
+|icon = Arduous.png
+|color = #5d0cff
+|total = 5
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Alien.png|[[File:Arduous.png|18px]] '''[[Alien]]'''
+File:Burger.png|[[File:Arduous.png|18px]] '''[[Burger]]'''
+File:Fedora.png|[[File:Arduous.png|18px]] '''[[Fedora]]'''
+File:Filler.png|[[File:Arduous.png|18px]] '''[[Filler]]'''
+File:Nanoboty.png|[[File:Arduous.png|18px]] '''[[Nanoboty]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Remorseless
+|icon = Remorseless.png
+|color = #2084ff
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Remote Event.png|[[File:Remorseless.png|18px]] '''[[Remote Event]]'''
+File:SilvaGunner.png|[[File:Remorseless.png|18px]] '''[[SilvaGunner]]'''
+</gallery>
+}}
+
+{{ObjectDifficultyList
+|name = Secret
+|icon = SECRET.png
+|color = #FFFFFF
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Remorseless Mix.png|[[File:SECRET.png|18px]] '''[[Remorseless Mix]]'''
+</gallery>
+}}
+
+[[Category:Areas]]

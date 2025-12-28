@@ -1,0 +1,20 @@
+
+{{CharacterInfo|name=Fall Leafy|character=Fall Leafy.png|difficulty=Moderate|area=[[Hotel]]|hint=find a way up a tree (Hidden at Hotel)|creator=flamer9111<br>jedimaster2041}}
+==Character==
+A fall version of [[Leafy]]. Clux's favorite character in the game most likely.
+==Obtaining==
+After getting to the roof of the Hotel, you can drop down to a small extension for the first and second floors. You can find a tree obby from there, completing it will bring you to Fall Leafy.
+
+== Gallery ==
+<gallery>
+File:Fall Leafy Sanctuary.jpg|the sanctuary
+</gallery>
+
+== Trivia ==
+
+* [[WHYDID AAA|Display]] once give cluxser2 btools, with that power, Clux made a shrine special for Fall Leafy.
+[[Category:Objects]]
+[[Category:Moderate Objects]]
+[[Category:Hotel Objects]]
+[[Category:Main Realm Objects]]
+[[Category:BFDI Limbs]]

@@ -1,0 +1,10 @@
+{
+  "name": "Evil Spongy",
+  "area": "Evil Forest",
+  "difficulty": "dreadful",
+  "description": "<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">how would Evil  even move around??</span>",
+  "hint": "<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">how would Evil  even move around??</span>",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Evil Spongy\n|character=[[File:pookiebear.webp]]\n|difficulty=[[File:Dreadful.png|link=]] <span style=\"color:#ff2b2b; text-shadow: 0 0 10px rgba(255,0,0,0.55);\">'''<b>Dreadful</b>'''</span>\n|area=[[Evil Forest]]\n|hint=<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">how would Evil [[Spongy]] even move around??</span>\n",
+  "location": "realm:Evil Forest"
+}

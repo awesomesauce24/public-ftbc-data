@@ -1,0 +1,27 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Inverted-realm-image.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#C45508,#EEDC5B); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Max
+|character=[[File:Max.png|thumb]]
+|difficulty= [[File:Unforgiving.png]] <span style="color:#ff143f">'''Unforgiving'''</span>
+|area=[[Inverted]]
+|hint=TBA
+|additionalinfo
+|previousdifficulties = [[File:Insane.png]] <span style="color:#ff1c95">'''Insane'''</span>
+}}
+
+== Character ==
+David with light brown hair and orange blush, he's doing the peace sign with one of his hands.
+
+== Obtaining ==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+Go to gelatin steakhouse and use the text on the right side to get to the corner, look under the map max is there, jump for it.</div>
+</div>
+
+[[Category:Unforgiving Objects]]
+[[Category:Inverted Realm Objects]]
+[[Category:Objects]]

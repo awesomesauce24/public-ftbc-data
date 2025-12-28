@@ -1,0 +1,27 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Candyland.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#ff69b4, #ffb6d9); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Cream Cookie
+|character=[[File:Cream Cookie.png]]
+|difficulty=[[File:Effortless.png]] <span style="color:#17a897">'''Effortless'''</span>
+|area=[[Candyland]]
+|hint=there is a very obvious way up at candyland
+|additionalinfo
+|previousdifficulties = [[File:Normal.png]] <span style="color:#a1ff27">'''Normal'''</span>
+}}
+==Character==
+A black cookie with white frosting in the middle.
+
+==Obtaining==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+On top of the cookie stack at [[Candyland]].</div>
+</div>
+
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:Candyland Objects]]
+[[Category:Main Realm Objects]]

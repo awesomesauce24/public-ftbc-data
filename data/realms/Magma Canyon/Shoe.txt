@@ -1,0 +1,18 @@
+{{CharacterInfo
+|name = Shoe
+|character = [[File:Shoe.png]]
+|difficulty = Hard
+|area = [[Magma Canyon]]
+|hint = 1 2 buckle my... wait what is tha
+}}
+
+== Obtaining ==
+Cross the bridge behind [[Spongy's mother]]. He is on a wooden platform.
+
+== Info ==
+A brown shoe.
+
+[[Category:Hard Objects]]
+[[Category:Magma Canyon Objects]]
+[[Category:Objects]]
+[[Category:BFDI Limbs]]

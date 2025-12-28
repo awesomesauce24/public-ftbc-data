@@ -1,0 +1,27 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Inverted-realm-image.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#C45508,#EEDC5B); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Box of Free Puppies
+|difficulty=[[File:Difficult.png]] <span style="color:#f54f25">'''Difficult'''</span>
+|area=[[Inverted]]
+|hint=they're on sale in the steakhouse, which doesn't make any sense now that i'm saying it
+|character=Box of Free Puppies.png
+|additionalinfo
+|previousdifficulties=[[File:Extreme.png]] <span style="color:#ed2727">'''Extreme'''</span>
+}}
+
+== Character ==
+Five [[David]]'s with ears and a noses. They are in a box, and on sale for $0.
+
+== Obtaining ==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+Once in the Inverted Realm, go to Gelatin's Steakhouse. You can find '''Box of Free Puppies''' inside.</div>
+</div>
+
+[[Category:Inverted Realm Objects]]
+[[Category:Objects]]
+[[Category:Difficult Objects]]

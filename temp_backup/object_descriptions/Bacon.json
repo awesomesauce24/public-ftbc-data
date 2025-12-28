@@ -1,0 +1,12 @@
+{
+  "name": "Bacon",
+  "area": "Snowy",
+  "difficulty": "effortless",
+  "description": "right next to a fire (Hidden in Snowy)",
+  "hint": "right next to a fire (Hidden in Snowy)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Bacon\n|character=[[File:Bacon.png]]\n|difficulty= [[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Snowy]]\n|hint=right next to a fire (Hidden in Snowy)\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>",
+  "location": "realm:Main Realm/Snowy"
+}

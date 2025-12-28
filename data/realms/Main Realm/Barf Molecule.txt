@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Barf Molecule|character=[[File:Barf Molecule.png]]|difficulty=Hard|area=[[City]]|hint=look in the city... something yellow}}
+==Character==
+a very nice molecule of barf.
+==Obtaining==
+Look closely at the F in Fries Restaurant. You'll see '''Barf Molecule''' there.
+[[Category:Objects]]
+[[Category:Hard Objects]]
+[[Category:City Objects]]
+[[Category:Main Realm Objects]]

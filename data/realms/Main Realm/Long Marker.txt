@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Long Marker|difficulty=Difficult|area=[[EXIT]]|hint=uhhhhhhhhhh (Start in Goiky)|character=[[File:Long Marker.png]]}}
+==Character==
+Marker but longggggggggggggggggggggggggggggg
+
+==Obtaining==
+{{Spoiler|Go to the [[EXIT]] and he would be near where you spawn|text=Go to the [[EXIT]] and he would be near where you spawn}}
+[[Category:Difficult Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Goiky Objects]]

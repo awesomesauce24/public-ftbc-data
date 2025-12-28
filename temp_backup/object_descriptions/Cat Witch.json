@@ -1,0 +1,10 @@
+{
+  "name": "Cat Witch",
+  "area": "Polluted Marshlands",
+  "difficulty": "strenuous",
+  "description": "BURN THE WITCH!!",
+  "hint": "BURN THE WITCH!!",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Cat Witch|character=[[File:Cat Witch.png]]|difficulty=Strenuous|area=[[Polluted Marshlands]]|hint=BURN THE WITCH!!",
+  "location": "realm:Polluted Marshlands"
+}

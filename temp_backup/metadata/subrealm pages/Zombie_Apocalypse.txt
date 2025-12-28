@@ -1,0 +1,55 @@
+== How To Enter ==
+Go to the sewers to where [[Immortality Thing]] is and then look towards the wall of the sewers.<br>
+And on your right jump down and eventually you would land on an invisible path.<br>
+At the end of the invisible path you should see a green tile and touch it.<br>
+You will have to jump off the path for it.<br>
+
+== Info ==
+''Zombie Apocalypse'' is a map similar to the [[Hotel]] Area in the main realm, there are a few differences to this variation like the sky being green and structures like [[Gelatin]]'s Steakhouse being present. Additionally, there is a main enemy in this realm being the Zombies, they work like the Classic Roblox Zombies. You also get things to defend yourself with in this realm, like a sword for close combat, a bow for long range combat, and an apple for healing. The zombies do respawn if you kill them though.
+
+== Objects ==
+{{ObjectDifficultyList
+|name = Strenuous
+|icon = Strenuous.png
+|color = #4048E5
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Zomball.png|[[File:Strenuous.png|18px]] '''[[Zomball]]'''
+File:zombified Clapboard.png|[[File:Strenuous.png|18px]] '''[[Zombified Clapboard]]'''
+File:Zombified Coiny.png|[[File:Strenuous.png|18px]] '''[[Zombified Coiny]]'''
+File:Zombified Conch Shell.png|[[File:Strenuous.png|18px]] '''[[Zombified Conch Shell]]'''
+File:Zombified Snowball.png|[[File:Strenuous.png|18px]] '''[[Zombified Snowball]]'''
+File:Zombified Two.png|[[File:Strenuous.png|18px]] '''[[Zombified Two]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Horrifying
+|icon = Horrifying.png
+|color = #2bd0fd; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: #72e1ff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Sob.png|[[File:Horrifying.png|18px]] '''[[Sphere of Benevolence]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = <span style="color:#ffd3ac; -webkit-text-stroke-width:1px; -webkit-text-stroke-color:#ffffff; font-size:32px; text-shadow:0 0 10px #ffffff">ꌗꍟꉓꋪꍟ꓄</span>
+|icon = SECRET.png
+|color = #FFD3AC
+|total = 1...?
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:SECRET.png|18px|[[File:SECRET.png|18px]] '''[[1035]]'''
+</gallery>
+}}
+
+== Trivia ==
+*Zombie Apocalpyse is on the same planet as [[Polluted Marshlands]] and [[Yoyle Factory]]
+**[[Yoyle Factory]] caused the air here to get Polluted which presumably made most objects that breathed it turn into a zombie.
+
+[[Category:Sub-Realms]]

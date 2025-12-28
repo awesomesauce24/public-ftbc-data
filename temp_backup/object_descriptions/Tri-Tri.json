@@ -1,0 +1,10 @@
+{
+  "name": "Tri-Tri",
+  "area": "Snowy",
+  "difficulty": "hard",
+  "description": "there's something off with a nose somewhere... perhaps it's frostbite?",
+  "hint": "there's something off with a nose somewhere... perhaps it's frostbite?",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Tri-Tri\n|character=[[File:Tri-Tri.png]]\n|difficulty=Hard\n|area=[[Snowy]]\n|hint=there's something off with a nose somewhere... perhaps it's frostbite?\n",
+  "location": "realm:Main Realm/Snowy"
+}

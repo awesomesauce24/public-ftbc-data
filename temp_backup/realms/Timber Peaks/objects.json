@@ -1,0 +1,161 @@
+{
+  "objects": [
+    {
+      "name": "Peanut Butter Jar",
+      "difficulty": "difficult",
+      "area": "Timber Peaks",
+      "description": "hey that's weird, do i taste peanut butter?",
+      "hint": "hey that's weird, do i taste peanut butter?"
+    },
+    {
+      "name": "S'mores",
+      "difficulty": "difficult",
+      "area": "Timber Peaks",
+      "description": "i guess you could say you guys want S'MORE objects!!!!... this is why i don't make puns",
+      "hint": "i guess you could say you guys want S'MORE objects!!!!... this is why i don't make puns"
+    },
+    {
+      "name": "Vasey",
+      "difficulty": "difficult",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Wasabi Chips",
+      "difficulty": "difficult",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Biscuit",
+      "difficulty": "extreme",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Cough Drop",
+      "difficulty": "extreme",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Dough",
+      "difficulty": "extreme",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Algodoo Marble",
+      "difficulty": "unforgiving",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Chips",
+      "difficulty": "unforgiving",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Frog",
+      "difficulty": "unforgiving",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Yoyle Spoon",
+      "difficulty": "unforgiving",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Mous. V",
+      "difficulty": "insane",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Square Root",
+      "difficulty": "insane",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Stump",
+      "difficulty": "insane",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Thermometer",
+      "difficulty": "insane",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Vinyl Record",
+      "difficulty": "insane",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Candle",
+      "difficulty": "dreadful",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Cheese Burger",
+      "difficulty": "dreadful",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Spammy",
+      "difficulty": "dreadful",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "Network Cable Tester",
+      "difficulty": "terrifying",
+      "area": "Timber Peaks",
+      "description": "NCCNNCNNNCCNCCCCNCCCNCCCNCCNCCCN",
+      "hint": "NCCNNCNNNCCNCCCCNCCCNCCCNCCNCCCN"
+    },
+    {
+      "name": "Dot",
+      "difficulty": "arduous",
+      "area": "Timber Peaks",
+      "description": ".",
+      "hint": "."
+    },
+    {
+      "name": "Nutty",
+      "difficulty": "arduous",
+      "area": "Timber Peaks",
+      "description": ""
+    },
+    {
+      "name": "PUMPKIN 2.0",
+      "difficulty": "arduous",
+      "area": "Timber Peaks",
+      "description": "Placeholder",
+      "hint": "Placeholder"
+    },
+    {
+      "name": "Virus",
+      "difficulty": "arduous",
+      "area": "Timber Peaks",
+      "description": "start in the basement, you'll be able to find something important there.",
+      "hint": "start in the basement, you'll be able to find something important there."
+    },
+    {
+      "name": "Timber Peaks Medallion",
+      "difficulty": "medallion",
+      "area": "Timber Peaks",
+      "description": "TBA",
+      "hint": "TBA"
+    }
+  ]
+}

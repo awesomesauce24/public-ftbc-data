@@ -1,0 +1,27 @@
+{{CharacterInfo
+|name = Pesky Pentagon
+|character = [[File:Pesky Pentagon.png]]
+|difficulty = Horrifying
+|area = [[Backrooms]]
+|hint = start in the backrooms. that's all.
+}}<nowiki>>:D</nowiki>
+
+== Info ==
+Start in [[Level 0]], you should see [https://imgur.com/a/uqOlY9I this] under a staircase.<br>Find a code in [[Level 0]], [[Level 1]], [[Level 2]], [[Level 3]], [[Level 4]], [[Level 153]], and [[RUN FOR YOUR LIFE]].
+
+== Obtaining ==
+{{Spoiler|text=
+There is a clue in the stairwell that helps you decrypt the full code.<br> When reaching the bottom of the stairwell for BEEP Fusion, you will find:<br> "Base64 > Hex > Caesar Cipher > ASCII85"<br> beside the last case of stairs you walked down with.<br><br> You need to decrypt it by starting with ASCII85, since the order of this clue is showing how the code is encrypted in.<br><br> After finding all the 7 pieces of the code, you should get:<br>
+"2*!Q`1bq!F2D[6Z1bq!J2DR-H1dj,X2*!NK1Ij5k"<br><br> Decrypt it in this order:<br>
+• ASCII85<br>
+• Caesar Cipher (d → a)<br>
+• Convert Hex → Text<br>
+• Base64 decode<br><br> You should get:<br>
+"b@kr0om2za."<br><br> After that, say '''/e b@kr0om2za''' in [[RUN FOR YOUR LIFE]] and the door with question marks will open.<br>
+Touch the door and you'll be teleported to [[The End]].<br>
+Pentagon is at one of the bookshelves.<br>
+}}
+
+[[Category:Objects]]
+[[Category:Horrifying Objects]]
+[[Category:Backrooms Objects]]

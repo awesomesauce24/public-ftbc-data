@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Raisin|character=[[File:Raisin.png|thumb]]|difficulty=Dreadful|area=[[Yoyle Factory]]|hint=This is grape's dying grandfather}}
+
+==Character==
+Raisin with wrinkled face
+
+==Obtaining==
+Behind a box in a corner inside of [[White Board]] room
+[[Category:Dreadful Objects]]
+[[Category:Objects]]
+[[Category:Yoyle Factory Objects]]

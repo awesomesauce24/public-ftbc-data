@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Chanterelle|character=[[File:Chanterelle.png]]|difficulty=Intermediate|area=[[Floating Island]]|hint=ah yes the void (Hidden in Floating Island)}}
+==Info==
+Chanterelle BFB 15 RC; also this object used to be Extreme similar to [[Electric Guitar]]...                                         ...Wait hold on.
+==Obtainment==
+Really tiny at the left edge of the island, its easy to spot.
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Floating Island Objects]]
+[[Category:Intermediate Objects]]

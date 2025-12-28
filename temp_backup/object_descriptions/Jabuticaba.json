@@ -1,0 +1,12 @@
+{
+  "name": "Jabuticaba",
+  "area": "Inverted",
+  "difficulty": "dreadful",
+  "description": "do the gold block obby but uh... you're going the wrong way",
+  "hint": "do the gold block obby but uh... you're going the wrong way",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name = Jabuticaba\n|character = [[File:Jabuticaba.png]]\n|difficulty = [[File:Dreadful.png]] <span style=\"color:#db25ff\">'''Dreadful'''</span>\n|area = [[Inverted]]\n|hint = do the gold block obby but uh... you're going the wrong way\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "realm:Inverted"
+}

@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Fruit Bowl|character=[[File:Fruit Bowl.png]]|difficulty=Hard|area=[[Classic Paradise]]|hint=oooo tasty}}
+==Character==
+A bowl of fruit with a happy face.
+==Obtaining==
+Behind the greenhouse on a tiny island in [[Classic Paradise]]
+
+[[Category:Objects]]
+[[Category:Hard Objects]]
+[[Category:Classic Paradise Objects]]

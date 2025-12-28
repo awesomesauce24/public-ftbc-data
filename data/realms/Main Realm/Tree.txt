@@ -1,0 +1,29 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Tree|character=[[File:Tree.png]]
+|difficulty=[[File:Effortless.png]] <span style="color:#17a897">'''Effortless'''</span>
+|area=[[Goiky]]
+|hint=Im a tree, im a tree.
+|additionalinfo
+|previousdifficulties = [[File:Easy.png]] <span style="color:#10da8d">'''Easy'''</span>
+}}
+
+==Character==
+Tree is a generic, non coniferous evergreen tree with a brown trunk and green leafs, He is considered very wise by many others, he mostly gives good advice and info on what to do in a troublesome situation.
+
+==Obtaining==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+In between the 2 houses at [[Goiky]].</div>
+</div>
+
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:Goiky Objects]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]
+[[Category:Main Realm Objects]]

@@ -1,0 +1,10 @@
+{
+  "name": "Cherry Blossom",
+  "area": "Cherry Grove",
+  "difficulty": "intermediate",
+  "description": "PLACEHOLDER",
+  "hint": "PLACEHOLDER",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Cherry Blossom|character=[[File:Cherry_blossom.png|thumb]]|difficulty=Intermediate|area=[[Cherry Grove]]|hint=PLACEHOLDER",
+  "location": "realm:Cherry Grove"
+}

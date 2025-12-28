@@ -1,0 +1,10 @@
+{
+  "name": "Car Door",
+  "area": "City",
+  "difficulty": "easy",
+  "description": "",
+  "hint": "",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Car Door|character=Car Door.png|difficulty=Easy|area=[[City]]",
+  "location": "realm:Main Realm/City"
+}

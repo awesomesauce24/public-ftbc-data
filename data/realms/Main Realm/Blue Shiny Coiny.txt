@@ -1,0 +1,18 @@
+{{CharacterInfo
+|name = Blue Shiny Coiny
+|character = [[File:Blue Shiny Coiny.png]]
+|difficulty = Intermediate
+|area = [[Goiky]]
+|hint = I've got my own style! (Start in Goiky)
+|additionalinfo|previousdifficulties=<span style="color:#ff7e21">'''Hard'''</span> [[File:Hard.png]]
+}}
+== Character ==
+Blue Shiny Coiny is, well, a blue shiny variant of [[Coiny]].
+
+== Obtaining ==
+Start at [[Bell]]. Drop down the side of the world, near where [[Candyland]] and [[Goiky]] connect.
+
+[[Category:Goiky Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Intermediate Objects]]

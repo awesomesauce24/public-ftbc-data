@@ -1,0 +1,24 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Inverted-realm-image.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#C45508,#EEDC5B); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=pen pog
+|character=[[File:pen pog.png]]
+|difficulty=[[File:Hard.png|link=]] <span style="color:#FF7700">'''<b>Hard</b>'''</span>
+|area=[[Inverted]]
+|hint=poggers
+}}
+
+== Info ==
+a bunch of pens doing the "pogchamp" emote.
+
+== Obtaining ==
+near spawn, check one of the sides of the trees.
+
+[[Category:Hard Objects]]
+[[Category:Objects]]
+[[Category:Inverted Realm Objects]]
+
+</div>
+</div>

@@ -1,0 +1,10 @@
+{
+  "name": "Rainbow",
+  "area": "Floating Island",
+  "difficulty": "moderate",
+  "description": "check on the rainbow at floating island",
+  "hint": "check on the rainbow at floating island",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Rainbow|character=[[File:Rainbow.png]]|difficulty=Moderate|area=[[Floating Island]]|hint=check on the rainbow at floating island",
+  "location": "realm:Main Realm/Floating Island"
+}

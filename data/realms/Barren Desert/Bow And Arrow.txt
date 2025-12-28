@@ -1,0 +1,24 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Barren_desert.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#ffb14a,#5b2d00); --theme-accent-label-color:#000000;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo|name=Bow And Arrow
+|character=<gallery>
+Bow And Arrow.png
+</gallery>
+|difficulty=[[File:Easy.png|link=]] <span style="color:#10da8d">'''<b>Easy</b>'''</span>
+|area=[[Barren Desert]]
+|hint=next to some other bows
+}}
+==Info==
+A blue and yellow bow and arrow. The arrow has the face and the arms are the string.
+
+==Obtaining==
+Head to the Barren Desert. Then walk to the abandoned city and go to the bullseyes. They are standing next to them.
+
+[[Category:Easy Objects]]
+[[Category:Objects]]
+[[Category:Barren Desert Objects]]
+
+</div>
+</div>

@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Football Player|character=[[File:Football Player.png]]|difficulty=Moderate|area=[[Hotel]]|hint=somebody left their helmet somewhere}}
+==Character==
+A variation of [[David]] that is dressed like a football player.
+==Obtaining==
+Find a Football helmet on the 4th floor of the [[Hotel]].
+[[Category:Objects]]
+[[Category:Moderate Objects]]
+[[Category:Hotel Objects]]
+[[Category:Main Realm Objects]]
+[[Category:BFDI Mini Contestants]]

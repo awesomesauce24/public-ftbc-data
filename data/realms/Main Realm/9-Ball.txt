@@ -1,0 +1,9 @@
+{{CharacterInfo|name=9-Ball|character=[[File:9-Ball.png|9-Ball]]|difficulty=Normal|area=None|hint=near her twin}}
+==Character==
+9-Ball is a character in Find the BFB Characters which appears as an angrier looking [[8-Ball]].
+==Obtaining==
+{{Spoiler|text=On the ground inside [[8-Ball|8-Ball]]'s Room.}}
+[[Category:Objects]]
+[[Category:Normal Objects]]
+[[Category:Main Realm Objects]]
+[[Category:TPOT Debuter]]

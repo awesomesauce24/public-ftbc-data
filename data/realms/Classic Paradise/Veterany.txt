@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Veterany|character=[[File:Veterany.png]]|difficulty=Terrifying|area=[[Classic Insanity]]|hint=[Start in Starter Place and go onto the house]}}
+==Character==
+The Veteran badge but with a face.
+==Obtaining==
+Look under the bridge in [[Classic Insanity]] (the one near the red portal).
+[[Category:Objects]]
+[[Category:Terrifying Objects]]
+[[Category:Classic Insanity Objects]]

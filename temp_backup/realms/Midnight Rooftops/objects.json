@@ -1,0 +1,290 @@
+{
+  "objects": [
+    {
+      "name": "Cupcake",
+      "difficulty": "hard",
+      "area": "Midnight Rooftops",
+      "description": "i was just coming to pick up a human",
+      "hint": "i was just coming to pick up a human"
+    },
+    {
+      "name": "Cursor",
+      "difficulty": "hard",
+      "area": "Midnight Rooftops",
+      "description": "",
+      "hint": ""
+    },
+    {
+      "name": "Pancakes",
+      "difficulty": "hard",
+      "area": "Midnight Rooftops",
+      "description": "on a balcony of a hotel",
+      "hint": "on a balcony of a hotel"
+    },
+    {
+      "name": "Robot Tennis Ball",
+      "difficulty": "hard",
+      "area": "Midnight Rooftops",
+      "description": "hey wait a minute.... WRONG REALM, WHAT!!!!E",
+      "hint": "hey wait a minute.... WRONG REALM, WHAT!!!!E"
+    },
+    {
+      "name": "Sans",
+      "difficulty": "hard",
+      "area": "Midnight Rooftops",
+      "description": "SANDS UNDER TALE ?!?!?!?!?!",
+      "hint": "SANDS UNDER TALE ?!?!?!?!?!"
+    },
+    {
+      "name": "Thready",
+      "difficulty": "hard",
+      "area": "Midnight Rooftops",
+      "description": "i don't know what to put so here's random keyboard mashing pisadhspoadliyqp9ijcxzknawletyhiado",
+      "hint": "i don't know what to put so here's random keyboard mashing pisadhspoadliyqp9ijcxzknawletyhiado"
+    },
+    {
+      "name": "Tomato",
+      "difficulty": "hard",
+      "area": "Midnight Rooftops",
+      "description": "i like tomato uhhhh yeah",
+      "hint": "i like tomato uhhhh yeah"
+    },
+    {
+      "name": "Dango",
+      "difficulty": "extreme",
+      "area": "Midnight Rooftops",
+      "description": "they're on a crane",
+      "hint": "they're on a crane"
+    },
+    {
+      "name": "Glitter Bottle",
+      "difficulty": "extreme",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Hot Sauce",
+      "difficulty": "extreme",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Ice Cream Cone",
+      "difficulty": "extreme",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Line Coin",
+      "difficulty": "extreme",
+      "area": "Midnight Rooftops",
+      "description": "get to the top of a roof",
+      "hint": "get to the top of a roof"
+    },
+    {
+      "name": "Little Baby Pizza",
+      "difficulty": "extreme",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Magnet",
+      "difficulty": "extreme",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "PB&J Sandwich",
+      "difficulty": "extreme",
+      "area": "Midnight Rooftops",
+      "description": "<nowiki>https://www.youtube.com/watch?v=I92TZOD560E</nowiki>",
+      "hint": "<nowiki>https://www.youtube.com/watch?v=I92TZOD560E</nowiki>"
+    },
+    {
+      "name": "Spray Can",
+      "difficulty": "extreme",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Vomit",
+      "difficulty": "extreme",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Bread Coiny",
+      "difficulty": "insane",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Burger Blanket",
+      "difficulty": "insane",
+      "area": "Midnight Rooftops",
+      "description": "find an almost invisible pathway",
+      "hint": "find an almost invisible pathway"
+    },
+    {
+      "name": "Goldy",
+      "difficulty": "insane",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Impostory",
+      "difficulty": "insane",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Inverted Cursor",
+      "difficulty": "insane",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Milky",
+      "difficulty": "insane",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Not Canon",
+      "difficulty": "insane",
+      "area": "Midnight Rooftops",
+      "description": "use the cannon! or, well... not cannon",
+      "hint": "use the cannon! or, well... not cannon"
+    },
+    {
+      "name": "Rainbow Cloudy",
+      "difficulty": "insane",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Sim0ndoMino",
+      "difficulty": "insane",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Starie",
+      "difficulty": "insane",
+      "area": "Midnight Rooftops",
+      "description": ""
+    },
+    {
+      "name": "Cool Ice Cube",
+      "difficulty": "terrifying",
+      "area": "Midnight Rooftops",
+      "description": "SNAP OUT OF IT ICE CUBE!!! you're stuck having reused lines",
+      "hint": "SNAP OUT OF IT ICE CUBE!!! you're stuck having reused lines"
+    },
+    {
+      "name": "Cremini",
+      "difficulty": "terrifying",
+      "area": "Midnight Rooftops",
+      "description": "mushed room",
+      "hint": "mushed room"
+    },
+    {
+      "name": "Every Character Fused",
+      "difficulty": "terrifying",
+      "area": "Midnight Rooftops",
+      "description": "occasionally, I find myself in a contemplative state, ruminating upon the underlying purpose and significance of undertaking the development of this particular game. it raises a fundamental question: what is the rationale for investing time and energy into the creation of this gaming endeavor? after all, it appears improbable that this game will retain any substantial relevance in the forthcoming years. furthermore, one must not disregard the inescapable reality that every game, no matter how compelling or captivating, eventually reaches its culmination, and thus, there looms an impending terminus for this game. in light of these contemplations, I am led to ponder, what exactly is the intrinsic value in expending my efforts on this venture? the temptation to embark on a protracted discourse regarding the futility of laboring on this game is palpable, yet I am inclined to demur, for such a discourse, it appears, would be an exercise in futility itself. It is my supposition that this project occupies a unique place in my heart, an endeavor in which I aspire to manifest my creative fervor and enthusiasm, driven by an innate desire to make a positive impact and bring forth something meaningful. it is true that the developers known as \"Spooky\" and \"Funky\" do not exhibit a frequent propensity for updating this game, which leads me to ponder the extent of my own contributions. without undue hubris, I dare say that the current state of the game, teetering on the brink of reaching a landmark of a thousand objects, can, to a certain extent, be attributed to my dedication and involvement. it should be noted, though, that the precise number of objects may indeed have already achieved the coveted one thousand, or it may remain tantalizingly close, contingent upon the point in time at which you peruse this composition.",
+      "hint": "occasionally, I find myself in a contemplative state, ruminating upon the underlying purpose and significance of undertaking the development of this particular game. it raises a fundamental question: what is the rationale for investing time and energy into the creation of this gaming endeavor? after all, it appears improbable that this game will retain any substantial relevance in the forthcoming years. furthermore, one must not disregard the inescapable reality that every game, no matter how compelling or captivating, eventually reaches its culmination, and thus, there looms an impending terminus for this game. in light of these contemplations, I am led to ponder, what exactly is the intrinsic value in expending my efforts on this venture? the temptation to embark on a protracted discourse regarding the futility of laboring on this game is palpable, yet I am inclined to demur, for such a discourse, it appears, would be an exercise in futility itself. It is my supposition that this project occupies a unique place in my heart, an endeavor in which I aspire to manifest my creative fervor and enthusiasm, driven by an innate desire to make a positive impact and bring forth something meaningful. it is true that the developers known as \"Spooky\" and \"Funky\" do not exhibit a frequent propensity for updating this game, which leads me to ponder the extent of my own contributions. without undue hubris, I dare say that the current state of the game, teetering on the brink of reaching a landmark of a thousand objects, can, to a certain extent, be attributed to my dedication and involvement. it should be noted, though, that the precise number of objects may indeed have already achieved the coveted one thousand, or it may remain tantalizingly close, contingent upon the point in time at which you peruse this composition."
+    },
+    {
+      "name": "Electronic Game",
+      "difficulty": "terrifying",
+      "area": "Midnight Rooftops",
+      "description": "get to the furthest point away from the map",
+      "hint": "get to the furthest point away from the map"
+    },
+    {
+      "name": "Radio",
+      "difficulty": "terrifying",
+      "area": "Midnight Rooftops",
+      "description": "Look under a roof.",
+      "hint": "Look under a roof."
+    },
+    {
+      "name": "Your Mom",
+      "difficulty": "terrifying",
+      "area": "Midnight Rooftops",
+      "description": "yo mama so skibidi among us rizz in ohio",
+      "hint": "yo mama so skibidi among us rizz in ohio"
+    },
+    {
+      "name": "Bandy",
+      "difficulty": "strenuous",
+      "area": "Midnight Rooftops",
+      "description": "get the key to the crane",
+      "hint": "get the key to the crane"
+    },
+    {
+      "name": "Blocky On Toilet",
+      "difficulty": "strenuous",
+      "area": "Midnight Rooftops",
+      "description": "toilet",
+      "hint": "toilet"
+    },
+    {
+      "name": "Rock",
+      "difficulty": "strenuous",
+      "area": "Midnight Rooftops",
+      "description": "rock. this is a rock.",
+      "hint": "rock. this is a rock."
+    },
+    {
+      "name": "Singapore Map",
+      "difficulty": "strenuous",
+      "area": "Midnight Rooftops",
+      "description": "oh boy would you look at that it's another button hunt!!! how fun and exciting!!!!!",
+      "hint": "oh boy would you look at that it's another button hunt!!! how fun and exciting!!!!!"
+    },
+    {
+      "name": "Aurora Borealis",
+      "difficulty": "remorseless",
+      "area": "Midnight Rooftops",
+      "description": "find four pieces of code in [[Midnight Rooftops",
+      "hint": "find four pieces of code in [[Midnight Rooftops"
+    },
+    {
+      "name": "BFB 1-29 Thumbnail Fusion",
+      "difficulty": "remorseless",
+      "area": "Midnight Rooftops",
+      "description": "̶A̶A̶A̶A̶",
+      "hint": "̶A̶A̶A̶A̶"
+    },
+    {
+      "name": "Corrupted Firey",
+      "difficulty": "remorseless",
+      "area": "Midnight Rooftops",
+      "description": "start by finding a glitchy particle, good luck.",
+      "hint": "start by finding a glitchy particle, good luck."
+    },
+    {
+      "name": "USB Drive",
+      "difficulty": "remorseless",
+      "area": "Midnight Rooftops",
+      "description": "the highest point of the map. it won't be easy getting up there!",
+      "hint": "the highest point of the map. it won't be easy getting up there!"
+    },
+    {
+      "name": "Slimy",
+      "difficulty": "<span style=\"",
+      "area": "Midnight Rooftops",
+      "description": "",
+      "hint": ""
+    },
+    {
+      "name": "Midnight Rooftops Medallion",
+      "difficulty": "medallion",
+      "area": "Midnight Rooftops",
+      "description": "TBA",
+      "hint": "TBA"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{{CharacterInfo
+|name = Meat Cube
+|character = [[File:Meat Cube.png]]
+|difficulty = Normal
+|area = [[Warehouse]]
+|hint = wall flicking, how fun! (Hidden in Warehouse)
+}}
+
+== Obtaining ==
+he's to the left immediately entering the [[Warehouse]], on the wall. Simply wallflick to obtain him (hes next to the square window)
+
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Normal Objects]]

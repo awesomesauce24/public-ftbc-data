@@ -1,0 +1,15 @@
+<div style="padding:1em; border-radius: 25px; background: linear-gradient(to right, #4d0505, #700606);-webkit-text-fill-color: block;-webkit">
+<div style="--theme-accent-color:-webkit-linear-gradient(#ab4d4d,#a13f3f)">
+{{CharacterInfo|name=<i><div style="text-shadow: 2px 2px 7px #000000"><span style="font-family: Albert Sans;">Moon</span></div>|character=[[Moon.png|Moon]]|difficulty=<span style="font-family: Albert Sans;"><div style="text-shadow: 2px 2px 7px #ffffff">Remorseless</div></span>|area=<span style="font-family: Albert Sans;"><div style="text-shadow: 2px 2px 7px #ffffff">Sakura Serenity</div></span>|hint=<span style="font-family: Albert Sans;"><div style="text-shadow: 2px 2px 7px #ffffff">find a way to make it become midnight...</div></span><i>}}
+
+==<div style="text-shadow: 2px 2px 7px #ffffff"><span style="font-family: Albert Sans;">Character</span></div>==
+<span style="font-family: Albert Sans;">The '''Moon''' is a celestial body in the Earth system. The Moon is not in orbit around the Earth, but instead, Earth and the Moon are in a binary planetary system, as stated in "Sweet Tooth" (or triple planet system in that situation).</span>
+
+==<div style="text-shadow: 2px 2px 7px #ffffff"><span style="font-family: Albert Sans;">Obtaining</span></div>==
+<span style="font-family: Albert Sans;">Press a button near  [[?]], then go to the path on a house. After that do a <i>VERY FUN</i> mini obby to get it.</span>
+
+
+<span style="color:#000000;"><div style="text: red; opacity: 25%">(i hate it)</div></span>
+[[Category:Objects]]
+[[Category:Remorseless Objects]]
+[[Category:Sakura Serenity Objects]]

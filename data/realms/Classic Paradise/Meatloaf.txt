@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Meatloaf|character=[[File:Meatloaf.png]]|difficulty=Hard|area=[[Classic Paradise]]|hint=look inside of a small cave area...}}
+==Character==
+A smiling pan of meatloaf.
+==Obtaining==
+Look in the small cave area in [[classic paradise]] that is behind the beetroot farm to the right.
+
+[[Category:Objects]]
+[[Category:Hard Objects]]
+[[Category:Classic Paradise Objects]]

@@ -1,0 +1,84 @@
+<div style="padding:1em; border-radius:6px; border:3px solid #7fe8ff; background:#06131c;
+box-shadow: 0 0 40px rgba(127,232,255,0.55), inset 0 0 22px rgba(127,232,255,0.12);">
+<div style="opacity:0.06; position:absolute; right:10%; top:18%;"></div>
+
+<div style="--theme-accent-color:-webkit-linear-gradient(#0b2230, #0f2e40); float:right;">
+
+<!-- Image Box -->
+<div style="padding:0.5em; border-radius:4px; border:4px solid #7fe8ff; background:#0b2230;
+box-shadow: 0 0 25px rgba(127,232,255,0.55), 0 0 10px rgba(40,170,255,0.18); image-rendering:pixelated;">
+<center>[[File:Freeze Juice.png|center|200px]]</center>
+</div>
+
+<!-- Difficulty -->
+<div style="padding:0.5em; margin-top:0.5em; border-radius:4px; border:3px solid #7fe8ff; background:#7fe8ff;
+box-shadow:0 0 25px rgba(127,232,255,0.55), 0 0 12px rgba(40,170,255,0.18);">
+<center><span style="color:#06131c; font-size:20px; text-shadow:0 0 12px rgba(255,255,255,0.7), 0 0 10px rgba(127,232,255,0.28);">'''Difficulty: Horrifying'''</span></center>
+</div>
+
+<!-- Area -->
+<div style="padding:0.5em; margin-top:0.5em; border-radius:4px; border:3px solid #7fe8ff; background:#7fe8ff;
+box-shadow:0 0 25px rgba(127,232,255,0.55), 0 0 12px rgba(40,170,255,0.18);">
+<center><span style="color:#06131c; font-size:20px; text-shadow:0 0 12px rgba(255,255,255,0.7), 0 0 10px rgba(127,232,255,0.28);">'''Area: [[Frozen World]]'''</span></center>
+</div>
+
+<!-- Background -->
+<div style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0; overflow:hidden; filter:saturate(1.05) contrast(1.02);">
+[[File:Ice.webp|2500px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.72); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;
+border:1px solid rgba(127,232,255,0.18);
+box-shadow: 0 0 22px rgba(127,232,255,0.22), inset 0 0 18px rgba(40,170,255,0.10);">
+
+<!-- subtle neon rule -->
+<div style="height:2px; margin:2px 0 16px 0;
+background: linear-gradient(to right, rgba(0,0,0,0), rgba(127,232,255,0.55), rgba(0,0,0,0));
+box-shadow: 0 0 14px rgba(127,232,255,0.22);"></div>
+
+==<code><span style="color:#c9f8ff; text-shadow: 0 0 12px rgba(127,232,255,0.75), 0 0 20px rgba(40,170,255,0.35);">'''Character'''</span></code>==
+<code><span style="color:#c9f8ff; text-shadow: 0 0 15px rgba(127,232,255,0.65), 0 0 8px rgba(40,170,255,0.20);">
+syringe filled with freeze juice i think
+</span></code>
+
+<div style="height:1px; margin:16px 0;
+background: linear-gradient(to right, rgba(0,0,0,0), rgba(127,232,255,0.35), rgba(0,0,0,0));
+box-shadow: 0 0 12px rgba(127,232,255,0.18);"></div>
+
+==<code><span style="color:#c9f8ff; text-shadow: 0 0 12px rgba(127,232,255,0.75), 0 0 20px rgba(40,170,255,0.35);">'''Lore'''</span></code>==
+<code><span style="color:#c9f8ff; text-shadow: 0 0 15px rgba(127,232,255,0.55), 0 0 8px rgba(40,170,255,0.18);">
+Freeze Juice was one of the leading factors of [[Frozen World]]'s crystallization, and way ahead of [[The Crystallized Core]] imploding, causing destruction years before the incident even happened. With them being one who held the power to crystallization, they would actually handed the power over to the Algebraic Laboratory for testing, which was part of their plan. Afterwards, it would end up causing the core to be crystalized in the first place, which lead to the crystallization of other realms, causing them to go extinct. Crystalized Core was only a mere figure of what was going on, <span style="color:#e8fdff; text-shadow:0 0 10px rgba(127,232,255,0.7), 0 0 16px rgba(40,170,255,0.22); font-weight:bold;">Freeze Juice was behind ALL of it.</span>
+</span></code>
+
+<div style="height:1px; margin:16px 0;
+background: linear-gradient(to right, rgba(0,0,0,0), rgba(127,232,255,0.35), rgba(0,0,0,0));
+box-shadow: 0 0 12px rgba(127,232,255,0.18);"></div>
+
+==<code><span style="color:#c9f8ff; text-shadow: 0 0 12px rgba(127,232,255,0.75), 0 0 20px rgba(40,170,255,0.35);">'''Obtaining'''</span></code>==
+<code><span style="color:#c9f8ff; text-shadow: 0 0 15px rgba(127,232,255,0.55), 0 0 8px rgba(40,170,255,0.18);">
+Find and do an obby in [[Frozen World]]. <span style="color:#ff3b3b; text-shadow: 2px 2px 20px red, 0 0 10px rgba(255,60,60,0.25); font-size: 14px">good luck.</span>
+</span></code>
+
+<code><span style="color:#c9f8ff; text-shadow: 0 0 15px rgba(127,232,255,0.55), 0 0 8px rgba(40,170,255,0.18);">
+'''Practice the obby [https://www.roblox.com/games/17109873095/Freeze-Juice-Obby here].'''
+</span></code>
+
+<div style="height:1px; margin:16px 0;
+background: linear-gradient(to right, rgba(0,0,0,0), rgba(127,232,255,0.35), rgba(0,0,0,0));
+box-shadow: 0 0 12px rgba(127,232,255,0.18);"></div>
+
+==<code><span style="color:#c9f8ff; text-shadow: 0 0 12px rgba(127,232,255,0.75), 0 0 20px rgba(40,170,255,0.35);">'''Trivia'''</span></code>==
+<code><span style="color:#c9f8ff; text-shadow: 0 0 15px rgba(127,232,255,0.55), 0 0 8px rgba(40,170,255,0.18);">
+* Freeze Juice is the <span style="color:#e8fdff; text-shadow:0 0 10px rgba(127,232,255,0.7), 0 0 16px rgba(40,170,255,0.22); font-weight:bold;">emperor</span> of the Frozen Realm.
+</span></code>
+
+<!-- subtle neon rule -->
+<div style="height:2px; margin:16px 0 2px 0;
+background: linear-gradient(to right, rgba(0,0,0,0), rgba(127,232,255,0.55), rgba(0,0,0,0));
+box-shadow: 0 0 14px rgba(127,232,255,0.22);"></div>
+
+</div>
+
+[[Category:Objects]]
+[[Category:Horrifying Objects]]
+[[Category:Frozen World Objects]]

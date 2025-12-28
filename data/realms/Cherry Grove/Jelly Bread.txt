@@ -1,0 +1,21 @@
+{{CharacterInfo
+|name=Jelly Bread
+|character=[[File:JellyBread.png|thumb]]
+|difficulty=[[File:Difficult.png]] <span style="color:#f54f25">'''Difficult'''</span>
+|area=[[Cherry Grove]]
+|hint=[PLACEHOLDER]
+|previousdifficulties=[[File:Extreme.png]] <span style="color:#ED2727">'''Extreme'''</span>}}
+
+== Character ==
+The object looks like a piece of bread that has jelly spread all over it.
+
+== Obtaining ==
+{| class="article-table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;"
+!'''How to Find [SPOILERS]'''||
+|-
+|Where [[Chainsaw]] is, you will find an obby on the cliff near it. Complete this obby and [[Jelly Bread]] Will be waiting at the top.
+|}
+
+[[Category:Cherry Grove Objects]]
+[[Category:Difficult Objects]]
+[[Category:Objects]]

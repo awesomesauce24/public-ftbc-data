@@ -1,0 +1,14 @@
+{{CharacterInfo|name=Donut|character=[[File:Donut.png]]|difficulty=Easy|area=[[City]]|hint=sitting in his throne.}}
+
+== Obtaining ==
+Teleport to [[City]].  Enter the Donut Shop, Donut is located inside, sitting in his throne-like seat.
+
+== Character ==
+a tan, frosted donut with a simple face in the center of the ring.
+[[Category:Easy Objects]]
+[[Category:City Objects]]
+[[Category:Main Realm Objects]]
+[[Category:BFDIA Contestants]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]
+[[Category:Objects]]

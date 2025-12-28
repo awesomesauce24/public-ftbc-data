@@ -1,0 +1,162 @@
+<div align="center" style="position:fixed; z-index:-1; top:-0.5; left:0; right:0; bottom:0;">
+[[File:Midnight-rooftops.png|2700px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.70); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+== How to Enter ==
+
+First, go to [[Liy]]'s room. Next, find a wall with can-collide disabled. Finally, enter the teleporter.
+
+== Info ==
+'''Midnight Rooftops''' takes place atop the fog-covered skyline of a large, shadowy city.  
+The area is filled with tall buildings, cranes, scaffolding, and ongoing construction.
+
+== Objects ==
+
+{{ObjectDifficultyList
+|name = Hard
+|icon = Hard.png
+|color = #FF7700
+|total = 7
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Cupcake.png|[[File:Hard.png|18px]] '''[[Cupcake]]'''
+File:Cursor.png|[[File:Hard.png|18px]] '''[[Cursor]]'''
+File:Pancakes.png|[[File:Hard.png|18px]] '''[[Pancakes]]'''
+File:Robot Tennis Ball.png|[[File:Hard.png|18px]] '''[[Robot Tennis Ball]]'''
+File:Sans.png|[[File:Hard.png|18px]] '''[[Sans]]'''
+File:Thready.png|[[File:Hard.png|18px]] '''[[Thready]]'''
+File:Tomato.png|[[File:Hard.png|18px]] '''[[Tomato]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Extreme
+|icon = Extreme.png
+|color = #ed2727
+|total = 10
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Dango.png|[[File:Extreme.png|18px]] '''[[Dango]]'''
+File:Glitter Bottle.png|[[File:Extreme.png|18px]] '''[[Glitter Bottle]]'''
+File:Hot Sauce.png|[[File:Extreme.png|18px]] '''[[Hot Sauce]]'''
+File:Ice Cream Cone.png|[[File:Extreme.png|18px]] '''[[Ice Cream Cone]]'''
+File:Line Coin.png|[[File:Extreme.png|18px]] '''[[Line Coin]]'''
+File:Little Baby Pizza.png|[[File:Extreme.png|18px]] '''[[Little Baby Pizza]]'''
+File:Magnet.png|[[File:Extreme.png|18px]] '''[[Magnet]]'''
+File:PB&J Sandwich.png|[[File:Extreme.png|18px]] '''[[PB&J Sandwich]]'''
+File:Spray Can.png|[[File:Extreme.png|18px]] '''[[Spray Can]]'''
+File:Vomit.png|[[File:Extreme.png|18px]] '''[[Vomit]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Insane
+|icon = Insane.png
+|color = #FF1C95
+|total = 11
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Bread Coiny.png|[[File:Insane.png|18px]] '''[[Bread Coiny]]'''
+File:Burger Blanket.png|[[File:Insane.png|18px]] '''[[Burger Blanket]]'''
+File:Goldy.png|[[File:Insane.png|18px]] '''[[Goldy]]'''
+File:Impostory.png|[[File:Insane.png|18px]] '''[[Impostory]]'''
+File:Inverted Cursor.png|[[File:Insane.png|18px]] '''[[Inverted Cursor]]'''
+File:Milky.png|[[File:Insane.png|18px]] '''[[Milky]]'''
+File:Not Canon.png|[[File:Insane.png|18px]] '''[[Not Canon]]'''
+File:Rainbow Cloudy.png|[[File:Insane.png|18px]] '''[[Rainbow Cloudy]]'''
+File:SimOndoMino.png|[[File:Insane.png|18px]] '''[[Sim0ndoMino]]'''
+File:Starie.png|[[File:Insane.png|18px]] '''[[Starie]]'''
+File:W.png|[[File:Insane.png|18px]] '''[[W]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Terrifying
+|icon = Terrifying.png
+|color = #8b17ff
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Cool ice cube.png|[[File:Terrifying.png|18px]] '''[[Cool Ice Cube]]'''
+File:Cremini.png|[[File:Terrifying.png|18px]] '''[[Cremini]]'''
+File:Every Character Fused.png|[[File:Terrifying.png|18px]] '''[[Every Character Fused]]'''
+File:Electronic Game.png|[[File:Terrifying.png|18px]] '''[[Electronic Game]]'''
+File:Radio.png|[[File:Terrifying.png|18px]] '''[[Radio]]'''
+File:Your Mom.png|[[File:Terrifying.png|18px]] '''[[Your Mom]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Strenuous
+|icon = Strenuous.png
+|color = #4048e5
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Bandy.png|[[File:Strenuous.png|18px]] '''[[Bandy]]'''
+File:Blocky on toilet.png|[[File:Strenuous.png|18px]] '''[[Blocky On Toilet]]'''
+File:Rock New.png|[[File:Strenuous.png|18px]] '''[[Rock]]'''
+File:Singapore Map.png|[[File:Strenuous.png|18px]] '''[[Singapore Map]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Remorseless
+|icon = Remorseless.png
+|color = #2084ff
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Aurora Borealis.png|[[File:Remorseless.png|18px]] '''[[Aurora Borealis]]'''
+File:BFB 1-29 Thumbnail Fusion.png|[[File:Remorseless.png|18px]] '''[[BFB 1-29 Thumbnail Fusion]]'''
+File:CFModern.png|[[File:Remorseless.png|18px]] '''[[Corrupted Firey]]'''
+File:USB Drive.png|[[File:Remorseless.png|18px]] '''[[USB Drive]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = <span style="
+color:#2bd0fd;
+text-shadow:
+  0 0 8px rgba(255,255,255,0.9),
+  0 0 18px rgba(220,220,255,0.4);
+letter-spacing:1.5px;
+font-size:22px;
+">'''Horrifying'''</span>
+|icon = Horrifying.png
+|color = #2bd0fd
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Slimy.png|[[File:Horrifying.png|18px]] '''[[Slimy]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Medallion
+|icon = Medallion.png
+|color = #331900
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Midnight Rooftops Medallion.png|[[File:Medallion.png|18px]] '''[[Midnight Rooftops Medallion]]'''
+</gallery>
+}}
+
+== Music ==
+'''On the Bridge – WeirdManGuy Tower OST'''  
+{{Audio|file=On the Bridge WeirdManGuy Tower OST.mp3|align=center|volume=1|autoplay=yes|loop=yes}}
+
+[[Category:Realms]]
+
+<br>
+</div>

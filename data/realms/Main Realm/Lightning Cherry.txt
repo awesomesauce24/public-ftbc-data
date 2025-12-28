@@ -1,0 +1,10 @@
+== Character ==
+'''Lightning Cherry''' is a recommended character in BFB. This recommended Character was recommended by epicfireninja 2.
+{{CharacterInfo|name=Lightning Cherry|character=[[File:Lightning_Cherry.png]]|difficulty=Easy|area=[[Goiky]]|hint=hidden on a board}}
+
+== Obtaining ==
+Go to the Rules board in [[Goiky]] and the object will be transparent on it.
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:Goiky Objects]]
+[[Category:Main Realm Objects]]

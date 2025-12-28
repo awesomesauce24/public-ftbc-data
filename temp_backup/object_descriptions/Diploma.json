@@ -1,0 +1,12 @@
+{
+  "name": "Diploma",
+  "area": "Classic Roblox",
+  "difficulty": "effortless",
+  "description": "congratulations you graduated high school now it's time for your life to turn to hell (Hidden in Classic Roblox)",
+  "hint": "congratulations you graduated high school now it's time for your life to turn to hell (Hidden in Classic Roblox)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Diploma\n|character=Diploma.png\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Classic Roblox]]\n|info=\n|hint=congratulations you graduated high school now it's time for your life to turn to hell (Hidden in Classic Roblox)\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Classic Roblox"
+}

@@ -1,0 +1,18 @@
+{{CharacterInfo
+ |name = Birdie
+ |character = [[File:Birdie.png]]
+ |difficulty = Dreadful
+ |area = [[Classic Paradise]]
+}}
+
+== Character ==
+Birdie is a cheerful, shuttle-shaped character with a wide smile and a red cap on top.
+
+== Obtaining ==
+Inside the same room as [[Jade]]. <br>
+He should be inside of a birdcage in the room.
+
+[[Category:Objects]]
+[[Category:Dreadful Objects]]
+[[Category:Classic Paradise Objects]]
+[[Category:BFDI Mini Contestants]]

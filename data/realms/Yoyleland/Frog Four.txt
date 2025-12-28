@@ -1,0 +1,27 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Yoyleland.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#cd58e3,#70287a); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo|name=Frog Four
+|character=<gallery>
+Frog Four.png
+</gallery>
+|difficulty=[[File:Insane.png|link=]] <span style="color:#ff1c95">'''<b>Insane</b>'''</span>
+|area=[[Yoyleland]]
+|hint=get it? because you have to "frog" jump onto a building for it? nobody clapping?
+|additionalinfo
+|previousdifficulties = [[File:Terrifying.png]] <span style="color:#8b17ff">'''Terrifying'''</span>
+}}
+==Info==
+[[Four]] as a frog.
+
+==Obtaining==
+Frog Jump up the cyan 
+"DRESS HOSPITAL" building.
+
+[[Category:Insane Objects]]
+[[Category:Objects]]
+[[Category:Yoyleland Objects]]
+
+</div>
+</div>

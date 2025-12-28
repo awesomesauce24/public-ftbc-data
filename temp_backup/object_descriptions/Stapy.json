@@ -1,0 +1,12 @@
+{
+  "name": "Stapy",
+  "area": "Hotel",
+  "difficulty": "effortless",
+  "description": "hangin out with marker (hidden at hotel)",
+  "hint": "hangin out with marker (hidden at hotel)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Stapy\n|character=[[File:Stapy.png|thumb]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Hotel]]\n|hint=hangin out with marker (hidden at hotel)\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Hotel"
+}

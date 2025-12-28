@@ -1,0 +1,12 @@
+{
+  "name": "Cereal Box",
+  "area": "City",
+  "difficulty": "effortless",
+  "description": "Bet you can't guess where this is oh wow this is so hard",
+  "hint": "Bet you can't guess where this is oh wow this is so hard",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Cereal Box\n|character=Cereal Box.png\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[City]]\n|hint=Bet you can't guess where this is oh wow this is so hard\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/City"
+}

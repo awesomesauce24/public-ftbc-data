@@ -1,0 +1,10 @@
+{
+  "name": "Grape",
+  "area": "Yoyleland",
+  "difficulty": "easy",
+  "description": "PLACEHOLDER",
+  "hint": "PLACEHOLDER",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Grape|character=[[File:Grape.png|Grape]]|difficulty=Easy|area=[[Yoyleland]]|hint=PLACEHOLDER|info=",
+  "location": "realm:Yoyleland"
+}

@@ -1,0 +1,26 @@
+{{stub}}
+
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Sakura Serenity.png}}}|{{{Size|2000px}}}]] </div> <div style="--theme-accent-color:-webkit-linear-gradient(#b56f8f,#8e4f5f); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Red crayon who is also blue but probably isn't green
+|character=[[File:Red crayon who is also blue but probably isn't green.png]]
+|difficulty=[[File:Terrifying.png]] <span style="color:#8b17ff">'''Terrifying'''</span>
+|area=[[Sakura Serenity]]
+|hint=PLACEHOLDER
+}}
+
+==Character==
+'''Red crayon who is also blue but probably isn't green''' is a red crayon with blue paper wrapped around it and has a greenish face with green limbs.
+
+==Obtaining==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+Find 5 pieces of code in [[Sakura Serenity]].</div>
+</div>
+
+[[Category:Objects]]
+[[Category:Terrifying Objects]]
+[[Category:Sakura Serenity Objects]]

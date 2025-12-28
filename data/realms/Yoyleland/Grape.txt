@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Grape|character=[[File:Grape.png|Grape]]|difficulty=Easy|area=[[Yoyleland]]|hint=PLACEHOLDER|info=}}
+==Character==
+Grape appears to be a green grape with a drawn face on it.
+==Obtaining==
+{{Spoiler|text=In the back left corner of [[Yoyleland]], running a stand near yoyle mountain.}}
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:Yoyleland Objects]]

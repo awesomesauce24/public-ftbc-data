@@ -1,0 +1,39 @@
+[[File:SECRETIVE .png|thumb|529x529px]]
+{{CharacterInfo
+ |name = Jade
+ |character = [[File:Jade.webp]]
+ |difficulty = Remorseless
+ |area = [[Classic Paradise]]
+ |hint = Take a leap of faith in the cave.
+}}
+
+== Character ==
+Jade is a green, faceted gemstone with a nervous expression, featuring wide oval eyes and a tense, gritted smile carved into the front of her gem. She is one of Ruby's many sisters.
+
+== Obtaining ==
+Head into the main cave of Classic Paradise. There’s a hidden drop that’s safe to fall into — take the leap of faith.<br>
+Once inside the chamber, you’ll encounter three puzzle panels:
+
+== Puzzle 1: “maybe look at it from another angle?” ==
+'''Hint 1:''' Try physically rotating or flipping the letters you’re given. Some upside-down letter shapes resemble numbers.<br>
+'''Hint 2:''' Each 4-letter chunk becomes a sequence of digits. Don’t add them! Just place them in order.<br>
+'''Hint 3:''' After assembling the digit groups, consider converting numbers to letters (A1Z26 may help).
+
+== Puzzle 2: “lol no it’s not!” ==
+'''Hint 1:''' The layout resembles something very common with 3×3 grids.<br>
+'''Hint 2:''' Don’t focus on the squares themselves, check what each square represents.<br>
+'''Hint 3:''' Sort the items alphabetically, then apply a cipher associated with 3×3 grids.
+
+== Puzzle 3: “watch out, it’s a devious one…” ==
+'''Hint 1:''' One of the strings resembles a YouTube ID, but the other string is the actual puzzle.<br>
+'''Hint 2:''' The video subtly suggests which cipher to apply... think classical substitutions.<br>
+'''Hint 3:''' You will likely need to apply two ciphers in sequence.
+
+== Results ==
+After solving all three puzzles, you’ll receive a code in the format: '''/e 1-2-3''' (not the actual code).<br>
+Enter it in the text box, and Jade will appear near one of the corners of the room.
+
+[[Category:Objects]]
+[[Category:Remorseless Objects]]
+[[Category:Classic Paradise Objects]]
+[[Category:BFDI Limbs]]

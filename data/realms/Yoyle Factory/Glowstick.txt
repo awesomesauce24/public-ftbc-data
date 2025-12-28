@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Glowstick|character=[[File:Glowstick.webp|thumb]]|difficulty=Insane|area=[[Yoyle Factory]]|hint=Find a strange light source}}
+
+==Character==
+White glowstick with happy face
+
+==Obtaining==
+Go straight until you reach a path split, go left until you get into a small room with containers, glowstick is on glowing edge of white box
+[[Category:Objects]]
+[[Category:Insane Objects]]
+[[Category:Yoyle Factory Objects]]

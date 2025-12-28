@@ -1,0 +1,21 @@
+{{stub}}
+
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Candyland.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#ff69b4, #ffb6d9); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo|name=Pop Tart|character=<gallery>
+Poptart NEW.png|Current (By cluxser2)
+Pop Tart.png|Old (BFB RC)
+</gallery>
+|difficulty=Normal|area=[[Candyland]]|hint=just being a pop tart}}
+==Character==
+A pink pop tart with sprinkles.
+
+==Obtaining==
+In the Factory in Candyland.
+
+[[Category:Objects]]
+[[Category:Normal Objects]]
+[[Category:Candyland Objects]]
+[[Category:Main Realm Objects]]

@@ -1,0 +1,12 @@
+{
+  "name": "Sausage Roll",
+  "area": "Classic Paradise",
+  "difficulty": "arduous",
+  "description": "sausage roll",
+  "hint": "sausage roll",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Sausage Roll|character=ROLL.png|difficulty=Arduous|area=[[Classic Paradise]]|hint=sausage roll |additionalinfo|previousdifficulties=<span style=\"color:#8b17ff\">'''Terrifying'''</span> [[File:Terrifying.png]]\n<span style=\"color:#4048E5\">'''Strenuous'''</span> [[File:Strenuous.png]]",
+  "location": "realm:Classic Paradise"
+}

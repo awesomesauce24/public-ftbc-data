@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Cat Witch|character=[[File:Cat Witch.png]]|difficulty=Strenuous|area=[[Polluted Marshlands]]|hint=BURN THE WITCH!!}}
+==Character==
+Cat Witch is a yellow cat with a witch's hat.
+==Obtaining==
+[https://youtu.be/j1HGPAkSCjc Tutorial]
+
+Note: You should get the button near [[Torso]] first because not only does the acid kill you, but you lose all your progress if you die.
+[[Category:Objects]]
+[[Category:Strenuous Objects]]
+[[Category:Polluted Marshlands Objects]]

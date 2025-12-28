@@ -1,0 +1,10 @@
+{
+  "name": "Barren Desert Medallion",
+  "area": "Barren Desert",
+  "difficulty": "medallion",
+  "description": "TBA",
+  "hint": "TBA",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Barren Desert Medallion|character=Barren Desert Medallion.png|difficulty=TBA|area=TBA|hint=TBA|info=|creator=drpepperheinz",
+  "location": "realm:Barren Desert"
+}

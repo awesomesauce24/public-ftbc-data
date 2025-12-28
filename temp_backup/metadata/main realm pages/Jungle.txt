@@ -1,0 +1,74 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Jungle.png|2700px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.70); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+{{Zoneinfobox
+| title1 = Jungle
+| image1 = [[File:Jungle.png]]
+| caption1 = Example
+| Objects = 26
+| creator = Klaptal
+| theme = Jungle, Plants
+| average_difficulty = <span style="color:#a1ff27">'''Normal'''</span> [[File:Normal.png|frameless|Normal]] (4.84615384615)
+| bordering_zones = [[Snowy]]
+| realms = [[Polluted Marshlands]]
+| subzones = 
+}}
+
+
+==Info==
+[[Jungle]] is an area in the [[Main Realm]] that borders [[Snowy]]. This area has giant trees, bushes and a brick structure in the middle, a reference to TPOT 4. This areas objects are usually hidden in bushes or trees.
+
+== Objects ==
+
+====<span style="color:#17a897">'''Effortless'''</span>====
+*[[File:Effortless.png|frameless|Effortless]] [[Funny Plant]]
+*[[File:Effortless.png|frameless|Effortless]] [[Lotus Flower]]
+*[[File:Effortless.png|frameless|Effortless]] [[Mortar]]
+*[[File:Effortless.png|frameless|Effortless]] [[Piñata]]
+====<span style="color:#10da8d">'''Easy'''</span>====
+*[[File:Easy.png|frameless|Easy]] [[Fire Citrus]]
+*[[File:Easy.png|frameless|Easy]] [[Sandwich Roll]]
+====<span style="color:#07fc55">'''Moderate'''</span>====
+*[[File:Moderate.png|frameless|Moderate]] [[Beanie]]
+*[[File:Moderate.png|frameless|Moderate]] [[Shuriken]]
+====<span style="color:#a1ff27">'''Normal'''</span>====
+*[[File:Normal.png|frameless]] [[Awesome Face]]
+*[[File:Normal.png|frameless]] [[Green Egg]]
+*[[File:Normal.png|frameless]] [[Hexagon]]
+*[[File:Normal.png|frameless]] [[Pasty]]
+*[[File:Normal.png|frameless]] [[Snake]]
+*[[File:Normal.png|frameless]] [[Taco Guy]]
+====<span style="color:#ffb700">'''Intermediate'''</span>====
+*[[File:Intermediate FTBC.png|frameless|Intermediate]] [[Banana]]
+*[[File:Intermediate FTBC.png|frameless|Intermediate]] [[Flower Crown]]
+*[[File:Intermediate FTBC.png|frameless|Intermediate]] [[Green Rocky]]
+*[[File:Intermediate FTBC.png|frameless|Intermediate]] [[Symbol]]
+====<span style="color:#ff7e21">'''Hard'''</span>====
+*[[File:Hard.png|frameless]] [[Slide Man]]
+====<span style="color:#f54f25">'''Difficult'''</span>====
+*[[File:Difficult.png|frameless|Difficult]] [[One Way Sign]]
+*[[File:Difficult.png|frameless|Difficult]] [[Yellow Watermelon]]
+====<span style="color:#ed2727">'''Extreme'''</span>====
+*[[File:Extreme.png|frameless|Extreme]] [[Pixely]]
+*[[File:Extreme.png|frameless|Extreme]] [[Taco With Tophat]]
+====<span style="color:#ff143f">'''Unforgiving'''</span>====
+*[[File:Unforgiving.png|frameless|Unforgiving]] [[Leafy Jr.]]
+*[[File:Unforgiving.png|frameless|Unforgiving]] [[Peanut]]
+====<span style="color:#4048e5">'''Strenuous'''</span>====
+*[[File:Strenuous.png|frameless|Strenuous]] [[Cauldron]]
+
+=== Multiple Biomes Objects (Which Jungle is part to...)===
+====<span style="color:#ff7e21">'''Hard'''</span>====
+*[[File:Hard.png|frameless]] [[Gifty]]
+*[[File:Hard.png|frameless]] [[Peanut Butter]]
+====<span style="color:#ff143f">'''Unforgiving'''</span>====
+*[[File:Unforgiving.png|frameless|Unforgiving]] [[Tombstone]]
+
+== Realms ==
+Realms Located in Jungle
+*[[Polluted Marshlands]]
+
+[[Category:Areas]]

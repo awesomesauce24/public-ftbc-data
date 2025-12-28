@@ -1,0 +1,10 @@
+{
+  "name": "Buh",
+  "area": "Warehouse",
+  "difficulty": "insane",
+  "description": "hey guys, it's me, buh! and welcome... to the buh-ly object show! (Start in Warehouse)",
+  "hint": "hey guys, it's me, buh! and welcome... to the buh-ly object show! (Start in Warehouse)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Buh\n|character=[[File:Buh.webp]]\n|difficulty=Insane\n|area=[[Warehouse]]\n|hint=hey guys, it's me, buh! and welcome... to the buh-ly object show! (Start in Warehouse)\n",
+  "location": "realm:Main Realm/Warehouse"
+}

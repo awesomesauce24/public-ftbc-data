@@ -1,0 +1,12 @@
+{
+  "name": "X the Arcade Machine",
+  "area": "Warehouse",
+  "difficulty": "effortless",
+  "description": "SPOOOOOKY arcade machine!!! just in time for halloween (Hidden in Warehouse)",
+  "hint": "SPOOOOOKY arcade machine!!! just in time for halloween (Hidden in Warehouse)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name = X the Arcade Machine\n|character = [[File:X the Arcade Machine.png]]\n|difficulty = [[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area = [[Main Realm]]\n|hint = SPOOOOOKY arcade machine!!! just in time for halloween (Hidden in Warehouse)\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Warehouse"
+}

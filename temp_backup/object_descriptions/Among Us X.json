@@ -1,0 +1,10 @@
+{
+  "name": "Among Us X",
+  "area": "City",
+  "difficulty": "hard",
+  "description": "HI GELATIN (Start in City)",
+  "hint": "HI GELATIN (Start in City)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Among Us X\n|character=<gallery>\nAmong Us X.png\n</gallery>\n|difficulty=[[File:Hard.png|link=]] <span style=\"color:#FF7700\">'''<b>Hard</b>'''</span>\n|area=[[City]]\n|hint=HI GELATIN (Start in City)\n",
+  "location": "realm:Main Realm/City"
+}

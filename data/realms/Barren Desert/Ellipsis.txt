@@ -1,0 +1,12 @@
+== Character ==
+'''Ellipsis''' is three circles, two eyes and the other a body, with hands and legs. They appear tan in color.
+
+== Obtaining ==
+Go to the building that [[Cardboard]] is at, then look below the wooden logs at the back of it. 
+
+== Notes ==
+The part of the mountain below '''Ellipsis''' is missing collision in certain parts, causing you to fall through.
+{{CharacterInfo|name=Ellipsis|character=Ellipsis.png|difficulty=Normal|area=Barren Desert|hint=this one is at...}}
+[[Category:Objects]]
+[[Category:Normal Objects]]
+[[Category:Barren Desert Objects]]

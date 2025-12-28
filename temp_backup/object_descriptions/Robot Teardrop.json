@@ -1,0 +1,12 @@
+{
+  "name": "Robot Teardrop",
+  "area": "Factory",
+  "difficulty": "effortless",
+  "description": "Being manufactured in factory",
+  "hint": "Being manufactured in factory",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Robot Teardrop\n|character=[[File:Robot Teardrop.png|thumb]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Factory]]\n|hint=Being manufactured in factory\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Factory"
+}

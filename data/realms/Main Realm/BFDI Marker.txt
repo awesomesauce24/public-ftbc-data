@@ -1,0 +1,19 @@
+{{CharacterInfo
+|name=BFDI Marker
+|character=[[File:BFDI Marker.png]]
+|difficulty=Normal
+|area=[[Classic Roblox]]
+|hint=funny how this is the 3rd marker-related object in the game (Hidden in Classic Roblox)
+}}
+
+== Character ==
+BFDI Marker appears as a tall white marker with purple stripes, a simple face, and black stick limbs.
+
+== Obtaining ==
+BFDI Marker is found at the bottom-right corner of the beach, so drop below the edge of the terrain to reach him.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Normal Objects]]
+[[Category:Classic Roblox Objects]]
+[[Category:BFDI Limbs]]

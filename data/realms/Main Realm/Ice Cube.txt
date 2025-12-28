@@ -1,0 +1,17 @@
+== Character ==
+{{CharacterInfo|name=Ice Cube|character=[[File:Ice Cube.png]]|difficulty=Hard|area=[[Snowy]]|hint=ice?}}
+'''Ice Cube''' (often addressed as '''Icy''') is a female contestant that competed in ''[[Battle for Dream Island]], [[Battle for Dream Island Again]]'', ''[[IDFB]]'', ''[[Battle for BFDI]]'', and is currently competing in ''[[Battle for Dream Island: The Power of Two]]''. In the comic series, she placed third overall in [[Total Firey Island]], and was the runner up in [[Total Firey Switch]].
+
+== Obtaining ==
+Find a pile of snowball at [[Snowy]], then click on it. After that, throw it to the target then '''Ice Cube''' will rise from the ice behind you.
+
+==Trivia==
+*This used to be a Easy but on update 2.16.3, it changed to Hard.
+[[Category:Objects]]
+[[Category:Hard Objects]]
+[[Category:Snowy Objects]]
+[[Category:BFDI Contestants]]
+[[Category:BFDIA Contestants]]
+[[Category:IDFB Contestants]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]

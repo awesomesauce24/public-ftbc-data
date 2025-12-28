@@ -1,0 +1,12 @@
+{
+  "name": "Piece of Glass",
+  "area": "Inverted",
+  "difficulty": "dreadful",
+  "description": "near princess flower...",
+  "hint": "near princess flower...",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Piece of Glass|character= <gallery>\nPiece_of_Glass_New.png|Current (Made by cluxser2)\nFile:Piece of Glass.png|Old (Made by Dnifnfi)\n</gallery>\n|difficulty=[[File:Dreadful.png]] <span style=\"color:#db25ff\">'''Dreadful'''</span>\n|area=[[Inverted]]\n|hint=near princess flower...\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "realm:Inverted"
+}

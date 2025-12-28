@@ -1,0 +1,10 @@
+{
+  "name": "Metal Ball",
+  "area": "Yoyleland",
+  "difficulty": "moderate",
+  "description": "PLACEHOLDER",
+  "hint": "PLACEHOLDER",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Metal Ball|character=[[Metal ball.png|thumb]]|difficulty=Moderate|area=[[Yoyleland]]|hint=PLACEHOLDER",
+  "location": "realm:Yoyleland"
+}

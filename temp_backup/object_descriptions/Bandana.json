@@ -1,0 +1,12 @@
+{
+  "name": "Bandana",
+  "area": "City",
+  "difficulty": "dreadful",
+  "description": "find a pathway that leads somewhere outside (Start in City)",
+  "hint": "find a pathway that leads somewhere outside (Start in City)",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Bandana\n|character=[[File:Bandana.png]]\n|difficulty=[[File:Dreadful.png]] <span style=\"color:#db25ff\">'''Dreadful'''</span>\n|area=[[City]]\n|hint=find a pathway that leads somewhere outside (Start in City)\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "realm:Main Realm/City"
+}

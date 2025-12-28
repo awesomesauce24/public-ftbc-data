@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Texas Donut|character=[[File:Texas Donut.png]]|difficulty=Intermediate|area=[[Floating Island]]|hint=something is off about where [[Succulent]] is... (Hidden in Floating Island)}}
+==Info==
+Its an uncanny looking donut.
+==Obtainment==
+Theres an invisible path below where you jump to get [[Succulent]].
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Floating Island Objects]]
+[[Category:Intermediate Objects]]

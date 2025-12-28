@@ -1,0 +1,10 @@
+{
+  "name": "Dragonman",
+  "area": "Polluted Marshlands",
+  "difficulty": "terrifying",
+  "description": "dragon 2",
+  "hint": "dragon 2",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Dragonman|character=[[File:Dragonman.webp|thumb]]|difficulty=Terrifying|area=[[Polluted Marshlands]]|hint=dragon 2",
+  "location": "realm:Polluted Marshlands"
+}

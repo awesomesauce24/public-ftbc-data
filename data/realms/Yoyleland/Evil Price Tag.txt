@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Evil Price Tag|character=[[File:Evil Price Tag.png]]|difficulty=Extreme|area=[[Yoyleland]]|hint=get on top of a roof}}
+==Character==
+A Red Price tag with 3}8| on it
+==Obtaining==
+{{Spoiler|text= Go to [[Yoyleland]] and go to the 50% off apartment building (the one [[Brownie]] is on) and he will be somewhere nearly invisible on the roof}}
+[[Category:Objects]]
+[[Category:Extreme Objects]]
+[[Category:Yoyleland Objects]]

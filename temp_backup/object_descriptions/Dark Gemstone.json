@@ -1,0 +1,10 @@
+{
+  "name": "Dark Gemstone",
+  "area": "Fossil Falls",
+  "difficulty": "normal",
+  "description": "chilling at the peak of fossil falls (Made by 3RR0R_b0i)",
+  "hint": "chilling at the peak of fossil falls (Made by 3RR0R_b0i)",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Dark Gemstone\n|character = [[Dark Gemstone.png]]\n|difficulty = Normal\n|area = [[Fossil Falls]]\n|hint = chilling at the peak of fossil falls (Made by 3RR0R_b0i)\n",
+  "location": "realm:Main Realm/Fossil Falls"
+}

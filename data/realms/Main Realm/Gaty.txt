@@ -1,0 +1,20 @@
+{{CharacterInfo
+|name=Gaty
+|character=[[File:Gaty.png]]
+|difficulty=Effortless
+|area=[[Snowy]]
+|hint=Wonder where she is being used for? (Hidden in Snowy)
+}}
+
+
+
+== Obtaining ==
+In Snowy, on a gate of a house closest to city
+
+== Character ==
+a periwinkle gate with yellow magnets
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:Snowy Objects]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]

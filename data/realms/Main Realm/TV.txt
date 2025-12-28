@@ -1,0 +1,24 @@
+{{CharacterInfo
+|name = TV
+|character =<gallery>
+TV.webp|Current
+TV old.png|Old
+</gallery>
+|difficulty = Easy
+|area = [[City]]
+|hint = go down the stairs twice
+}}
+
+== Character ==
+A flat-screen TV with wheels to move around.
+
+== Obtaining ==
+In [[City]], go to the Headquarters building.  
+Go behind the first set of stairs; TV is tucked away behind them.
+
+[[Category:City Objects]]
+[[Category:Easy Objects]]
+[[Category:Objects]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]
+[[Category:Main Realm Objects]]

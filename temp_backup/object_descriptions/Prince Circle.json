@@ -1,0 +1,12 @@
+{
+  "name": "Prince Circle",
+  "area": "Tropical Islands",
+  "difficulty": "effortless",
+  "description": "What did they do to him (Hidden in Tropical Islands)",
+  "hint": "What did they do to him (Hidden in Tropical Islands)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Prince circle\n|character=[[File:Prince Circle.png|thumb]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Tropical Islands]]\n|hint=What did they do to him (Hidden in Tropical Islands)\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Tropical Islands"
+}

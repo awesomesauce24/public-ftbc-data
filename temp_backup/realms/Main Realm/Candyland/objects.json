@@ -1,0 +1,229 @@
+{
+  "objects": [
+    {
+      "name": "Birthday Cake",
+      "difficulty": "effortless",
+      "area": "Candyland",
+      "description": "happy birthday! (it isn't your birthday) [Hidden in Candyland]",
+      "hint": "happy birthday! (it isn't your birthday) [Hidden in Candyland]"
+    },
+    {
+      "name": "Cream Cookie",
+      "difficulty": "effortless",
+      "area": "Candyland",
+      "description": "there is a very obvious way up at candyland",
+      "hint": "there is a very obvious way up at candyland"
+    },
+    {
+      "name": "Fairy Floss",
+      "difficulty": "effortless",
+      "area": "Candyland",
+      "description": "hmmm i wonder where this one is hmmmmmm",
+      "hint": "hmmm i wonder where this one is hmmmmmm"
+    },
+    {
+      "name": "Purple Girl with Wind Hair and Angry Eyes",
+      "difficulty": "effortless",
+      "area": "Candyland",
+      "description": "",
+      "hint": ""
+    },
+    {
+      "name": "Pearl",
+      "difficulty": "easy",
+      "area": "Candyland",
+      "description": "look inside a clump of cotton candy",
+      "hint": "look inside a clump of cotton candy"
+    },
+    {
+      "name": "Cotton Candy",
+      "difficulty": "moderate",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Sugar Cube",
+      "difficulty": "moderate",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Chocolate Bar",
+      "difficulty": "normal",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Lollipop",
+      "difficulty": "normal",
+      "area": "Candyland",
+      "description": "",
+      "hint": ""
+    },
+    {
+      "name": "Milkshake",
+      "difficulty": "normal",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Pop Tart",
+      "difficulty": "normal",
+      "area": "Candyland",
+      "description": "just being a pop tart",
+      "hint": "just being a pop tart"
+    },
+    {
+      "name": "Boom Mic",
+      "difficulty": "intermediate",
+      "area": "Candyland",
+      "description": "(Start in Candyland)",
+      "hint": "(Start in Candyland)"
+    },
+    {
+      "name": "Chef David",
+      "difficulty": "intermediate",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Milli Book",
+      "difficulty": "intermediate",
+      "area": "Candyland",
+      "description": "🙂 (Start in Candyland)",
+      "hint": "🙂 (Start in Candyland)"
+    },
+    {
+      "name": "Candy",
+      "difficulty": "hard",
+      "area": "Candyland",
+      "description": "somewhere with a lot of candy",
+      "hint": "somewhere with a lot of candy"
+    },
+    {
+      "name": "Candy Corn",
+      "difficulty": "hard",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Chocolate Chip",
+      "difficulty": "hard",
+      "area": "Candyland",
+      "description": "find a code at candyland",
+      "hint": "find a code at candyland"
+    },
+    {
+      "name": "Chocolate Pop",
+      "difficulty": "hard",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Jawbreaker",
+      "difficulty": "hard",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Sundae",
+      "difficulty": "hard",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Air Freshener",
+      "difficulty": "extreme",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Cake Pop",
+      "difficulty": "extreme",
+      "area": "Candyland",
+      "description": "what a lovely day innit bruv",
+      "hint": "what a lovely day innit bruv"
+    },
+    {
+      "name": "Mocha",
+      "difficulty": "extreme",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Pie",
+      "difficulty": "extreme",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Puffball Speaker Box",
+      "difficulty": "extreme",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Raising Cane's Cup",
+      "difficulty": "extreme",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Red Mushroom",
+      "difficulty": "extreme",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Strudel",
+      "difficulty": "extreme",
+      "area": "Candyland",
+      "description": "there is so little detail on this that it doesn't even resemble a strudel anymore",
+      "hint": "there is so little detail on this that it doesn't even resemble a strudel anymore"
+    },
+    {
+      "name": "Vanilla Milkshake",
+      "difficulty": "extreme",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Frozen Yogurt",
+      "difficulty": "insane",
+      "area": "Candyland",
+      "description": "Start in Candyland",
+      "hint": "Start in Candyland"
+    },
+    {
+      "name": "Gingerbread Man",
+      "difficulty": "insane",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Shinyleaf",
+      "difficulty": "insane",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Jellybean Jar",
+      "difficulty": "dreadful",
+      "area": "Candyland",
+      "description": ""
+    },
+    {
+      "name": "Sharp",
+      "difficulty": "terrifying",
+      "area": "Candyland",
+      "description": "honey, you okay? you’VE haRdly touched Your !(%i/*@/^! (Start in Candyland, drop down)",
+      "hint": "honey, you okay? you’VE haRdly touched Your !(%i/*@/^! (Start in Candyland, drop down)"
+    },
+    {
+      "name": "Poison Cake",
+      "difficulty": "strenuous",
+      "area": "Candyland",
+      "description": ""
+    }
+  ]
+}

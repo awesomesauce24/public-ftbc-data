@@ -1,0 +1,19 @@
+{{CharacterInfo
+|name = Crayon
+|character = [[File:Crayon.png]]
+|difficulty = Easy
+|area = [[Number Playground]]
+|hint = on a piece of paper (Hidden in Number Playground)
+}}
+
+== Obtaining ==
+Go inside the house in [[Number Playground]].  
+Crayon is lying on a piece of paper on the floor.
+
+== Character ==
+A simple teal crayon with a friendly face printed on the side.
+
+[[Category:Number Playground Objects]]
+[[Category:Easy Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]

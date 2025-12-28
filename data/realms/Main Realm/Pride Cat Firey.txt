@@ -1,0 +1,18 @@
+{{CharacterInfo
+|name=Pride Cat Firey
+|character=[[File:Pride Cat Firey.png]]
+|difficulty=Insane
+|area=[[City]]
+|hint=rawr nya X3 (Start in City)
+}}
+
+== Character ==
+Pride Cat Firey appears as a lesbian gradient-colored fiery cat.
+
+== Obtaining ==
+Start at [[Onigiri]]. Behind the blue barrels in the left corner, Pride Cat Firey is hidden from view.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Insane Objects]]
+[[Category:City Objects]]

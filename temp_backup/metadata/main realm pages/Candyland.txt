@@ -1,0 +1,179 @@
+{{Zoneinfobox
+| title1 = Candyland 
+| image1 = [[File:Candyland.png]]
+| caption1 = 
+| objects = 35
+| creator = FTBC Devs
+| theme = Candy, Sugar, Chocolate
+| average_difficulty =
+| bordering_zones = [[Fossil Falls]], [[Goiky]], [[Number Playground]]
+| realms = 
+| subzones = 
+[[Candy Factory]]<br>
+[[Candy Island]]<br>
+[[Chocolate Chip's room]]<br>
+[[Lollipop's room]]<br>
+}}
+
+{{clear}}
+
+== Info ==
+A biome in the [[Main Realm]]. It has many candy-themed lollipops, trees, and a chocolate river.
+
+== Objects ==
+{{ObjectDifficultyList
+|name = Effortless
+|icon = Effortless.png
+|color = #17a897
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Birthday Cake New.png|[[File:Effortless.png|18px]] '''[[Birthday Cake]]'''
+File:Cream Cookie.png|[[File:Effortless.png|18px]] '''[[Cream Cookie]]'''
+File:Fairy Floss.png|[[File:Effortless.png|18px]] '''[[Fairy Floss]]'''
+File:Purple Girl with Wind Hair and Angry Eyes.png|[[File:Effortless.png|18px]] '''[[Purple Girl with Wind Hair and Angry Eyes]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Easy
+|icon = Easy.png
+|color = #10da8d
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Pearl.webp|[[File:Easy.png|18px]] '''[[Pearl]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Moderate
+|icon = Moderate.png
+|color = #07fc55
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Cotton Candy.png|[[File:Moderate.png|18px]] '''[[Cotton Candy]]'''
+File:Sugar Cube.png|[[File:Moderate.png|18px]] '''[[Sugar Cube]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Normal
+|icon = Normal.png
+|color = #a1ff27
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Chocolate Bar.png|[[File:Normal.png|18px]] '''[[Chocolate Bar]]'''
+File:Lollipop.png|[[File:Normal.png|18px]] '''[[Lollipop]]'''
+File:Milkshake.png|[[File:Normal.png|18px]] '''[[Milkshake]]'''
+File:Poptart NEW.png|[[File:Normal.png|18px]] '''[[Pop Tart]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Intermediate
+|icon = Intermediate FTBC.png
+|color = #ffb700
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Boom Mic.png|[[File:Intermediate FTBC.png|18px]] '''[[Boom Mic]]'''
+File:Chef David.png|[[File:Intermediate FTBC.png|18px]] '''[[Chef David]]'''
+File:Milli Book.png|[[File:Intermediate FTBC.png|18px]] '''[[Milli Book]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Hard
+|icon = Hard.png
+|color = #FF7700
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Candy.png|[[File:Hard.png|18px]] '''[[Candy]]'''
+File:Candy Corn.png|[[File:Hard.png|18px]] '''[[Candy Corn]]'''
+File:Chocolate Chip.png|[[File:Hard.png|18px]] '''[[Chocolate Chip]]'''
+File:Chocolate Pop.png|[[File:Hard.png|18px]] '''[[Chocolate Pop]]'''
+File:Jawbreaker.png|[[File:Hard.png|18px]] '''[[Jawbreaker]]'''
+File:Sundae.png|[[File:Hard.png|18px]] '''[[Sundae]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Extreme
+|icon = Extreme.png
+|color = #ed2727
+|total = 9
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Air Freshener.png|[[File:Extreme.png|18px]] '''[[Air Freshener]]'''
+File:Cake Pop.png|[[File:Extreme.png|18px]] '''[[Cake Pop]]'''
+File:Mocha.png|[[File:Extreme.png|18px]] '''[[Mocha]]'''
+File:Pie.png|[[File:Extreme.png|18px]] '''[[Pie]]'''
+File:Puffball Speaker Box.png|[[File:Extreme.png|18px]] '''[[Puffball Speaker Box]]'''
+File:Raising Canes Cup.PNG|[[File:Extreme.png|18px]] '''[[Raising Cane's Cup]]'''
+File:Red Mushroom.png|[[File:Extreme.png|18px]] '''[[Red Mushroom]]'''
+File:Strudel.png|[[File:Extreme.png|18px]] '''[[Strudel]]'''
+File:Vanilla Milkshake.png|[[File:Extreme.png|18px]] '''[[Vanilla Milkshake]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Insane
+|icon = Insane.png
+|color = #ff1c95
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Frozen Yogurt.png|[[File:Insane.png|18px]] '''[[Frozen Yogurt]]'''
+File:Gingerbread Man.png|[[File:Insane.png|18px]] '''[[Gingerbread Man]]'''
+File:Shinyleaf.png|[[File:Insane.png|18px]] '''[[Shinyleaf]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Dreadful
+|icon = Dreadful.png
+|color = #db25ff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Jellybean Jar.png|[[File:Dreadful.png|18px]] '''[[Jellybean Jar]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Terrifying
+|icon = Terrifying.png
+|color = #8b17ff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Sharp.png|[[File:Terrifying.png|18px]] '''[[Sharp]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Strenuous
+|icon = Strenuous.png
+|color = #4048e5
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Poison Cake.png|[[File:Strenuous.png|18px]] '''[[Poison Cake]]'''
+</gallery>
+}}
+
+[[Category:Areas]]

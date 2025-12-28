@@ -1,0 +1,10 @@
+{
+  "name": "Meat Cube",
+  "area": "Warehouse",
+  "difficulty": "normal",
+  "description": "wall flicking, how fun! (Hidden in Warehouse)",
+  "hint": "wall flicking, how fun! (Hidden in Warehouse)",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Meat Cube\n|character = [[File:Meat Cube.png]]\n|difficulty = Normal\n|area = [[Warehouse]]\n|hint = wall flicking, how fun! (Hidden in Warehouse)\n",
+  "location": "realm:Main Realm/Warehouse"
+}

@@ -1,0 +1,27 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Fifteen
+|character=[[File:Fifteen.png|Fifteen]]
+|difficulty=[[File:Effortless.png]] <span style="color:#17a897">'''Effortless'''</span>
+|area=[[Floating Island]]
+|hint=uhhh I forgor sorry
+|additionalinfo
+|previousdifficulties = [[File:Easy.png]] <span style="color:#10da8d">'''Easy'''</span>
+}}
+
+== Character ==
+Fifteen is an Algebralian who resembles the number Fifteen.
+
+== Obtaining ==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+By her cabin on the [[Floating Island]], found near the top left half of the Island.</div>
+</div>
+
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:Floating Island Objects]]

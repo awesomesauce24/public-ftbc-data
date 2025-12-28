@@ -1,0 +1,10 @@
+{
+  "name": "Revolver",
+  "area": "Goiky",
+  "difficulty": "extreme",
+  "description": "high from the ground somewhere, you will need some people to help",
+  "hint": "high from the ground somewhere, you will need some people to help",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Revolver|character=Revolver.png|difficulty=Extreme|area=[[Goiky]]|hint=high from the ground somewhere, you will need some people to help",
+  "location": "realm:Main Realm/Goiky"
+}

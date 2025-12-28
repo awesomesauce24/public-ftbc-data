@@ -1,0 +1,11 @@
+
+==Character==
+Amethysty is a character in Find the BFB Characters which appears as amethyst inside of a rock.
+==Obtaining==
+{{CharacterInfo|name=Amethysty|character=Ame.png|difficulty=Normal|area=Tropical Islands|hint=cool, i guess}}
+
+{{Spoiler|text=Once you spawn into Tropical Islands (Teleport -> Tropical Islands), head over to the island which has a bridge off of it. Then, look around the bottom of the island until you see Amethyst poking out, which symbolizes Amethysty.}}
+[[Category:Objects]]
+[[Category:Normal Objects]]
+[[Category:Tropical Islands Objects]]
+[[Category:Main Realm Objects]]

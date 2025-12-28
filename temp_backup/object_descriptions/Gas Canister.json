@@ -1,0 +1,10 @@
+{
+  "name": "Gas Canister",
+  "area": "Magma Canyon",
+  "difficulty": "normal",
+  "description": "I HATE WHEN MY GAS CANS",
+  "hint": "I HATE WHEN MY GAS CANS",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Gas Canister\n|character = [[File:Missing PNG.png]]\n|difficulty = Normal\n|area = [[Magma Canyon]]\n|hint = I HATE WHEN MY GAS CANS\n",
+  "location": "realm:Magma Canyon"
+}

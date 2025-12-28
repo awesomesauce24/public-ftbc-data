@@ -1,0 +1,12 @@
+{
+  "name": "Skateboard",
+  "area": "Level 153",
+  "difficulty": "dreadful",
+  "description": "some people are blessed with talent",
+  "hint": "some people are blessed with talent",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Skateboard\n|character=[[File:Skateboard.png]]\n|difficulty=[[File:Dreadful.png]] <span style=\"color:#db25ff\">'''<b>Dreadful</b>'''</span>\n|area=[[Level 153]]\n|hint=some people are blessed with talent\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "subrealm:The Backrooms/Level 153"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Amber",
+  "area": "Cherry Grove",
+  "difficulty": "terrifying",
+  "description": "Remember this:",
+  "hint": "Remember this:",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Amber|character=[[File:Amber.png|thumb]]|difficulty=<span style=\"color:#8b17ff\">'''Terrifying'''</span> [[File:Terrifying.png]]|area=[[Cherry Grove]]|hint=Remember this:\nXYYXZWYXZXZWZ",
+  "location": "realm:Cherry Grove"
+}

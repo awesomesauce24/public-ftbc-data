@@ -1,0 +1,13 @@
+{{CharacterInfo|name=Fries|character=[[File:Fries.png]]|difficulty=Effortless|area=[[City]]|hint=i cant belive he managed to get his own resturant!}}
+==Character==
+Just a cardboard cup of fries. 
+==Obtaining==
+Inside Fries Restaurant at [[City]].
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:City Objects]]
+[[Category:BFDIA Contestants]]
+[[Category:IDFB Contestants]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]
+[[Category:Main Realm Objects]]

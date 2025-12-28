@@ -1,0 +1,10 @@
+{
+  "name": "Torn Pillow",
+  "area": "Evil Forest",
+  "difficulty": "dreadful",
+  "description": "People have asked me why I added this to the evil forest... and to that I say that pillow is a complete menace.",
+  "hint": "People have asked me why I added this to the evil forest... and to that I say that pillow is a complete menace.",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Torn Pillow|character=[[File:Torn Pillow.png|thumb]]|difficulty=Dreadful|area=[[Evil Forest]]|hint=People have asked me why I added this to the evil forest... and to that I say that pillow is a complete menace.",
+  "location": "realm:Evil Forest"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Cali",
+  "area": "Basement",
+  "difficulty": "remorseless",
+  "description": "find 4 binary codes across the basement. also uhh.. ignore the fact that this is just calculator 2",
+  "hint": "find 4 binary codes across the basement. also uhh.. ignore the fact that this is just calculator 2",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Cali\n|character = [[File:Cali.png]]\n|difficulty = Remorseless\n|area = [[The Basement]]\n|hint = find 4 binary codes across the basement. also uhh.. ignore the fact that this is just calculator 2\n",
+  "location": "subrealm:Yoyle Factory/Basement"
+}

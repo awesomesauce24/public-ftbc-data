@@ -1,0 +1,10 @@
+{
+  "name": "Flour",
+  "area": "Magma Canyon",
+  "difficulty": "hard",
+  "description": "Unrelated but I know what you did 5 minutes ago.",
+  "hint": "Unrelated but I know what you did 5 minutes ago.",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Flour|character=[[File:Flour.png|thumb]]|difficulty=Hard|area=[[Magma Canyon]]|hint=Unrelated but I know what you did 5 minutes ago.",
+  "location": "realm:Magma Canyon"
+}

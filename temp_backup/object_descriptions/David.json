@@ -1,0 +1,12 @@
+{
+  "name": "David",
+  "area": "Goiky",
+  "difficulty": "intermediate",
+  "description": "noclip into something unexpected",
+  "hint": "noclip into something unexpected",
+  "previous_difficulties": [
+    "Hard"
+  ],
+  "wiki_markup": "name=David|character=<gallery>\nHD_David.webp|Current\nDavid old.webp|Old\n</gallery>\n|difficulty=Intermediate|area=[[Goiky]]|hint=noclip into something unexpected|additionalinfo|previousdifficulties=<span style=\"color:#ff7e21\">'''Hard'''</span> [[File:Hard.png]]",
+  "location": "realm:Main Realm/Goiky"
+}

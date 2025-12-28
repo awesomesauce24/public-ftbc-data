@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Spider Ball|character=[[File:Spider Ball.png]]|difficulty=Extreme|area=[[Classic Paradise]]|hint=that sure is a spider ball alright}}
+==Character==
+a ball with 8 legs that resembles a spider.
+==Obtaining==
+It will be Near an opening at the bottom of the cave [[Meatloaf]] is in.
+
+[[Category:Objects]]
+[[Category:Extreme Objects]]
+[[Category:Classic Paradise Objects]]

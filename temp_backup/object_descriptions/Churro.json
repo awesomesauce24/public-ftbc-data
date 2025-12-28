@@ -1,0 +1,10 @@
+{
+  "name": "Churro",
+  "area": "Barren Desert",
+  "difficulty": "easy",
+  "description": "yeah",
+  "hint": "yeah",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Churro|character=[[File:Churro.png|thumb]]|difficulty=Easy|area=[[Barren Desert]]|hint=yeah",
+  "location": "realm:Barren Desert"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "TV",
+  "area": "City",
+  "difficulty": "easy",
+  "description": "go down the stairs twice",
+  "hint": "go down the stairs twice",
+  "previous_difficulties": [],
+  "wiki_markup": "name = TV\n|character =<gallery>\nTV.webp|Current\nTV old.png|Old\n</gallery>\n|difficulty = Easy\n|area = [[City]]\n|hint = go down the stairs twice\n",
+  "location": "realm:Main Realm/City"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "One",
+  "area": "Number Playground",
+  "difficulty": "moderate",
+  "description": "on top of something.",
+  "hint": "on top of something.",
+  "previous_difficulties": [
+    "Normal"
+  ],
+  "wiki_markup": "name = One\n|character =<gallery>\nOne New.webp|Current\nOne.png|Old\n</gallery>\n|difficulty = Moderate\n|area = [[Number Playground]]\n|hint = on top of something.\n|additionalinfo|previousdifficulties=<span style=\"color:#a1ff27\">'''Normal'''</span> [[File:Normal.png]]\n",
+  "location": "realm:Main Realm/Number Playground"
+}

@@ -1,0 +1,24 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Barren_desert.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#ffb14a,#5b2d00); --theme-accent-label-color:#000000;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo|name=Cheese Slice
+|character=<gallery>
+Cheese Slice.png
+</gallery>
+|difficulty=[[File:Normal.png|link=]] <span style="color:#a1ff27">'''<b>Normal</b>'''</span>
+|area=[[Barren Desert]]
+|hint=look in the abandoned hamlet
+}}
+==Info==
+a block of cheddar cheese.
+
+==Obtaining==
+Inside the house near [[Bow And Arrow]]. Use the outside walls to obtain him, as he is under a table.
+
+[[Category:Normal Objects]]
+[[Category:Objects]]
+[[Category:Barren Desert Objects]]
+
+</div>
+</div>

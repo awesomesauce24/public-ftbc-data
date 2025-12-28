@@ -1,0 +1,16 @@
+{{CharacterInfo
+|name=Santa Hat
+|character=[[File:Santa Hat.png]]
+|difficulty=Difficult|area=[[Snowy]]
+|hint=get to santa hat's sleigh!
+}}
+
+== Character ==
+Santa Hat is a festive red-and-white hat with a fluffy trim and pom-pom.
+
+== Obtaining ==
+To obtain Santa Hat, get to his sleigh in snowy (climb the disappearing obby)
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Snowy Objects]]
+[[Category:Difficult Objects]]

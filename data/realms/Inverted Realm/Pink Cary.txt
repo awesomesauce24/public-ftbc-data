@@ -1,0 +1,27 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Inverted-realm-image.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#C45508,#EEDC5B); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Pink Cary
+|character=[[File:Pink Cary.png]]
+|difficulty=[[File:Extreme.png|link=]] <span style="color:#ed2727">'''<b>Extreme</b>'''</span>
+|area=[[Inverted]]
+|hint=NO WAY IT'S PINK CARY HIMSELF!!!
+}}
+
+== Info ==
+Cary Huangs oc, caryKH, but Pink.
+
+== Obtaining ==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+go to the upside down Hotel. From there, there is a button behind the counter with the cash register. It should teleport you to him.</div>
+</div>
+
+[[Category:Extreme Objects]]
+[[Category:Objects]]
+[[Category:Inverted Realm Objects]]
+</div>
+</div>

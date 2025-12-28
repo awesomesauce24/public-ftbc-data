@@ -1,0 +1,15 @@
+{{stub}}
+{{CharacterInfo|name=Stop Light|character=[[File:Stop light.webp|thumb]]|difficulty=Normal|area=[[Yoyleland]]|hint=PLACEHOLDER}}
+
+== Character ==
+A stoplight with 3 faces.
+
+== Obtaining ==
+{{Spoiler|text=In Yoyleland, Climb up the top of a stoplight near the Yoyle Needy.}}
+
+== Trivia ==
+
+* This was the 500th page created on the ftbc wiki.
+[[Category:Normal Objects]]
+[[Category:Yoyleland Objects]]
+[[Category:Objects]]

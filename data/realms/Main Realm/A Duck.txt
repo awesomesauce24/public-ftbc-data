@@ -1,0 +1,15 @@
+{{CharacterInfo|name=A Duck|difficulty=Moderate|area=[[Hotel]]|hint=who doesnt play with them in the bath?|character=[[File:A Duck.png]]}}
+
+==Character==
+'''A Duck''' is a contestant in [https://battlefordreamisland.fandom.com/wiki/BFDI_Mini BFDI Mini], originating as a recommended character from [https://battlefordreamisland.fandom.com/wiki/Insectophobe's_Nightmare_3Insectophobe's Nightmare 3]. '''A Duck''' has strange powers, such as the ability to teleport.
+
+==Obtaining==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+Head to the [[Hotel]]'s green floor where he is in a bathtub in the room farthest from the staircase. Make sure not to get teleported to [[Football Player]]. </div>
+</div>
+[[Category:Objects]]
+[[Category:Moderate Objects]]
+[[Category:Hotel Objects]]
+[[Category:Main Realm Objects]]

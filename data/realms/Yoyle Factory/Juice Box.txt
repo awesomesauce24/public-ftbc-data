@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Juice Box|character=[[File:JUICEBOX.webp|thumb]]|difficulty=Insane|area=[[Yoyle Factory]]|hint=Take a sip}}
+
+==Character==
+A white orange juice box with a blue stripe on the left side and purple bendy straw
+
+==Obtaining==
+Behind a plant near [[Coolboy]] room
+[[Category:Objects]]
+[[Category:Insane Objects]]
+[[Category:Yoyle Factory Objects]]

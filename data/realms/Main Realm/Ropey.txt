@@ -1,0 +1,7 @@
+== Character ==
+A swirly brown line with a face. Not much to say about this!
+== Obtaining ==
+Behind a bush in [[Goiky]]{{CharacterInfo|name=Ropey|character=Ropey.png|difficulty=Easy|area=Goiky|hint=they're such a silly slithering little rope}}
+[[Category:Objects]]
+[[Category:Goiky Objects]]
+[[Category:Easy Objects]]

@@ -1,0 +1,10 @@
+{
+  "name": "Stop Light",
+  "area": "Yoyleland",
+  "difficulty": "normal",
+  "description": "PLACEHOLDER",
+  "hint": "PLACEHOLDER",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Stop Light|character=[[File:Stop light.webp|thumb]]|difficulty=Normal|area=[[Yoyleland]]|hint=PLACEHOLDER",
+  "location": "realm:Yoyleland"
+}

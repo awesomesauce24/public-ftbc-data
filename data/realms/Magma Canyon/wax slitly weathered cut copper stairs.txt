@@ -1,0 +1,17 @@
+{{CharacterInfo
+|name = wax slitly weathered cut copper stairs
+|character = [[File:wax slitly weathered cut copper stairs.png]]
+|difficulty = Hard
+|area = [[Magma Canyon]]
+|hint = special thanks to Noobie_Sonic2 for this incredible idea
+}}
+
+== Obtaining ==
+Look near a black hole at the far end of the map. Drop down.
+
+== Info ==
+poorly looking copper stairs with scribbles all over.
+
+[[Category:Hard Objects]]
+[[Category:Magma Canyon Objects]]
+[[Category:Objects]]

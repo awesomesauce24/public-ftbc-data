@@ -1,0 +1,12 @@
+{
+  "name": "Orb",
+  "area": "Floating Island",
+  "difficulty": "easy",
+  "description": "floating orb, floating island",
+  "hint": "floating orb, floating island",
+  "previous_difficulties": [
+    "Normal"
+  ],
+  "wiki_markup": "name=Orb|character=[[File:Orb.png]]|difficulty=Easy|area=[[Floating Island]]|hint=floating orb, floating island|additionalinfo|previousdifficulties=<span style=\"color:#a1ff27\">'''Normal'''</span> [[File:Normal.png]]",
+  "location": "realm:Main Realm/Floating Island"
+}

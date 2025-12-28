@@ -1,0 +1,10 @@
+{
+  "name": "Microwave",
+  "area": "City",
+  "difficulty": "extreme",
+  "description": "chilling at the worst possible spot (Start in City)",
+  "hint": "chilling at the worst possible spot (Start in City)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Microwave\n|character=[[File:Microwave.png]]\n|difficulty=Extreme\n|area=[[City]]\n|hint=chilling at the worst possible spot (Start in City)\n",
+  "location": "realm:Main Realm/City"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Nickel",
+  "area": "Snowy",
+  "difficulty": "easy",
+  "description": "on the ground somewhere.",
+  "hint": "on the ground somewhere.",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Nickel|character=[[File:Nickel.png]]|difficulty=Easy|area=[[Snowy]]|hint=on the ground somewhere.",
+  "location": "realm:Main Realm/Snowy"
+}

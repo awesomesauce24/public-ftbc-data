@@ -1,0 +1,12 @@
+{
+  "name": "Balloony",
+  "area": "City",
+  "difficulty": "normal",
+  "description": "try jumping off of a high building to it",
+  "hint": "try jumping off of a high building to it",
+  "previous_difficulties": [
+    "Hard"
+  ],
+  "wiki_markup": "name = Balloony\n|character = [[File:Balloony.png]]\n|difficulty = Normal\n|area = [[City]]\n|hint = try jumping off of a high building to it\n|additionalinfo|previousdifficulties=<span style=\"color:#ff7e21\">'''Hard'''</span> [[File:Hard.png]]\n",
+  "location": "realm:Main Realm/City"
+}

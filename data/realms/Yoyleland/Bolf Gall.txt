@@ -1,0 +1,12 @@
+{{CharacterInfo|name=Bolf Gall|character=[[File:Bolf gall.png]]|difficulty=Unforgiving|area=[[Yoyleland]]|hint=this one's for vextono}}
+
+== Character ==
+An inverted version of [[Golf Ball]]
+
+== Obtaining ==
+Complete the obby on the side of the building [[paragraph]] is on in [[Yoyleland]].
+
+
+[[Category:Objects]]
+[[Category:Unforgiving Objects]]
+[[Category:Yoyleland Objects]]

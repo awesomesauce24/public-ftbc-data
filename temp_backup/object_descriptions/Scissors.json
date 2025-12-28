@@ -1,0 +1,12 @@
+{
+  "name": "Scissors",
+  "area": "Floating Island",
+  "difficulty": "effortless",
+  "description": "not sure if you can really just cut a tree down like that (Hidden in Floating Island)",
+  "hint": "not sure if you can really just cut a tree down like that (Hidden in Floating Island)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Scissors\n|character=[[File:Scissors.png|thumb]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Floating Island]]\n|hint=not sure if you can really just cut a tree down like that (Hidden in Floating Island)\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Floating Island"
+}

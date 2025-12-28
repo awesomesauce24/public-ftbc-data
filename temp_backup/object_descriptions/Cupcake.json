@@ -1,0 +1,10 @@
+{
+  "name": "Cupcake",
+  "area": "Midnight Rooftops",
+  "difficulty": "hard",
+  "description": "i was just coming to pick up a human",
+  "hint": "i was just coming to pick up a human",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Cupcake\n|character=[[File:Cupcake.png]]\n|difficulty=[[File:Hard.png]] <span style=\"color:#FF7700\">'''<b>Hard</b>'''</span>\n|area=[[Midnight Rooftops]]\n|hint=i was just coming to pick up a human\n",
+  "location": "realm:Midnight Rooftops"
+}

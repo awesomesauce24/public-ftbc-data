@@ -1,0 +1,23 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Magma Canyon.png}}}|{{{Size|2000px}}}]] </div> <div style="--theme-accent-color:-webkit-linear-gradient(#954116,#e93b14); --theme-accent-label-color:#ffffff;">
+
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name = Erlenmeyer
+|character = [[File:Erlenmeyer.png]]
+|difficulty = [[File:Insane.png]] <span style="color:#ff1c95">'''Insane'''</span>
+|area = [[Magma Canyon]]
+|hint = oh boy this one sure is so much fun
+|gender=
+}}
+
+== Info ==
+A light teal Erlenmeyer flask with a wide base, narrow top, and a happy face.
+
+== Obtaining ==
+Start near [[Mr. Feet]], and get to the crane behind the map. Near the lava is an opaque yellow platform. Drop down and use click-to-move to reach the concrete area that the platform is facing.
+
+[[Category:Insane Objects]]
+[[Category:Magma Canyon Objects]]
+[[Category:Objects]]
+[[Category:BFDI Limbs]]

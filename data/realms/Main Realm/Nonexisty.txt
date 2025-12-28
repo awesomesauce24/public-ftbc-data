@@ -1,0 +1,17 @@
+{{CharacterInfo|name=Nonexisty|character=[[File:Nonexisty.png]]|difficulty=Arduous|area=[[Goiky]]|hint=up in the sky??}}
+
+==Character==
+Nonexisty is a running gag character from BFDI.
+
+==Obtaining==
+Start at [[Texas Donut]]. There should be an invisible platform to the right of him, which leads to Nonexisty.
+
+==Obtaining (Old way)==
+Drop down in [[Goiky]] here:
+
+[[File:Nugget.png|348x348px]]
+[[Category:Objects]]
+[[Category:Arduous Objects]]
+[[Category:Floating Island Objects]]
+[[Category:Main Realm Objects]]
+[[Category:TPOT Debuter]]

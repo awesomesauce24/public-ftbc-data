@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Blue Screen of Death|character=[[File:Blue Screen Of Death.png]]|difficulty=Strenuous|area=[[Yoyle Factory]]|hint=YOUR PC RAN INTO AN ERROR AND NEEDS TO RESTART. RESTART. RESTART. RESTART. RESTART. RESTART. (Made by NTailsGoBrrrrr)|creator=[https://www.roblox.com/users/4240237922/profile This_manisnothim]}}
+==Character==
+Made by [https://www.roblox.com/users/4240237922/profile @NTailsGoBrrrrr]
+
+==Obtaining==
+{{Spoiler|text=In Yoylefactory, activate the button to reach rubber ball. If you touch it there is a chance you get bounced on the roof outside the yoylefactory. On the roof look at the edge and you should see -8 ball just floating. If you touch him, you get blue screen of death}}
+
+[[Category:Objects]]
+[[Category:Strenuous Objects]]
+[[Category:Yoyle Factory Objects]]

@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Emerald|character=[[File:Emerald.png]]|difficulty=Difficult|area=[[Classic Paradise]]|hint=cave|additionalinfo|previousdifficulties=<span style="color:#ED2727">'''Extreme'''</span> [[File:Extreme.png]]}}
+==Character==
+An unhappy emerald that looks like they just woke up on a Monday morning.
+==Obtaining==
+In the 1st floor of the cave in [[Classic Paradise]].
+
+[[Category:Objects]]
+[[Category:Difficult Objects]]
+[[Category:Classic Paradise Objects]]

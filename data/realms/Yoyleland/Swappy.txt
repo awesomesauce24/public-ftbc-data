@@ -1,0 +1,13 @@
+{{CharacterInfo|name=Swappy|character=<gallery>
+Swappy New.webp|Current
+Swappy.png|Old
+</gallery>
+|difficulty=Easy|area=[[Yoyleland]]|hint=i have no idea what to put here (pun intended)}}
+==Character==
+Happy Question Mark with hands and legs
+==Obtaining==
+
+{{Spoiler|text= It's behind the cream building }}
+[[Category:Easy Objects]]
+[[Category:Yoyleland Objects]]
+[[Category:Objects]]

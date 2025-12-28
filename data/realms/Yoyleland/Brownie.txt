@@ -1,0 +1,11 @@
+{{stub}}
+{{CharacterInfo|name=Brownie|character=[[Brownie.png|thumb]]|difficulty=Normal|area=[[Yoyleland]]|hint=PLACEHOLDER|additionalinfo|previousdifficulties=<span style="color:#ED2727">'''Extreme'''</span> [[File:Extreme.png]]}}
+
+== Character ==
+A brownie with arms and legs.
+
+== Obtaining ==
+{{Spoiler|text=In Yoyleland,Go up a tree near [[Aloe Vera]] and Brownie will be on the back of a roof.}}
+[[Category:Normal Objects]]
+[[Category:Yoyleland Objects]]
+[[Category:Objects]]

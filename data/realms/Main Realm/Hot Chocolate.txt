@@ -1,0 +1,19 @@
+{{CharacterInfo
+|name=Hot Chocolate
+|character=[[File:Hot Chocolate.png]]
+|difficulty=Moderate
+|area=[[Snowy]]
+|hint=obviously someone would want this during the cold
+|additionalinfo|previousdifficulties=<span style="color:#a1ff27">'''Normal'''</span> [[File:Normal.png]]
+}}
+
+== Character ==
+Hot Chocolate appears as a beige mug filled with marshmallows, sporting an annoyed expression and simple black limbs.
+
+== Obtaining ==
+Hot Chocolate is located inside [[Naily]]'s cabin in Snowy. Look to the right side of the fireplace. He’s sitting on the floor beside it.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Moderate Objects]]
+[[Category:Snowy Objects]]

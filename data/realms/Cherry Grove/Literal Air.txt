@@ -1,0 +1,11 @@
+{{CharacterInfo|name=Literal Air|character=[[File:LiteralAir.webp|thumb]]|difficulty=Terrifying|area=[[Cherry Grove]]|hint=Jump down and you may find it}}
+
+==Character==
+A bunch of white squiggles with face
+
+==Obtaining==
+Go to [[Jelly Bread]] and go down to the area with the boxes, jump down touching two walls. It's right there: [[File:Literal Air location.jpg|200px]]<br>
+I was to lazy to go in game so I just take screenshot from the tutorial and I just realized that this tutorial is old so there's no box area, but the location of objects is same so whatever
+[[Category:Terrifying Objects]]
+[[Category:Cherry Grove Objects]]
+[[Category:Objects]]

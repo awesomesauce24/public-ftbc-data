@@ -1,0 +1,29 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Onigiri
+|character=[[File:Onigiri.png]]
+|difficulty=[[File:Unforgiving.png]] <span style="color:#ff143f">'''Unforgiving'''</span>
+|area=[[City]]
+|hint=don't even think about pushing that button... (Start in City)
+|additionalinfo
+|previousdifficulties= [[File:Extreme.png]] <span style="color:#ED2727">'''Extreme'''</span>
+}}
+
+== Character ==
+Onigiri appears as a triangular rice ball with seaweed on its front and a cheerful expression, Onigiri is known to love cleaning but they are silent like [[Teardrop]].
+
+== Obtaining ==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+Go to Fries' Restaurant and press the emergency button behind the counter. Complete the obby that appears. Onigiri is located at the end.</div>
+</div>
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Unforgiving Objects]]
+[[Category:City Objects]]
+[[Category:TPOT Debuter]]

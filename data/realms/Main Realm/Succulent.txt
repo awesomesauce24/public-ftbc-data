@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Succulent|character=[[File:Succulent.png]]|difficulty=Intermediate|area=[[Floating Island]]|hint=THIS IS NOT HOW GRAVITY WORKS I THINK (Hidden in Floating Island)|additionalinfo|previousdifficulties=<span style="color:#ff7e21">'''Hard'''</span> [[File:Hard.png]]}}
+==Info==
+People really struggle with this object weirdly enough; also just noticed that there are 4 objects which are just pots with a plant.
+==Obtainment==
+Under the grass at the edge of the island near [[Flower Cake]].
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Floating Island Objects]]
+[[Category:Intermediate Objects]]

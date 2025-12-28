@@ -1,0 +1,55 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+  [[File:{{{File|Magma Canyon.png}}}|{{{Size|2000px}}}]]
+</div>
+
+<div style="--theme-accent-color:-webkit-linear-gradient(#ff6a00,#b30000); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+
+<div style="text-align:center; margin: 10px 0 18px 0;">
+  <span style="font-size:210%; font-weight:900; letter-spacing:0.6px; color:#ffffff;
+  text-shadow: 0 0 10px rgba(255,106,0,0.75), 0 0 18px rgba(179,0,0,0.55), 0 0 30px rgba(0,0,0,0.45);">
+    Mr. Feet
+  </span><br>
+  <span style="font-size:95%; color:#ffe1d3; opacity:0.95; text-shadow: 0 0 10px rgba(255,106,0,0.25);">
+    Hard • Magma Canyon • [[Yellow Face]]
+  </span>
+</div>
+
+{{CharacterInfo
+|name=Mr. Feet
+|character=[[File:MrFeet.png|thumb]]
+|difficulty=[[File:Hard.png]] <span style="color:#ff7e21">'''Hard'''</span>
+|area=[[Magma Canyon]]
+|hint=TBA}}
+
+<div style="margin-top: 10px;">
+==<span style="color:#ffffff; text-shadow: 0 0 10px rgba(255,106,0,0.65), 0 0 18px rgba(179,0,0,0.45);">Info</span>==
+</div>
+
+<div style="
+  margin: 10px 0 14px 0;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,106,0,0.35);
+  background: rgba(20,6,0,0.55);
+  box-shadow: 0 0 18px rgba(255,106,0,0.16);
+">
+<span style="font-size:105%; color:#ffe1d3; line-height:1.6;
+text-shadow: 0 0 12px rgba(0,0,0,0.35);">
+''Boy oh boy, where do I even begin. Mr Feet… you haven't done a single thing and your already in the spotlight. you are admirable, the way you sit on top of that rock watching over [[Magma Canyon]] like your here to protect everyone who lives here, It inspires me to be a better person, whenever you come into a room with that big friendly smile, the crowd erupts in cheer and celebration, Mr Feet, I hope you know you are an ICON to [[Magma Canyon]] and shall remain that way for years to come.
+</span>
+</div>
+
+<div style="margin-top: 10px;">
+==<span style="color:#ffffff; text-shadow: 0 0 10px rgba(255,106,0,0.65), 0 0 18px rgba(179,0,0,0.45);">Obtaining</span>==
+</div>
+<span style="color:#fff4ee; text-shadow: 0 0 10px rgba(0,0,0,0.25);">
+Go to the island [[Bababa]] is on and obby to the top of the mountain, [[Mr. Feet]] Will be near the top on a rock.
+</span>
+
+[[Category:Hard Objects]]
+[[Category:Objects]]
+[[Category:Magma Canyon Objects]]
+<div>
+</div>

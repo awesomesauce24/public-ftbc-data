@@ -1,0 +1,10 @@
+{
+  "name": "Spider Ball",
+  "area": "Classic Paradise",
+  "difficulty": "extreme",
+  "description": "that sure is a spider ball alright",
+  "hint": "that sure is a spider ball alright",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Spider Ball|character=[[File:Spider Ball.png]]|difficulty=Extreme|area=[[Classic Paradise]]|hint=that sure is a spider ball alright",
+  "location": "realm:Classic Paradise"
+}

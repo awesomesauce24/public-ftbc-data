@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Paint Palette|character=[[File:Paint Palette.png]]|difficulty=Normal|area=[[Hotel]]|hint=it's in something pink..}}
+==Character==
+It is a paint palette with the color red, yellow, green, blue, purple, and pink.
+==Obtaining==
+You might get this on accident, but it's near the entrance to the TEAMMATE's building near the CRC at [[Hotel]].
+[[Category:Objects]]
+[[Category:Normal Objects]]
+[[Category:Hotel Objects]]

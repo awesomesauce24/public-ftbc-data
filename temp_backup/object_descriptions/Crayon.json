@@ -1,0 +1,10 @@
+{
+  "name": "Crayon",
+  "area": "Number Playground",
+  "difficulty": "easy",
+  "description": "on a piece of paper (Hidden in Number Playground)",
+  "hint": "on a piece of paper (Hidden in Number Playground)",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Crayon\n|character = [[File:Crayon.png]]\n|difficulty = Easy\n|area = [[Number Playground]]\n|hint = on a piece of paper (Hidden in Number Playground)\n",
+  "location": "realm:Main Realm/Number Playground"
+}

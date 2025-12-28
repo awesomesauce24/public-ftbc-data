@@ -1,0 +1,133 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Snowy.png|2700px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.70); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+{{Zoneinfobox
+| title1 = Snowy
+| image1 = [[File:Snowy.png]]
+| caption1 = Example
+| objects = 27
+| creator = FTBC Devs
+| theme = Snow, Winter,
+| average_difficulty = [[File:Moderate.png|frameless|Moderate]] <span style="color:#07FC55">'''Moderate'''</span>
+| bordering_zones = [[City]], [[Goiky]], [[Jungle]]
+| realms =
+| subzones = [[Tri-Tri's Room]]
+}}
+
+== Info ==
+[[Snowy]] is a Cold area covered in snow and ice. This biome borders [[Goiky]], [[Jungle]], and [[City]]. This area has a few cabins across it which have some objects inside. There is also a ball pushing puzzle for [[Snowball]] east of the biome.
+
+{{Clear}}
+
+== Objects ==
+{{ObjectDifficultyList
+|name = Effortless
+|icon = Effortless.png
+|color = #17a897
+|total = 11
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Bacon.png|[[File:Effortless.png|18px]] '''[[Bacon]]'''
+File:Hot Cocoa.png|[[File:Effortless.png|18px]] '''[[Hot Cocoa]]'''
+File:Ice Woody.png|[[File:Effortless.png|18px]] '''[[Ice Woody]]'''
+File:Icey.png|[[File:Effortless.png|18px]] '''[[Icey]]'''
+File:Naily.png|[[File:Effortless.png|18px]] '''[[Naily]]'''
+File:Saw.png|[[File:Effortless.png|18px]] '''[[Saw]]'''
+File:Selfie Dog.png|[[File:Effortless.png|18px]] '''[[Selfie Dog]]'''
+File:Snare Drum.png|[[File:Effortless.png|18px]] '''[[Snare Drum]]'''
+File:Snowman.png|[[File:Effortless.png|18px]] '''[[Snowman]]'''
+File:Trombone.webp|[[File:Effortless.png|18px]] '''[[Trombone]]'''
+File:Woody.png|[[File:Effortless.png|18px]] '''[[Woody]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Easy
+|icon = Easy.png
+|color = #10DA8D
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Nickel.png|[[File:Easy.png|18px]] '''[[Nickel]]'''
+File:Ornament.png|[[File:Easy.png|18px]] '''[[Ornament]]'''
+File:SaulStories.webp|[[File:Easy.png|18px]] '''[[SaulStories]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Moderate
+|icon = Moderate.png
+|color = #07fc55
+|total = 5
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Charcoal.png|[[File:Moderate.png|18px]] '''[[Charcoal]]'''
+File:Happy Birthday Card.png|[[File:Moderate.png|18px]] '''[[Happy Birthday Card]]'''
+File:Hot Chocolate.png|[[File:Moderate.png|18px]] '''[[Hot Chocolate]]'''
+File:Pencil.png|[[File:Moderate.png|18px]] '''[[Pencil]]'''
+File:Vibe Check X.png|[[File:Moderate.png|18px]] '''[[Vibe Check X]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Normal
+|icon = Normal.png
+|color = #a1ff27
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Bracelety.png|[[File:Normal.png|18px]] '''[[Bracelety]]'''
+File:Firey Jr..png|[[File:Normal.png|18px]] '''[[Firey Jr.]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Hard
+|icon = Hard.png
+|color = #FF7700
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Ice Cube.png|[[File:Hard.png|18px]] '''[[Ice Cube]]'''
+File:Tri-Tri.png|[[File:Hard.png|18px]] '''[[Tri-Tri]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Difficult
+|icon = Difficult.png
+|color = #f54f25
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Hailairhous.png|[[File:Difficult.png|18px]] '''[[Hailairhous]]'''
+File:Santa Hat.png|[[File:Difficult.png|18px]] '''[[Santa Hat]]'''
+File:Snowball.png|[[File:Difficult.png|18px]] '''[[Snowball]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Extreme
+|icon = Extreme.png
+|color = #ed2727
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Gashapon Capsule.png|[[File:Extreme.png|18px]] '''[[Gashapon Capsule]]'''
+File:Irregular Polygon.png|[[File:Extreme.png|18px]] '''[[Irregular Polygon]]'''
+</gallery>
+}}
+
+== Trivia ==
+*Snowy was one of the three zones to exist in [[Find the BFB Characters - Legacy]], the others being [[City]] and [[Goiky]].
+[https://www.youtube.com/watch?v=mqFKUA1XHGY Snowy OST]
+[[Category:Areas]]

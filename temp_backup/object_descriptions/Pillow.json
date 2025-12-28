@@ -1,0 +1,10 @@
+{
+  "name": "Pillow",
+  "area": "Goiky",
+  "difficulty": "effortless",
+  "description": "Sleeping (hidden in Goiky)",
+  "hint": "Sleeping (hidden in Goiky)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Pillow|character=[[File:Pillow.png|thumb]]|difficulty=Effortless|area=[[Goiky]]|hint=Sleeping (hidden in Goiky)",
+  "location": "realm:Main Realm/Goiky"
+}

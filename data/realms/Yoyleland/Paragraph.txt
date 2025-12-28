@@ -1,0 +1,25 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Yoyleland.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#cd58e3,#70287a); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Paragraph
+|character=[[Paragraph.png|thumb]]
+|difficulty=[[File:Intermediate FTBC.png]] <span style="color:#ffb700">'''Intermediate'''</span>
+|area=[[Yoyleland]]
+|hint=PLACEHOLDER
+|additionalinfo
+|previousdifficulties = 
+[[File:Extreme.png]] <span style="color:#ed2727">'''Extreme'''</span>
+[[File:Hard.png]] <span style="color:#ff7e21">'''Hard'''</span>
+}}
+
+== Character ==
+Once upon a time, there was a man named Paragraph, who traveled the world to find its deepest secrets, and one day he found my Morbius DVD collectio-
+
+== Obtaining ==
+In [[Yoyleland]], go to where [[Brownie]] is, there should be a tightrope to Paragraph.
+
+[[Category:Intermediate Objects]]
+[[Category:Objects]]
+[[Category:Yoyleland Objects]]

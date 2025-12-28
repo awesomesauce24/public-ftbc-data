@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Dragonman|character=[[File:Dragonman.webp|thumb]]|difficulty=Terrifying|area=[[Polluted Marshlands]]|hint=dragon 2}}
+== Character ==
+A yellow colored dragon located in [[Polluted Marshlands|polluted marshlands]] for some reason
+== Obtaining ==
+{{Spoiler|text=Get to [[Austrain Shield]]'s island. Climb the tree and walk an invisible paths from one to the branches leading to Dragonman. Jump to get it.}}
+[[Category:Terrifying Objects]]
+[[Category:Polluted Marshlands Objects]]
+[[Category:Objects]]

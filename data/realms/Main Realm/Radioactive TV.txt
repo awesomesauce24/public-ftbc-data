@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Radioactive TV|character=[[File:Radioactive TV.png]]|difficulty=Horrifying|area=[[Yoyleland]], [[Abandonment]]|hint=begin by looking through somewhere completely abandoned}}
+==Character==
+'''Radioactive TV''' is a television but with a yellow screen and a nuclear symbol that replaces his left eye.
+==Obtaining==
+{{Spoiler|text=Start in [[Yoyleland]], at the edge of the ramp?, on the right side, you should see "GAME RELEASE DATE", which is "3/11/2022" -> "31122". Go to [[A BFDI|BFDI]]'s place, then get on top of the building (frog jump or from the right side). Then touch the Teleporter to [[Abandonment]]. Type in "31122" on the computer's keyboard (by clicking the buttons) then click the Enter Key. A door should open up behind the monitor.}}
+[[Category:Objects]]
+[[Category:Horrifying Objects]]
+[[Category:Yoyleland Objects]]

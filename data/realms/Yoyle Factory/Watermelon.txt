@@ -1,0 +1,28 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Meltdown.png|2000px]]
+</div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#78ff78,#00ff00); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Watermelon
+|character=[[File:Watermelon.png]]
+|difficulty=[[File:Unforgiving.png|link=]] <span style="color:#ff143f">'''<b>Unforgiving</b>'''</span>
+|area=[[Yoyle Factory/Meltdown|Yoyle Factory]]
+|hint=look below
+|additionalinfo
+|previousdifficulties = [[File:Insane.png]] <span style="color:#ff1c95">'''Insane'''</span>
+}}
+
+== Info ==
+A big Watermelon with a happy expression.
+
+== Obtaining ==
+In the right most area of [[Yoyle Factory/Meltdown|Meltdown]], there will be a few cargo crates. Watermelon will be under the blue one.
+
+[[Category:Unforgiving Objects]]
+[[Category:Objects]]
+[[Category:Yoyle Factory/Meltdown Objects]]
+[[Category:Yoyle Factory Objects]]
+</div>
+</div>

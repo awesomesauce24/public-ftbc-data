@@ -1,0 +1,10 @@
+{
+  "name": "Chestnut",
+  "area": "Fossil Falls",
+  "difficulty": "normal",
+  "description": "(Hidden in Fossil Falls)",
+  "hint": "(Hidden in Fossil Falls)",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Chestnut\n|character = [[Chestnut.png]]\n|difficulty = Normal\n|area = [[Fossil Falls]]\n|hint = (Hidden in Fossil Falls)\n",
+  "location": "realm:Main Realm/Fossil Falls"
+}

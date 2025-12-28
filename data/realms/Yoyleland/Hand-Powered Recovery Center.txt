@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Hand-Powered Recovery Center|character=[[File:Hand-Powered Recovery Center.png]]|difficulty=Effortless|area=[[Yoyleland]]|hint=this isn't really an animate object but okay|additionalinfo|previousdifficulties=<span style="color:#10da8d">'''Easy'''</span> [[File:Easy.png]]}}
+==Character==
+It's Hand-Powered Recovery Center as it says in the name
+==Obtaining==
+{{Spoiler|text=In Yoyleland, that's the only hint that i'll give you. (Someone else give you another hint you can find it on the right side of the island. You have to look for the gray stain :) ). }}
+
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:Yoyleland Objects]]

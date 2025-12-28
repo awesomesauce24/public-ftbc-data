@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Starfruit|character=[[File:Starfruit.png]]|difficulty=Insane|area=[[Polluted Marshlands]]|hint=patience is key}}
+==Character==
+a fruit, shaped like a star. starfruit!
+==Obtaining==
+Wait for an orb to spawn in the star at [[Polluted Marshlands]] (spawns every 5 minutes).
+[[Category:Objects]]
+[[Category:Insane Objects]]
+[[Category:Polluted Marshlands Objects]]

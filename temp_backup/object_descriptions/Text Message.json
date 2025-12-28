@@ -1,0 +1,12 @@
+{
+  "name": "Text Message",
+  "area": "Yoyle Factory",
+  "difficulty": "unforgiving",
+  "description": "Did you get your bogos binted? Wait what",
+  "hint": "Did you get your bogos binted? Wait what",
+  "previous_difficulties": [
+    "Insane"
+  ],
+  "wiki_markup": "name=Text Message\n|character=[[File:Text Message.webp|thumb]]\n|difficulty=[[File:Unforgiving.png]] <span style=\"color:#ff143f\">'''Unforgiving'''</span>\n|area=[[Yoyle Factory]]\n|hint=Did you get your bogos binted? Wait what\n|additionalinfo\n|previousdifficulties = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n",
+  "location": "realm:Yoyle Factory"
+}

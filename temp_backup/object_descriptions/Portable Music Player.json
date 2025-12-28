@@ -1,0 +1,12 @@
+{
+  "name": "Portable Music Player",
+  "area": "City",
+  "difficulty": "difficult",
+  "description": "get into purple face's mouth",
+  "hint": "get into purple face's mouth",
+  "previous_difficulties": [
+    "Extreme"
+  ],
+  "wiki_markup": "name = Portable Music Player\n|character = [[File:Portable Music Player.png]]\n|difficulty = Difficult\n|area = [[City]]\n|hint = get into purple face's mouth\n|additionalinfo|previousdifficulties=<span style=\"color:#ED2727\">'''Extreme'''</span> [[File:Extreme.png]]\n",
+  "location": "realm:Main Realm/City"
+}

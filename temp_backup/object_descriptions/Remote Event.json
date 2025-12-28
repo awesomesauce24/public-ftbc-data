@@ -1,0 +1,10 @@
+{
+  "name": "Remote Event",
+  "area": "Goiky",
+  "difficulty": "remorseless",
+  "description": "they look like they would get along so well!",
+  "hint": "they look like they would get along so well!",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Remote Event\n|character = [[File:Remote Event.png]]\n|difficulty = Remorseless\n|area = [[Nanoboty]]\n|hint = they look like they would get along so well!\n",
+  "location": "realm:Main Realm/Goiky"
+}

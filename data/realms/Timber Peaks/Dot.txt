@@ -1,0 +1,30 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Timber Peaks.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#ff6f00,#b34700); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Dot
+|character=[[File:Dot.png|Dot]]
+|difficulty=[[File:Arduous.png]] <span style="color:#5d0cff">'''Arduous'''</span>
+|area=[[Timber Peaks]]
+|hint=.
+|additionalinfo
+|previousdifficulties = 
+[[File:Remorseless.png]] <span style="color:#2084ff">'''Remorseless'''</span>
+[[File:Strenuous.png]] <span style="color:#4048e5">'''Strenuous'''</span>
+}}
+
+==Character==
+Dot is a small black circle.
+
+==Obtaining==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+Go to [[Virus]]'s room, Dot will be on the wall.
+[[File:Dotloc.png|400x400px]]</div>
+</div>
+
+[[Category:Objects]]
+[[Category:Arduous Objects]]
+[[Category:Timber Peaks Objects]]

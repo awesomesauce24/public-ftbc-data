@@ -1,0 +1,56 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Cherry Grove.png}}}|{{{Size|2000px}}}]] </div> <div style="--theme-accent-color:-webkit-linear-gradient(#896a2e,#cf973a); --theme-accent-label-color:#ffffff;">
+
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Orange Gemstone
+|character=[[File:Orange Gemstone.png]]
+|difficulty=[[File:Remorseless.png]] <span style="color:#2084ff">'''Remorseless'''</span>
+|area=[[Cherry Grove]]
+|hint=start by looking for a poem}}
+==Character==
+Orange gemstone seems to be some sort of tall, orange gem. They seem to have a sort of overconfident face which may hint at their personality.
+==Obtaining==
+{| class="article-table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;"
+!'''How to Find [SPOILERS]'''||
+|-
+|When you enter [[Cherry Grove]], you might see some shapes with a letter next to it. Those shapes are:
+*White Circle F
+*White Diamond B
+*White Triangle A
+*Black Circle S
+*Black Diamond C
+*Black Triangle T
+*Black Square G
+
+Then, if you go past the obby, you'll find a portal frame. On top of it, there's a poem that reads:
+Where petals dance in the gentle Breeze...
+Time slows down in this enchanted Space.
+Under the cherry blossoms' tender Grace...
+Beneath the boughs of cherry blossom Trees...
+
+Casting shadows in a soft, warm Flow...
+A tranquil moment, beyond Compare.
+The sun descends with a golden Glow...
+Nature's symphony in the evening Air...
+
+Now this doesn't sound right, so we need to rearrange the order of the sentences to:
+Beneath the boughs of cherry blossom Trees...
+Where petals dance in the gentle Breeze...
+Under the cherry blossoms' tender Grace...
+Time slows down in this enchanted Space.
+
+The sun descends with a golden Glow...
+Casting shadows in a soft, warm Flow...
+Nature's symphony in the evening Air...
+A tranquil moment, beyond Compare.
+
+Now if you look on the last word on each sentence, there's a Capitalized one. Combining them gives "TBGSGFAC", now if you go to the island where [[Star Coin]] is, on the side of the island you'll see a lighter wall. Go inside that wall and enter the code (with the shapes and TBGSGFAC). When you entered the code successfully, the door will open. Go back to the portal and unlock the invisible wall.
+|}
+
+== Trivia ==
+*As stated in [[Yellow Gemstone]]'s description, [[Yellow Gemstone]] along with this object and [[Amber]] were all added in the same update.
+
+[[Category:Remorseless Objects]]
+[[Category:Objects]]
+[[Category:Cherry Grove Objects]]

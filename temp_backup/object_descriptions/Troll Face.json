@@ -1,0 +1,12 @@
+{
+  "name": "Troll Face",
+  "area": "Factory",
+  "difficulty": "dreadful",
+  "description": "problem?",
+  "hint": "problem?",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Troll Face\n|character=[[File:Troll Face.webp|thumb]]\n|difficulty=[[File:Dreadful.png]] <span style=\"color:#db25ff\">'''Dreadful'''</span>\n|area=[[Boblob's Room]]\n|hint=problem?\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "realm:Main Realm/Factory"
+}

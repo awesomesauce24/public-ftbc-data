@@ -1,0 +1,10 @@
+{
+  "name": "Cardboard",
+  "area": "Barren Desert",
+  "difficulty": "normal",
+  "description": "he's doing stuff n' things",
+  "hint": "he's doing stuff n' things",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Cardboard|character=Cardboard.png|difficulty=Normal|area=Barren Desert|hint=he's doing stuff n' things",
+  "location": "realm:Barren Desert"
+}

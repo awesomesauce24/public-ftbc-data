@@ -1,0 +1,144 @@
+{
+  "objects": [
+    {
+      "name": "Bababa",
+      "difficulty": "normal",
+      "area": "Magma Canyon",
+      "description": "i love myself some bababas",
+      "hint": "i love myself some bababas"
+    },
+    {
+      "name": "Block Party",
+      "difficulty": "normal",
+      "area": "Magma Canyon",
+      "description": "IT'S HIM!!!!!!",
+      "hint": "IT'S HIM!!!!!!"
+    },
+    {
+      "name": "Gas Canister",
+      "difficulty": "normal",
+      "area": "Magma Canyon",
+      "description": "I HATE WHEN MY GAS CANS",
+      "hint": "I HATE WHEN MY GAS CANS"
+    },
+    {
+      "name": "Spongy's Mother",
+      "difficulty": "normal",
+      "area": "Magma Canyon",
+      "description": "<span style=\"color:#ffe1d3; text-shadow: 0 0 10px rgba(0,0,0,0.30);\">so... does this make spongezilla spongy's father?</span>",
+      "hint": "<span style=\"color:#ffe1d3; text-shadow: 0 0 10px rgba(0,0,0,0.30);\">so... does this make spongezilla spongy's father?</span>"
+    },
+    {
+      "name": "Turkey",
+      "difficulty": "normal",
+      "area": "Magma Canyon",
+      "description": "TBA",
+      "hint": "TBA"
+    },
+    {
+      "name": "Flour",
+      "difficulty": "hard",
+      "area": "Magma Canyon",
+      "description": "Unrelated but I know what you did 5 minutes ago.",
+      "hint": "Unrelated but I know what you did 5 minutes ago."
+    },
+    {
+      "name": "Mr. Feet",
+      "difficulty": "hard",
+      "area": "Magma Canyon",
+      "description": "TBA",
+      "hint": "TBA"
+    },
+    {
+      "name": "Pizza",
+      "difficulty": "hard",
+      "area": "Magma Canyon",
+      "description": "after AGES... after objects like pizza jr and cookie pizza... after millions of pizza rcs... WE  GET PIZZA IN GAME AS OBJECT!!!!",
+      "hint": "after AGES... after objects like pizza jr and cookie pizza... after millions of pizza rcs... WE  GET PIZZA IN GAME AS OBJECT!!!!"
+    },
+    {
+      "name": "Shoe",
+      "difficulty": "hard",
+      "area": "Magma Canyon",
+      "description": "1 2 buckle my... wait what is tha",
+      "hint": "1 2 buckle my... wait what is tha"
+    },
+    {
+      "name": "wax slitly weathered cut copper stairs",
+      "difficulty": "hard",
+      "area": "Magma Canyon",
+      "description": "special thanks to Noobie_Sonic2 for this incredible idea",
+      "hint": "special thanks to Noobie_Sonic2 for this incredible idea"
+    },
+    {
+      "name": "Meatball",
+      "difficulty": "extreme",
+      "area": "Magma Canyon",
+      "description": "infinite meatballs",
+      "hint": "infinite meatballs"
+    },
+    {
+      "name": "Na",
+      "difficulty": "extreme",
+      "area": "Magma Canyon",
+      "description": "we ALL want davidland realm!",
+      "hint": "we ALL want davidland realm!"
+    },
+    {
+      "name": "refsbcj",
+      "difficulty": "extreme",
+      "area": "Magma Canyon",
+      "description": "sfdaasdjojfnjadlcxzqo",
+      "hint": "sfdaasdjojfnjadlcxzqo"
+    },
+    {
+      "name": "Robot Puppet",
+      "difficulty": "extreme",
+      "area": "Magma Canyon",
+      "description": "how could they do this to my man puppet!!!!",
+      "hint": "how could they do this to my man puppet!!!!"
+    },
+    {
+      "name": "Shrimp Tempura",
+      "difficulty": "extreme",
+      "area": "Magma Canyon",
+      "description": "tasty",
+      "hint": "tasty"
+    },
+    {
+      "name": "ca2",
+      "difficulty": "insane",
+      "area": "Magma Canyon",
+      "description": "i don't know what this means but surely it means something",
+      "hint": "i don't know what this means but surely it means something"
+    },
+    {
+      "name": "Cardy",
+      "difficulty": "insane",
+      "area": "Magma Canyon",
+      "description": "they love cards",
+      "hint": "they love cards"
+    },
+    {
+      "name": "Erlenmeyer",
+      "difficulty": "insane",
+      "area": "Magma Canyon",
+      "description": "oh boy this one sure is so much fun",
+      "hint": "oh boy this one sure is so much fun"
+    },
+    {
+      "name": "Dynamite",
+      "difficulty": "strenuous",
+      "area": "Magma Canyon",
+      "description": "The way you get this one is genuinely deranged I'm sorry",
+      "hint": "The way you get this one is genuinely deranged I'm sorry"
+    },
+    {
+      "name": "Magma Canyon Medallion",
+      "difficulty": "medallion",
+      "area": "Magma Canyon",
+      "description": "what do i even put here",
+      "hint": "what do i even put here"
+    }
+  ]
+}

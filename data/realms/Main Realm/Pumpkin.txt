@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Pumpkin|character=[[File:Pumpkin.png|thumb]]|difficulty=Effortless|area=[[Goiky]]|hint=Behind a tree (hidden in Goiky)}}
+
+==Character ==
+Pumpkin
+
+==Obtaining ==
+Behind a tree close to [[Yoyleland]] bush
+[[Category:Effortless Objects]]
+[[Category:Objects]]
+[[Category:Goiky Objects]]

@@ -1,0 +1,132 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Fossil Falls.png|2700px]]
+</div>
+
+
+<div style="background:rgba(0,0,0,0.70); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+{{Zoneinfobox
+| title1 = Fossil Falls
+| image1 = [[File:Fossil Falls.png]]
+| caption1 = 
+| objects = 16
+| creator = FTBC Devs
+| theme = Fossils, Rocky, Waterfalls
+| average_difficulty = [[File:Normal.png|frameless|Normal]] <span style="color:#a1ff27">'''Normal'''</span>
+| bordering_zones = [[Candyland]], [[Warehouse]]
+| realms = 
+| subzones = [[Crystal Cave]]
+}}
+
+== Info ==
+[[Fossil Falls]] Is a rocky area with lots of fossils, specifically skull fossils and spine fossils. The biome has mini islands which have pine trees with fossils in the water close to them, There is also a giant waterfall which [[Purple Dragon]] flies above. on the sides of this waterfall, there is many tiny fossils that can be used to get to the top. The area is bordered by [[Candyland]] and [[Warehouse]]. In addition to this, this biome also has one sub area, that being the [[Crystal Cave]]. Inside this cave, there are many crystals and a few waterfalls scattered throughout. This area Is similar to [[Tropical Islands]], as they both feature many scattered islands in the water.
+{{Clear|right}}
+
+
+<div>
+== Objects ==
+
+{{ObjectDifficultyList
+|name = Effortless
+|icon = Effortless.png
+|color = #17a897
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Pineapple.png|[[File:Effortless.png|18px]] '''[[Pineapple]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Easy
+|icon = Easy.png
+|color = #10DA8D
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Barry.png|[[File:Easy.png|18px]] '''[[Barry]]'''
+File:Euro.png|[[File:Easy.png|18px]] '''[[Euro]]'''
+File:Xmas Light.png|[[File:Easy.png|18px]] '''[[Xmas Light]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Moderate
+|icon = Moderate.png
+|color = #07fc55
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Duffel Bag.webp|[[File:Moderate.png|18px]] '''[[Duffel Bag]]'''
+File:Watermelon Slice.webp|[[File:Moderate.png|18px]] '''[[Watermelon Slice]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Normal
+|icon = Normal.png
+|color = #a1ff27
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Chestnut.png|[[File:Normal.png|18px]] '''[[Chestnut]]'''
+File:Dark Gemstone.png|[[File:Normal.png|18px]] '''[[Dark Gemstone]]'''
+File:Purple Dragon.png|[[File:Normal.png|18px]] '''[[Purple Dragon]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Intermediate
+|icon = Intermediate FTBC.png
+|color = #FFB700
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Cartridge.webp|[[File:Intermediate FTBC.png|18px]] '''[[Cartridge]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Hard
+|icon = Hard.png
+|color = #FF7700
+|total = 2
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Coffee Bean.png|[[File:Hard.png|18px]] '''[[Coffee Bean]]'''
+File:Mardi Gras bead.png|[[File:Hard.png|18px]] '''[[Mardi Gras Bead]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Difficult
+|icon = Difficult.png
+|color = #f54f25
+|total = 3
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Bluecky.png|[[File:Difficult.png|18px]] '''[[Bluecky]]'''
+File:Em.png|[[File:Difficult.png|18px]] '''[[Em]]'''
+File:Wet Clay.png|[[File:Difficult.png|18px]] '''[[Wet Clay]]'''
+</gallery>
+}}
+
+
+{{ObjectDifficultyList
+|name = Unforgiving
+|icon = Unforgiving.png
+|color = #ff143f
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Tombstone.webp|[[File:Unforgiving.png|18px]] '''[[Tombstone]]'''
+</gallery>
+}}
+
+[[Category:Areas]]

@@ -1,0 +1,12 @@
+{
+  "name": "Evil Jarry",
+  "area": "Evil Forest",
+  "difficulty": "dreadful",
+  "description": "<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">Find a cabin</span>",
+  "hint": "<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">Find a cabin</span>",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Evil Jarry\n|character=[[File:Evil Jarry.webp|thumb]]\n|difficulty=[[File:Dreadful.png]] <span style=\"color:#db25ff\">'''Dreadful'''</span>\n|area=[[Evil Forest]]\n|hint=<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">Find a cabin</span>\n|additionalinfo\n|previousdifficulties =[[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "realm:Evil Forest"
+}

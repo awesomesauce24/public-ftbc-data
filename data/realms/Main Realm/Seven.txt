@@ -1,0 +1,37 @@
+{{CharacterInfo
+|name = Seven
+|character = [[File:Seven7.png]]
+|difficulty = Intermediate
+|area = [[Number Playground]]
+|hint = not what you seem...
+|additionalinfo|previousdifficulties=<span style="color:#ff7e21">'''Hard'''</span> [[File:Hard.png]]
+}}
+
+== Character ==
+Seven is a male character based on the number 7, appearing in the Number Playground area.
+
+== Obtaining ==
+Go to [[Number Playground]].  
+Seven is located near one of the trees.  
+Interact with him to start a short quiz.  
+Answer each question correctly to unlock Seven.
+
+=== Quiz Answers ===
+
+'''When was this game first made?'''  
+: '''March 11, 2022'''
+
+'''What is a real quote from Seven?'''  
+: '''"I'm staying put!"'''
+
+'''How long is the first BFDI episode? (Episode 1a)'''  
+: '''7:02'''
+
+'''When did Leafy and Firey become friends again?'''  
+: '''BFB 22'''
+
+After answering all questions correctly, you will receive Seven.
+
+[[Category:Number Playground Objects]]
+[[Category:Intermediate Objects]]
+[[Category:Objects]]

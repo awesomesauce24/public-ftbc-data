@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Lewis|character=[[File:Lewis.png]]|difficulty=Easy|area=[[Yoyleland]]|hint=i ain't giving up.. I AIN'T GIVING UP!!!! there's cake at stake lewis!!!}}
+==Character==
+David, but with an upside down head.
+==Obtaining==
+
+{{Spoiler|text=Behind Matchstick Factory.}}
+
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:Yoyleland Objects]]

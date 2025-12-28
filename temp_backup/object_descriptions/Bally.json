@@ -1,0 +1,10 @@
+{
+  "name": "Bally",
+  "area": "Hotel",
+  "difficulty": "normal",
+  "description": "every sport needs a ball! i don't think this is the right type",
+  "hint": "every sport needs a ball! i don't think this is the right type",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Bally\n|character=\n<gallery>\nBally New.png|Current\nBally.webp|Old\n</gallery>Bally.webp\n|difficulty=[[File:Normal.png]] <span style=\"color:#a1ff27\">'''Normal'''</span>\n|area=[[Hotel]]\n|hint=every sport needs a ball! i don't think this is the right type\n",
+  "location": "realm:Main Realm/Hotel"
+}

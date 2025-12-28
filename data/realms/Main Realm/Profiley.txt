@@ -1,0 +1,13 @@
+{{CharacterInfo|name=Profiley|character=[[File:Profiley.png]]|difficulty=Easy|area=[[Goiky]]|hint=pictures be like (Start in Goiky)|additionalinfo|previousdifficulties=<span style="color:#a1ff27">'''Normal'''</span> [[File:Normal.png]]}}
+==Character==
+'''Profiley''' appears to be a default YouTube profile picture, but with limbs.
+==Obtaining==
+Find a picture inside one of the houses at [[Goiky]], then touch it.
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:Goiky Objects]]
+[[Category:BFB Contestants]]
+[[Category:BFDIA Contestants]]
+[[Category:IDFB Contestants]]
+[[Category:BFDI Contestants]]
+[[Category:Main Realm Objects]]

@@ -1,0 +1,10 @@
+{
+  "name": "Lotus Flower",
+  "area": "Jungle",
+  "difficulty": "effortless",
+  "description": "Placeholder description I'll probably forget to change it but it's funnier like this (Hidden in Jungle)",
+  "hint": "Placeholder description I'll probably forget to change it but it's funnier like this (Hidden in Jungle)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Lotus Flower|character=[[File:Lotus Flower.webp|thumb]]|difficulty=Effortless|area=[[Jungle]]|hint=Placeholder description I'll probably forget to change it but it's funnier like this (Hidden in Jungle)",
+  "location": "realm:Main Realm/Jungle"
+}

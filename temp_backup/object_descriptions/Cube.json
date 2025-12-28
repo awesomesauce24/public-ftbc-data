@@ -1,0 +1,10 @@
+{
+  "name": "Cube",
+  "area": "Inverted",
+  "difficulty": "extreme",
+  "description": "cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube",
+  "hint": "cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Cube\n|character=\n<gallery>\nCube New.png|Current\nCube.png|Old\n</gallery>\n|difficulty=[[File:Extreme.png]] <span style=\"color:#ed2727\">'''Extreme'''</span>\n|area=[[Inverted]]\n|hint=cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube\n",
+  "location": "realm:Inverted"
+}

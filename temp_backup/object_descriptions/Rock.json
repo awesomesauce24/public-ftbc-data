@@ -1,0 +1,12 @@
+{
+  "name": "Rock",
+  "area": "Midnight Rooftops",
+  "difficulty": "strenuous",
+  "description": "rock. this is a rock.",
+  "hint": "rock. this is a rock.",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Rock\n|character=\n<gallery>\nRock New.png|Current\nrock.png|Old\n</gallery>\n|difficulty= [[File:Strenuous.png]] <span style=\"color:#4048e5\">'''Strenuous'''</span>\n|area=[[Midnight Rooftops]]\n|hint=rock. this is a rock.\n|additionalinfo\n|previousdifficulties= [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>",
+  "location": "realm:Midnight Rooftops"
+}

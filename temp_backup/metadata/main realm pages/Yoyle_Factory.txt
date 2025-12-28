@@ -1,0 +1,130 @@
+<!-- Background -->
+<div style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0; overflow:hidden;">
+[[File:YoyleFactory.png|1500px]]
+</div>
+
+<div style="background:rgba(0,0,0,0.7); padding:25px; border-radius:12px; max-width:900px; margin:auto; color:white;">
+
+{{Location|title=Yoylefactory|image=[[File:YoyleFactory.png]]}}
+
+__TOC__
+
+= General Info =
+Yoylefactory is the 4th realm added and is one of the largest in the game, with a total of 72 objects  
+(55 if the Basement segment is excluded).  
+It is divided into four major sections:
+
+• Normal Factory 
+
+• [[Yoyle_Factory/Abandonment | Abandonment]] (Lights Out)
+
+• [[Yoyle_Factory/Meltdown | Meltdown]]
+
+• [[Yoyle_Factory/Out Of Bounds| Out Of Bounds]]
+
+= Subareas =
+• [[Basement| The Basement]]
+
+== How to Enter ==
+On top of the shortest striped tower in the [[Factory]] is a lever.  
+Click it, re-enter Factory, and go through the normally locked timer door.  
+At the end of the room, enter the conveyor hole.
+
+------------------------------------------------------------
+
+= Normal Factory =
+
+== Info ==
+
+{{Location|title=Normal Factory|image=[[File:Normal_YoyleFactory.png]]}}
+
+The starting area of Yoylefactory. In this area, there are lots of long grey metallic halls with a yellow line on the bottom. There are many rooms in these halls, such as office rooms, meeting rooms and rooms with cargo containers. Additionally, there is a tiny outside section that serves as a shipping depot. Throughout the halls, there are many forklifts parked and boxes on the ground. Most rooms tend to be office rooms, which usually feature potted plants, chairs, desks, and computers. 
+{{Clear}}
+
+== Objects ==
+
+==== Extreme ====
+{{ObjectDifficultyList
+|name = Extreme
+|icon = Extreme.png
+|color = #ed2727
+|total = 5
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Coolboy.png|[[File:Extreme.png|18px]] '''[[Coolboy]]'''
+File:Elephant.png|[[File:Extreme.png|18px]] '''[[Elephant]]'''
+File:FRIENDY+.png|[[File:Extreme.png|18px]] '''[[FRIENDY+]]'''
+File:Mattress.png|[[File:Extreme.png|18px]] '''[[Mattress]]'''
+File:Phantastrophy.png|[[File:Extreme.png|18px]] '''[[Phantastrophy]]'''
+</gallery>
+}}
+
+==== Unforgiving ====
+{{ObjectDifficultyList
+|name = Unforgiving
+|icon = Unforgiving.png
+|color = #ff143f
+|total = 7
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Base Charger.png|[[File:Unforgiving.png|18px]] '''[[Base Charger]]'''
+File:Coffee Mug.png|[[File:Unforgiving.png|18px]] '''[[Coffee Mug]]'''
+File:Diamond.png|[[File:Unforgiving.png|18px]] '''[[Diamond]]'''
+File:Paint Bucket.png|[[File:Unforgiving.png|18px]] '''[[Paint Bucket]]'''
+File:Seedling.png|[[File:Unforgiving.png|18px]] '''[[Seedling]]'''
+File:Teabag.png|[[File:Unforgiving.png|18px]] '''[[Teabag]]'''
+File:Text Message.png|[[File:Unforgiving.png|18px]] '''[[Text Message]]'''
+</gallery>
+}}
+
+==== Insane ====
+{{ObjectDifficultyList
+|name = Insane
+|icon = Insane.png
+|color = #ff1c95
+|total = 6
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Glowstick.png|[[File:Insane.png|18px]] '''[[Glowstick]]'''
+File:Juice Box.png|[[File:Insane.png|18px]] '''[[Juice Box]]'''
+File:Maroon Ball.png|[[File:Insane.png|18px]] '''[[Maroon Ball]]'''
+File:MousePad.png|[[File:Insane.png|18px]] '''[[MousePad]]'''
+File:owoball.png|[[File:Insane.png|18px]] '''[[owoball]]'''
+File:Pugsley.png|[[File:Insane.png|18px]] '''[[Pugsley]]'''
+</gallery>
+}}
+
+==== Dreadful ====
+{{ObjectDifficultyList
+|name = Dreadful
+|icon = Dreadful.png
+|color = #db25ff
+|total = 4
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Graphics Card.png|[[File:Dreadful.png|18px]] '''[[Graphics Card]]'''
+File:Raisin.png|[[File:Dreadful.png|18px]] '''[[Raisin]]'''
+File:White Board.png|[[File:Dreadful.png|18px]] '''[[White Board]]'''
+File:Wizard Hat.png|[[File:Dreadful.png|18px]] '''[[Wizard Hat]]'''
+</gallery>
+}}
+
+==== Arduous ====
+{{ObjectDifficultyList
+|name = Arduous
+|icon = Arduous.png
+|color = #5d0cff
+|total = 1
+|gallery =
+<gallery widths="60" heights="60" mode="packed">
+File:Gaming Device.png|[[File:Arduous.png|18px]] '''[[Gaming Device]]'''
+</gallery>
+}}
+
+== Music ==
+<center> Chiptune Club - ChiptuneArptist </center>
+{{Audio|file=Chiptune Club - ChiptuneArptist.mp3|align=center|volume=1|autoplay=yes|loop=yes}}
+
+[[Category:Realms]]
+
+</div>

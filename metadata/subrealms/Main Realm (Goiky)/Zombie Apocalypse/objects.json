@@ -1,0 +1,59 @@
+{
+  "objects": [
+    {
+      "name": "Zomball",
+      "difficulty": "strenuous",
+      "area": "Zombie Apocalypse",
+      "description": "gargargargagarkgrgrgrga",
+      "hint": "gargargargagarkgrgrgrga"
+    },
+    {
+      "name": "Zombified Clapboard",
+      "difficulty": "strenuous",
+      "area": "Zombie Apocalypse",
+      "description": "grgrggaggghrrrgrgg",
+      "hint": "grgrggaggghrrrgrgg"
+    },
+    {
+      "name": "Zombified Coiny",
+      "difficulty": "strenuous",
+      "area": "Zombie Apocalypse",
+      "description": "grgrggrrrrrraggrggfa",
+      "hint": "grgrggrrrrrraggrggfa"
+    },
+    {
+      "name": "Zombified Conch Shell",
+      "difficulty": "strenuous",
+      "area": "Zombie Apocalypse",
+      "description": "grrgrgragggrgrrhra",
+      "hint": "grrgrgragggrgrrhra"
+    },
+    {
+      "name": "Zombified Snowball",
+      "difficulty": "strenuous",
+      "area": "Zombie Apocalypse",
+      "description": "grgfafaffgrgggrragr",
+      "hint": "grgfafaffgrgggrragr"
+    },
+    {
+      "name": "Zombified Two",
+      "difficulty": "strenuous",
+      "area": "Zombie Apocalypse",
+      "description": "grrgrgagrgghrgrrgagrgh",
+      "hint": "grrgrgagrgghrgrrgagrgh"
+    },
+    {
+      "name": "Sphere of Benevolence",
+      "difficulty": "horrifying",
+      "area": "Zombie Apocalypse",
+      "description": "start by finding something in an unknown realm... (Made by Cadalac8999)",
+      "hint": "start by finding something in an unknown realm... (Made by Cadalac8999)"
+    },
+    {
+      "name": "1035",
+      "difficulty": "<span style=\"color:#ffd3ac; -webkit-text-stroke-width:1px; -webkit-text-stroke-color:#ffffff; font-size:32px; text-shadow:0 0 10px #ffffff\">ꌗꍟꉓꋪꍟ꓄</span>",
+      "area": "Zombie Apocalypse",
+      "description": ""
+    }
+  ]
+}

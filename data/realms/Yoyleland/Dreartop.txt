@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Dreartop|character=[[File:Dreartop.webp|thumb]]|difficulty=Moderate|area=[[Yoyleland]]|hint=SHEEESH! HE GOT DAT DRIP THOUGH}}
+== Character ==
+Teardrop with her asset flipped with a devious looking face.
+== Obtaining ==
+{{Spoiler|text=At the shore. Left of spawn..}}
+[[Category:Moderate Objects]]
+[[Category:Yoyleland Objects]]
+[[Category:Objects]]

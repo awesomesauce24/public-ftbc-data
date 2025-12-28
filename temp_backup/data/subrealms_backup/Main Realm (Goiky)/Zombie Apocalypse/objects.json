@@ -1,0 +1,44 @@
+{
+  "objects": [
+    {
+      "name": "Zomball",
+      "difficulty": "strenuous",
+      "description": ""
+    },
+    {
+      "name": "Zombified Clapboard",
+      "difficulty": "strenuous",
+      "description": ""
+    },
+    {
+      "name": "Zombified Coiny",
+      "difficulty": "strenuous",
+      "description": ""
+    },
+    {
+      "name": "Zombified Conch Shell",
+      "difficulty": "strenuous",
+      "description": ""
+    },
+    {
+      "name": "Zombified Snowball",
+      "difficulty": "strenuous",
+      "description": ""
+    },
+    {
+      "name": "Zombified Two",
+      "difficulty": "strenuous",
+      "description": ""
+    },
+    {
+      "name": "Sphere of Benevolence",
+      "difficulty": "horrifying",
+      "description": ""
+    },
+    {
+      "name": "1035",
+      "difficulty": "<span style=\"color:#ffd3ac; -webkit-text-stroke-width:1px; -webkit-text-stroke-color:#ffffff; font-size:32px; text-shadow:0 0 10px #ffffff\">ꌗꍟꉓꋪꍟ꓄</span>",
+      "description": ""
+    }
+  ]
+}

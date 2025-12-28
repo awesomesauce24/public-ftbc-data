@@ -1,0 +1,10 @@
+{
+  "name": "Robot Leafy",
+  "area": "Yoyleland",
+  "difficulty": "unforgiving",
+  "description": "look underneath robot firey",
+  "hint": "look underneath robot firey",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Robot Leafy|character=[[File:Robot Leafy.webp|thumb]]|difficulty=Unforgiving|area=[[Yoyleland]]|hint=look underneath robot firey",
+  "location": "realm:Yoyleland"
+}

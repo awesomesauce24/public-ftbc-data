@@ -1,0 +1,26 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Cherry Grove.png}}}|{{{Size|2000px}}}]] </div> <div style="--theme-accent-color:-webkit-linear-gradient(#896a2e,#cf973a); --theme-accent-label-color:#ffffff;">
+
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Chainsaw
+|character=[[File:Chainsaw.webp|thumb]]
+|difficulty=[[File:Intermediate FTBC.png]] <span style="color:#ffb700">'''Intermediate'''</span>
+|area=[[Cherry Grove]]
+|hint=Save them before they get down the waterfall!
+|additionalinfo
+|previousdifficulties=[[File:Normal.png]] <span style="color:#a1ff27">'''Normal'''</span>}}
+
+==Character==
+A poorly drawn chainsaw with a face and legs.
+
+==Obtaining==
+{| class="article-table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;"
+!'''How to Find [SPOILERS]'''||
+|-
+|Climb a ladder near [[Cherry Blossom]] and go to the right until you get to the edge, jump on the lantern then to the tree and climb another ladder, chainsaw is on the waterfall
+|}
+
+[[Category:Objects]]
+[[Category:Cherry Grove Objects]]
+[[Category:Intermediate Objects]]

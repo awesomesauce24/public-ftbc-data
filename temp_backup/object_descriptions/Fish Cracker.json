@@ -1,0 +1,12 @@
+{
+  "name": "Fish Cracker",
+  "area": "Yoyleland",
+  "difficulty": "intermediate",
+  "description": "who's ready to go swimming?",
+  "hint": "who's ready to go swimming?",
+  "previous_difficulties": [
+    "Hard"
+  ],
+  "wiki_markup": "name=Fish Cracker\n|character=Fish Cracker.png\n|difficulty=[[File:Intermediate FTBC.png]] <span style=\"color:#ffb700\">'''Intermediate'''</span>\n|area=[[Yoyleland]]\n|hint=who's ready to go swimming?\n|additionalinfo\n|previousdifficulties= [[File:Hard.png]] <span style=\"color:#ff7e21\">'''Hard'''</span>\n",
+  "location": "realm:Yoyleland"
+}

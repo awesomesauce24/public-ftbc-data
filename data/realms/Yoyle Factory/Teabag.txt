@@ -1,0 +1,24 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|YoyleFactory.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#46515D,#2A3944); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Teabag
+|character=[[File:Teabag.webp|thumb]]
+|difficulty= [[File:Unforgiving.png]] <span style="color:#ff143f">'''Unforgiving'''</span>
+|area=[[Yoyle Factory]]
+|hint=Bell 2
+|additionalinfo
+|previousdifficulties = [[File:Insane.png]] <span style="color:#ff1c95">'''Insane'''</span>
+}}
+
+==Character==
+A teabag with a face, no limbs and a long string.
+
+==Obtaining==
+Inside of a room behind a forklift carrying boxes.
+
+[[Category:Objects]]
+[[Category:Unforgiving Objects]]
+[[Category:Yoyle Factory Objects]]
+[[Category:BFDI Mini Contestants]]

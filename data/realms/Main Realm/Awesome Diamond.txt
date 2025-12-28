@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Awesome Diamond|character=Awesome Diamond.webp|difficulty=Moderate|area=Medals Room(?)|hint=The more easy objects I add, the easier it gets to reach the 1000 medal, right? This is an actual hint btw}}
+== Character ==
+A rainbow version of [[Ruby]].
+
+== Obtaining ==
+Next to [[Void Medal]] in the Medals room.
+[[Category:Objects]]
+[[Category:Moderate Objects]]

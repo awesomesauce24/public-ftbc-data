@@ -1,0 +1,17 @@
+{{CharacterInfo
+|name = YSA Status
+|character =<gallery>
+YSA Status.png|Current
+YSA Status.webp|Old
+</gallery>
+|difficulty = Difficult
+|area = [[Warehouse]]
+|hint = look, ok. if you had to add the 1025th character to a game about a show that only has about 150 relevant characters, what would YOU add?
+}}
+
+== Obtaining ==
+go to [[Good Rhombicosidodecahedron]]. Drop down, and he is on one of the corners.
+
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Difficult Objects]]

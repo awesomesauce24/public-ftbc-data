@@ -1,0 +1,28 @@
+{{CharacterInfo
+|name = Tennis Ball
+|character =<gallery>
+Tennis Ball.webp|Current
+Tennis Ball old.webp|Old
+</gallery>
+|difficulty = Difficult
+|area = [[Main Realm]]
+|hint = there is two parts of a code in City and Snow, make sure to put /e before it!
+|additionalinfo|previousdifficulties=<span style="color:#ff7e21">'''Hard'''</span> [[File:Hard.png]]
+}}
+== Info ==
+The code for this character is currently broken. This will be fixed next update.
+
+== Character ==
+A yellowish-green tennis ball with a simple BFDI-style face.
+
+== Obtaining ==
+Type "<code>/e T3NN15</code>" in the chat.  
+
+[[Category:Main Realm Objects]]
+[[Category:Difficult Objects]]
+[[Category:Objects]]
+[[Category:BFDI Contestants]]
+[[Category:BFDIA Contestants]]
+[[Category:IDFB Contestants]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]

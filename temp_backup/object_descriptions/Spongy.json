@@ -1,0 +1,10 @@
+{
+  "name": "Spongy",
+  "area": "Tropical Islands",
+  "difficulty": "easy",
+  "description": "Hes just relaxing on the boat!",
+  "hint": "Hes just relaxing on the boat!",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Spongy\n|character=[[File:Spongy.png]]\n|difficulty=Easy\n|area=[[Tropical Islands]]\n|hint=Hes just relaxing on the boat!\n",
+  "location": "realm:Main Realm/Tropical Islands"
+}

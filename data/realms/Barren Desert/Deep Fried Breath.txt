@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Deep Fried Breath|character=[[Deep Fried Breath.png|Deep Fried Breath]]|difficulty=Strenuous|area=[[Barren Desert]]|hint=find yourself somewhere unprecedented}}
+
+== Appearance ==
+self explanatory.
+
+== Obtaining ==
+Look inside some sand.
+[[Category:Objects]]
+[[Category:Strenuous Objects]]
+[[Category:Barren Desert Objects]]

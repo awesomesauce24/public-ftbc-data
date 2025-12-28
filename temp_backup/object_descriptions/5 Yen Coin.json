@@ -1,0 +1,10 @@
+{
+  "name": "5 Yen Coin",
+  "area": "Barren Desert",
+  "difficulty": "extreme",
+  "description": "donut is looking a little different today",
+  "hint": "donut is looking a little different today",
+  "previous_difficulties": [],
+  "wiki_markup": "name=5 Yen Coin|character=5 Yen Coin.png|difficulty=Extreme|area=[[Barren Desert]]|hint=donut is looking a little different today",
+  "location": "realm:Barren Desert"
+}

@@ -1,0 +1,59 @@
+{
+  "objects": [
+    {
+      "name": "Bodywash Soapy",
+      "difficulty": "unforgiving",
+      "description": ""
+    },
+    {
+      "name": "Danger Sign",
+      "difficulty": "unforgiving",
+      "description": ""
+    },
+    {
+      "name": "Laundry Basket",
+      "difficulty": "unforgiving",
+      "description": ""
+    },
+    {
+      "name": "Locker",
+      "difficulty": "unforgiving",
+      "description": ""
+    },
+    {
+      "name": "Music Box",
+      "difficulty": "unforgiving",
+      "description": ""
+    },
+    {
+      "name": "Rainbow Orb",
+      "difficulty": "unforgiving",
+      "description": ""
+    },
+    {
+      "name": "Ushanka",
+      "difficulty": "unforgiving",
+      "description": ""
+    },
+    {
+      "name": "Cup Stacky",
+      "difficulty": "insane",
+      "description": ""
+    },
+    {
+      "name": "Wild West Painting",
+      "difficulty": "insane",
+      "description": ""
+    },
+    {
+      "name": "Mason",
+      "difficulty": "dreadful",
+      "description": ""
+    },
+    {
+      "name": "Placeholdery",
+      "difficulty": "strenuous",
+      "description": ""
+    }
+  ]
+}

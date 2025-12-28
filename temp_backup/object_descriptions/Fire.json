@@ -1,0 +1,10 @@
+{
+  "name": "Fire",
+  "area": "Warehouse",
+  "difficulty": "difficult",
+  "description": "don’t let them get anywhere near that world ending bomb... oh for petals sake (Hidden in Warehouse)",
+  "hint": "don’t let them get anywhere near that world ending bomb... oh for petals sake (Hidden in Warehouse)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Fire|character=[[File:Fire.png]]|difficulty=Difficult|area=[[Warehouse]]|hint=don’t let them get anywhere near that world ending bomb... oh for petals sake (Hidden in Warehouse)",
+  "location": "realm:Main Realm/Warehouse"
+}

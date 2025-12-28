@@ -1,0 +1,10 @@
+{
+  "name": "Bacon Bit",
+  "area": "Barren Desert",
+  "difficulty": "hard",
+  "description": "is it controbersial to say that i don't like bacon? it tastes.. awful",
+  "hint": "is it controbersial to say that i don't like bacon? it tastes.. awful",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Bacon Bit\n|character=<gallery>\nBacon Bit.png\n</gallery>\n|difficulty=[[File:Hard.png|link=]] <span style=\"color:#FF7700\">'''<b>Hard</b>'''</span>\n|area=[[Barren Desert]]\n|hint=is it controbersial to say that i don't like bacon? it tastes.. awful\n",
+  "location": "realm:Barren Desert"
+}

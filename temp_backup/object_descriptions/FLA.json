@@ -1,0 +1,10 @@
+{
+  "name": "FLA",
+  "area": "Basement",
+  "difficulty": "terrifying",
+  "description": "it's really hard to make a \"scary\" realm when all the objects look like this lol",
+  "hint": "it's really hard to make a \"scary\" realm when all the objects look like this lol",
+  "previous_difficulties": [],
+  "wiki_markup": "name = FLA\n|character = [[File:FLA.png]]\n|difficulty = Terrifying\n|area = The Basement\n|hint = it's really hard to make a \"scary\" realm when all the objects look like this lol\n",
+  "location": "subrealm:Yoyle Factory/Basement"
+}

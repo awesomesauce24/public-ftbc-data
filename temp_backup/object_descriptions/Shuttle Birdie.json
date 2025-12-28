@@ -1,0 +1,10 @@
+{
+  "name": "Shuttle Birdie",
+  "area": "Basement",
+  "difficulty": "arduous",
+  "description": "im too afraid to say the actual name so it's just called shuttle birdie haha",
+  "hint": "im too afraid to say the actual name so it's just called shuttle birdie haha",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Shuttle Birdie\n|character = [[File:Shuttle Birdie.png]]\n|difficulty = Arduous\n|area = [[The Basement]]\n|hint = im too afraid to say the actual name so it's just called shuttle birdie haha\n",
+  "location": "subrealm:Yoyle Factory/Basement"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Flower Jr.",
+  "area": "Floating Island",
+  "difficulty": "effortless",
+  "description": "she's admiring a masterpiece (Hidden in Floating Island)",
+  "hint": "she's admiring a masterpiece (Hidden in Floating Island)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Flower Jr.\n|character=[[File:Flower Jr..png|thumb]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Floating Island]]\n|hint=she's admiring a masterpiece (Hidden in Floating Island)\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>",
+  "location": "realm:Main Realm/Floating Island"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ribbon",
+  "area": "Inverted",
+  "difficulty": "extreme",
+  "description": "i'll take my award for best-looking R in this realm",
+  "hint": "i'll take my award for best-looking R in this realm",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Ribbon\n|character=Ribbon.png\n|difficulty=[[File:Extreme.png]] <span style=\"color:#ed2727\">'''Extreme'''</span>\n|area=[[Inverted]]\n|hint=i'll take my award for best-looking R in this realm\n",
+  "location": "realm:Inverted"
+}

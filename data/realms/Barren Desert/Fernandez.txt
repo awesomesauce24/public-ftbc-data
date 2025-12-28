@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Fernandez|character=[[Fernandez.png|Fernandez]]|difficulty=Insane|area=[[Barren Desert]]|hint=reach towards the sun}}
+
+== Appearance ==
+Fernandez is a variation of [[Yellow Face]] with a big nose and sun rays.
+
+== Obtaining ==
+Use click to move at a corner of the map to get to him.
+[[Category:Objects]]
+[[Category:Insane Objects]]
+[[Category:Barren Desert Objects]]

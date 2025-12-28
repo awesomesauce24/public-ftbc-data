@@ -1,0 +1,12 @@
+{
+  "name": "Evil Book",
+  "area": "Evil Forest",
+  "difficulty": "dreadful",
+  "description": "<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">Behind a large safe</span>",
+  "hint": "<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">Behind a large safe</span>",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Evil Book\n|character=[[File:Evil Book.png|thumb]]\n|difficulty=[[File:Dreadful.png]] <span style=\"color:#db25ff\">'''Dreadful'''</span>\n|area=[[Evil Forest]]\n|hint=<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">Behind a large safe</span>\n|additionalinfo\n|previousdifficulties =[[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "realm:Evil Forest"
+}

@@ -1,0 +1,25 @@
+{{CharacterInfo
+|name = Barf Bag
+|character =<gallery>
+Barf Bag New.webp|New/Current
+Barf Bag.png|Old
+</gallery>
+|difficulty = Moderate
+|area = [[Main Realm]]
+|hint = located on one of the museum's pillars
+|additionalinfo|previousdifficulties=<span style="color:#a1ff27">'''Normal'''</span> [[File:Normal.png]]
+}}
+
+== Obtaining ==
+Behind the FTBC Museum in the [[City]].  
+Check the back side of the structure to find Barf Bag.
+
+== Info ==
+Barf Bag is a light brown bag-shaped object, filled with green barf.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Moderate Objects]]
+[[Category:City Objects]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]

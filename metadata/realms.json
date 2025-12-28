@@ -1,0 +1,75 @@
+{
+  "normal": [
+    { "icon": "Goiky.png", "link": "Main_Realm", "label": "Main Realm" },
+    { "icon": "InvertedRealm.png", "link": "Inverted", "label": "Inverted" },
+    { "icon": "YoylelandRealm.png", "link": "Yoyleland", "label": "Yoyleland" },
+    { "icon": "YoylefactoryRealm.png", "link": "Yoyle_Factory", "label": "Yoyle Factory" },
+    { "icon": "ClassicParadiseRealm.png", "link": "Classic_Paradise", "label": "Classic Paradise" },
+    { "icon": "EvilForestRealm.png", "link": "Evil_Forest", "label": "Evil Forest" },
+    { "icon": "-CherryRealm.png", "link": "Cherry_Grove", "label": "Cherry Grove" },
+    { "icon": "BarrenDesertRealm.png", "link": "Barren_Desert", "label": "Barren Desert" },
+    { "icon": "FrozenWorldRealm.png", "link": "Frozen_World", "label": "Frozen World" },
+    { "icon": "TimberRealm.png", "link": "Timber_Peaks", "label": "Timber Peaks" },
+    { "icon": "MidnightRooftopsRealm.png", "link": "Midnight_Rooftops", "label": "Midnight Rooftops" },
+    { "icon": "MagmaRealm.png", "link": "Magma_Canyon", "label": "Magma Canyon", "note": "Start at Barren Desert" },
+    { "icon": "SakuraRealm.png", "link": "Sakura_Serenity", "label": "Sakura Serenity", "note": "Start at Cherry Grove" },
+    { "icon": "PollutedMarshlandsRealm.png", "link": "Polluted_Marshlands", "label": "Polluted Marshlands" },
+    { "icon": "BF1DIcon.png", "link": "BF1D", "label": "BF1D", "note": "Not in the GUI; Start at Classic Roblox" }
+  ],
+  "subrealms": {
+    "Other": [
+      { "icon": "Missing_PNG.png", "link": "Motionless", "label": "Motionless" },
+      { "icon": "Missing_PNG.png", "link": "Mythical_Forest", "label": "Mythical Forest" },
+      { "icon": "NTE_Icon.png", "link": "Nearing_The_End", "label": "Nearing The End" },
+      { "icon": "Everything_void.png", "link": "Nihilism", "label": "<code>Nihilism</code>", "raw_label": true },
+      { "icon": "Missing_PNG.png", "link": "peep.", "label": "peep." },
+      { "icon": "Missing_PNG.png", "link": "Sanctuary", "label": "Sanctuary" },
+      { "icon": "HypostasisRealmIcon.png", "link": "Hypostasis_(Realm)", "label": "Hypostasis (Realm)" },
+      { "icon": "SoD.png", "link": "Storm_Of_Doom", "label": "Storm Of Doom" },
+      { "icon": "Missing_PNG.png", "link": "mooD_fo_mrotS", "label": "mooD fo mrotS" },
+      { "icon": "Missing_PNG.png", "link": "Zombie_Apocalypse", "label": "Zombie Apocalypse" },
+      { "icon": "BenevolenceIcon.png", "link": "Benevolence", "label": "Benevolence" }
+    ],
+    "Yoyleland": [
+      { "icon": "Radi.png", "link": "Abandonment", "label": "Abandonment" }
+    ],
+
+    "Yoyle Factory": [
+      { "icon": "Basement.png", "link": "Basement", "label": "Basement" }
+    ],
+    "Classic Paradise": [
+      { "icon": "Sp_icon.png", "link": "Starter_Place", "label": "Starter Place" },
+      { "icon": "Leaked.png", "link": "Classic_Insanity", "label": "Classic Insanity" },
+      { "icon": "Missing_PNG.png", "link": "Classic_Paradox", "label": "Classic Paradox" }
+    ],
+    "Evil Forest": [
+      { "icon": "Missing_PNG.png", "link": "Evle_Froets", "label": "Evle Froets" },
+      { "icon": "Missing_PNG.png", "link": "evefdpfroestost", "label": "evefdpfroestost" },
+      { "icon": "Missing_PNG.png", "link": "Limbo", "label": "Limbo" },
+      { "icon": "Level_Run.png", "link": "RUN", "label": "RUN" }
+    ],
+    "Midnight Rooftops": [
+      { "icon": "Missing_PNG.png", "link": "Gooey_Escape", "label": "Gooey Escape" }
+    ],
+    "The Backrooms": [
+      { "icon": "Missing_PNG.png", "link": "Level_0", "label": "Level 0" },
+      { "icon": "Missing_PNG.png", "link": "Level_1", "label": "Level 1" },
+      { "icon": "Missing_PNG.png", "link": "Level_2", "label": "Level 2" },
+      { "icon": "Missing_PNG.png", "link": "Level_3", "label": "Level 3" },
+      { "icon": "Missing_PNG.png", "link": "Level_4", "label": "Level 4" },
+      { "icon": "Missing_PNG.png", "link": "Level_153", "label": "Level 153" },
+      { "icon": "Missing_PNG.png", "link": "stairwell", "label": "stairwell" }
+    ]
+  },
+  "cancelled": [
+    { "icon": "Missing_PNG.png", "link": "Algebraic_Laboratory", "label": "Algebraic Laboratory" },
+    { "icon": "Missing_PNG.png", "link": "Classic_Reality", "label": "Classic Reality" },
+    { "icon": "Missing_PNG.png", "link": "Nearing_The_End_(Classic)", "label": "Nearing The End" },
+    { "icon": "Snowytundra.png", "link": "Snowy_Tops", "label": "Snowy Tops" },
+    { "icon": "Missing_PNG.png", "link": "Sunken_Sanctuary", "label": "Sunken Sanctuary" }
+  ],
+  "future": [
+    { "icon": "The_fourest.webp", "link": "The_Fourest", "label": "The Fourest" },
+    { "icon": "Missing_PNG.png", "link": "Yoyleite_Terminal", "label": "Yoyleite Terminal" }
+  ]
+}

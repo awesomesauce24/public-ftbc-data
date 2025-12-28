@@ -1,0 +1,38 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|image from realm_gradents.json}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:{gradient}}; --theme-accent-label-color:{accent};">
+<div style="position:relative; z-index:1;">
+
+
+{
+  "name": "{ObjectName}",
+  "character": {
+    "gallery": [
+      {
+        "image": "{ImageNew}",
+        "caption": "{ObjectName} New"
+      },
+      {
+        "image": "{ImageOld}",
+        "caption": "{ObjectName} Old"
+      }
+    ]
+  },
+  "difficulty": "[[File:{difficulty_icon}]] <span style=\"color:{difficulty_hex}\">'''{difficulty}'''</span>",
+  "area": "{area}",
+  "hint": "{description}",
+  "additionalinfo": "{additionalinfo}",
+  "previousdifficulties": [
+    "{optional}",
+  ],
+  "info": "{required}",
+  "obtaining": "{required}",
+  "trivia": [
+    "{optional}"
+  ],
+  "categories": [
+    "Objects",
+    "{Difficulty} Objects",
+    "{Area} Objects",
+    "{Realm} Objects"
+  ]
+}

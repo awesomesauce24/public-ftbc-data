@@ -1,5 +1,0 @@
-# Git-ignore sensitive credentials and config files
-.fandom_creds.json
-*.creds
-*.credentials
-*.env

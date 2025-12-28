@@ -1,0 +1,158 @@
+{
+  "objects": [
+    {
+      "name": "Fifteen",
+      "difficulty": "effortless",
+      "area": "Floating Island",
+      "description": "uhhh I forgor sorry",
+      "hint": "uhhh I forgor sorry"
+    },
+    {
+      "name": "Flower Cake",
+      "difficulty": "effortless",
+      "area": "Floating Island",
+      "description": "OH MY FLOWER CAKE (hidden in floating island)",
+      "hint": "OH MY FLOWER CAKE (hidden in floating island)"
+    },
+    {
+      "name": "Flower Jr.",
+      "difficulty": "effortless",
+      "area": "Floating Island",
+      "description": "she's admiring a masterpiece (Hidden in Floating Island)",
+      "hint": "she's admiring a masterpiece (Hidden in Floating Island)"
+    },
+    {
+      "name": "Scissors",
+      "difficulty": "effortless",
+      "area": "Floating Island",
+      "description": "not sure if you can really just cut a tree down like that (Hidden in Floating Island)",
+      "hint": "not sure if you can really just cut a tree down like that (Hidden in Floating Island)"
+    },
+    {
+      "name": "Evil Marker",
+      "difficulty": "easy",
+      "area": "Floating Island",
+      "description": "he doesn't want to play toss the dirt anymore (Hidden in Floating Island)",
+      "hint": "he doesn't want to play toss the dirt anymore (Hidden in Floating Island)"
+    },
+    {
+      "name": "Limbless Pin",
+      "difficulty": "easy",
+      "area": "Floating Island",
+      "description": "How did she managed to get on there without limbs? (Hidden in Floating Island)",
+      "hint": "How did she managed to get on there without limbs? (Hidden in Floating Island)"
+    },
+    {
+      "name": "Orb",
+      "difficulty": "easy",
+      "area": "Floating Island",
+      "description": "floating orb, floating island",
+      "hint": "floating orb, floating island"
+    },
+    {
+      "name": "Electric Guitar",
+      "difficulty": "moderate",
+      "area": "Floating Island",
+      "description": "ah yes the void (Hidden in Floating Island)",
+      "hint": "ah yes the void (Hidden in Floating Island)"
+    },
+    {
+      "name": "Jacknjellify",
+      "difficulty": "moderate",
+      "area": "Floating Island",
+      "description": "WHAT (Hidden in Floating Island)",
+      "hint": "WHAT (Hidden in Floating Island)"
+    },
+    {
+      "name": "Leek",
+      "difficulty": "moderate",
+      "area": "Floating Island",
+      "description": "behind a tree (Hidden in Floating Island",
+      "hint": "behind a tree (Hidden in Floating Island"
+    },
+    {
+      "name": "Rainbow",
+      "difficulty": "moderate",
+      "area": "Floating Island",
+      "description": "check on the rainbow at floating island",
+      "hint": "check on the rainbow at floating island"
+    },
+    {
+      "name": "Rainbow Puppy",
+      "difficulty": "moderate",
+      "area": "Floating Island",
+      "description": "yay puppeee (Hidden in Floating Island)",
+      "hint": "yay puppeee (Hidden in Floating Island)"
+    },
+    {
+      "name": "Science Book",
+      "difficulty": "moderate",
+      "area": "Floating Island",
+      "description": "wall wraparound moment (Hidden in Floating Island)",
+      "hint": "wall wraparound moment (Hidden in Floating Island)"
+    },
+    {
+      "name": "Sock",
+      "difficulty": "moderate",
+      "area": "Floating Island",
+      "description": "all alone under the bed (Hidden in Floating Island)",
+      "hint": "all alone under the bed (Hidden in Floating Island)"
+    },
+    {
+      "name": "Fettuccine",
+      "difficulty": "normal",
+      "area": "Floating Island",
+      "description": "the first floating island update in one million years (Hidden in ) (Made by lowk3y_TJ)",
+      "hint": "the first floating island update in one million years (Hidden in ) (Made by lowk3y_TJ)"
+    },
+    {
+      "name": "Metal Scrap",
+      "difficulty": "normal",
+      "area": "Floating Island",
+      "description": "more like uhh... metal CRAP. i am a little #edgy (Made by FunkyPurple) (Start in Floating Island)",
+      "hint": "more like uhh... metal CRAP. i am a little #edgy (Made by FunkyPurple) (Start in Floating Island)"
+    },
+    {
+      "name": "Blue Lion",
+      "difficulty": "intermediate",
+      "area": "Floating Island",
+      "description": "first yellow leopard, the, red elephant, and now THIS? (Hidden in Floating Island)",
+      "hint": "first yellow leopard, the, red elephant, and now THIS? (Hidden in Floating Island)"
+    },
+    {
+      "name": "Chanterelle",
+      "difficulty": "intermediate",
+      "area": "Floating Island",
+      "description": "ah yes the void (Hidden in Floating Island)",
+      "hint": "ah yes the void (Hidden in Floating Island)"
+    },
+    {
+      "name": "Succulent",
+      "difficulty": "intermediate",
+      "area": "Floating Island",
+      "description": "THIS IS NOT HOW GRAVITY WORKS I THINK (Hidden in Floating Island)",
+      "hint": "THIS IS NOT HOW GRAVITY WORKS I THINK (Hidden in Floating Island)"
+    },
+    {
+      "name": "Texas Donut",
+      "difficulty": "intermediate",
+      "area": "Floating Island",
+      "description": "something is off about where  is... (Hidden in Floating Island)",
+      "hint": "something is off about where  is... (Hidden in Floating Island)"
+    },
+    {
+      "name": "Fossil",
+      "difficulty": "hard",
+      "area": "Floating Island",
+      "description": "click on a fossil somewhere...",
+      "hint": "click on a fossil somewhere..."
+    },
+    {
+      "name": "Nonexisty",
+      "difficulty": "arduous",
+      "area": "Floating Island",
+      "description": "up in the sky??",
+      "hint": "up in the sky??"
+    }
+  ]
+}

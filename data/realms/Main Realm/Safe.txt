@@ -1,0 +1,28 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Safe
+|character=[[File:Safe.png]]
+|difficulty=[[File:Dreadful.png]] <span style="color:#db25ff">'''Dreadful'''</span>
+|area=[[City]]
+|hint=he's safe to where no one can find him... right? (Start in City)
+|additionalinfo
+|previousdifficulties=[[File:Extreme.png]] <span style="color:#ED2727">'''Extreme'''</span>
+}}
+
+== Character ==
+Safe appears as a gray metal safe with a dial lock and a stressed expression.
+
+== Obtaining ==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+Repeat the steps used for [[Income Tax Return Document]]. Find Dynamite during the process. Then head to [[Onigiri]]. The Dynamite will explode the door open, revealing Safe inside.</div>
+</div>
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Dreadful Objects]]
+[[Category:City Objects]]

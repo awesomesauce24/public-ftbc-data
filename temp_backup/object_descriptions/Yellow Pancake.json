@@ -1,0 +1,12 @@
+{
+  "name": "Yellow Pancake",
+  "area": "Inverted",
+  "difficulty": "extreme",
+  "description": "got squished in the pyramid",
+  "hint": "got squished in the pyramid",
+  "previous_difficulties": [
+    "Insane"
+  ],
+  "wiki_markup": "name=Yellow Pancake\n|character=Yellow Pancake.png\n|difficulty=[[File:Extreme.png]] <span style=\"color:#ed2727\">'''Extreme'''</span>\n|area=[[Inverted]]\n|hint=got squished in the pyramid\n|previousdifficulties = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n",
+  "location": "realm:Inverted"
+}

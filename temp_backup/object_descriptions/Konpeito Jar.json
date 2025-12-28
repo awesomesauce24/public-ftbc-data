@@ -1,0 +1,10 @@
+{
+  "name": "Konpeito Jar",
+  "area": "City",
+  "difficulty": "easy",
+  "description": "Excuse me, a what jar?? (Hidden in city)",
+  "hint": "Excuse me, a what jar?? (Hidden in city)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Konpeito Jar|character=[[File:Konpeito Jar.png|thumb]]|difficulty=Easy|area=[[City]]|hint=Excuse me, a what jar?? (Hidden in city)",
+  "location": "realm:Main Realm/City"
+}

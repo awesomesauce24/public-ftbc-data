@@ -1,0 +1,12 @@
+{
+  "name": "Four",
+  "area": "Goiky",
+  "difficulty": "difficult",
+  "description": "outside of something. (Start in Goiky)",
+  "hint": "outside of something. (Start in Goiky)",
+  "previous_difficulties": [
+    "Hard"
+  ],
+  "wiki_markup": "name=Four\n|character=<gallery>\nFour.png\n</gallery>\n|difficulty=[[File:Difficult.png|link=]] <span style=\"color:#f54f25\">'''<b>Difficult</b>'''</span>\n|area=[[Goiky]]\n|hint=outside of something. (Start in Goiky)\n|additionalinfo\n|previousdifficulties = [[File:Hard.png]] <span style=\"color:#ff7e21\">'''Hard'''</span>\n",
+  "location": "realm:Main Realm/Goiky"
+}

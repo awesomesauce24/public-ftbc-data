@@ -1,0 +1,29 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Burger
+|character=[[File:Burger.png|Burger]]
+|difficulty=[[File:Arduous.png]] <span style="color:#5d0cff">'''Arduous'''</span>
+|area=[[Goiky]]
+|hint=MUST.... OBTAIN.... THE BURGER!!!!!!!!
+|additionalinfo
+|previousdifficulties = 
+[[File:Remorseless.png]] <span style="color:#2084ff">'''Remorseless'''</span>
+[[File:Strenuous.png]] <span style="color:#4048e5">'''Strenuous'''</span>
+}}
+
+==Character==
+'''Burger''' appears to be a regular cheeseburger that also shows up multiple times in Battle for BFDI.
+
+==Obtaining==
+'''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+Get to the Fourest by going to where Profily is at and going through a non-collidable wall where Four is at. When you're at the Fourest, go to the EXIT and dance clip on the wall (specifically the one with the large window) until you're outside the map. Afterwards, wall flick upwards until you reach the top of Oodle's area and keep going until you find a missing wall. Go down towards Oodle until you're suddenly teleported to a death trap where you slowly descend downwards. However, if you go through a non-collidable wall somewhere in the area, you can continue through a long winded maze until you reach the end where Burger is. There are also dead ends which can slow down your progress, which is why you should be careful when you reach the area.</div>
+</div>
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Arduous Objects]]

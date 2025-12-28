@@ -1,0 +1,13 @@
+{{CharacterInfo|name=Gashapon Capsule|character=[[File:Gashapon Capsule.png]]|difficulty=Extreme|area=[[Snowy]]|hint=im (Hidden in Snowy)|additionalinfo|previousdifficulties=<span style="color:#a1ff27">'''Normal'''</span> [[File:Normal.png]]}}
+
+== Character ==
+Gashapon Capsule is a small, glossy capsule toy with a rounded glass-like top and a bright purple base. They have simple black eyes and a soft smile, giving them a calm, cheerful look despite being a mystery capsule. Their body shape resembles the classic Japanese gashapon toys you’d find in vending machines.
+
+== Obtaining ==
+To obtain Gashapon Capsule, go to the [[Snowball]] area in Snowy.  
+[[File:Capsule spot.png.png|thumb|683x683px|it's the area circled in green.]]
+Look under the map, towards one of the corners of the zone.
+[[Category:Snowy Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Extreme Objects]]

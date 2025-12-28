@@ -1,0 +1,17 @@
+{{CharacterInfo|name=Teardrop|character=Teardrop.png|difficulty=Easy|area=[[Classic Roblox]]|hint=something water perhaps.}}
+
+== Character ==
+A blue teardrop.
+
+== Obtaining ==
+Old: {{Spoiler|text=In a fountain at [[Goiky]].}}
+
+New: {{Spoiler|text=In the water by the bridge at [[Classic Roblox]].}}
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:Classic Roblox Objects]]
+[[Category:BFDI Contestants]]
+[[Category:BFDIA Contestants]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]
+[[Category:Main Realm Objects]]

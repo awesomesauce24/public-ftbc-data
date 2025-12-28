@@ -1,0 +1,12 @@
+{
+  "name": "Camera",
+  "area": "City",
+  "difficulty": "effortless",
+  "description": "filmin and stuff",
+  "hint": "filmin and stuff",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name = Camera\n|character = [[File:Camera.png]]\n|difficulty = [[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area = [[City]]\n|hint = filmin and stuff\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/City"
+}

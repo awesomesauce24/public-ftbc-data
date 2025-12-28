@@ -1,0 +1,6 @@
+{{stub}}
+{{CharacterInfo|name=Crazy Needle|character=[[File:Crazy Needle.webp|thumb]]|difficulty=Normal|area=[[Goiky]]|hint=At the end of the rainbow.}}
+== Character ==
+needle but rainbow and crazy
+== Obtaining ==
+{{Spoiler|text=At the end of the Goiky Highway. Do a wraparound at the end.}}

@@ -1,0 +1,10 @@
+{
+  "name": "Lemi12",
+  "area": "Basement",
+  "difficulty": "arduous",
+  "description": "slenderman but awesome",
+  "hint": "slenderman but awesome",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Lemi12\n|character = [[File:Lemi12.png]]\n|difficulty = Arduous\n|area = [[The Basement]]\n|hint = slenderman but awesome\n",
+  "location": "subrealm:Yoyle Factory/Basement"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Ink",
+  "area": "Inverted",
+  "difficulty": "insane",
+  "description": "gross",
+  "hint": "gross",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Ink\n|character = [[File:Ink.png]]\n|difficulty = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n|area = [[Inverted]]\n|hint = gross\n",
+  "location": "realm:Inverted"
+}

@@ -1,0 +1,18 @@
+{{CharacterInfo
+|name=Keytar
+|character=[[File:Keytar.png]]
+|difficulty=Moderate
+|area=[[Classic Roblox]]
+|hint=rock away little keyboard guy!!!! (Hidden in Classic Roblox)
+}}
+
+== Character ==
+Keytar appears as a low quality red and white keyboard instrument.
+
+== Obtaining ==
+Keytar is hidden ontop of one of the windows inside the Classic House.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Moderate Objects]]
+[[Category:Classic Roblox Objects]]

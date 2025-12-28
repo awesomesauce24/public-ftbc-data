@@ -1,0 +1,24 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Meltdown.png}}}|{{{Size|2000px}}}]] </div> <div style="--theme-accent-color:-webkit-linear-gradient(#78ff78,#00ff00); --theme-accent-label-color:#ffffff;">
+
+{{CharacterInfo
+|name=Delicious Fruit
+|character=Delicious Fruit.png
+|difficulty=[[File:Unforgiving.png]] <span style="color:#ff143f">'''Unforgiving'''</span>
+|area=[[Yoyle Factory/Meltdown]]
+|hint=mmm..... delicious....
+|creator=AccountDoesNothing
+|additionalinfo
+|gender=[[File:Male.svg|24x24 px]] Male
+|previousdifficulties = [[File:Insane.png]] <span style="color:#ff1c95">'''Insane'''</span>
+}}
+
+== Info ==
+The object appears to be a red apple.
+
+== Obtaining ==
+They're in plain sight, near the entrance to [[Yoyle Factory/Meltdown|Meltdown]].
+
+[[Category:Yoyle Factory Objects]]
+[[Category:Yoyle Factory/Meltdown Objects]]
+[[Category:Objects]]
+[[Category:Unforgiving Objects]]

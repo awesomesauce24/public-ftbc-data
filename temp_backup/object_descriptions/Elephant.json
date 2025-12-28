@@ -1,0 +1,10 @@
+{
+  "name": "Elephant",
+  "area": "Yoyle Factory",
+  "difficulty": "extreme",
+  "description": "Someone has GOT to address this",
+  "hint": "Someone has GOT to address this",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Elephant|character=[[File:ELEPHANT.webp|thumb]]|difficulty=Extreme|area=[[Yoyle Factory]]|hint=Someone has GOT to address this",
+  "location": "realm:Yoyle Factory"
+}

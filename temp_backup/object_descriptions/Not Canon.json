@@ -1,0 +1,10 @@
+{
+  "name": "Not Canon",
+  "area": "Midnight Rooftops",
+  "difficulty": "insane",
+  "description": "use the cannon! or, well... not cannon",
+  "hint": "use the cannon! or, well... not cannon",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Not Canon\n|character=[[File:Not Canon.png]]\n|difficulty=[[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n|area=[[Midnight Rooftops]]\n|hint=use the cannon! or, well... not cannon\n",
+  "location": "realm:Midnight Rooftops"
+}

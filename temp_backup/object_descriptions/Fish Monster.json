@@ -1,0 +1,12 @@
+{
+  "name": "Fish Monster",
+  "area": "Hotel",
+  "difficulty": "effortless",
+  "description": "uhhh I forgor sorry",
+  "hint": "uhhh I forgor sorry",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Fish Monster\n|character=[[File:Fish Monster.png|Fish Monster]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Hotel]]\n|hint=uhhh I forgor sorry\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Hotel"
+}

@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Lancer|character=[[File:Lancer.png]]|difficulty=Extreme|area=[[Classic Paradise]]|hint=In the cave, follow him}}
+==Character==
+lancer from undertale anagram!??!?!?
+==Obtaining==
+In the cave, don't follow him.
+
+[[Category:Objects]]
+[[Category:Extreme Objects]]
+[[Category:Classic Paradise Objects]]

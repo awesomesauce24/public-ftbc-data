@@ -1,0 +1,12 @@
+{
+  "name": "Birthday Cake",
+  "area": "Candyland",
+  "difficulty": "effortless",
+  "description": "happy birthday! (it isn't your birthday) [Hidden in Candyland]",
+  "hint": "happy birthday! (it isn't your birthday) [Hidden in Candyland]",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Birthday Cake\n|character=<gallery>\nBirthday Cake New.png|Current\nBirthday Cake.png|Old\n</gallery>\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Candyland]]\n|hint=happy birthday! (it isn't your birthday) [Hidden in Candyland]\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Candyland"
+}

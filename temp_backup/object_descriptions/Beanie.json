@@ -1,0 +1,12 @@
+{
+  "name": "Beanie",
+  "area": "Jungle",
+  "difficulty": "moderate",
+  "description": "look inside of a bush",
+  "hint": "look inside of a bush",
+  "previous_difficulties": [
+    "Medium"
+  ],
+  "wiki_markup": "name=Beanie|character=Beanie.png|difficulty=Moderate|area=Jungle|hint=look inside of a bush|previousdifficulties=Medium",
+  "location": "realm:Main Realm/Jungle"
+}

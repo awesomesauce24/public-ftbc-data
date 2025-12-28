@@ -1,0 +1,39 @@
+{
+  "objects": [
+    {
+      "name": "Frozen Steak",
+      "difficulty": "arduous",
+      "description": ""
+    },
+    {
+      "name": "Octahedron",
+      "difficulty": "arduous",
+      "description": ""
+    },
+    {
+      "name": "Rosin",
+      "difficulty": "arduous",
+      "description": ""
+    },
+    {
+      "name": "Winterous",
+      "difficulty": "strenuous",
+      "description": ""
+    },
+    {
+      "name": "Ice Chunk",
+      "difficulty": "remorseless",
+      "description": ""
+    },
+    {
+      "name": "Freeze Juice",
+      "difficulty": "<span style=\"",
+      "description": ""
+    },
+    {
+      "name": "Frozen World Medallion",
+      "difficulty": "medallion",
+      "description": ""
+    }
+  ]
+}

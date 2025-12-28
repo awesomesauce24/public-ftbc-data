@@ -1,0 +1,12 @@
+{
+  "name": "Piney",
+  "area": "Goiky",
+  "difficulty": "easy",
+  "description": "what do you think pinecones are on?",
+  "hint": "what do you think pinecones are on?",
+  "previous_difficulties": [
+    "Normal"
+  ],
+  "wiki_markup": "name=Piney\n|character=Piney.png\n|difficulty=[[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n|area=[[Goiky]]\n|hint=what do you think pinecones are on?\n|additionalinfo\n|previousdifficulties = [[File:Normal.png]] <span style=\"color:#a1ff27\">'''Normal'''</span>\n",
+  "location": "realm:Main Realm/Goiky"
+}

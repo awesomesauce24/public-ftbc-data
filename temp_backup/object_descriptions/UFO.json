@@ -1,0 +1,10 @@
+{
+  "name": "UFO",
+  "area": "Factory",
+  "difficulty": "easy",
+  "description": "did you know the population of jupiter is 60,802 (Hidden In Factory)",
+  "hint": "did you know the population of jupiter is 60,802 (Hidden In Factory)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=UFO|character=[[File:UFO.png]]]|difficulty=Easy|area=[[Factory]]|hint=did you know the population of jupiter is 60,802 (Hidden In Factory)",
+  "location": "realm:Main Realm/Factory"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "White Board",
+  "area": "Yoyle Factory",
+  "difficulty": "dreadful",
+  "description": "there is a secretive room in the factory...",
+  "hint": "there is a secretive room in the factory...",
+  "previous_difficulties": [],
+  "wiki_markup": "name=White Board|character=[[File:White Board.png]]|difficulty=Dreadful|area=[[Yoyle Factory]]|hint=there is a secretive room in the factory...",
+  "location": "realm:Yoyle Factory"
+}

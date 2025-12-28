@@ -1,0 +1,10 @@
+{
+  "name": "Erlenmeyer",
+  "area": "Magma Canyon",
+  "difficulty": "insane",
+  "description": "oh boy this one sure is so much fun",
+  "hint": "oh boy this one sure is so much fun",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Erlenmeyer\n|character = [[File:Erlenmeyer.png]]\n|difficulty = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n|area = [[Magma Canyon]]\n|hint = oh boy this one sure is so much fun\n|gender=\n",
+  "location": "realm:Magma Canyon"
+}

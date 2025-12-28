@@ -1,0 +1,26 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Candyland.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#ff69b4, #ffb6d9); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Birthday Cake
+|character=<gallery>
+Birthday Cake New.png|Current
+Birthday Cake.png|Old
+</gallery>
+|difficulty=[[File:Effortless.png]] <span style="color:#17a897">'''Effortless'''</span>
+|area=[[Candyland]]
+|hint=happy birthday! (it isn't your birthday) [Hidden in Candyland]
+|additionalinfo
+|previousdifficulties = [[File:Easy.png]] <span style="color:#10da8d">'''Easy'''</span>
+}}
+
+== Info ==
+A birthday cake with a candle and frosting with sprinkles on top. 
+
+== Location ==
+Teleport to [[Candyland]]. Cross the chocolate river. In a big puddle of.. ice... frosting.. blue stuff???? I have no idea.
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:Candyland Objects]]
+[[Category:Main Realm Objects]]

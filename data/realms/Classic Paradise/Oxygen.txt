@@ -1,0 +1,9 @@
+{{stub}}
+{{CharacterInfo|name=Oxygen|character=[[File:Oxygen.png]]|difficulty=Strenuous|area=[[Classic Paradise]]|hint=Go where the light shines, an unusual light}}
+==Character==
+'''Oxygen''' is a cluster of Protons and Neutrons with Electrons orbiting the cluster.
+==Obtaining==
+First, enter the cave by {{Spoiler|text=pressing [[Buzzer]]'s button}}. Then go right, twice. You should see "(Sb, K, Pb) Linguistics of Origination. (answer all caps)". Now, idk how to solve this but you should get {{Spoiler|text="LATIN"}}. Enter it in the sign and a door should appear. Finally, find 4 pieces of code. You should get {{Spoiler|text="'''/e AIR'''"}}.
+[[Category:Objects]]
+[[Category:Strenuous Objects]]
+[[Category:Classic Paradise Objects]]

@@ -1,0 +1,12 @@
+{
+  "name": "Fanny",
+  "area": "Desert",
+  "difficulty": "effortless",
+  "description": "she's somewhere awfully hot",
+  "hint": "she's somewhere awfully hot",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Fanny\n|character=[[File:Fanny.png]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Desert]]\n|hint=she's somewhere awfully hot\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Desert"
+}

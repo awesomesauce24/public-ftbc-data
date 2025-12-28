@@ -1,0 +1,10 @@
+{
+  "name": "Hot Dog",
+  "area": "Warehouse",
+  "difficulty": "moderate",
+  "description": "hidden besides a structure (Hidden at Warehouse)",
+  "hint": "hidden besides a structure (Hidden at Warehouse)",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Hot Dog\n|character = [[File:Hotdog.png]]\n|difficulty = Moderate\n|area = [[Warehouse]]\n|hint = hidden besides a structure (Hidden at Warehouse)\n",
+  "location": "realm:Main Realm/Warehouse"
+}

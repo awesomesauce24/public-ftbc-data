@@ -1,0 +1,7 @@
+{{CharacterInfo|name=Gold Medal|character=[[File:Gold Medal.png|Gold Medal]]|difficulty=Medal|area=Medal Room|hint=250 characters are required for this object|info=}}
+==Character==
+Gold Medal appears to be a regular gold medal.
+==Obtaining==
+{{Spoiler|text=Teleport to the Medal Room by clicking "Medals" on the top-right corner of the Objectpedia. If you have 250+ objects, you can go through the "250 Characters" room.}}
+[[Category:Objects]]
+[[Category:Medal Objects]]

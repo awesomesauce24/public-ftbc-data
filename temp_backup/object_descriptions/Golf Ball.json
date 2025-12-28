@@ -1,0 +1,10 @@
+{
+  "name": "Golf Ball",
+  "area": "Goiky",
+  "difficulty": "effortless",
+  "description": "sitting down is so nice",
+  "hint": "sitting down is so nice",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Golf Ball\n|character =<gallery>\nGolf Ball.png|Current\nGolf Ball Old.png|Old\n</Gallery>\n|difficulty = Effortless\n|area = [[Main Realm]]\n|hint = sitting down is so nice\n",
+  "location": "realm:Main Realm/Goiky"
+}

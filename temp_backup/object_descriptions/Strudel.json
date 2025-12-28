@@ -1,0 +1,10 @@
+{
+  "name": "Strudel",
+  "area": "Candyland",
+  "difficulty": "extreme",
+  "description": "there is so little detail on this that it doesn't even resemble a strudel anymore",
+  "hint": "there is so little detail on this that it doesn't even resemble a strudel anymore",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Strudel|character=[[File:Strudel.png]]|difficulty=Extreme|area=[[Candyland]]|hint=there is so little detail on this that it doesn't even resemble a strudel anymore",
+  "location": "realm:Main Realm/Candyland"
+}

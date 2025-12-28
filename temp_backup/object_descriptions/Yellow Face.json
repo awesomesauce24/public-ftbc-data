@@ -1,0 +1,10 @@
+{
+  "name": "Yellow Face",
+  "area": "City",
+  "difficulty": "hard",
+  "description": "what do you use to film?",
+  "hint": "what do you use to film?",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Yellow Face|character=[[File:Yellow Face.png]]|difficulty=Hard|area=[[Main Realm]]|hint=what do you use to film?",
+  "location": "realm:Main Realm/City"
+}

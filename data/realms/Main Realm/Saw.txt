@@ -1,0 +1,17 @@
+{{CharacterInfo|name=Saw|character=<gallery>
+Saw in game.webp|Current
+Saw old.png|Old
+</gallery>
+|difficulty=Effortless|area=[[Snowy]]|hint=What's she doing cutting that tree? (Hidden in Snowy)}}
+
+==Character==
+A saw with brown wooden handle.
+
+==Obtaining==
+She's on a tree in [[Snowy]] which is close to [[Goiky]] and [[Jungle]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:Snowy Objects]]
+[[Category:Main Realm Objects]]

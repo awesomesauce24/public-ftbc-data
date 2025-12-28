@@ -1,0 +1,10 @@
+{
+  "name": "MousePad",
+  "area": "Yoyle Factory",
+  "difficulty": "insane",
+  "description": "Hint: it's NOT at a computer",
+  "hint": "Hint: it's NOT at a computer",
+  "previous_difficulties": [],
+  "wiki_markup": "name=MousePad|character=[[File:MousePad.webp|thumb]]|difficulty=Insane|area=[[Yoyle Factory]]|hint=Hint: it's NOT at a computer",
+  "location": "realm:Yoyle Factory"
+}

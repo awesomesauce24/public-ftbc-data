@@ -1,0 +1,10 @@
+{
+  "name": "Apple",
+  "area": "Goiky",
+  "difficulty": "easy",
+  "description": "hey apple! KNIFE!!! oh and this is near spawn",
+  "hint": "hey apple! KNIFE!!! oh and this is near spawn",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Apple|character=[[File:Apple.png.png]]|difficulty=Easy|area=[[Goiky]]|hint=hey apple! KNIFE!!! oh and this is near spawn",
+  "location": "realm:Main Realm/Goiky"
+}

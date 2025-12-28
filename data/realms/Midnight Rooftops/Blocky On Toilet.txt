@@ -1,0 +1,37 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Midnight-rooftops.png|2000px]]
+</div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#050522, #140f4a); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Blocky On Toilet
+|character=[[File:Blocky On Toilet.png]]
+|difficulty=[[File:Strenuous.png|link=]] <span style="color:#4048e5">'''<b>Strenuous</b>'''</span>
+|area=[[Midnight Rooftops]]
+|hint=
+}}
+
+== Info ==
+Blocky On Toilet appears to be a image of [[Blocky]] on a very realistic toilet.
+
+== Obtaining ==
+'''''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+{| class="article-table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;"
+!'''How to Find [SPOILERS]'''||
+|-
+|
+*Get to the Hotel located far away from the main map.  
+*Can be reached while doing [[Singapore Map]]
+*Blocky on Toilet will be found stuck on one of the hotel’s walls.
+|}
+</div>
+</div>
+
+[[Category:Strenuous Objects]]
+[[Category:Objects]]
+[[Category:Midnight Rooftops Objects]]
+</div>
+</div>

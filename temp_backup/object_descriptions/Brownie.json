@@ -1,0 +1,12 @@
+{
+  "name": "Brownie",
+  "area": "Yoyleland",
+  "difficulty": "normal",
+  "description": "PLACEHOLDER",
+  "hint": "PLACEHOLDER",
+  "previous_difficulties": [
+    "Extreme"
+  ],
+  "wiki_markup": "name=Brownie|character=[[Brownie.png|thumb]]|difficulty=Normal|area=[[Yoyleland]]|hint=PLACEHOLDER|additionalinfo|previousdifficulties=<span style=\"color:#ED2727\">'''Extreme'''</span> [[File:Extreme.png]]",
+  "location": "realm:Yoyleland"
+}

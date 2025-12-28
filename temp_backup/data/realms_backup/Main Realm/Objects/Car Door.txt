@@ -1,0 +1,26 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:Main Realm Sky.webp|2000px]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#78ff78, #00ff00); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+
+{{CharacterInfo
+|name=Car Door
+|character=[[File:Car Door.png]]
+|difficulty=[[File:Easy.png]] <span style="color:#10da8d">'''<b>Easy</b>'''</span>
+|area=[[Main Realm]]
+|hint=good thing you can't thlam your- (Hidden in City)
+}}
+
+== Info ==
+A car door
+
+== Obtaining ==
+in City, Check the Parking Lot. They are being used as a car door.
+
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Main Realm Objects]]
+
+</div>
+</div>

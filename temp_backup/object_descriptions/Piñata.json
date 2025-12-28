@@ -1,0 +1,10 @@
+{
+  "name": "Piñata",
+  "area": "Jungle",
+  "difficulty": "effortless",
+  "description": "it's on a tree, that's basically all you need to know",
+  "hint": "it's on a tree, that's basically all you need to know",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Piñata|character=[[File:Piñata.png]]|difficulty=Effortless|area=[[Jungle]]|hint=it's on a tree, that's basically all you need to know",
+  "location": "realm:Main Realm/Jungle"
+}

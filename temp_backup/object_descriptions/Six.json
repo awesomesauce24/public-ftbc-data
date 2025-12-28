@@ -1,0 +1,10 @@
+{
+  "name": "Six",
+  "area": "Goiky",
+  "difficulty": "intermediate",
+  "description": "they're alone in the sky (Start in Goiky)",
+  "hint": "they're alone in the sky (Start in Goiky)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Six|character=<gallery>\nSix New.webp|Current\nSix.png|Old\n</gallery>\n|difficulty=Hard|area=[[Goiky]]|hint=they're alone in the sky (Start in Goiky)",
+  "location": "realm:Main Realm/Goiky"
+}

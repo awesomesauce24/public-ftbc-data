@@ -1,0 +1,12 @@
+{
+  "name": "Toxic Mushroom",
+  "area": "Inverted",
+  "difficulty": "difficult",
+  "description": "this guy and toxic bomb would be great pals",
+  "hint": "this guy and toxic bomb would be great pals",
+  "previous_difficulties": [
+    "Hard"
+  ],
+  "wiki_markup": "name=Toxic Mushroom\n|character=Toxic Mushroom.png\n|difficulty=[[File:Difficult.png]] <span style=\"color:#f54f25\">'''Difficult'''</span>\n|area=[[Inverted]]\n|hint=this guy and toxic bomb would be great pals\n|additionalinfo\n|previousdifficulties = [[File:Hard.png]] <span style=\"color:#ff7e21\">'''Hard'''</span>\n",
+  "location": "realm:Inverted"
+}

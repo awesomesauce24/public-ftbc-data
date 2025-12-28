@@ -1,0 +1,16 @@
+{{CharacterInfo|name=Yellow Face|character=[[File:Yellow Face.png]]|difficulty=Hard|area=[[Main Realm]]|hint=what do you use to film?}}
+
+== Obtaining ==
+Start in the City.  Find [[Camera]] and click the red square on it.  Yellow Face will appear after interacting with the square. [[Purple Face]] can also be found here.
+
+== Info ==
+Yellow Face is a bright yellow oval-shaped character with a thick black outline.  He has two black oval eyes and a wide, simple black smile.  His appearance is flat and stylized, resembling a cartoon face drawn on a smooth yellow surface.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Hard Objects]]
+[[Category:City Objects]]
+[[Category:BFDIA Contestants]]
+[[Category:IDFB Contestants]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]

@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Silver Medal|character=[[File:Silver Medal.png|Silver Medal]]|difficulty=Medal|area=Medal Room|hint=100 characters are required for this object|info=|additionalinfo|previousdifficulties=<span style="color:#ED2727">'''Extreme'''</span> [[File:Extreme.png]]}}
+==Character==
+Silver Medal appears to be a regular silver medal.
+==Obtaining==
+{{Spoiler|text=Teleport to the Medal Room by clicking "Medals" on the top-right corner of the Objectpedia. If you have 100+ objects, you can go through the "100 Characters" room.}}
+[[Category:Objects]]
+[[Category:Medal Objects]]
+[[Category:Medal Room Objects]]

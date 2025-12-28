@@ -1,0 +1,89 @@
+{
+  "objects": [
+    {
+      "name": "Blackbelt",
+      "difficulty": "dreadful",
+      "description": ""
+    },
+    {
+      "name": "Carbon Dioxide",
+      "difficulty": "dreadful",
+      "description": ""
+    },
+    {
+      "name": "Cherryade",
+      "difficulty": "dreadful",
+      "description": ""
+    },
+    {
+      "name": "Hoodie",
+      "difficulty": "dreadful",
+      "description": ""
+    },
+    {
+      "name": "FLA",
+      "difficulty": "terrifying",
+      "description": ""
+    },
+    {
+      "name": "Paper Jam Leafy",
+      "difficulty": "terrifying",
+      "description": ""
+    },
+    {
+      "name": "Piece of String",
+      "difficulty": "terrifying",
+      "description": ""
+    },
+    {
+      "name": "Robot Liy",
+      "difficulty": "terrifying",
+      "description": ""
+    },
+    {
+      "name": "Yin-Yang",
+      "difficulty": "terrifying",
+      "description": ""
+    },
+    {
+      "name": "Demon Four",
+      "difficulty": "arduous",
+      "description": ""
+    },
+    {
+      "name": "Lemi12",
+      "difficulty": "arduous",
+      "description": ""
+    },
+    {
+      "name": "Shuttle Birdie",
+      "difficulty": "arduous",
+      "description": ""
+    },
+    {
+      "name": "average joe",
+      "difficulty": "strenuous",
+      "description": ""
+    },
+    {
+      "name": "Cobalty",
+      "difficulty": "strenuous",
+      "description": ""
+    },
+    {
+      "name": "Magnifying Glass",
+      "difficulty": "strenuous",
+      "description": ""
+    },
+    {
+      "name": "Cali",
+      "difficulty": "remorseless",
+      "description": ""
+    },
+    {
+      "name": "Soldery",
+      "difficulty": "remorseless",
+      "description": ""
+    }
+  ]
+}

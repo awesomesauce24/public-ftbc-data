@@ -1,0 +1,18 @@
+{{CharacterInfo
+|name=Fire Spatula
+|character=[[File:Fire Spatula.png]]
+|difficulty=Hard
+|area=[[Tropical Islands]]
+|hint=remember, x marks the spot!
+}}
+
+== Character ==
+Fire Spatula appears as a glowing spatula engulfed in flames with a cheerful face.
+
+== Obtaining ==
+Start in City and grab the shovel inside the dumpster near [[Barbecue Sauce]]. Then travel to Tropical Islands and look for the red X on the ground. Touch it to dig and reveal Fire Spatula buried below.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Hard Objects]]
+[[Category:Tropical Islands Objects]]

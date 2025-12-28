@@ -1,0 +1,10 @@
+{
+  "name": "Spunce",
+  "area": "Hotel",
+  "difficulty": "easy",
+  "description": "what is this thing even supposed to be? (Hidden at Hotel)",
+  "hint": "what is this thing even supposed to be? (Hidden at Hotel)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Spunce|character=[[File:Spunce.png]]|difficulty=Easy|area=[[Hotel]]|hint=what is this thing even supposed to be? (Hidden at Hotel)",
+  "location": "realm:Main Realm/Hotel"
+}

@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Transmitter|character=[[File:Transmitter.png]]|difficulty=Strenuous|area=[[Medal Room]]|hint=beep boop beep beep bop boop beep (Hidden in Medal Room)}}
+==Character==
+Thats indeed a Transmitter, cool design if you ask me
+
+==Obtaining==
+Start in the [[Medal Room]], {{Spoiler|text=if you look behind [[Diamond Medal]]'s room, you'll see a slightly transparent obby. To get to it, just wallhop from the right-side of the [[Diamond Medal]]'s room.}}
+[[Category:Objects]]
+[[Category:Strenuous Objects]]
+[[Category:Main Realm Objects]]

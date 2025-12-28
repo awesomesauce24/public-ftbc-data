@@ -1,0 +1,12 @@
+{
+  "name": "Electric Guitar",
+  "area": "Floating Island",
+  "difficulty": "moderate",
+  "description": "ah yes the void (Hidden in Floating Island)",
+  "hint": "ah yes the void (Hidden in Floating Island)",
+  "previous_difficulties": [
+    "Extreme"
+  ],
+  "wiki_markup": "name=Electric Guitar|character=[[File:Electric Guitar.png]]\n|difficulty=Moderate\n|area=[[Floating Island]]\n|hint=ah yes the void (Hidden in Floating Island)\n|additionalinfo\n|previousdifficulties=[[File:Extreme.png]] <span style=\"color:#ED2727\">'''Extreme'''</span>",
+  "location": "realm:Main Realm/Floating Island"
+}

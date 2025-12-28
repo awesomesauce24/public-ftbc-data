@@ -1,0 +1,11 @@
+{{CharacterInfo|name=BFDIA 5b|character=BFDIA_5B.webp|difficulty=Dreadful|area=[[Classic Paradise]]|hint=bfdia 5b is a game}}
+
+== Character ==
+😏
+
+== Obtaining ==
+{{Spoiler|text=the platform for the 3rd (yellow) button for [[Infinity]].}}
+
+[[Category:Objects]]
+[[Category:Dreadful Objects]]
+[[Category:Classic Paradise Objects]]

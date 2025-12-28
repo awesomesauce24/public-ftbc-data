@@ -1,0 +1,10 @@
+{{CharacterInfo|name=Ninja Woody|character=Ninja Woody.webp|difficulty=Easy|area=[[Goiky]]|hint=The suspiciously Woody shaped hole:}}
+
+== Character ==
+Ninja Woody looks the exact same as normal Woody, but he is wearing a black ninja outfit and holding a sword.
+
+== Obtaining ==
+{{Spoiler|text=Go to [[Crazy Needle]] and fall into the Woody shaped hole}}
+[[Category:Easy Objects]]
+[[Category:Goiky Objects]]
+[[Category:Objects]]

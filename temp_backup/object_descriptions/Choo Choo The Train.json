@@ -1,0 +1,12 @@
+{
+  "name": "Choo Choo The Train",
+  "area": "Yoyleland",
+  "difficulty": "moderate",
+  "description": "CHOO CHOO!",
+  "hint": "CHOO CHOO!",
+  "previous_difficulties": [
+    "Normal"
+  ],
+  "wiki_markup": "name=Choo Choo The Train\n|character=[[File:Choo choo.png|thumb]]\n|difficulty=[[File:Moderate.png]] <span style=\"color:#07fc55\">'''Moderate'''</span>\n|area=[[Yoyleland]]\n|hint=CHOO CHOO!\n|additionalinfo\n|previousdifficulties = [[File:Normal.png]] <span style=\"color:#a1ff27\">'''Normal'''</span>\n",
+  "location": "realm:Yoyleland"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Avocado",
+  "area": "City",
+  "difficulty": "easy",
+  "description": "blending in!",
+  "hint": "blending in!",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Avocado|character=[[File:Avocado.png]]|difficulty=Easy|area=[[City]]|hint=blending in!",
+  "location": "realm:Main Realm/City"
+}

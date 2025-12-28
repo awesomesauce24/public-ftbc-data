@@ -1,0 +1,18 @@
+{{CharacterInfo
+|name=Microphone
+|character=[[File:Microphone.png]]
+|difficulty=Moderate
+|area=[[Warehouse]]
+|hint=mic up (Hidden in Warehouse)
+}}
+
+== Character ==
+Microphone appears as a black handheld microphone with a rounded top.
+
+== Obtaining ==
+Microphone is hidden behind the "Dont Open Purple Inside" box.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Moderate Objects]]
+[[Category:Warehouse Objects]]

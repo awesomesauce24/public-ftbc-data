@@ -1,0 +1,14 @@
+{{CharacterInfo|name=Limbless Pin|character=<gallery>
+Limbless Pin New.webp|Current
+Limbless Pin.png|Old
+</gallery>
+|difficulty=Easy|area=[[Floating Island]]|hint=How did she managed to get on there without limbs? (Hidden in Floating Island)|additionalinfo|previousdifficulties=<span style="color:#ff7e21">'''Hard'''</span> [[File:Hard.png]]}}
+==Info==
+The infamous pin appearance in BFDIA.
+==Obtainment==
+Go at the right side of the island, walking pass through [[Evil Marker]].
+[[Category:Easy Objects]]
+[[Category:Floating Island Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:BFDI Limbs]]

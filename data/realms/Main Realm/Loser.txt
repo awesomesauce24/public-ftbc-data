@@ -1,0 +1,11 @@
+{{CharacterInfo|name=Loser|character=[[File:Loser.png]]|difficulty=Easy|area=[[City]]|hint=sitting in his throne.|additionalinfo|previousdifficulties=<span style="color:#a1ff27">'''Normal'''</span> [[File:Normal.png]]}}
+== Character ==
+'''Loser''' is a male contestant in ''[https://battlefordreamisland.fandom.com/wiki/Battle_for_BFB Battle for BFB]''.
+
+== Obtaining ==
+Go to the chair in the Roblox HQ at the [[City]].
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:City Objects]]
+[[Category:BFB Contestants]]
+[[Category:Main Realm Objects]]

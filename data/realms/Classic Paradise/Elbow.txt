@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Elbow|character=[[File:Elbow.png]]|difficulty=Extreme|area=[[Classic Paradise]]|hint=elbow-zo}}
+==Character==
+A piece of what looks to be macoroni.
+==Obtaining==
+Inside the chimney of the locked house in [[Classic Paradise]].
+
+[[Category:Objects]]
+[[Category:Extreme Objects]]
+[[Category:Classic Paradise Objects]]

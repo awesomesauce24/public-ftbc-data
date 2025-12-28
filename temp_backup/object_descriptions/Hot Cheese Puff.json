@@ -1,0 +1,10 @@
+{
+  "name": "Hot Cheese Puff",
+  "area": "Barren Desert",
+  "difficulty": "remorseless",
+  "description": "find an encrypted message",
+  "hint": "find an encrypted message",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Hot Cheese Puff|character=[[Hot_Cheese_Puff.png|Hot Cheese Puff]]|difficulty=Remorseless|area=[[Barren Desert]]|hint=find an encrypted message",
+  "location": "realm:Barren Desert"
+}

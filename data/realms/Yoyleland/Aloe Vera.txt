@@ -1,0 +1,8 @@
+{{CharacterInfo|name=Aloe Vera|character=[[[File:Aloe Vera.png|thumb]]|difficulty=Normal|area=[[Yoyleland]]|hint=how can it grow here? just like pin said too little sun}}
+== Character ==
+Aloe Vera in a flower pot, mind blown.
+== Obtaining ==
+{{Spoiler|text= In Yoyleland, hidden inside a bush behind a tree near [[Brownie]].}}
+[[Category:Normal Objects]]
+[[Category:Objects]]
+[[Category:Yoyleland Objects]]

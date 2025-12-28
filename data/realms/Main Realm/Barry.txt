@@ -1,0 +1,11 @@
+== Character ==
+A purple berry with a devious smile and no arms.
+{{Location|title=Barry|image=Barry.png|map=Fossilfallsbarry.png|imagecaption=ourple|mapcaption=Barry viewed from Fossil Falls}}
+
+== Location ==
+Teleport to [[Fossil Falls|Fossil Falls.]] Look right. He's in a little crevice thing.
+
+[[Category:Objects]]
+[[Category:Fossil Falls Objects]]
+[[Category:Easy Objects]]
+[[Category:Main Realm Objects]]

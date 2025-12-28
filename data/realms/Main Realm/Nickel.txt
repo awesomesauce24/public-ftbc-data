@@ -1,0 +1,16 @@
+{{CharacterInfo|name=Nickel|character=[[File:Nickel.png]]|difficulty=Easy|area=[[Snowy]]|hint=on the ground somewhere.}}
+
+== Obtaining ==
+Go to [[Snowy]]. Nickel is simply lying near one of the trees.
+
+== Character ==
+[[File:Nickel spot.png.png|thumb|406x406px|nickel is located near the wooden ramp, circled in green.]]
+a simple silver coin with his signature expression.
+[[Category:BFDIA Contestants]]
+[[Category:IDFB Contestants]]
+[[Category:BFB Contestants]]
+[[Category:TPOT Contestants]]
+[[Category:Objects]]
+[[Category:Snowy Objects]]
+[[Category:Easy Objects]]
+[[Category:Main Realm Objects]]

@@ -1,0 +1,48 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+  [[File:{{{File|EVIL.png}}}|{{{Size|2000px}}}]]
+</div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#b00000,#5a0000); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Evil Book
+|character=[[File:Evil Book.png|thumb]]
+|difficulty=[[File:Dreadful.png]] <span style="color:#db25ff">'''Dreadful'''</span>
+|area=[[Evil Forest]]
+|hint=<span style="color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);">Behind a large safe</span>
+|additionalinfo
+|previousdifficulties =[[File:Terrifying.png]] <span style="color:#8b17ff">'''Terrifying'''</span>
+}}
+
+<div style="margin-top: 6px;">
+==<span style="color:#ffffff; text-shadow: 0 0 10px rgba(255,0,0,0.65), 0 0 18px rgba(176,0,0,0.45);">Info</span>==
+</div>
+
+<div style="
+  margin: 10px 0 14px 0;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,0,0,0.30);
+  background: rgba(20,0,0,0.55);
+  box-shadow: 0 0 18px rgba(255,0,0,0.16);
+">
+<span style="font-size:105%; color:#ff3b3b; line-height:1.55;
+text-shadow: 0 0 10px rgba(0,0,0,0.35);">
+Some objects have reported seeing an object with a dual tone cover in the evil forest... this cover for some reason lures the object looking at it to them, effectively making them never seen again.
+</span>
+</div>
+
+<div style="margin-top: 10px;">
+==<span style="color:#ffffff; text-shadow: 0 0 10px rgba(255,0,0,0.65), 0 0 18px rgba(176,0,0,0.45);">Obtaining</span>==
+</div>
+<span style="color:#ffb3b3; text-shadow: 0 0 10px rgba(0,0,0,0.35);">
+Do the obby to get to the forest here you need to find a safe where [[Evily]] is, evil book is behind safe
+</span>
+
+[[Category:Dreadful Objects]]
+[[Category:Objects]]
+[[Category:Evil Forest Objects]]
+[[Category:BFDI Limbs]]
+
+</div>
+</div>

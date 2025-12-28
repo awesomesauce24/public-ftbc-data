@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Duffel Bag|character=[[File:Duffel Bag.webp]]|difficulty=Moderate|area=[[Fossil Falls]]|hint=yeah (Hidden in Fossil Falls)}}
+==Info==
+Replacement of an user object, awesome amazing.
+==Obtainment==
+Under the big ribs at the left of the grave, fall between them to get it, its kinda hard tho.
+[[Category:Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Fossil Falls Objects]]
+[[Category:Moderate Objects]]

@@ -1,0 +1,10 @@
+{{CharacterInfo|name=5 Yen Coin|character=5 Yen Coin.png|difficulty=Extreme|area=[[Barren Desert]]|hint=donut is looking a little different today}}
+==Character==
+5 Yen Coin appears to be a green 5 Yen Coin from Japan.
+==Obtaining==
+{{Spoiler|text=In the [[Barren Desert]] realm, go to one of the edges of the map (specifically the edge near one of the pyramids with Cheese Orb on top) and then complete a strenuous obby. Halfway through, you should see 5 Yen Coin behind a wall wraparound.}}
+==Trivia==
+*5 Yen Coin resembles Donut,  as stated in the description.
+[[Category:Objects]]
+[[Category:Extreme Objects]]
+[[Category:Barren Desert Objects]]

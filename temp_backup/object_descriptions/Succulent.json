@@ -1,0 +1,12 @@
+{
+  "name": "Succulent",
+  "area": "Floating Island",
+  "difficulty": "intermediate",
+  "description": "THIS IS NOT HOW GRAVITY WORKS I THINK (Hidden in Floating Island)",
+  "hint": "THIS IS NOT HOW GRAVITY WORKS I THINK (Hidden in Floating Island)",
+  "previous_difficulties": [
+    "Hard"
+  ],
+  "wiki_markup": "name=Succulent|character=[[File:Succulent.png]]|difficulty=Intermediate|area=[[Floating Island]]|hint=THIS IS NOT HOW GRAVITY WORKS I THINK (Hidden in Floating Island)|additionalinfo|previousdifficulties=<span style=\"color:#ff7e21\">'''Hard'''</span> [[File:Hard.png]]",
+  "location": "realm:Main Realm/Floating Island"
+}

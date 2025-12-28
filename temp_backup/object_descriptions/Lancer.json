@@ -1,0 +1,10 @@
+{
+  "name": "Lancer",
+  "area": "Classic Paradise",
+  "difficulty": "extreme",
+  "description": "In the cave, follow him",
+  "hint": "In the cave, follow him",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Lancer|character=[[File:Lancer.png]]|difficulty=Extreme|area=[[Classic Paradise]]|hint=In the cave, follow him",
+  "location": "realm:Classic Paradise"
+}

@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Ulm|character=[[File:Ulm.png]]|difficulty=Arduous|area=[[Goiky]]|hint=look near where fedora is}}
+==Character==
+'''Ulm''' is the entirety of [https://en.wikipedia.org/wiki/Ulm Ulm].
+==Obtaining==
+Look outside of the walls after the dance clip for [[Fedora]].
+[[Category:Objects]]
+[[Category:Arduous Objects]]
+[[Category:Goiky Objects]]
+[[Category:Main Realm Objects]]

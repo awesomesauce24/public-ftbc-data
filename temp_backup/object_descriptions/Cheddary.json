@@ -1,0 +1,10 @@
+{
+  "name": "Cheddary",
+  "area": "Cherry Grove",
+  "difficulty": "intermediate",
+  "description": "This one's at a gouda spot! Sorry... guess my jokes are a little too CHEESY!",
+  "hint": "This one's at a gouda spot! Sorry... guess my jokes are a little too CHEESY!",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Cheddary|character=[[File:Cheddary.webp|thumb]]|difficulty=Intermediate|area=[[Cherry Grove]]|hint=This one's at a gouda spot! Sorry... guess my jokes are a little too CHEESY!",
+  "location": "realm:Cherry Grove"
+}

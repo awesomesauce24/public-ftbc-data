@@ -1,0 +1,10 @@
+{
+  "name": "Ice Cube",
+  "area": "Snowy",
+  "difficulty": "hard",
+  "description": "ice?",
+  "hint": "ice?",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Ice Cube|character=[[File:Ice Cube.png]]|difficulty=Hard|area=[[Snowy]]|hint=ice?",
+  "location": "realm:Main Realm/Snowy"
+}

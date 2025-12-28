@@ -1,0 +1,10 @@
+{
+  "name": "Ruby",
+  "area": "Factory",
+  "difficulty": "normal",
+  "description": "check inside the factory area",
+  "hint": "check inside the factory area",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Ruby|character=[[File:Ruby.png]]|difficulty=Normal|area=[[Factory]]|hint=check inside the factory area",
+  "location": "realm:Main Realm/Factory"
+}

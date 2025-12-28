@@ -1,0 +1,9 @@
+== Character ==
+An orange colored conch.
+
+== Obtaining ==
+Under the red awning in the [[Desert]].
+{{CharacterInfo|name=Conch Shell|character=Conch Shell.png|difficulty=Easy|area=Desert|hint=for someone in the desert area, they look pretty rad}}
+[[Category:Objects]]
+[[Category:Desert Objects]]
+[[Category:Easy Objects]]

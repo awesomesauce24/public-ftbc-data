@@ -1,0 +1,12 @@
+{
+  "name": "Singapore Map",
+  "area": "Midnight Rooftops",
+  "difficulty": "strenuous",
+  "description": "oh boy would you look at that it's another button hunt!!! how fun and exciting!!!!!",
+  "hint": "oh boy would you look at that it's another button hunt!!! how fun and exciting!!!!!",
+  "previous_difficulties": [
+    "Remorseless"
+  ],
+  "wiki_markup": "name = Singapore Map\n|character = [[File:Singapore Map.png]]\n|difficulty = [[File:Strenuous.png]] <span style=\"color:#4048e5\">'''Strenuous'''</span>\n|area = [[Midnight Rooftops]]\n|hint = oh boy would you look at that it's another button hunt!!! how fun and exciting!!!!!\n|additionalinfo\n|previousdifficulties= [[File:Remorseless.png]] <span style=\"color:#2084ff\">'''Remorseless'''</span>\n",
+  "location": "realm:Midnight Rooftops"
+}

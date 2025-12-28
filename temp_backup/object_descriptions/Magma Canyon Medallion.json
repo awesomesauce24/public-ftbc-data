@@ -1,0 +1,10 @@
+{
+  "name": "Magma Canyon Medallion",
+  "area": "Magma Canyon",
+  "difficulty": "medallion",
+  "description": "what do i even put here",
+  "hint": "what do i even put here",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Magma Canyon Medallion|character=Magma Canyon Medallion.png|difficulty=[[:Category:Medallion|Medallion]]|area=[[Magma Canyon]]|hint=what do i even put here|info=|creator=dnifiniti",
+  "location": "realm:Magma Canyon"
+}

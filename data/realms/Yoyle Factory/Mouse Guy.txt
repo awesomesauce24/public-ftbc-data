@@ -1,0 +1,30 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Lights Out.png|2000px]]
+</div>
+<div style="--theme-accent-color:#46515D; --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Mouse Guy
+|character=[[File:Mouse Guy.png]]
+|difficulty=[[File:Dreadful.png|link=]] <span style="color:#db25ff">'''<b>Dreadful</b>'''</span>
+|area=[[Yoyle Factory/Abandonment|Yoyle Factory]]
+|hint=this description is pretty... CHEESY!!!!!! LOL!!!!! hlep me pl
+|additionalinfo
+}}
+
+== Info ==
+[[David]] but as a mouse.
+
+== Obtaining ==
+'''''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">Find the room with the "THEY WILL FIND YOU" sign. '''Mouse Guy''' can be found under one of the desks.</div>
+</div>
+
+[[Category:Dreadful Objects]]
+[[Category:Objects]]
+[[Category:Yoyle Factory/Abandonment Objects]]
+[[Category:Yoyle Factory Objects]]
+</div>
+</div>

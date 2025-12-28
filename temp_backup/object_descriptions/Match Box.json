@@ -1,0 +1,10 @@
+{
+  "name": "Match Box",
+  "area": "Yoyleland",
+  "difficulty": "unforgiving",
+  "description": "it's exactly where you think it is.",
+  "hint": "it's exactly where you think it is.",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Match Box|character=[[File:Match Box.png|thumb]]|difficulty=Unforgiving|area=[[Yoyleland]]|hint=it's exactly where you think it is.",
+  "location": "realm:Yoyleland"
+}

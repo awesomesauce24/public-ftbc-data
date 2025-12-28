@@ -1,0 +1,12 @@
+{
+  "name": "Charger Box",
+  "area": "Level 1",
+  "difficulty": "difficult",
+  "description": "he isn't on the outlet he isn't on the outlet he isn't on the outlet he isn't on the outlet he isn't on the outlet",
+  "hint": "he isn't on the outlet he isn't on the outlet he isn't on the outlet he isn't on the outlet he isn't on the outlet",
+  "previous_difficulties": [
+    "Extreme"
+  ],
+  "wiki_markup": "name=Charger Box|character=[[File:Charger Box.png]]|difficulty=Difficult|area=[[Backrooms]]|hint=he isn't on the outlet he isn't on the outlet he isn't on the outlet he isn't on the outlet he isn't on the outlet|additionalinfo|previousdifficulties=<span style=\"color:#ED2727\">'''Extreme'''</span> [[File:Extreme.png]]",
+  "location": "subrealm:The Backrooms/Level 1"
+}

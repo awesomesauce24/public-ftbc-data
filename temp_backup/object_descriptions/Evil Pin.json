@@ -1,0 +1,10 @@
+{
+  "name": "Evil Pin",
+  "area": "Evil Forest",
+  "difficulty": "arduous",
+  "description": "<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">Get trolled!! Lol!!!!</span>",
+  "hint": "<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">Get trolled!! Lol!!!!</span>",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Evil Pin\n|character=[[File:Evil Pin.webp|thumb]]\n|difficulty=<span style=\"color:#ff2b2b; text-shadow: 0 0 10px rgba(255,0,0,0.55);\">'''Arduous'''</span>\n|area=[[Evil Forest]]\n|hint=<span style=\"color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);\">Get trolled!! Lol!!!!</span>\n",
+  "location": "realm:Evil Forest"
+}

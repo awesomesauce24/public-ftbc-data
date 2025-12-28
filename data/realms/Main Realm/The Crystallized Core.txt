@@ -1,0 +1,24 @@
+{{distinguish|Crystallized Core}}
+{{CharacterInfo|name=The Crystallized Core|character=Tcc.png|difficulty=IMPOSSIBLE|area=Mixed|hint=The four crystals: knowledge... death... perseverance... benevolence... start by finding the latter. (Made by Cadalac8999)}}
+
+== Character ==
+made by [https://www.roblox.com/users/3727989794 @Cadalac8999]
+==Lore==
+Once Immortality Thing and the Algebraic Laboratory discovered [[Frozen World]], they realized it had potential energy that could be deemed useful. So they started a new project in the center of the realm called "Project: Core" which was superheated. But eventually, it crystalized and considered a failed attempt. However, it would end up causing even more crystallization in Frozen Realm, and spread to more realms which would cause them to go extinct. With it also bringing the crystals of Knowledge, Death, Perseverance & [[Sphere of Benevolence|Benevolence]] under it's reign. Luckily, there was one person that had the antidote to this madness, and that person would be [[Hypostasis]]. So you (yes, you) would have to go to [[Sanctuary]] to find Hypostasis, only to realize they'd been guarded by The God of Overseer and Despair. After defeating him, you would be able to find Hypostasis where he presumably stop the crystallization. It would also most likely kill Crystalized Core as it was [[Freeze Juice|one of]] the root causes for the crystallization, and free the 4 crystals.
+== Obtaining ==
+Start by finding the latter (idk what latter means), go to {{Spoiler|text=Benevolence}}. In there, you need to find a code, and beat [[Sphere of Benevolence]]. After beating it, you'll get the ??? badge. And if you look around, there is a code {{Spoiler|text=under a desk, which is "NUMERUS, 7 2 18 18 2 7 18 2 2 18 7 2 2 18 7 2 2 7 2"}}. If you decode it, you'll get " {{Spoiler|text='''GBRRBGRBBRGBBRGBBGB'''}}".
+
+After that, if you look closely at the ??? badge, you'll see that it says {{Spoiler|text="nice try". If you remember, [[ARG Television]]'s place is called "nice try" ([https://www.roblox.com/games/9274942385 link]). If you go there and go to where the Invisibility Cloak is (its located in a cave), you can see a wooden door. In order to open it, you need the "???" badge. There, you need to enter the code "'''GBRRBGRBBRGBBRGBBGB'''" (the red button in the middle clears the code, green enters it). After entering the code, go outside of the cave, and you'll see that the blocked house is now open. When you enter it, you'll get badge "1", and if you look under the table there, you'll see the text "time is key". Now go grab the time changer (it's located in the stonehenge) and use it. At night, if you look on top of the mountain there will be a blue beam. Climb the beam and you'll get teleported to [[Unfamiliar Territory]].}}
+
+{{Spoiler|text=In there, there are 4 portals that you can enter. Beat each one of them. Death (red) is a boss-fight, Knowledge (blue) is a math question (answer is '''9.14'''), Benevolence (green) is a boss-fight, and finally Perseverance (yellow) is an obby. After completing all them, drop down the platform in [[Unfamiliar Territory]] while hugging the wall, you will be standing on top of an invisible platform. After that, just walk to the white beam.}}
+
+{{Spoiler|text=You will be teleported to [[Metallic Peak]]. Walk through the doors and}} <span style="color: red; text-shadow: 2px 2px 20px red; font-size: 14px">good luck...</span>
+
+{{Spoiler|text=After beating the obby, you'll be teleported to a game called "event" ([https://www.roblox.com/games/10289599526/event link]). When you touch one of the walls, it'll open. And if you go on top of the ramp and look behind the button, you'll see "1394fubcvVw@o1cHgAf)0)u31295". This... is encoded in caesar cipher so when decoded, it'll say "1394cryzsSt@l1zEdXc)0)r31295"}}
+
+{{Spoiler|text=Finally, go back to the Main Realm and say "'''/e 1394cryzsSt@l1zEdXc)0)r31295'''". Step in the white teleporter and you'll be teleported to [[Crystallized Core]]. Walk through the doors (walk sideways) and go through the cave to find '''The Crystallized Core'''.}}
+
+== Trivia ==
+
+* [[Freeze Juice]] was the one that caused the core to be crystallized, as it was part of their plan.[[Category:IMPOSSIBLE Objects]]
+[[Category:Objects]]

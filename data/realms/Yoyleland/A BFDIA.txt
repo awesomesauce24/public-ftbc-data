@@ -1,0 +1,36 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Yoyleland.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#cd58e3,#70287a); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo|name=A BFDIA
+|character=<gallery>
+A BFDIA.png
+</gallery>
+|difficulty=[[File:Remorseless.png|link=]] <span style="color:#2084ff">'''<b>Remorseless</b>'''</span>
+|area=[[Yoyleland]]
+|hint=real
+(Start near Frog Four)
+}}
+==Info==
+the brother of [[A BFDI]], but as the Letter 'A'.
+
+==Obtaining==
+''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">
+Go to Yoyleland, at the location where the [[Frog Four]] is. On the side, there will be a code, and a message telling you to find the key at 'an awesome burger'.
+
+You then must use this key as a cipher key on the code.
+
+The result is /e bfdia5bismyfavgame.
+
+Enter that code into the chat in Yoyleland to unlock A BFDIA.
+</div>
+</div>
+
+[[Category:Remorseless Objects]]
+[[Category:Objects]]
+[[Category:Yoyleland Objects]]
+
+</div>
+</div>

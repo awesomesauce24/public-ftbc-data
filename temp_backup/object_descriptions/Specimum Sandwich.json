@@ -1,0 +1,12 @@
+{
+  "name": "Specimum Sandwich",
+  "area": "Inverted",
+  "difficulty": "extreme",
+  "description": "all alone up there",
+  "hint": "all alone up there",
+  "previous_difficulties": [
+    "Insane"
+  ],
+  "wiki_markup": "name=Specimum Sandwich\n|character=[[File:Specimum Sandwich.png]]\n|difficulty=[[File:Extreme.png|link=]] <span style=\"color:#ed2727\">'''<b>Extreme</b>'''</span>\n|area=[[Inverted]]\n|hint=all alone up there\n|additionalinfo\n|previousdifficulties = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n",
+  "location": "realm:Inverted"
+}

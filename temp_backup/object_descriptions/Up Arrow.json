@@ -1,0 +1,12 @@
+{
+  "name": "Up Arrow",
+  "area": "Classic Paradise",
+  "difficulty": "arduous",
+  "description": "try looking the exact opposite of where the arrow is facing",
+  "hint": "try looking the exact opposite of where the arrow is facing",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Up Arrow|character=[[File:Up Arrow.png]]|difficulty=Arduous|area=[[Classic Paradise]]|hint=try looking the exact opposite of where the arrow is facing|additionalinfo|previousdifficulties=<span style=\"color:#8b17ff\">'''Terrifying'''</span> [[File:Terrifying.png]]",
+  "location": "realm:Classic Paradise"
+}

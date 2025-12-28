@@ -1,0 +1,10 @@
+{
+  "name": "Rocky",
+  "area": "City",
+  "difficulty": "normal",
+  "description": "Can someone PLEASE help him get out!? He's being a pest. (Hidden in City)",
+  "hint": "Can someone PLEASE help him get out!? He's being a pest. (Hidden in City)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Rocky\n|character=[[File:Rocky.png]]\n|difficulty=[[File:Normal.png]] <span style=\"color:#a1ff27\">'''<b>Normal</b>'''</span>\n|area=[[City]]\n|hint=Can someone PLEASE help him get out!? He's being a pest. (Hidden in City)\n|additionalinfo\n",
+  "location": "realm:Main Realm/City"
+}

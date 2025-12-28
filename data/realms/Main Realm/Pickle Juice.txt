@@ -1,0 +1,22 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Pickle Juice
+|character=Pickle Juice.png
+|difficulty=[[File:Easy.png]] <span style="color:#10da8d">'''Easy'''</span>
+|area=[[Tropical Islands]]
+|hint=they really just need a moment to rethink their life decisions
+}}
+
+== Character ==
+A badly drawn cup with a straw and pickle juice.
+
+== Obtaining ==
+On top of a palm tree at [[Tropical Islands]].
+
+[[Category:Easy Objects]]
+[[Category:Tropical Islands Objects]]
+[[Category:Objects]]
+[[Category:Main Realm Objects]]

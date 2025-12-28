@@ -1,0 +1,11 @@
+{{CharacterInfo|name=Lotus Flower|character=[[File:Lotus Flower.webp|thumb]]|difficulty=Effortless|area=[[Jungle]]|hint=Placeholder description I'll probably forget to change it but it's funnier like this (Hidden in Jungle)}}
+
+==Character==
+It's a lotus flower
+
+==Obtaining==
+On top of one of the bushes in [[Jungle]]
+[[Category:Jungle Objects]]
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Effortless Objects]]

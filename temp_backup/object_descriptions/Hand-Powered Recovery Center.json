@@ -1,0 +1,12 @@
+{
+  "name": "Hand-Powered Recovery Center",
+  "area": "Yoyleland",
+  "difficulty": "effortless",
+  "description": "this isn't really an animate object but okay",
+  "hint": "this isn't really an animate object but okay",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Hand-Powered Recovery Center|character=[[File:Hand-Powered Recovery Center.png]]|difficulty=Effortless|area=[[Yoyleland]]|hint=this isn't really an animate object but okay|additionalinfo|previousdifficulties=<span style=\"color:#10da8d\">'''Easy'''</span> [[File:Easy.png]]",
+  "location": "realm:Yoyleland"
+}

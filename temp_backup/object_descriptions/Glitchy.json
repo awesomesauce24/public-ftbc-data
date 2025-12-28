@@ -1,0 +1,12 @@
+{
+  "name": "Glitchy",
+  "area": "Factory",
+  "difficulty": "strenuous",
+  "description": "\"YOU SHOULDN'T BE HERE\"",
+  "hint": "\"YOU SHOULDN'T BE HERE\"",
+  "previous_difficulties": [
+    "Remorseless"
+  ],
+  "wiki_markup": "name=Glitchy\n|character=[[File:Glitchy.png]]\n|difficulty=[[File:Strenuous.png]] <span style=\"color:#4048e5\">'''Strenuous'''</span>\n|area=[[Factory]]\n|hint=\"YOU SHOULDN'T BE HERE\"\n|additionalinfo\n|previousdifficulties = [[File:Remorseless.png]] <span style=\"color:#2084ff\">'''Remorseless'''</span>\n",
+  "location": "realm:Main Realm/Factory"
+}

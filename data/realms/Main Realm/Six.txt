@@ -1,0 +1,12 @@
+{{CharacterInfo|name=Six|character=<gallery>
+Six New.webp|Current
+Six.png|Old
+</gallery>
+|difficulty=Hard|area=[[Goiky]]|hint=they're alone in the sky (Start in Goiky)}}
+==Character==
+The number 6, but with a face and limbs. They are also sitting.
+==Obtaining==
+Climb [[Bell]]'s rope in [[Goiky]]. Then jump to the cloud where '''Six''' is.
+[[Category:Objects]]
+[[Category:Hard Objects]]
+[[Category:Goiky Objects]]

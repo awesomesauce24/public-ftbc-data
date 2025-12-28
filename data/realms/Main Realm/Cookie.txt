@@ -1,0 +1,11 @@
+{{CharacterInfo|name=Cookie|character=[[File:Cookie.png|thumb]]|difficulty=Easy|area=[[Goiky]]|hint=Hidden in profiley's room, maybe because they store profiley's password. Get it?|additionalinfo|previousdifficulties=<span style="color:#a1ff27">'''Normal'''</span> [[File:Normal.png]]}}
+
+==Character==
+Small chocolate chip cookie
+
+==Obtaining==
+Go to [[Christmas Tree]] house and jump into the profile picture on the wall, you will get teleported to [[Profiley]] room, cookie is behind you
+[[Category:Objects]]
+[[Category:Easy Objects]]
+[[Category:Goiky Objects]]
+[[Category:Main Realm Objects]]

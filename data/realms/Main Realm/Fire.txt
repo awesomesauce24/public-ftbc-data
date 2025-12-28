@@ -1,0 +1,13 @@
+{{CharacterInfo|name=Fire|character=[[File:Fire.png]]|difficulty=Difficult|area=[[Warehouse]]|hint=don’t let them get anywhere near that world ending bomb... oh for petals sake (Hidden in Warehouse)}}
+
+== Character ==
+Fire appears as a bright orange flame with a simple smiling face.
+
+== Obtaining ==
+Fire is found inside the red skull bomb. Touch the bomb.
+
+[[Category:Main Realm Objects]]
+[[Category:Objects]]
+[[Category:Difficult Objects]]
+[[Category:Warehouse Objects]]
+[[Category:BFDI Contestants]]

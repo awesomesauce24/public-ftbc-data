@@ -1,0 +1,26 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.png}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#a1ff27,#6fbf1a); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Rocky
+|character=[[File:Rocky.png]]
+|difficulty=[[File:Normal.png]] <span style="color:#a1ff27">'''<b>Normal</b>'''</span>
+|area=[[City]]
+|hint=Can someone PLEASE help him get out!? He's being a pest. (Hidden in City)
+|additionalinfo
+}}
+
+==Info==
+A smiling rock.
+
+==Obtaining==
+inside of the FTBC History Mueseum, on the second floor. Just walk over the glass or /e dance2.
+
+[[Category:Objects]]
+[[Category:Normal Objects]]
+[[Category:City Objects]]
+[[Category:Main Realm Objects]]
+
+</div>
+</div>

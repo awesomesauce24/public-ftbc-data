@@ -1,0 +1,24 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Irregular Polygon
+|character=<gallery>
+New Irregular Polygon.PNG|Current
+Irregular Polygon.PNG|Old
+</gallery>
+|difficulty=[[File:Extreme.png]] <span style="color:#ed2727">'''Extreme'''</span>
+|area=[[Snowy]]
+|hint="is it REALLY a polygon if it has circular sides?"  (Hidden near... something red, in the sky)
+}}
+
+== Character ==
+Irregular Polygon is a red, unevenly-shaped polygonal object with multiple jagged edges.
+
+== Obtaining ==
+Irregular Polygon is hidden extremely high in the Snowy area, located near [[Santa Hat]], inside of the sleigh of presents.
+[[Category:Extreme Objects]]
+[[Category:Objects]]
+[[Category:Snowy Objects]]
+[[Category:Main Realm Objects]]

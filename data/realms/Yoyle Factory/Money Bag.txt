@@ -1,0 +1,32 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+[[File:Meltdown.png|2000px]]
+</div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#78ff78,#00ff00); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Money Bag
+|character=[[File:Money Bag.png]]
+|difficulty=[[File:Strenuous.png|link=]] <span style="color:#4048e5">'''<b>Strenuous</b>'''</span>
+|area=[[Yoyle Factory/Meltdown]]
+|hint=start by finding a broom. sweep up some unneeded stuff.
+|creator=This_manisnothim
+|additionalinfo
+|previousdifficulties = [[File:Remorseless.png]] <span style="color:#2084ff">'''Remorseless'''</span>
+}}
+
+== Info ==
+Made by [https://www.roblox.com/users/866968741/profile @NTailsGoBrrrrr] <span style="font-size:10px">(@Calab#9846)
+
+== Obtaining ==
+'''''The following text will show instructions on how to get this object. If you wish to find it by yourself, avoid opening the text.'''''
+<div class="mw-collapsible mw-collapsed" style="width:100%">
+<div class="mw-collapsible-content">Start in [[Yoyle Factory]],then find a broom in the acid room. After that, go to the dark room and find a pile of snow there. Inside, there's a number (16727349070) which leads to a roblox decal ([https://www.roblox.com/library/16727349070 link]). If you translate that from Wingdings to normal font, you'd get "th1s1zs 018286 a@ c0deeee".<br> Say "'''/e th1s1zs 018286 a@ c0deeee'''" and you'll open up a wall for '''Money Bag'''.</div>
+</div>
+
+[[Category:Strenuous Objects]]
+[[Category:Objects]]
+[[Category:Yoyle Factory/Meltdown Objects]]
+[[Category:Yoyle Factory Objects]]
+</div>
+</div>

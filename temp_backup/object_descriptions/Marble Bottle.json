@@ -1,0 +1,12 @@
+{
+  "name": "Marble Bottle",
+  "area": "Hotel",
+  "difficulty": "effortless",
+  "description": "how joyous (Hidden in Hotel)",
+  "hint": "how joyous (Hidden in Hotel)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Marble Bottle\n|character=[[File:Marble Bottle.png]]\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Hotel]]\n|hint=how joyous (Hidden in Hotel)\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Hotel"
+}

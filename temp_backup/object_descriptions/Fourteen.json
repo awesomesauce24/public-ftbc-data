@@ -1,0 +1,10 @@
+{
+  "name": "Fourteen",
+  "area": "Number Playground",
+  "difficulty": "normal",
+  "description": "they are a little silly",
+  "hint": "they are a little silly",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Fourteen\n|character = [[File:Fourteen.png]]\n|difficulty = Normal\n|area = [[Number Playground]]\n|hint = they are a little silly\n",
+  "location": "realm:Main Realm/Number Playground"
+}

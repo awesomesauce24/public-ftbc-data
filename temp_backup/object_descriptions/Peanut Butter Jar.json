@@ -1,0 +1,10 @@
+{
+  "name": "Peanut Butter Jar",
+  "area": "Timber Peaks",
+  "difficulty": "difficult",
+  "description": "hey that's weird, do i taste peanut butter?",
+  "hint": "hey that's weird, do i taste peanut butter?",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Peanut Butter Jar\n|character=[[File:Peanut Butter Jar.png]]\n|difficulty=[[File:Difficult.png]] <span style=\"color:#f54f25\">'''<b>Difficult</b>'''</span>\n|area=[[Timber Peaks]]\n|hint=hey that's weird, do i taste peanut butter?\n",
+  "location": "realm:Timber Peaks"
+}

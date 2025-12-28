@@ -1,0 +1,10 @@
+{
+  "name": "Greeny",
+  "area": "Warehouse",
+  "difficulty": "easy",
+  "description": "ball 2: the sequel",
+  "hint": "ball 2: the sequel",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Greeny|character=Greeny.webp|difficulty=Easy|area=[[Warehouse]]|hint=ball 2: the sequel",
+  "location": "realm:Main Realm/Warehouse"
+}

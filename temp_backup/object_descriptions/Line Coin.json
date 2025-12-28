@@ -1,0 +1,10 @@
+{
+  "name": "Line Coin",
+  "area": "Midnight Rooftops",
+  "difficulty": "extreme",
+  "description": "get to the top of a roof",
+  "hint": "get to the top of a roof",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Line Coin\n|character=[[File:Line Coin.png]]\n|difficulty=[[File:Extreme.png]] <span style=\"color:#ed2727\">'''<b>Extreme</b>'''</span>\n|area=[[Midnight Rooftops]]\n|hint=get to the top of a roof\n",
+  "location": "realm:Midnight Rooftops"
+}

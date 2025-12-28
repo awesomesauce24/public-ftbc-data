@@ -1,0 +1,26 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+{{CharacterInfo
+|name=Bermuda
+|character=[[File:Bermuda.png]]
+|difficulty=[[File:Moderate.png]] <span style="color:#07fc55">'''Moderate'''</span>
+|area=[[Classic Roblox]]
+|hint=make sure you don't get sucked in by them (Start in Classic Roblox)
+|creator=AccountDoesNothing
+|additionalinfo
+|gender=[[File:Male.svg|24x24 px]] Male
+|previousdifficulties = [[File:Easy.png]] <span style="color:#10da8d">'''Easy'''</span>
+}}
+
+==Character==
+The Bermuda flag in the shape of a triangle, Bermuda Triangle!
+
+==Obtaining==
+Find a moving platform in [[Classic Roblox]]. It leads to a boat. Bermuda is on the side of the boat.
+
+[[Category:Objects]]
+[[Category:Moderate Objects]]
+[[Category:Classic Roblox Objects]]
+[[Category:Main Realm Objects]]

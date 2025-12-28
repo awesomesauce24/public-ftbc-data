@@ -1,0 +1,9 @@
+{{CharacterInfo|name=Purple Dragon|character=[[File:Purple Dragon.png]]|difficulty=Normal|area=[[Fossil Falls]]|hint=that foolish dragon}}
+==Character==
+The purple dragon from the beginning of TPOT 6.
+==Obtaining==
+Get to the peak of [[Fossil Falls]].
+[[Category:Objects]]
+[[Category:Normal Objects]]
+[[Category:Fossil Falls Objects]]
+[[Category:Main Realm Objects]]

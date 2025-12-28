@@ -1,0 +1,12 @@
+{
+  "name": "Red Balloony",
+  "area": "Inverted",
+  "difficulty": "difficult",
+  "description": "weee",
+  "hint": "weee",
+  "previous_difficulties": [
+    "Extreme"
+  ],
+  "wiki_markup": "name=Red Balloony\n|character=Red Balloony.png\n|difficulty=[[File:Difficult.png]] <span style=\"color:#f54f25\">'''Difficult'''</span>\n|area=[[Inverted]]\n|hint=weee\n|additionalinfo\n|previousdifficulties = [[File:Extreme.png]] <span style=\"color:#ed2727\">'''Extreme'''</span>\n",
+  "location": "realm:Inverted"
+}

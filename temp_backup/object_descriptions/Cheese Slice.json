@@ -1,0 +1,10 @@
+{
+  "name": "Cheese Slice",
+  "area": "Barren Desert",
+  "difficulty": "normal",
+  "description": "look in the abandoned hamlet",
+  "hint": "look in the abandoned hamlet",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Cheese Slice\n|character=<gallery>\nCheese Slice.png\n</gallery>\n|difficulty=[[File:Normal.png|link=]] <span style=\"color:#a1ff27\">'''<b>Normal</b>'''</span>\n|area=[[Barren Desert]]\n|hint=look in the abandoned hamlet\n",
+  "location": "realm:Barren Desert"
+}

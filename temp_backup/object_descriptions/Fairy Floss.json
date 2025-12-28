@@ -1,0 +1,12 @@
+{
+  "name": "Fairy Floss",
+  "area": "Candyland",
+  "difficulty": "effortless",
+  "description": "hmmm i wonder where this one is hmmmmmm",
+  "hint": "hmmm i wonder where this one is hmmmmmm",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Fairy Floss\n|character=Fairy Floss.png\n|difficulty=[[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area=[[Candyland]]\n|hint=hmmm i wonder where this one is hmmmmmm\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Candyland"
+}

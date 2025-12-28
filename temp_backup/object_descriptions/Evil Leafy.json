@@ -1,0 +1,12 @@
+{
+  "name": "Evil Leafy",
+  "area": "Goiky",
+  "difficulty": "effortless",
+  "description": "Look at that forest, let's go in! (Hidden in Goiky)",
+  "hint": "Look at that forest, let's go in! (Hidden in Goiky)",
+  "previous_difficulties": [
+    "Normal"
+  ],
+  "wiki_markup": "name = Evil Leafy\n|character = [[File:Evil Leafy.png]]\n|difficulty = [[File:Effortless.png]] <span style=\"color:#17a897\">'''Effortless'''</span>\n|area = [[Goiky]]\n|hint = Look at that forest, let's go in! (Hidden in Goiky)\n|additionalinfo\n|previousdifficulties=[[File:Normal.png]] <span style=\"color:#a1ff27\">'''Normal'''</span>\n",
+  "location": "realm:Main Realm/Goiky"
+}

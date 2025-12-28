@@ -1,0 +1,61 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+  [[File:{{{File|EVIL.png}}}|{{{Size|2000px}}}]]
+</div>
+
+<div style="--theme-accent-color:-webkit-linear-gradient(#b00000,#5a0000); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+<div style="text-align:center; margin: 10px 0 18px 0;">
+  <span style="font-size:210%; font-weight:900; letter-spacing:0.6px; color:#ffffff;
+  text-shadow: 0 0 10px rgba(255,0,0,0.70), 0 0 18px rgba(176,0,0,0.55), 0 0 30px rgba(90,0,0,0.45);">
+    Evil Spongy
+  </span><br>
+  <span style="font-size:95%; color:#ffd7d7; opacity:0.95; text-shadow: 0 0 10px rgba(255,0,0,0.20);">
+    Dreadful • Evil Forest • The Devil
+  </span>
+</div>
+
+{{CharacterInfo
+|name=Evil Spongy
+|character=[[File:pookiebear.webp]]
+|difficulty=[[File:Dreadful.png|link=]] <span style="color:#ff2b2b; text-shadow: 0 0 10px rgba(255,0,0,0.55);">'''<b>Dreadful</b>'''</span>
+|area=[[Evil Forest]]
+|hint=<span style="color:#ffd7d7; text-shadow: 0 0 10px rgba(0,0,0,0.35);">how would Evil [[Spongy]] even move around??</span>
+}}
+
+<div style="margin-top: 6px;">
+==<span style="color:#ffffff; text-shadow: 0 0 10px rgba(255,0,0,0.65), 0 0 18px rgba(176,0,0,0.45);">Info</span>==
+</div>
+
+<div style="
+  margin: 10px 0 14px 0;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,0,0,0.30);
+  background: rgba(20,0,0,0.55);
+  box-shadow: 0 0 18px rgba(255,0,0,0.16);
+">
+<span style="font-size:105%; color:#ff3b3b; line-height:1.55;
+text-shadow: 0 0 10px rgba(0,0,0,0.35);">
+''Boy oh boy, where do I even begin. Evil Spongy… ugh. My soggy little menace. I have been exhausted by you ever since I first laid eyes on your damp, porous excuse for a “presence.” The way you wobble around the arena like a cursed dish sponge that gained sentience, acting like you’re “trying your best” while somehow making everything worse… it makes my soul dry-heave.
+Your grimy spongey texture, your smug little grin… I would do anything for you...specifically, I would do anything for you to stay far away from the team. I wish it were possible to freeze time so I’d never have to watch you slither your way out of consequences again. You’ve been through so much, my rancid Spongy. They laughed at you, they called you namesand for once, the universe was aligned. But you never stopped. You never stopped being a problem. You never stopped trying to drag everyone down with you.
+You’re not just a contestant, you’re a symbol of perseverance...the kind that refuses to take a hint. You’ve been crushed, flattened, and even burned, and instead of learning anything, you come back stickier, stinkier, and somehow more confident. Sometimes, I even call you my little absorbent king...because you absorb attention, resources, and goodwill like a sponge in a sewer. I forever dread and weep thinking of the day you might rejoin, because the moment you do, the entire vibe becomes “wet carpet in a locked room.”
+I would sacrifice my own place in the game if it meant keeping that big, ugly smile off your face. You’ve given me frustration and secondhand embarrassment over the years. I remember when you were eliminated early on...it was like the show could finally breathe. But when you returned, oh Evil Spongy, my hope got squeezed dry and tossed in the trash where it belonged. You’ve changed the game forever, my infamous sponge...by proving that chaos and bad decisions never go out of style.
+Since you were the goat in BFDI, BFDIA, and BFB, and I mean the annoying kind that eats the curtains... you’ve shown that kindness and courage can absolutely be replaced by petty menace and questionable vibes. You are my villain, my warning label, my absorbent disaster. I love you, my soggy pookie bear, my cursed king, Evil Spongy. ❤️🫶🏻🧽😈
+</span>
+</div>
+
+<div style="margin-top: 10px;">
+==<span style="color:#ffffff; text-shadow: 0 0 10px rgba(255,0,0,0.65), 0 0 18px rgba(176,0,0,0.45);">Obtaining</span>==
+</div>
+<span style="color:#ffb3b3; text-shadow: 0 0 10px rgba(0,0,0,0.35);">
+ontop of [[Gelatin]]'s Stakehouse
+</span>
+
+[[Category:Dreadful Objects]]
+[[Category:Objects]]
+[[Category:Evil Forest Objects]]
+[[Category:BFDI Limbs]]
+
+</div>
+</div>

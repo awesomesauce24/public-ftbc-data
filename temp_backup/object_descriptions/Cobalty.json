@@ -1,0 +1,10 @@
+{
+  "name": "Cobalty",
+  "area": "Basement",
+  "difficulty": "strenuous",
+  "description": "get into a garage door",
+  "hint": "get into a garage door",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Cobalty\n|character = [[File:Cobalty.png]]\n|difficulty = Strenuous\n|area = [[The Basement]]\n|hint = get into a garage door\n",
+  "location": "subrealm:Yoyle Factory/Basement"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Bermuda",
+  "area": "Classic Roblox",
+  "difficulty": "moderate",
+  "description": "make sure you don't get sucked in by them (Start in Classic Roblox)",
+  "hint": "make sure you don't get sucked in by them (Start in Classic Roblox)",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Bermuda\n|character=[[File:Bermuda.png]]\n|difficulty=[[File:Moderate.png]] <span style=\"color:#07fc55\">'''Moderate'''</span>\n|area=[[Classic Roblox]]\n|hint=make sure you don't get sucked in by them (Start in Classic Roblox)\n|creator=AccountDoesNothing\n|additionalinfo\n|gender=[[File:Male.svg|24x24 px]] Male\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Main Realm/Classic Roblox"
+}

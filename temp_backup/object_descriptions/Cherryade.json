@@ -1,0 +1,10 @@
+{
+  "name": "Cherryade",
+  "area": "Basement",
+  "difficulty": "dreadful",
+  "description": "On top of a pile of garbage.",
+  "hint": "On top of a pile of garbage.",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Cherryade\n|character = [[File:Cherryade.png]]\n|difficulty = Dreadful\n|area = [[The Basement]]\n|hint = On top of a pile of garbage.\n",
+  "location": "subrealm:Yoyle Factory/Basement"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Mattress",
+  "area": "Yoyle Factory",
+  "difficulty": "extreme",
+  "description": "They're sleeping somewhere...",
+  "hint": "They're sleeping somewhere...",
+  "previous_difficulties": [
+    "Insane"
+  ],
+  "wiki_markup": "name=Mattress\n|character=[[File:Mattress.webp|thumb]]\n|difficulty=[[File:Extreme.png]] <span style=\"color:#ed2727\">'''Extreme'''</span>\n|area=[[Yoyle Factory]]\n|hint=They're sleeping somewhere...\n|additionalinfo\n|previousdifficulties = [[File:Insane.png]] <span style=\"color:#ff1c95\">'''Insane'''</span>\n",
+  "location": "realm:Yoyle Factory"
+}

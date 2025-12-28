@@ -1,0 +1,12 @@
+{
+  "name": "Boombox",
+  "area": "Yoyleland",
+  "difficulty": "effortless",
+  "description": "buy our new leafy detector",
+  "hint": "buy our new leafy detector",
+  "previous_difficulties": [
+    "Easy"
+  ],
+  "wiki_markup": "name=Boombox\n|character=<gallery>\nBoombox.webp|Current\nBoombox.png|Old\n</gallery>\n|difficulty=[[File:Effortless.png|link=]] <span style=\"color:#17a897\">'''<b>Effortless</b>'''</span>\n|area=[[Yoyleland]]\n|hint=buy our new leafy detector\n|additionalinfo\n|previousdifficulties = [[File:Easy.png]] <span style=\"color:#10da8d\">'''Easy'''</span>\n",
+  "location": "realm:Yoyleland"
+}

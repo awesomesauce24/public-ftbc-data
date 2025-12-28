@@ -1,0 +1,12 @@
+{{CharacterInfo|name=Ruby|character=[[File:Ruby.png]]|difficulty=Normal|area=[[Factory]]|hint=check inside the factory area}}
+==Character==
+Ruby is a round-cut jewel made of Ruby.
+==Obtaining==
+Go inside the tallest tube in [[Factory]] and look up. [[Ruby]] is under a platform.
+[[Category:Objects]]
+[[Category:Normal Objects]]
+[[Category:Factory Objects]]
+[[Category:BFDIA Contestants]]
+[[Category:IDFB Contestants]]
+[[Category:BFB Contestants]]
+[[Category:Main Realm Objects]]

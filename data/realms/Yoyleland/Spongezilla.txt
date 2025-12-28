@@ -1,0 +1,93 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">
+  [[File:{{{File|Yoyleland.png}}}|{{{Size|2000px}}}]]
+</div>
+
+<div style="--theme-accent-color:-webkit-linear-gradient(#cd58e3,#70287a); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+<div style="text-align:center; margin: 10px 0 18px 0;">
+  <span style="font-size:210%; font-weight:900; letter-spacing:0.6px; color:#ffffff;
+  text-shadow: 0 0 10px rgba(205,88,227,0.70), 0 0 18px rgba(112,40,122,0.55), 0 0 30px rgba(93,12,255,0.35);">
+    Spongezilla
+  </span><br>
+  <span style="font-size:95%; color:#ffeaff; opacity:0.95; text-shadow: 0 0 10px rgba(205,88,227,0.25);">
+    Arduous • Yoyleland
+  </span>
+</div>
+
+{{CharacterInfo
+|name=Spongezilla
+|character=[[File:Spongezilla.png]]
+|difficulty=[[File:Arduous.png]] <span style="color:#5d0cff; text-shadow: 0 0 10px rgba(93,12,255,0.55);">'''Arduous'''</span>
+|area=[[Yoyleland]]
+|hint=<span style="color:#ffeaff; text-shadow: 0 0 10px rgba(0,0,0,0.25);">there has to be a way up that tower...</span>
+|additionalinfo
+|previousdifficulties=[[File:Remorseless.png]] <span style="color:#2084ff; text-shadow: 0 0 10px rgba(32,132,255,0.45);">'''Remorseless'''</span>
+}}
+
+<div style="margin-top: 6px;">
+==<span style="color:#ffffff; text-shadow: 0 0 10px rgba(205,88,227,0.60), 0 0 18px rgba(112,40,122,0.45);">Character</span>==
+</div>
+<span style="color:#fff6ff; text-shadow: 0 0 10px rgba(0,0,0,0.20);">
+a giant version of [[Spongy]], perhaps he's [https://scrubdaddy.com/?srsltid=AfmBOoq_7EG5iSDHDB8_RTlxq9-6OQGybDpKMKfa1u-bG-LVBut2U4t7 the father?]
+</span>
+
+<div style="margin-top: 10px;">
+==<span style="color:#ffffff; text-shadow: 0 0 10px rgba(205,88,227,0.60), 0 0 18px rgba(112,40,122,0.45);">Info</span>==
+</div>
+
+<div style="
+  margin: 10px 0 14px 0;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(205,88,227,0.35);
+  background: rgba(20,0,28,0.50);
+  box-shadow: 0 0 18px rgba(205,88,227,0.18);
+">
+
+<span style="font-size:105%; color:#ffeaff; line-height:1.6; display:block;
+text-shadow: 0 0 10px rgba(0,0,0,0.25);">
+
+<span style="display:block; margin-bottom:10px;">
+''Boy oh boy, where do I even begin. Spongezilla… my colossal, cuddly wall of sponge. I have adored you ever since I first looked up and realized the “tower” had competition. You’re enormous in the way that makes the whole realm feel smaller, like Yoyleland itself has to scoot over to give you room. And somehow...somehow...you’re still the most precious thing in the area.''
+</span>
+
+<span style="display:block; margin-bottom:10px; color:#fff1ff; text-shadow: 0 0 12px rgba(205,88,227,0.20);">
+''The way you stand there like a gentle landmark, all big and huggable and ridiculously soft-looking, makes me want to run up and hug you even if it means I get launched into orbit. You’re basically a walking comfort object: a skyscraper made out of sunshine-colored squish. Every pore is like a little reminder that yes, something this huge can still be this cute.''
+</span>
+
+<span style="display:block; margin-bottom:10px; color:#fff1ff; text-shadow: 0 0 12px rgba(112,40,122,0.28);">
+''People see “Spongezilla” and expect terror. I see “Spongezilla” and I see a giant, adorable sponge dad-vibe who could probably pat your head with one finger and it would count as a full-body hug. If you ever blink at me, I’m done for. If you ever smile, the whole server’s morale goes up. If you ever took a single step, I’m convinced the clouds would move out of respect.''
+</span>
+
+<span style="display:block; color:#fff1ff; text-shadow: 0 0 12px rgba(93,12,255,0.18);">
+''You’re not just big. You’re BIG big. The kind of big that makes you legendary, the kind of big that makes “Arduous” feel like the game politely warning you: “hey btw you’re about to witness the most massive cutie ever.” I love you, you absolute unit. My giant sponge titan. My adorable yoyleland behemoth. My lovable, unstoppable Spongezilla. 💜🧽🗼''
+</span>
+
+</span>
+</div>
+
+<div style="margin-top: 10px;">
+==<span style="color:#ffffff; text-shadow: 0 0 10px rgba(205,88,227,0.60), 0 0 18px rgba(112,40,122,0.45);">Obtaining</span>==
+</div>
+
+{| class="article-table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;"
+!'''How to Find [SPOILERS]'''||
+|-
+|Before getting this, you must know how to get [[Vacuum]] first ({{Spoiler|text=say "'''/e y0y1eb3r4y'''" in chat}}).
+After that, if you look at under the one of the windows of the building [[Frog Four]] is, you'll see a the code. say that code in chat and the door will unlock, allowing you to obtain '''Spongezilla'''.
+|}
+
+<div style="margin-top: 10px;">
+==<span style="color:#ffffff; text-shadow: 0 0 10px rgba(205,88,227,0.60), 0 0 18px rgba(112,40,122,0.45);">Trivia</span>==
+</div>
+<span style="color:#fff6ff; text-shadow: 0 0 10px rgba(0,0,0,0.20);">
+This is [https://www.roblox.com/users/4711939041/profile Chrust]'s Favorite Version of [[Spongy]].
+</span>
+
+[[Category:Objects]]
+[[Category:Arduous Objects]]
+[[Category:Yoyleland Objects]]
+
+</div>
+</div>

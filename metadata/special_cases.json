@@ -1,0 +1,11 @@
+{
+  "special_cases": {
+    "The Backrooms Level 153": {
+      "static_overlay": true,
+      "static_image": "Staticbg.gif",
+      "static_opacity": 0.05,
+      "custom_gradient": "-webkit-linear-gradient(#5a5a4a,#1a2a3a)",
+      "custom_bg_image": "Level 153.png"
+    }
+  }
+}

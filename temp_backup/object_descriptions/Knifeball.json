@@ -1,0 +1,10 @@
+{
+  "name": "Knifeball",
+  "area": "Warehouse",
+  "difficulty": "intermediate",
+  "description": "they give out terrible advice alphabetically (Hidden in Warehouse)",
+  "hint": "they give out terrible advice alphabetically (Hidden in Warehouse)",
+  "previous_difficulties": [],
+  "wiki_markup": "name = Knifeball\n|character = [[File:Knifeball.png]]\n|difficulty = Intermediate\n|area = [[Warehouse]]\n|hint = they give out terrible advice alphabetically (Hidden in Warehouse)\n",
+  "location": "realm:Main Realm/Warehouse"
+}

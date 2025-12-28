@@ -1,0 +1,10 @@
+{
+  "name": "Yoyle Soda",
+  "area": "Yoyleland",
+  "difficulty": "hard",
+  "description": "Yoyle (hidden on the windows)",
+  "hint": "Yoyle (hidden on the windows)",
+  "previous_difficulties": [],
+  "wiki_markup": "name=Yoyle Soda|character=[[File:Yoyle Soda.webp|thumb]]|difficulty=Hard|area=[[Yoyleland]]|hint=Yoyle (hidden on the windows)",
+  "location": "realm:Yoyleland"
+}

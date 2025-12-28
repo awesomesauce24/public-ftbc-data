@@ -1,0 +1,11 @@
+{
+  "objects": [
+    {
+      "name": "Radioactive TV",
+      "difficulty": "horrifying",
+      "area": "Abandonment",
+      "description": "begin by looking through somewhere completely abandoned",
+      "hint": "begin by looking through somewhere completely abandoned"
+    }
+  ]
+}

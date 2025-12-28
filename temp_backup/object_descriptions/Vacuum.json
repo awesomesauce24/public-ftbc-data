@@ -1,0 +1,12 @@
+{
+  "name": "Vacuum",
+  "area": "Yoyleland",
+  "difficulty": "dreadful",
+  "description": "cleaning on the side of a tower yeah thats completely natural",
+  "hint": "cleaning on the side of a tower yeah thats completely natural",
+  "previous_difficulties": [
+    "Terrifying"
+  ],
+  "wiki_markup": "name=Vacuum\n|character=<gallery>\nVacuum.png\n</gallery>\n|difficulty=[[File:Dreadful.png|link=]] <span style=\"color:#db25ff\">'''<b>Dreadful</b>'''</span>\n|area=[[Yoyleland]]\n|hint=cleaning on the side of a tower yeah thats completely natural\n|additionalinfo\n|previousdifficulties = [[File:Terrifying.png]] <span style=\"color:#8b17ff\">'''Terrifying'''</span>\n",
+  "location": "realm:Yoyleland"
+}
