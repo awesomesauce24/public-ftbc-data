@@ -27,6 +27,31 @@ from difflib import SequenceMatcher
 # UTILITY FUNCTIONS - Data loading and configuration
 # ============================================================================
 
+def prompt_multiline(prompt_text):
+    """Prompt user for multiline input. Enter empty line twice to finish."""
+    print(f"\n{prompt_text}")
+    print("(Enter empty line twice to finish)")
+    lines = []
+    empty_count = 0
+    
+    while True:
+        try:
+            line = input("> ").rstrip()
+        except KeyboardInterrupt:
+            print("\nCancelled")
+            return ""
+        
+        if line == "":
+            empty_count += 1
+            if empty_count >= 2:
+                break
+        else:
+            empty_count = 0
+            lines.append(line)
+    
+    return "\n".join(lines)
+
+
 def load_json(filepath):
     """Load JSON file safely."""
     try:
