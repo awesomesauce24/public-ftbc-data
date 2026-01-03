@@ -38,15 +38,17 @@ class WikiPageCreator:
     def __init__(self):
         """Initialize with PyWikiBot site connection and login."""
         try:
-            self.site = pywikibot.Site(url='https://ftbc.fandom.com/api.php')
+            self.site = pywikibot.Site('fandom', 'fandom', url='https://ftbc.fandom.com/api.php')
             print("✓ Connected to FTBC wiki")
             
             # Authenticate with bot credentials
             print("Authenticating with bot credentials...")
-            if not self.site.user():
-                self.site.login()
-            
             user = self.site.user()
+            if not user:
+                # Only login if not already logged in
+                self.site.login()
+                user = self.site.user()
+            
             print(f"✓ Logged in as: {user}\n")
         except Exception as e:
             print(f"Error connecting/logging in to wiki: {e}")

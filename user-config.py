@@ -11,15 +11,16 @@ import os
 family = 'fandom'
 
 # Setup credentials from environment (set by .env file)
-if os.environ.get('BOT_USERNAME'):
-    from collections import defaultdict
-    usernames = defaultdict(lambda: defaultdict(str))
-    usernames['fandom']['fandom'] = os.environ.get('BOT_USERNAME')
-    
-    # Password from environment
-    _password = os.environ.get('BOT_PASSWORD')
-    if _password:
-        password = _password
+bot_user = os.environ.get('BOT_USERNAME')
+bot_pass = os.environ.get('BOT_PASSWORD')
+
+if bot_user and bot_pass:
+    # Dynamically set usernames and password to avoid warnings
+    from collections import defaultdict as _dd
+    _usernames = _dd(lambda: _dd(str))
+    _usernames['fandom']['fandom'] = bot_user
+    usernames = _usernames
+    password = bot_pass
 
 # Other settings
 console_encoding = 'utf-8'
