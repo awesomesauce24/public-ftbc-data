@@ -162,10 +162,13 @@ class WikiTemplateGenerator:
         # Close styled div
         page += "</div>\n</div>\n\n"
         
-        # Add categories
+        # Add categories - special handling for Basement
         difficulty = obj_data.get('difficulty', '')
+        category_realm = realm
+        if realm == "The Basement":
+            category_realm = "Basement"  # Use "Basement" not "The Basement" for category
         page += f"[[Category:{difficulty} Objects]]\n"
-        page += f"[[Category:{realm} Objects]]\n"
+        page += f"[[Category:{category_realm} Objects]]\n"
         page += f"[[Category:Objects]]\n"
         
         return page
