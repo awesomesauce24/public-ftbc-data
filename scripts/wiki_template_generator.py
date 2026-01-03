@@ -50,7 +50,12 @@ class WikiTemplateGenerator:
     
     def generate_page_header(self, realm_name: str) -> str:
         """Generate styled page header from realm data."""
-        realm_info = self.realms_map.get(realm_name, {})
+        # Handle Basement specially - it's under Yoyle Factory subrealm
+        lookup_realm = realm_name
+        if realm_name == "The Basement":
+            lookup_realm = "Basement"
+        
+        realm_info = self.realms_map.get(lookup_realm, {})
         
         image = realm_info.get('image', 'Main Realm Sky.webp')
         gradient = realm_info.get('gradient', '-webkit-linear-gradient(#78ff78, #00ff00)')
@@ -101,8 +106,8 @@ class WikiTemplateGenerator:
         
         # Add area (realm) - special handling for Basement
         area_link = realm
-        if realm == "Basement":
-            area_link = "Basement"  # Just "Basement", not a subrealm link
+        if realm == "The Basement":
+            area_link = "Basement"  # Just "Basement", not "The Basement"
         char_info += f"|area=[[{area_link}]]\n"
         
         # Add hint/description
