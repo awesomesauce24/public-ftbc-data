@@ -15,9 +15,21 @@ Features:
 - Tracks previous difficulties
 """
 
+# Load .env file BEFORE importing pywikibot
+import os
+from pathlib import Path
+try:
+    from dotenv import load_dotenv
+    env_path = Path.cwd() / '.env'
+    if not env_path.exists():
+        env_path = Path(__file__).parent.parent / '.env'
+    if env_path.exists():
+        load_dotenv(env_path)
+except ImportError:
+    pass
+
 import json
 import pywikibot
-from pathlib import Path
 from typing import Dict, Optional, Tuple
 import sys
 from wiki_template_generator import WikiTemplateGenerator
