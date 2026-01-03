@@ -10,10 +10,16 @@ import os
 from pathlib import Path
 
 # Load .env file if it exists
-env_file = Path(__file__).parent / '.env'
-if env_file.exists():
+try:
     from dotenv import load_dotenv
-    load_dotenv(env_file)
+    # Look for .env in current directory or parent directories
+    env_path = Path.cwd() / '.env'
+    if not env_path.exists():
+        env_path = Path.cwd().parent / '.env'
+    if env_path.exists():
+        load_dotenv(env_path)
+except ImportError:
+    pass
 
 # Family and language settings
 family = 'fandom'
@@ -29,13 +35,15 @@ ftbc_user = os.environ.get('BOT_USERNAME')
 ftbc_pass = os.environ.get('BOT_PASSWORD')
 
 if ftbc_user and ftbc_pass:
-    usernames['fandom']['en'] = ftbc_user
+    usernames = {'fandom': {'en': ftbc_user}}
     password = ftbc_pass
 else:
     # Fallback: prompt for credentials
     import getpass
-    usernames['fandom']['en'] = input('Enter bot username: ')
-    password = getpass.getpass('Enter bot password: ')
+    ftbc_user = input('Enter bot username: ')
+    ftbc_pass = getpass.getpass('Enter bot password: ')
+    usernames = {'fandom': {'en': ftbc_user}}
+    password = ftbc_pass
 
 # Other settings
 console_encoding = 'utf-8'
