@@ -38,7 +38,7 @@ class WikiPageCreator:
     def __init__(self):
         """Initialize with PyWikiBot site connection and login."""
         try:
-            self.site = pywikibot.Site('fandom', 'fandom')
+            self.site = pywikibot.Site(url='https://ftbc.fandom.com/api.php')
             print("✓ Connected to FTBC wiki")
             
             # Authenticate with bot credentials
