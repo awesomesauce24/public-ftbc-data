@@ -2,7 +2,7 @@
 """
 PyWikiBot configuration for FTBC Fandom wiki.
 
-Credentials are loaded from .env file by the main script.
+Credentials are loaded from environment by pywikibot automatically.
 """
 
 import os
@@ -10,22 +10,18 @@ import os
 # Family and language settings
 family = 'fandom'
 
-# Setup credentials from environment (set by .env file)
+# Setup username from environment
 _bot_user = os.environ.get('BOT_USERNAME')
-_bot_pass = os.environ.get('BOT_PASSWORD')
 
-if _bot_user and _bot_pass:
-    # Dynamically set usernames and password to avoid warnings
+if _bot_user:
+    # Set username for pywikibot
     from collections import defaultdict as _dd
     _usernames = _dd(lambda: _dd(str))
     _usernames['fandom']['fandom'] = _bot_user
     usernames = _usernames
-    
-    # Set password - must be a module-level variable for pywikibot
-    password = _bot_pass
+
+# pywikibot will automatically read BOT_PASSWORD from environment
+# No need to set password variable here - it's not a standard pywikibot config
 
 # Other settings
 console_encoding = 'utf-8'
-# Mark password as a known configuration variable
-if 'password' not in dir():
-    password = None
