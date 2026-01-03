@@ -45,7 +45,7 @@ class WikiTemplateGenerator:
             if name:
                 self.difficulties_map[name] = {
                     'icon': diff.get('icon', f'{name}.png'),
-                    'color': diff.get('color', '#ffffff')
+                    'color': diff.get('hex', '#ffffff')  # Use 'hex' field from difficulties.json
                 }
     
     def generate_page_header(self, realm_name: str) -> str:
