@@ -41,15 +41,23 @@ class WikiPageCreator:
             self.site = pywikibot.Site(url='https://ftbc.fandom.com/api.php')
             print("✓ Connected to FTBC wiki")
             
-            # Authenticate with bot credentials
+            # Authenticate with bot credentials - suppress password prompts
             print("Authenticating with bot credentials...")
-            user = self.site.user()
-            if not user:
-                # Only login if not already logged in
-                self.site.login()
+            try:
+                # Check if already logged in
                 user = self.site.user()
+                if user:
+                    print(f"✓ Already logged in as: {user}\n")
+                else:
+                    # Attempt login without prompting
+                    self.site.login(autocreate=False)
+                    user = self.site.user()
+                    print(f"✓ Logged in as: {user}\n")
+            except pywikibot.bot_choice.QuitKeyboardInterrupt:
+                # User pressed Ctrl+C when prompted for password
+                raise Exception("Login cancelled by user")
             
-            print(f"✓ Logged in as: {user}\n")
+
         except Exception as e:
             print(f"Error connecting/logging in to wiki: {e}")
             print("\nMake sure you have:")

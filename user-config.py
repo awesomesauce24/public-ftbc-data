@@ -20,7 +20,12 @@ if _bot_user and _bot_pass:
     _usernames = _dd(lambda: _dd(str))
     _usernames['fandom']['fandom'] = _bot_user
     usernames = _usernames
+    
+    # Set password - must be a module-level variable for pywikibot
     password = _bot_pass
 
 # Other settings
 console_encoding = 'utf-8'
+# Mark password as a known configuration variable
+if 'password' not in dir():
+    password = None
