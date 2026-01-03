@@ -7,6 +7,7 @@ Loads credentials from .env file automatically.
 """
 
 import os
+from collections import defaultdict
 from pathlib import Path
 
 # Load .env file if it exists
@@ -23,27 +24,19 @@ except ImportError:
 
 # Family and language settings
 family = 'fandom'
-mylang = 'en'
-
-# Site URL
-site = {
-    'fandom:en': ('ftbc.fandom.com', '/api.php')
-}
 
 # Bot account credentials - load from .env or environment
-ftbc_user = os.environ.get('BOT_USERNAME')
-ftbc_pass = os.environ.get('BOT_PASSWORD')
+bot_username = os.environ.get('BOT_USERNAME')
+bot_password = os.environ.get('BOT_PASSWORD')
 
-if ftbc_user and ftbc_pass:
-    usernames = {'fandom': {'en': ftbc_user}}
-    password = ftbc_pass
-else:
-    # Fallback: prompt for credentials
-    import getpass
-    ftbc_user = input('Enter bot username: ')
-    ftbc_pass = getpass.getpass('Enter bot password: ')
-    usernames = {'fandom': {'en': ftbc_user}}
-    password = ftbc_pass
+# Configure usernames as defaultdict for pywikibot
+usernames = defaultdict(lambda: defaultdict(str))
+if bot_username:
+    usernames['fandom']['fandom'] = bot_username
+
+# Configure password
+if bot_password:
+    password = bot_password
 
 # Other settings
 console_encoding = 'utf-8'
