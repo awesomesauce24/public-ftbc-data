@@ -44,15 +44,20 @@ class WikiPageCreator:
             # Authenticate with bot credentials - suppress password prompts
             print("Authenticating with bot credentials...")
             try:
+                # Get password from environment
+                password = os.environ.get('BOT_PASSWORD')
+                
                 # Check if already logged in
                 user = self.site.user()
                 if user:
                     print(f"✓ Already logged in as: {user}\n")
-                else:
-                    # Attempt login without prompting
-                    self.site.login(autocreate=False)
+                elif password:
+                    # Attempt login with password from environment
+                    self.site.login(autocreate=False, password=password)
                     user = self.site.user()
                     print(f"✓ Logged in as: {user}\n")
+                else:
+                    print("⚠ No password found in environment - wiki operations may be limited\n")
             except pywikibot.bot_choice.QuitKeyboardInterrupt:
                 # User pressed Ctrl+C when prompted for password
                 raise Exception("Login cancelled by user")
