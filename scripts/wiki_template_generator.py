@@ -99,8 +99,11 @@ class WikiTemplateGenerator:
         diff_color = diff_info.get('color', '#ffffff')
         char_info += f"|difficulty= [[File:{diff_icon}]] <span style=\"color:{diff_color}\">'''{difficulty}'''</span>\n"
         
-        # Add area (realm)
-        char_info += f"|area=[[{realm}]]\n"
+        # Add area (realm) - special handling for Basement
+        area_link = realm
+        if realm == "Basement":
+            area_link = "Basement"  # Just "Basement", not a subrealm link
+        char_info += f"|area=[[{area_link}]]\n"
         
         # Add hint/description
         if description:
