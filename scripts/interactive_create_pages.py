@@ -24,12 +24,23 @@ from wiki_template_generator import WikiTemplateGenerator
 
 class WikiPageCreator:
     def __init__(self):
-        """Initialize with PyWikiBot site connection."""
+        """Initialize with PyWikiBot site connection and login."""
         try:
             self.site = pywikibot.Site(url='https://ftbc.fandom.com/api.php')
-            print("✓ Connected to FTBC wiki\n")
+            print("✓ Connected to FTBC wiki")
+            
+            # Authenticate with bot credentials
+            print("Authenticating with bot credentials...")
+            if not self.site.user():
+                self.site.login()
+            
+            user = self.site.user()
+            print(f"✓ Logged in as: {user}\n")
         except Exception as e:
-            print(f"Error connecting to wiki: {e}")
+            print(f"Error connecting/logging in to wiki: {e}")
+            print("\nMake sure you have:")
+            print("1. pywikibot installed with proper config")
+            print("2. Bot credentials configured in user-config.py or environment")
             raise
         
         self.metadata_dir = Path('metadata/objectjsons')
