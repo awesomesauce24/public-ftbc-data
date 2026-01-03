@@ -1,0 +1,239 @@
+{
+  "Freeze Juice": {
+    "name": "Freeze Juice",
+    "difficulty": "Horrifying",
+    "description": "complete the obby, then head to where penster lies",
+    "realm": "Frozen World",
+    "realmData": {
+      "label": "Frozen World",
+      "icon": "FrozenWorldRealm.png",
+      "link": "Frozen_World",
+      "image": "Darkice.jpg",
+      "colors": [
+        "#4dd0e1",
+        "#006064"
+      ],
+      "gradient": "-webkit-linear-gradient(#4dd0e1, #006064)",
+      "accent": "#000000"
+    },
+    "images": [
+      {
+        "name": "Freeze Juice",
+        "file": "Freeze Juice.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Horrifying.png",
+      "color": "#2bd0fd"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Horrifying Objects",
+      "Frozen World Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Winterous": {
+    "name": "Winterous",
+    "difficulty": "Arduous",
+    "description": "go to the edges",
+    "realm": "Frozen World",
+    "realmData": {
+      "label": "Frozen World",
+      "icon": "FrozenWorldRealm.png",
+      "link": "Frozen_World",
+      "image": "Darkice.jpg",
+      "colors": [
+        "#4dd0e1",
+        "#006064"
+      ],
+      "gradient": "-webkit-linear-gradient(#4dd0e1, #006064)",
+      "accent": "#000000"
+    },
+    "images": [
+      {
+        "name": "Winterous",
+        "file": "Winterous.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Strenuous",
+      "Remorseless"
+    ],
+    "categories": [
+      "Arduous Objects",
+      "Frozen World Objects",
+      "Objects",
+      "Remorseless Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Octahedron": {
+    "name": "Octahedron",
+    "difficulty": "Strenuous",
+    "description": "walk around until you see them, i guess",
+    "realm": "Frozen World",
+    "realmData": {
+      "label": "Frozen World",
+      "icon": "FrozenWorldRealm.png",
+      "link": "Frozen_World",
+      "image": "Darkice.jpg",
+      "colors": [
+        "#4dd0e1",
+        "#006064"
+      ],
+      "gradient": "-webkit-linear-gradient(#4dd0e1, #006064)",
+      "accent": "#000000"
+    },
+    "images": [
+      {
+        "name": "Octahedron",
+        "file": "Octahedron.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [
+      "Remorseless",
+      "<b>Strenuous</b>"
+    ],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Frozen World Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Rosin": {
+    "name": "Rosin",
+    "difficulty": "Strenuous",
+    "description": "look on one of those strange structures",
+    "realm": "Frozen World",
+    "realmData": {
+      "label": "Frozen World",
+      "icon": "FrozenWorldRealm.png",
+      "link": "Frozen_World",
+      "image": "Darkice.jpg",
+      "colors": [
+        "#4dd0e1",
+        "#006064"
+      ],
+      "gradient": "-webkit-linear-gradient(#4dd0e1, #006064)",
+      "accent": "#000000"
+    },
+    "images": [
+      {
+        "name": "Rosin",
+        "file": "Rosin.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [
+      "Remorseless",
+      "<b>Strenuous</b>"
+    ],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Frozen World Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Frozen Steak": {
+    "name": "Frozen Steak",
+    "difficulty": "Strenuous",
+    "description": "jordan what have they DONE to you??? (Made by This_manisnothim)",
+    "realm": "Frozen World",
+    "realmData": {
+      "label": "Frozen World",
+      "icon": "FrozenWorldRealm.png",
+      "link": "Frozen_World",
+      "image": "Darkice.jpg",
+      "colors": [
+        "#4dd0e1",
+        "#006064"
+      ],
+      "gradient": "-webkit-linear-gradient(#4dd0e1, #006064)",
+      "accent": "#000000"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [
+      "<b>Strenuous</b>"
+    ],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Frozen World Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ice Chunk": {
+    "name": "Ice Chunk",
+    "difficulty": "Strenuous",
+    "description": "up1nthe5ky",
+    "realm": "Frozen World",
+    "realmData": {
+      "label": "Frozen World",
+      "icon": "FrozenWorldRealm.png",
+      "link": "Frozen_World",
+      "image": "Darkice.jpg",
+      "colors": [
+        "#4dd0e1",
+        "#006064"
+      ],
+      "gradient": "-webkit-linear-gradient(#4dd0e1, #006064)",
+      "accent": "#000000"
+    },
+    "images": [
+      {
+        "name": "Ice Chunk",
+        "file": "Ice Chunk.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Remorseless"
+    ],
+    "categories": [
+      "Frozen World Objects",
+      "Objects",
+      "Strenuous Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

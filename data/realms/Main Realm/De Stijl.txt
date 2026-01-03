@@ -1,9 +1,0 @@
-{{CharacterInfo|name=De Stijl|character=[[File:De Stijl.png]]|difficulty=Difficult|area=[[Classic Roblox]]|hint=definitely the artwork of all time (Hidden in Classic Roblox)}}
-==Character==
-A smiling piece of abstract artwork.
-==Obtaining==
-If you look carefully at the broken wall near the moving platform at [[Classic Roblox]], you'll see '''De Stijl'''.
-[[Category:Objects]]
-[[Category:Difficult Objects]]
-[[Category:Classic Roblox Objects]]
-[[Category:Main Realm Objects]]

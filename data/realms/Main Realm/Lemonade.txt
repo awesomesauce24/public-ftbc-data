@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Lemonade|character=[[File:Lemonade.png]]|difficulty=Normal|area=[[Desert]]|hint=this lemonade is minging}}
-==Character==
-[[Lemonade]] is a happy pitcher of lemonade.
-==Obtaining==
-Under [[Rusty Coin]]'s stand at [[Desert]].
-[[Category:Objects]]
-[[Category:Normal Objects]]
-[[Category:Desert Objects]]
-[[Category:Main Realm Objects]]

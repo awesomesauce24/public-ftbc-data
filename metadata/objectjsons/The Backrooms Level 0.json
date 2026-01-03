@@ -1,0 +1,152 @@
+{
+  "Clay": {
+    "name": "Clay",
+    "difficulty": "Intermediate",
+    "description": "did you know that i ate playdoh when i was 4 years old",
+    "realm": "The Backrooms Level 0",
+    "realmData": {
+      "label": "The Backrooms Level 0",
+      "icon": "",
+      "link": "The_Backrooms_Level_0",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "The Backrooms Level 0 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Computer": {
+    "name": "Computer",
+    "difficulty": "Intermediate",
+    "description": "awaiting you at the exit",
+    "realm": "The Backrooms Level 0",
+    "realmData": {
+      "label": "The Backrooms Level 0",
+      "icon": "",
+      "link": "The_Backrooms_Level_0",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "The Backrooms Level 0 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Poop": {
+    "name": "Poop",
+    "difficulty": "Hard",
+    "description": "this description is a piece of POOP!!!!",
+    "realm": "The Backrooms Level 0",
+    "realmData": {
+      "label": "The Backrooms Level 0",
+      "icon": "",
+      "link": "The_Backrooms_Level_0",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "The Backrooms Level 0 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ringy": {
+    "name": "Ringy",
+    "difficulty": "Intermediate",
+    "description": "oh....",
+    "realm": "The Backrooms Level 0",
+    "realmData": {
+      "label": "The Backrooms Level 0",
+      "icon": "",
+      "link": "The_Backrooms_Level_0",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "The Backrooms Level 0 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "blOckHeAdFORLiFyes": {
+    "name": "blOckHeAdFORLiFyes",
+    "difficulty": "Extreme",
+    "description": "[proceeds to update level 0 without explanation]",
+    "realm": "The Backrooms Level 0",
+    "realmData": {
+      "label": "The Backrooms Level 0",
+      "icon": "",
+      "link": "The_Backrooms_Level_0",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "The Backrooms Level 0 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

@@ -1,9 +1,0 @@
-{{CharacterInfo|name=China|character=[[File:China.png]]|difficulty=Insane|area=[[Polluted Marshlands]]|hint=[Hidden in Polluted Marshlands]}}
-==Character==
-honey we have guests, bring out the fine china
-==Obtaining==
-Go to [[Blob of Syrup]]'s room, then look near the acid.
-[[Category:Objects]]
-[[Category:Insane Objects]]
-[[Category:Polluted Marshlands Objects]]
-[[Category:BFDI Limbs]]

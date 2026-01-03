@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Arron|character=[[File:Arron.png]]|difficulty=Easy|area=[[Classic Roblox]]|hint=arron my beloved}}
-==Character==
-They look like [[David]], but with a black body (and outline), black eyes, yellow head, and the mouth is colored in.
-==Obtaining==
-Behind the tower in [[Classic Roblox]].
-[[Category:Classic Roblox Objects]]
-[[Category:Easy Objects]]
-[[Category:Objects]]
-[[Category:Main Realm Objects]]

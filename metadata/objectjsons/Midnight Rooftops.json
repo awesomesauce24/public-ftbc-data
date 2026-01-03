@@ -1,0 +1,1410 @@
+{
+  "Cupcake": {
+    "name": "Cupcake",
+    "difficulty": "Normal",
+    "description": "i was just coming to pick up a human",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Midnight Rooftops Objects",
+      "Normal Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Starie": {
+    "name": "Starie",
+    "difficulty": "Insane",
+    "description": "look on the highest building",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Little Baby Pizza": {
+    "name": "Little Baby Pizza",
+    "difficulty": "Extreme",
+    "description": "baby",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Hot Sauce": {
+    "name": "Hot Sauce",
+    "difficulty": "Extreme",
+    "description": "get to a staircase",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ice Cream Cone": {
+    "name": "Ice Cream Cone",
+    "difficulty": "Extreme",
+    "description": "nothing better than a tasty cone of ice cream",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Tomato": {
+    "name": "Tomato",
+    "difficulty": "Hard",
+    "description": "i like tomato uhhhh yeah",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Milky": {
+    "name": "Milky",
+    "difficulty": "Insane",
+    "description": "look in lower parts of the map",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Line Coin": {
+    "name": "Line Coin",
+    "difficulty": "Difficult",
+    "description": "get to the top of a roof",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Midnight Rooftops Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Radio": {
+    "name": "Radio",
+    "difficulty": "Terrifying",
+    "description": "Look under a roof. [Made by @Clownfish4172]",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Magnet": {
+    "name": "Magnet",
+    "difficulty": "Difficult",
+    "description": "unlike magnet i am unattra",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Midnight Rooftops Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Dango": {
+    "name": "Dango",
+    "difficulty": "Extreme",
+    "description": "they're on a crane",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Corrupted Firey": {
+    "name": "Corrupted Firey",
+    "difficulty": "Remorseless",
+    "description": "start by finding a glitchy particle, good luck.",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Pancakes": {
+    "name": "Pancakes",
+    "difficulty": "Intermediate",
+    "description": "on a balcony of a hotel",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate_FTBC.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Intermediate Objects",
+      "Midnight Rooftops Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Burger Blanket": {
+    "name": "Burger Blanket",
+    "difficulty": "Insane",
+    "description": "find an almost invisible pathway",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Electronic Game": {
+    "name": "Electronic Game",
+    "difficulty": "Terrifying",
+    "description": "get to the furthest point away from the map",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "USB Drive": {
+    "name": "USB Drive",
+    "difficulty": "Remorseless",
+    "description": "the highest point of the map. it won't be easy getting up there!",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Singapore Map": {
+    "name": "Singapore Map",
+    "difficulty": "Strenuous",
+    "description": "oh boy would you look at that it's another button hunt!!! how fun and exciting!!!!!",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Rock": {
+    "name": "Rock",
+    "difficulty": "Strenuous",
+    "description": "rock. this is a rock",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cursor": {
+    "name": "Cursor",
+    "difficulty": "Normal",
+    "description": "clickity click",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Midnight Rooftops Objects",
+      "Normal Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Glitter Bottle": {
+    "name": "Glitter Bottle",
+    "difficulty": "Extreme",
+    "description": "i hate glitter it gets all over me",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "PB&J Sandwich": {
+    "name": "PB&J Sandwich",
+    "difficulty": "Extreme",
+    "description": "https://www.youtube.com/watch?v=I92TZOD560E",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Rainbow Cloudy": {
+    "name": "Rainbow Cloudy",
+    "difficulty": "Insane",
+    "description": "cloudy tasted the rainbow",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "cool ice cube": {
+    "name": "cool ice cube",
+    "difficulty": "Terrifying",
+    "description": "SNAP OUT OF IT ICE CUBE!!! you're stuck having reused lines",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bandy": {
+    "name": "Bandy",
+    "difficulty": "Strenuous",
+    "description": "get the key to the crane",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Not Canon": {
+    "name": "Not Canon",
+    "difficulty": "Insane",
+    "description": "use the cannon! or, well... not cannon",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "SimOndoMino": {
+    "name": "SimOndoMino",
+    "difficulty": "Insane",
+    "description": "the originally name got filtered but this is good right?????? roblox please dont ki",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "W": {
+    "name": "W",
+    "difficulty": "Difficult",
+    "description": "this is such a W moment",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Midnight Rooftops Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Goldy": {
+    "name": "Goldy",
+    "difficulty": "Insane",
+    "description": "jump onto a window",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Vomit": {
+    "name": "Vomit",
+    "difficulty": "Extreme",
+    "description": "gross",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Your Mom": {
+    "name": "Your Mom",
+    "difficulty": "Insane",
+    "description": "yo mama so skibidi among us rizz in ohio",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Midnight Rooftops Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Spray Can": {
+    "name": "Spray Can",
+    "difficulty": "Extreme",
+    "description": "spray can is so silly",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Sans": {
+    "name": "Sans",
+    "difficulty": "Normal",
+    "description": "SANDS UNDER TALE ?!?!?!?!?!",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Midnight Rooftops Objects",
+      "Normal Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Robot Tennis Ball": {
+    "name": "Robot Tennis Ball",
+    "difficulty": "Intermediate",
+    "description": "look inside of grillby's",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate_FTBC.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Intermediate Objects",
+      "Midnight Rooftops Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Impostory": {
+    "name": "Impostory",
+    "difficulty": "Unforgiving",
+    "description": "flam when he realizes i FINALLY ADDED IMPOSTORY!!!!!!!!",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Midnight Rooftops Objects",
+      "Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cremini": {
+    "name": "Cremini",
+    "difficulty": "Terrifying",
+    "description": "mushed room",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Thready": {
+    "name": "Thready",
+    "difficulty": "Intermediate",
+    "description": "i don't know what to put so here's random keyboard mashing pisadhspoadliyqp9ijcxzknawletyhiado",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate_FTBC.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Intermediate Objects",
+      "Midnight Rooftops Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "blocky on toilet": {
+    "name": "blocky on toilet",
+    "difficulty": "Strenuous",
+    "description": "",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "BFB 1-29 Thumbnail Fusion": {
+    "name": "BFB 1-29 Thumbnail Fusion",
+    "difficulty": "Remorseless",
+    "description": "Ì¶AÌ¶AÌ¶AÌ¶AÌ¶",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Inverted Cursor": {
+    "name": "Inverted Cursor",
+    "difficulty": "Insane",
+    "description": "do the same thing as cursor, but inverted",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Aurora Borealis": {
+    "name": "Aurora Borealis",
+    "difficulty": "Remorseless",
+    "description": "find four pieces of code in this realm, timber tops, classic paradise, and yoyleland. they're all at the highest points of the realms.",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bread Coiny": {
+    "name": "Bread Coiny",
+    "difficulty": "Insane",
+    "description": "the real bread coiny!!!",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Every Character Fused": {
+    "name": "Every Character Fused",
+    "difficulty": "Terrifying",
+    "description": "occasionally, I find myself in a contemplative state, ruminating upon the underlying purpose and significance of undertaking the development of this particular game. it raises a fundamental question: what is the rationale for investing time and energy into the creation of this gaming endeavor? after all, it appears improbable that this game will retain any substantial relevance in the forthcoming years. furthermore, one must not disregard the inescapable reality that every game, no matter how compelling or captivating, eventually reaches its culmination, and thus, there looms an impending terminus for this game. in light of these contemplations, I am led to ponder, what exactly is the intrinsic value in expending my efforts on this venture? the temptation to embark on a protracted discourse regarding the futility of laboring on this game is palpable, yet I am inclined to demur, for such a discourse, it appears, would be an exercise in futility itself. It is my supposition that this project occupies a unique place in my heart, an endeavor in which I aspire to manifest my creative fervor and enthusiasm, driven by an innate desire to make a positive impact and bring forth something meaningful. it is true that the developers known as \"Spooky\" and \"Funky\" do not exhibit a frequent propensity for updating this game, which leads me to ponder the extent of my own contributions. without undue hubris, I dare say that the current state of the game, teetering on the brink of reaching a landmark of a thousand objects, can, to a certain extent, be attributed to my dedication and involvement. it should be noted, though, that the precise number of objects may indeed have already achieved the coveted one thousand, or it may remain tantalizingly close, contingent upon the point in time at which you peruse this composition.",
+    "realm": "Midnight Rooftops",
+    "realmData": {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "colors": [
+        "#050522",
+        "#140f4a"
+      ],
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Midnight Rooftops Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

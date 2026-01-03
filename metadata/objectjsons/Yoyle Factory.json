@@ -1,0 +1,1859 @@
+{
+  "Coffee Mug": {
+    "name": "Coffee Mug",
+    "difficulty": "Unforgiving",
+    "description": "tea is better",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Paint Bucket": {
+    "name": "Paint Bucket",
+    "difficulty": "Unforgiving",
+    "description": "he's been up to some mischief",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Text Message": {
+    "name": "Text Message",
+    "difficulty": "Unforgiving",
+    "description": "did you get your bogos binted? wait what",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "FRIENDY+": {
+    "name": "FRIENDY+",
+    "difficulty": "Extreme",
+    "description": "wow he's such a good friend i dont know im really trying with these descriptions okay",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Graphics Card": {
+    "name": "Graphics Card",
+    "difficulty": "Dreadful",
+    "description": "to the 2% of people who actually play ftbc on a computer, this is a certified hood classic",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Elephant": {
+    "name": "Elephant",
+    "difficulty": "Difficult",
+    "description": "someone has GOT to address this",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Coolboy": {
+    "name": "Coolboy",
+    "difficulty": "Extreme",
+    "description": "only 0.01% of people can find him",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Missing Texture Block": {
+    "name": "Missing Texture Block",
+    "difficulty": "Terrifying",
+    "description": "it can't be an ftbc realm without an object that requires clipping out of bounds",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Seedling": {
+    "name": "Seedling",
+    "difficulty": "Difficult",
+    "description": "there's a seed growing in a box",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "owoball": {
+    "name": "owoball",
+    "difficulty": "Insane",
+    "description": "i regret nothing",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ground": {
+    "name": "Ground",
+    "difficulty": "Insane",
+    "description": "this is the face of someone who has seen it all",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Strenuous"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Raisin": {
+    "name": "Raisin",
+    "difficulty": "Insane",
+    "description": "this is grape's dying grandfather",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Phantastrophy": {
+    "name": "Phantastrophy",
+    "difficulty": "Extreme",
+    "description": "the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming the fog is coming",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Wizard Hat": {
+    "name": "Wizard Hat",
+    "difficulty": "Dreadful",
+    "description": "you're a wizard now",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Juice Box": {
+    "name": "Juice Box",
+    "difficulty": "Insane",
+    "description": "take a sip",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "MousePad": {
+    "name": "MousePad",
+    "difficulty": "Insane",
+    "description": "hint: it's NOT at a computer",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Glowstick": {
+    "name": "Glowstick",
+    "difficulty": "Extreme",
+    "description": "find a strange light source",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Pugsley": {
+    "name": "Pugsley",
+    "difficulty": "Extreme",
+    "description": "dont be fooled, they have 72 charges of murder in the 1st degree",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Gaming Device": {
+    "name": "Gaming Device",
+    "difficulty": "Arduous",
+    "description": "find 10 buttons around the factory, then return to a doorway",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Hanheld": {
+    "name": "Hanheld",
+    "difficulty": "Insane",
+    "description": "abandonment.",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Stickynotes": {
+    "name": "Stickynotes",
+    "difficulty": "Unforgiving",
+    "description": "one of the last few living things in the abandoned half of the facility..",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Piano": {
+    "name": "Piano",
+    "difficulty": "Unforgiving",
+    "description": "who is out here playing the piano",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Mouse Guy": {
+    "name": "Mouse Guy",
+    "difficulty": "Dreadful",
+    "description": "this description is pretty... CHEESY!!!!!! LOL!!!!! hlep me pl",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "MissingYes": {
+    "name": "MissingYes",
+    "difficulty": "Dreadful",
+    "description": "what did you do to the yes",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Block of Glass": {
+    "name": "Block of Glass",
+    "difficulty": "Insane",
+    "description": "SHATTER SOUND",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Maroon Ball": {
+    "name": "Maroon Ball",
+    "difficulty": "Insane",
+    "description": "wrong colored ball try again",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Aura Sphere": {
+    "name": "Aura Sphere",
+    "difficulty": "Dreadful",
+    "description": "it looks like it could be an interdimensional portal that teleported an airline on two pieces of camera footage from 2014",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Stylus": {
+    "name": "Stylus",
+    "difficulty": "Unforgiving",
+    "description": "i think we have too many variations of a pen",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful"
+    ],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "RAM Chip": {
+    "name": "RAM Chip",
+    "difficulty": "Terrifying",
+    "description": "look underneath a platform",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Leafmote": {
+    "name": "Leafmote",
+    "difficulty": "Insane",
+    "description": "who recommended this and why did you recommend it",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Among Us Four": {
+    "name": "Among Us Four",
+    "difficulty": "Arduous",
+    "description": "stuck in the vents for the rest of eternity",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Arduous Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Gaming Controller": {
+    "name": "Gaming Controller",
+    "difficulty": "Terrifying",
+    "description": "click the power button of a computer that is acting strange...",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Base Charger": {
+    "name": "Base Charger",
+    "difficulty": "Unforgiving",
+    "description": "you need to charge your mental capacity",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Font": {
+    "name": "Font",
+    "difficulty": "Insane",
+    "description": "font",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Arduous"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Mattress": {
+    "name": "Mattress",
+    "difficulty": "Difficult",
+    "description": "they're sleeping somewhere...",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "DUMMY3": {
+    "name": "DUMMY3",
+    "difficulty": "Dreadful",
+    "description": "look for z-fighting",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "White Board": {
+    "name": "White Board",
+    "difficulty": "Dreadful",
+    "description": "there is a secretive room in the factory...",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Popsicle": {
+    "name": "Popsicle",
+    "difficulty": "Unforgiving",
+    "description": "a snowball in july?!",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Diamond": {
+    "name": "Diamond",
+    "difficulty": "Unforgiving",
+    "description": "must suck having no limbs... and not being a circle",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Teabag": {
+    "name": "Teabag",
+    "difficulty": "Difficult",
+    "description": "bell 2",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Lithium": {
+    "name": "Lithium",
+    "difficulty": "Unforgiving",
+    "description": "find lithium bars",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful"
+    ],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ace of Clubs": {
+    "name": "Ace of Clubs",
+    "difficulty": "Extreme",
+    "description": "do you think this card likes to groove? (Made by AccountDoesNothing)",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Four's Uncle Craig": {
+    "name": "Four's Uncle Craig",
+    "difficulty": "Unforgiving",
+    "description": "hey craig",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Electrostatic": {
+    "name": "Electrostatic",
+    "difficulty": "Unforgiving",
+    "description": "find a way to destroy something suspicious. (Made by Cadalac8999)",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "-8 Ball": {
+    "name": "-8 Ball",
+    "difficulty": "Terrifying",
+    "description": "start where electrostatic is (Made by NTailsGoBrrrrr)",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Blue Screen of Death": {
+    "name": "Blue Screen of Death",
+    "difficulty": "Strenuous",
+    "description": "YOUR PC RAN INTO AN ERROR AND NEEDS TO RESTART. RESTART. RESTART. RESTART. RESTART. RESTART. (Made by NTailsGoBrrrrr)",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Delicious Fruit": {
+    "name": "Delicious Fruit",
+    "difficulty": "Unforgiving",
+    "description": "mmm..... delicious.... (Made by AccountDoesNothing)",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Spatula": {
+    "name": "Spatula",
+    "difficulty": "Dreadful",
+    "description": "find a burger, then find a grill (Made by NTailsGoBrrrr)",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ampersand": {
+    "name": "Ampersand",
+    "difficulty": "Dreadful",
+    "description": "don't ask how the algebraliens are able to teleport to different realms, it just happens (Made by lowk3y_TJ)",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Arduous"
+    ],
+    "categories": [
+      "Dreadful Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Candy Wrapper": {
+    "name": "Candy Wrapper",
+    "difficulty": "Dreadful",
+    "description": "i love making normal looking objects absurd difficulties (Made by lowk3y_TJ)",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Money Bag": {
+    "name": "Money Bag",
+    "difficulty": "Strenuous",
+    "description": "start by finding a broom. sweep up some unneeded stuff. (Made by This_manisnothim)",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Button": {
+    "name": "Button",
+    "difficulty": "Insane",
+    "description": "use shiftlock near a large cog (Made by lowk3y_TJ)",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Watermelon": {
+    "name": "Watermelon",
+    "difficulty": "Extreme",
+    "description": "look below",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Rubber Ball": {
+    "name": "Rubber Ball",
+    "difficulty": "Insane",
+    "description": "find a small button on top of a cog (Made by 0OFunkyPurple)",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Trashbag": {
+    "name": "Trashbag",
+    "difficulty": "Insane",
+    "description": "find a pack of trashbags laying around which are... weirdly small. (Made by NTailsGoBrrrrr)",
+    "realm": "Yoyle Factory",
+    "realmData": {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "colors": [
+        "#46515D",
+        "#2A3944"
+      ],
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Yoyle Factory Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "2009 Firey": {
+    "name": "2009 Firey",
+    "difficulty": "Arduous",
+    "description": "Embrace your inner retro... Find 6 classic Roblox weapons around the map, then head to Starter Place.",
+    "realm": "Starter Place",
+    "realmData": {
+      "label": "Starter Place",
+      "icon": "",
+      "link": "Starter_Place",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "Starter Place Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

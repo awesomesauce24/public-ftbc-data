@@ -1,5 +1,0 @@
-== Character ==
-Brown semi liquid stuff that looks like what you use to stick bricks together
-
-== Obtaining ==
-{{CharacterInfo|name=Mortar|character=[[Mortar.png]]|difficulty=Effortless|area=Jungle|hint=Ever watch Brick and Mortar? (hidden in Jungle)|creator=ThirteenthJade}}On the side of the brick structure surrounding [[Funny Plant]]

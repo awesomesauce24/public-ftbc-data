@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Xmas Light|character=[[File:Xmas Light.png]]|difficulty=Easy|area=[[Fossil Falls]]|hint=(Hidden in Fossil Falls)}}
-==Info==
-Happy 800th wiki page... i think, might be wrong lol. Xmas Light is a cave drawing from BFB Post-Split and yea.
-==Obtainment==
-Near [[Euro]], like, really near, if you get Euro you should be able to get Xmas Light.
-[[Category:Objects]]
-[[Category:Main Realm Objects]]
-[[Category:Fossil Falls Objects]]
-[[Category:Easy Objects]]

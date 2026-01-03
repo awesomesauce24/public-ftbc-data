@@ -1,0 +1,814 @@
+{
+  "Wasabi Chips": {
+    "name": "Wasabi Chips",
+    "difficulty": "Hard",
+    "description": "wasabi does not approve of these chips",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Difficult"
+    ],
+    "categories": [
+      "Hard Objects",
+      "Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Thermometer": {
+    "name": "Thermometer",
+    "difficulty": "Insane",
+    "description": "man, it's hot up here! wait, that doesn't even make any sense...",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Algodoo Marble": {
+    "name": "Algodoo Marble",
+    "difficulty": "Unforgiving",
+    "description": "it's behind a crate",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "S'mores": {
+    "name": "S'mores",
+    "difficulty": "Difficult",
+    "description": "i guess you could say you guys want S'MORE objects!!!!... this is why i don't make puns",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Frog": {
+    "name": "Frog",
+    "difficulty": "Unforgiving",
+    "description": "i had every excuse in the world to make this about frog jumping but i didn't, are you guys happy?",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Candle": {
+    "name": "Candle",
+    "difficulty": "Difficult",
+    "description": "look for a faint light",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Stump": {
+    "name": "Stump",
+    "difficulty": "Unforgiving",
+    "description": "get to the top of the mountain",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Timber Peaks Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Vasey": {
+    "name": "Vasey",
+    "difficulty": "Hard",
+    "description": "yeah, that sure is a vase",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Difficult"
+    ],
+    "categories": [
+      "Hard Objects",
+      "Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Vinyl Record": {
+    "name": "Vinyl Record",
+    "difficulty": "Insane",
+    "description": "the viewing of this record is prohibited",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cheeseburger": {
+    "name": "Cheeseburger",
+    "difficulty": "Dreadful",
+    "description": "i wonder how you could get into that barn at spawn?",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Biscuit": {
+    "name": "Biscuit",
+    "difficulty": "Difficult",
+    "description": "oh, biscuits...",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Nutty": {
+    "name": "Nutty",
+    "difficulty": "Arduous",
+    "description": "NUTTY!!!!!!!!!!! nutty nutty nutty nutty nutty nutty nutty nutty nutty",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Chips": {
+    "name": "Chips",
+    "difficulty": "Unforgiving",
+    "description": "you may find yourself somewhere unexpected...",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Spammy": {
+    "name": "Spammy",
+    "difficulty": "Dreadful",
+    "description": "they're IN YOUR WALLS.",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Peanut Butter Jar": {
+    "name": "Peanut Butter Jar",
+    "difficulty": "Hard",
+    "description": "hey that's weird, do i taste peanut butter?",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Difficult"
+    ],
+    "categories": [
+      "Hard Objects",
+      "Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Yoyle Spoon": {
+    "name": "Yoyle Spoon",
+    "difficulty": "Unforgiving",
+    "description": "no, please erase this from my memory",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cough Drop": {
+    "name": "Cough Drop",
+    "difficulty": "Difficult",
+    "description": "cough... cough...",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Dough": {
+    "name": "Dough",
+    "difficulty": "Difficult",
+    "description": "dough... dough...",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Square Root": {
+    "name": "Square Root",
+    "difficulty": "Extreme",
+    "description": "beneath a platform",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Mous.V": {
+    "name": "Mous.V",
+    "difficulty": "Unforgiving",
+    "description": "it's in plain sight, but there's no way to reach it...",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Timber Peaks Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Network Cable Tester": {
+    "name": "Network Cable Tester",
+    "difficulty": "Terrifying",
+    "description": "NCCNNCNNNCCNCCCCNCCCNCCCNCCNCCCN",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Virus": {
+    "name": "Virus",
+    "difficulty": "Arduous",
+    "description": "start in the basement, you'll be able to find something important there.",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Dot": {
+    "name": "Dot",
+    "difficulty": "Arduous",
+    "description": ".",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "PUMPKIN 2.0": {
+    "name": "PUMPKIN 2.0",
+    "difficulty": "Arduous",
+    "description": "Find a mechanical pumpkin somewhere.",
+    "realm": "Timber Peaks",
+    "realmData": {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "colors": [
+        "#ff6f00",
+        "#b34700"
+      ],
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "Timber Peaks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

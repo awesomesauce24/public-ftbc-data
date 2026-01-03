@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Butter Churner|character=[[File:Butter Churner.png]]|difficulty=Unforgiving|area=[[Classic Paradise]]|hint=one of the houses is locked... perhaps you should look for a key?|additionalinfo|previousdifficulties=<span style="color:#ED2727">'''Extreme'''</span> [[File:Extreme.png]]}}
-==Character==
-[[Butter Churner]] is a Tan butter churner with parts of metal on its sides.
-==Obtaining==
-Find a key in the island with the giant tree, then unlock the locked house.
-
-[[Category:Objects]]
-[[Category:Unforgiving Objects]]
-[[Category:Classic Paradise Objects]]

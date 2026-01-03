@@ -1,0 +1,520 @@
+{
+  "Demon Four": {
+    "name": "Demon Four",
+    "difficulty": "Dreadful",
+    "description": "find a button to unlock something..",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Arduous"
+    ],
+    "categories": [
+      "Dreadful Objects",
+      "Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "FLA": {
+    "name": "FLA",
+    "difficulty": "Terrifying",
+    "description": "it's really hard to make a \"scary\" realm when all the objects look like this lol",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Carbon Dioxide": {
+    "name": "Carbon Dioxide",
+    "difficulty": "Dreadful",
+    "description": "follow an arrow",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "average joe": {
+    "name": "average joe",
+    "difficulty": "Arduous",
+    "description": "they just want their life to be normal",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Paper Jam Leafy": {
+    "name": "Paper Jam Leafy",
+    "difficulty": "Terrifying",
+    "description": "look behind a trash bag",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Lemi12": {
+    "name": "Lemi12",
+    "difficulty": "Arduous",
+    "description": "start by finding a note",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Piece of String": {
+    "name": "Piece of String",
+    "difficulty": "Terrifying",
+    "description": "yeah",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cobalty": {
+    "name": "Cobalty",
+    "difficulty": "Strenuous",
+    "description": "get into a garage door",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Hoodie": {
+    "name": "Hoodie",
+    "difficulty": "Insane",
+    "description": "oooooo mysterious ooooooo",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Blackbelt": {
+    "name": "Blackbelt",
+    "difficulty": "Insane",
+    "description": "check in one of those garage rooms",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Magnifying Glass": {
+    "name": "Magnifying Glass",
+    "difficulty": "Strenuous",
+    "description": "unlock a room",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cherryade": {
+    "name": "Cherryade",
+    "difficulty": "Insane",
+    "description": "on top of a pile of garbage",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cali": {
+    "name": "Cali",
+    "difficulty": "Remorseless",
+    "description": "find 4 binary codes across the basement. also uhh.. ignore the fact that this is just calculator 2",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Robot Liy": {
+    "name": "Robot Liy",
+    "difficulty": "Terrifying",
+    "description": "check the walls",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Yin-Yang": {
+    "name": "Yin-Yang",
+    "difficulty": "Terrifying",
+    "description": "the perfect power balance",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Soldery": {
+    "name": "Soldery",
+    "difficulty": "Remorseless",
+    "description": "look in lami12's room",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Shuttle Birdie": {
+    "name": "Shuttle Birdie",
+    "difficulty": "Arduous",
+    "description": "im too afraid to say the actual name so it's called just called shuttle birdie haha",
+    "realm": "The Basement",
+    "realmData": {
+      "label": "The Basement",
+      "icon": "",
+      "link": "The_Basement",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "The Basement Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

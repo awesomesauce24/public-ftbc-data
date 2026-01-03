@@ -1,0 +1,32 @@
+{
+  "Evil Blocky": {
+    "name": "Evil Blocky",
+    "difficulty": "Insane",
+    "description": "STOP WASTING YOUR TIME READING THIS AND RUN",
+    "realm": "The Backrooms Level RUN FOR YOUR LIFE",
+    "realmData": {
+      "label": "The Backrooms Level RUN FOR YOUR LIFE",
+      "icon": "",
+      "link": "The_Backrooms_Level_RUN_FOR_YOUR_LIFE",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "The Backrooms Level RUN FOR YOUR LIFE Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

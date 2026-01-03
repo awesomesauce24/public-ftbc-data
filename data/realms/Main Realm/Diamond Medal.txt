@@ -1,8 +1,0 @@
-{{CharacterInfo|name=Diamond Medal|character=[[File:Diamond Medal.png|Diamond Medal]]|difficulty=Medal|area=Medal Room|hint=ASD91237329719708ZX798YXUGDAUISDGASD|info=}}
-==Character==
-Diamond Medal appears to be a regular diamond medal. It also seems to be in shock because it just went through a divorce. It's okay Diamond Medal, we all support you.
-==Obtaining==
-{{Spoiler|text=Teleport to the Medal Room by clicking "Medals" on the top-right corner of the Objectpedia. Once there, you need to dance clip through the corner of the wall near the "keep data" hole and land precisely onto the platform outside the area. The "500 Characters" room should be there if you did it correctly.}}
-[[Category:Objects]]
-[[Category:Medal Objects]]
-[[Category:Medal Room Objects]]

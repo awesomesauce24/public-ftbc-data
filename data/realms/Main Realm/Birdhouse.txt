@@ -1,8 +1,0 @@
-{{CharacterInfo|name=Birdhouse|character=[[File:Birdhouse.png]]|difficulty=Easy|area=[[Hotel]]|hint=nature is epic.............. (Hidden at Hotel)}}
-==Character==
-A (wooden?) birdhouse with a smile and a perch as their nose.
-==Obtaining==
-First go to [[Hotel]], then if you look at the cactuses near the CRC, you'll see '''Birdhouse'''.
-[[Category:Objects]]
-[[Category:Easy Objects]]
-[[Category:Hotel Objects]]

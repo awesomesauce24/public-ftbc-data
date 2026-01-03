@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Brainy|character=[[File:Brainy.png|Brainy]]|difficulty=Strenuous|area=Goiky|hint=TBA|info=}}
-==Character==
-Brainy appears to be a disproportionate human brain with a face in the middle. They also have no limbs.
-==Obtaining==
-Old Method: Go into The Hall Of Recommended Characters (to get there, walk through a wall in The Hall Of Iconicness) and dance clip through a certain painting, once you do the object will be waiting behind the painting in a small pink box.
-New Method: TBA
-[[Category:Objects]]
-[[Category:Goiky Objects]]
-[[Category:Strenuous Objects]]

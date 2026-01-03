@@ -1,0 +1,32 @@
+{
+  "Pesky Pentagon": {
+    "name": "Pesky Pentagon",
+    "difficulty": "Horrifying",
+    "description": "gg",
+    "realm": "The Backrooms The End",
+    "realmData": {
+      "label": "The Backrooms The End",
+      "icon": "",
+      "link": "The_Backrooms_The_End",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Horrifying.png",
+      "color": "#2bd0fd"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Horrifying Objects",
+      "The Backrooms The End Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

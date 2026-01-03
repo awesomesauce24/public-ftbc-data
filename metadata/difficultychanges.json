@@ -1,0 +1,1561 @@
+{
+  "Inverted Realm": {
+    "Red Balloony": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Steel Drum": {
+      "previous": "Unforgiving",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Gold Block": {
+      "previous": "Dreadful",
+      "new": "Arduous",
+      "asterisk": false
+    },
+    "Demon Ball": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Hyper": {
+      "previous": "Insane",
+      "new": "Dreadful",
+      "asterisk": false
+    },
+    "Specimum Sandwich": {
+      "previous": "Extreme",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Sickle": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Jello": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Loading Object": {
+      "previous": "Terrifying",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Pesticide": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Gramophone": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Geocache": {
+      "previous": "Terrifying",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "City of LA-y": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Stringy": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Checkered Flag": {
+      "previous": "Terrifying",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Toothbrush": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Ottoman": {
+      "previous": "Insane",
+      "new": "Terrifying",
+      "asterisk": true
+    },
+    "Max": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Toxic Bomb": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Frame": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Desert Pillar": {
+      "previous": "Arduous",
+      "new": "Terrifying",
+      "asterisk": true
+    }
+  },
+  "Magma Canyon": {
+    "Spongy's Mother": {
+      "previous": "Normal",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Gas Can": {
+      "previous": "Normal",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Bababa": {
+      "previous": "Normal",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Turkey": {
+      "previous": "Normal",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Block Party": {
+      "previous": "Normal",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Flour": {
+      "previous": "Hard",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Refsbcj": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Pizza": {
+      "previous": "Hard",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Shoe": {
+      "previous": "Hard",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Waxed Slightly Cut Lightly": {
+      "previous": "Unknown",
+      "new": "Unknown",
+      "asterisk": false,
+      "note": "Weathered Copper Stairs"
+    },
+    "Robot Puppet": {
+      "previous": "Extreme",
+      "new": "Arduous",
+      "asterisk": false
+    },
+    "Shrimp Tempura": {
+      "previous": "Extreme",
+      "new": "Arduous",
+      "asterisk": false
+    },
+    "Cardy": {
+      "previous": "Insane",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Erlenmeyer": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "ca2": {
+      "previous": "Insane",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Dynamite": {
+      "previous": "Strenuous",
+      "new": "Difficult",
+      "asterisk": false,
+      "note": "Yeah seriously fuck this object"
+    }
+  },
+  "Evil Forest": {
+    "Evil Pin": {
+      "previous": "Arduous",
+      "new": "Terrifying",
+      "asterisk": true
+    },
+    "Evily": {
+      "previous": "Strenuous",
+      "new": "Terrifying",
+      "asterisk": true
+    }
+  },
+  "Yoyle Factory": {
+    "Text message": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Friendy+": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Mattress": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Base charger": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Juice box": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Mousepad": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Cool boy": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Maroon ball": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Glowstick": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Wizard hat": {
+      "previous": "Dreadful",
+      "new": "Terrifying",
+      "asterisk": true
+    },
+    "Elephant": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Seedling": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Teabag": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Paint bucket": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Coffee mug": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Fours uncle craig": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Delicious fruit": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Pugsley": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Graphics card": {
+      "previous": "Dreadful",
+      "new": "Terrifying",
+      "asterisk": true
+    },
+    "Electrostatic": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Candy wrapper": {
+      "previous": "Dreadful",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Watermelon": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Ace of Clubs": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Button": {
+      "previous": "Terrifying",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Aura sphere": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Gaming controller": {
+      "previous": "Terrifying",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Handheld": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Piano": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Popsicle": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Dummy3": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Leafmote": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Stickynotes": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Mouse guy": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Among Us Four": {
+      "previous": "Terrifying",
+      "new": "Arduous",
+      "asterisk": true
+    },
+    "White board": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Raisin": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Block of glass": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Missingyes": {
+      "previous": "Dreadful",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Stylus": {
+      "previous": "Dreadful",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Lithium": {
+      "previous": "Dreadful",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "RAM chip": {
+      "previous": "Terrifying",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Ground": {
+      "previous": "Strenuous",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Missing texture": {
+      "previous": "Terrifying",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Font": {
+      "previous": "Arduous",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Blue screen of death": {
+      "previous": "Strenuous",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Money bag": {
+      "previous": "Strenuous",
+      "new": "Terrifying",
+      "asterisk": true
+    },
+    "8 ball": {
+      "previous": "Terrifying",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Ampersand": {
+      "previous": "Arduous",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Gaming device": {
+      "previous": "Arduous",
+      "new": "Remorseless",
+      "asterisk": false
+    }
+  },
+  "Polluted Marshlands": {
+    "Hamburger": {
+      "previous": "Hard",
+      "new": "Intermediate",
+      "asterisk": false
+    },
+    "Soul cube": {
+      "previous": "Hard",
+      "new": "Intermediate",
+      "asterisk": false
+    },
+    "Drum kid": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Pink lemonade": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Soy": {
+      "previous": "Terrifying",
+      "new": "Arduous",
+      "asterisk": false
+    },
+    "Branchy": {
+      "previous": "Insane",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Mojito glass": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Clothy": {
+      "previous": "Extreme",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Starfruit": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Austrian shield": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Dragonman": {
+      "previous": "Terrifying",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Poppy seed roll": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Blob of syrup": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "China": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": true
+    }
+  },
+  "Frozen World": {
+    "Ice Chunk": {
+      "previous": "Remorseless",
+      "new": "Strenuous",
+      "asterisk": false,
+      "note": "NERF entrance difficulty"
+    },
+    "Winterous": {
+      "previous": "Strenuous",
+      "new": "Arduous",
+      "asterisk": false
+    }
+  },
+  "Classic Paradise": {
+    "Infinity": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Meatloaf": {
+      "previous": "Hard",
+      "new": "Intermediate",
+      "asterisk": false
+    },
+    "Spider Ball": {
+      "previous": "Extreme",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Robot Cake": {
+      "previous": "Extreme",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Quiver": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Butter Churner": {
+      "previous": "Unforgiving",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Fruit Bowl": {
+      "previous": "Hard",
+      "new": "Intermediate",
+      "asterisk": false
+    },
+    "Three Leaf Clover": {
+      "previous": "Arduous",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Lancer": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Calamari Ring": {
+      "previous": "Dreadful",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Deadly": {
+      "previous": "Terrifying",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Iolite": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Asteroid": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Magney": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Spinel": {
+      "previous": "Terrifying",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Emerald": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Amethyst": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Rainbow Slinky": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Pea Pod": {
+      "previous": "Difficult",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Elbow": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Beetroot": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Birdie": {
+      "previous": "Dreadful",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Oxygen": {
+      "previous": "Strenuous",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Dioptase": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Up Arrow": {
+      "previous": "Arduous",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Plastic Sun": {
+      "previous": "Strenuous",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Grarblicker": {
+      "previous": "Terrifying",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Peach": {
+      "previous": "Dreadful",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "BFDIA 5B": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Crystal Firey": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "2009 Firey": {
+      "previous": "Arduous",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Veterany": {
+      "previous": "Terrifying",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Administratory": {
+      "previous": "Remorseless",
+      "new": "Strenuous",
+      "asterisk": false
+    }
+  },
+  "The Backrooms": {
+    "Cuber": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Ringy": {
+      "previous": "Intermediate",
+      "new": "Normal",
+      "asterisk": false
+    },
+    "Clay": {
+      "previous": "Intermediate",
+      "new": "Normal",
+      "asterisk": false
+    },
+    "Computer": {
+      "previous": "Intermediate",
+      "new": "Normal",
+      "asterisk": false
+    },
+    "Poop": {
+      "previous": "Hard",
+      "new": "Intermediate",
+      "asterisk": true
+    },
+    "Lava Lamp": {
+      "previous": "Hard",
+      "new": "Normal",
+      "asterisk": true
+    },
+    "Jarry": {
+      "previous": "Hard",
+      "new": "Intermediate",
+      "asterisk": false
+    },
+    "Charger Box": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "DS": {
+      "previous": "Extreme",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Plus": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Phone": {
+      "previous": "Extreme",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Bottle Of Death": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Sign": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": true,
+      "note": "One Recommended Character Per Recommender"
+    },
+    "Brick": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Power Outlet": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Announcer x1222": {
+      "previous": "Unforgiving",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Morganite": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Black Square": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Snowglobe": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Icicle": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Badge": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Blueberry Machine": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Clowny": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Swirl": {
+      "previous": "Dreadful",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Nightlighty": {
+      "previous": "Strenuous",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Danger Sign": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Rainbow Orb": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Music Box": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Wild West Painting": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Bodywash Soapy": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false,
+      "note": "FIX CHEESE"
+    },
+    "Locker": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Laundry Basket": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Mason": {
+      "previous": "Dreadful",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Ushanka": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Cup Stacky": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Placeholdery": {
+      "previous": "Arduous",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Beep Fusion": {
+      "previous": "Strenuous",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Galaxy Pillow": {
+      "previous": "Strenuous",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Fermata": {
+      "previous": "Dreadful",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Accordion": {
+      "previous": "Dreadful",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Karate Pot": {
+      "previous": "Dreadful",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Civil Siren": {
+      "previous": "Dreadful",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Fake Firey": {
+      "previous": "Arduous",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Cord": {
+      "previous": "Terrifying",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Wolfy": {
+      "previous": "Arduous",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Grandfather Clock": {
+      "previous": "Strenuous",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Skateboard": {
+      "previous": "Dreadful",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Metronome": {
+      "previous": "Strenuous",
+      "new": "Arduous",
+      "asterisk": true,
+      "note": "MAKE WALLS BIGGER"
+    },
+    "Obelus": {
+      "previous": "Remorseless",
+      "new": "Terrifying",
+      "asterisk": true
+    }
+  },
+  "Cherry Grove": {
+    "Guava": {
+      "previous": "Intermediate",
+      "new": "Normal",
+      "asterisk": false
+    },
+    "Vibe Check Four": {
+      "previous": "Hard",
+      "new": "Intermediate",
+      "asterisk": true
+    },
+    "Cherry Blossom": {
+      "previous": "Intermediate",
+      "new": "Normal",
+      "asterisk": false
+    },
+    "Star Coin": {
+      "previous": "Intermediate",
+      "new": "Normal",
+      "asterisk": false
+    },
+    "Lantern": {
+      "previous": "Intermediate",
+      "new": "Normal",
+      "asterisk": false
+    },
+    "Sour Apple Sauce": {
+      "previous": "Hard",
+      "new": "Intermediate",
+      "asterisk": true
+    },
+    "Chainsaw": {
+      "previous": "Intermediate",
+      "new": "Normal",
+      "asterisk": false
+    },
+    "Cheddary": {
+      "previous": "Intermediate",
+      "new": "Normal",
+      "asterisk": false
+    },
+    "Bell Pepper": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Sunset": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Cool Bracelety": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Orange Gemstone": {
+      "previous": "Remorseless",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Yellow Gemstone": {
+      "previous": "Remorseless",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "168,855": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Amber": {
+      "previous": "Terrifying",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Literal Air": {
+      "previous": "Terrifying",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Oblique Pentagonal Prism": {
+      "previous": "Insane",
+      "new": "Terrifying",
+      "asterisk": false
+    },
+    "Pykrete": {
+      "previous": "Dreadful",
+      "new": "Unforgiving",
+      "asterisk": true
+    }
+  },
+  "Sakura Serenity": {
+    "Bonsai": {
+      "previous": "Hard",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Robot Saw": {
+      "previous": "Hard",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Grapefruit": {
+      "previous": "Hard",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Spikey": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Horn": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "OmG": {
+      "previous": "Terrifying",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Wildy": {
+      "previous": "Terrifying",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "K": {
+      "previous": "Hard",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Bamboo": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "David-y": {
+      "previous": "Insane",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Chocolate Circle": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Locket": {
+      "previous": "Extreme",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Bean Can": {
+      "previous": "Extreme",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Autumn Leaf": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Humourus Hummus": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Planter": {
+      "previous": "Hard",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Red Leaf": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "?": {
+      "previous": "Strenuous",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Moon": {
+      "previous": "Remorseless",
+      "new": "Arduous",
+      "asterisk": false
+    },
+    "Red Crayon": {
+      "previous": "Terrifying",
+      "new": "Dreadful",
+      "asterisk": false
+    },
+    "Non-Slip Shoes": {
+      "previous": "Terrifying",
+      "new": "Dreadful",
+      "asterisk": false
+    }
+  },
+  "Yoyleland": {
+    "Dreartop": {
+      "previous": "Moderate",
+      "new": "Normal",
+      "asterisk": false
+    },
+    "Runner Up": {
+      "previous": "Moderate",
+      "new": "Easy",
+      "asterisk": true
+    },
+    "Stabby": {
+      "previous": "Hard",
+      "new": "Moderate",
+      "asterisk": false
+    },
+    "Blue Gelatin": {
+      "previous": "Normal",
+      "new": "Easy",
+      "asterisk": false
+    },
+    "A Tree": {
+      "previous": "Moderate",
+      "new": "Effortless",
+      "asterisk": false
+    },
+    "Metal Ball": {
+      "previous": "Moderate",
+      "new": "Effortless",
+      "asterisk": false
+    },
+    "Sketchpad": {
+      "previous": "Intermediate",
+      "new": "Moderate",
+      "asterisk": false
+    },
+    "Sky": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Swappy": {
+      "previous": "Easy",
+      "new": "Effortless",
+      "asterisk": false
+    },
+    "Kennel": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Piano Key": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Ink Ball": {
+      "previous": "Extreme",
+      "new": "Intermediate",
+      "asterisk": false
+    },
+    "Squeaky Hammer": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Matchbox": {
+      "previous": "Unforgiving",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "IV Bag": {
+      "previous": "Dreadful",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Brownie": {
+      "previous": "Normal",
+      "new": "Easy",
+      "asterisk": false
+    },
+    "Lip Stick": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Bolf Gall": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "Paint Drop": {
+      "previous": "Unforgiving",
+      "new": "Extreme",
+      "asterisk": false
+    },
+    "PI": {
+      "previous": "Hard",
+      "new": "Intermediate",
+      "asterisk": false
+    },
+    "Daffodil": {
+      "previous": "Difficult",
+      "new": "Intermediate",
+      "asterisk": false
+    }
+  },
+  "Main Realm": {
+    "ReplicatedStorage": {
+      "previous": "Terrifying",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Tiddles": {
+      "previous": "Arduous",
+      "new": "Unforgiving",
+      "asterisk": true
+    }
+  },
+  "Midnight Rooftops": {
+    "Sans": {
+      "previous": "Hard",
+      "new": "Normal",
+      "asterisk": false
+    },
+    "Robot Tennis Ball": {
+      "previous": "Hard",
+      "new": "Intermediate",
+      "asterisk": false
+    },
+    "Cupcake": {
+      "previous": "Hard",
+      "new": "Normal",
+      "asterisk": false
+    },
+    "Impostory": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Inverted cursor": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Thready": {
+      "previous": "Hard",
+      "new": "Intermediate",
+      "asterisk": false
+    },
+    "Pancakes": {
+      "previous": "Hard",
+      "new": "Intermediate",
+      "asterisk": false
+    },
+    "W": {
+      "previous": "Insane",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Cool Ice Cube": {
+      "previous": "Terrifying",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "PB and J Sandwich": {
+      "previous": "Extreme",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Magnet": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Line Coin": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Not canon": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Your Mom": {
+      "previous": "Terrifying",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Cursor": {
+      "previous": "Hard",
+      "new": "Normal",
+      "asterisk": false
+    }
+  },
+  "Barren Desert": {
+    "Bag of Sand": {
+      "previous": "Easy",
+      "new": "Effortless",
+      "asterisk": false
+    },
+    "Bow and Arrow": {
+      "previous": "Easy",
+      "new": "Effortless",
+      "asterisk": false
+    },
+    "Magic Conch": {
+      "previous": "Easy",
+      "new": "Effortless",
+      "asterisk": false
+    },
+    "Potato": {
+      "previous": "Hard",
+      "new": "Moderate",
+      "asterisk": true
+    },
+    "Churro": {
+      "previous": "Easy",
+      "new": "Effortless",
+      "asterisk": true
+    },
+    "Softball": {
+      "previous": "Extreme",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Cheese Orb": {
+      "previous": "Easy",
+      "new": "Moderate",
+      "asterisk": false
+    },
+    "Fernandez": {
+      "previous": "Insane",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "5 Yen Coin": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Ice Bracelety": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": true
+    },
+    "Sierpinskis Triangle": {
+      "previous": "Terrifying",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Deep Fried Breath": {
+      "previous": "Strenuous",
+      "new": "Insane",
+      "asterisk": false,
+      "note": "THIS OBTAINMENT IS DOGSHIT"
+    },
+    "Johnson": {
+      "previous": "Normal",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Hazelnut": {
+      "previous": "Normal",
+      "new": "Intermediate",
+      "asterisk": true
+    },
+    "Firey Jr Jr": {
+      "previous": "Normal",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Can Of Black Olives": {
+      "previous": "Normal",
+      "new": "Intermediate",
+      "asterisk": true
+    },
+    "Cardboard": {
+      "previous": "Normal",
+      "new": "Hard",
+      "asterisk": true
+    },
+    "Toffee": {
+      "previous": "Hard",
+      "new": "Extreme",
+      "asterisk": true
+    }
+  },
+  "Timber Peaks": {
+    "Wasabi Chips": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Candle": {
+      "previous": "Dreadful",
+      "new": "Difficult",
+      "asterisk": true
+    },
+    "Peanut Butter Jar": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Vasey": {
+      "previous": "Difficult",
+      "new": "Hard",
+      "asterisk": false
+    },
+    "Biscuit": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Dough": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Cough Drop": {
+      "previous": "Extreme",
+      "new": "Difficult",
+      "asterisk": false
+    },
+    "Square Root": {
+      "previous": "Insane",
+      "new": "Extreme",
+      "asterisk": true
+    },
+    "Stump": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Mous.V": {
+      "previous": "Insane",
+      "new": "Unforgiving",
+      "asterisk": false
+    },
+    "Pumpkin 2.0": {
+      "previous": "Arduous",
+      "new": "Insane",
+      "asterisk": false
+    }
+  },
+  "The Basement": {
+    "Carbon dioxide": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Hoodie": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Robot liy": {
+      "previous": "Terrifying",
+      "new": "Insane",
+      "asterisk": true
+    },
+    "Blackbelt": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Demon Four": {
+      "previous": "Arduous",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Cobalt": {
+      "previous": "Strenuous",
+      "new": "Terrifying",
+      "asterisk": true
+    },
+    "Fla": {
+      "previous": "Terrifying",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Magnifying glass": {
+      "previous": "Strenuous",
+      "new": "Terrifying",
+      "asterisk": true
+    },
+    "Piece of string": {
+      "previous": "Terrifying",
+      "new": "Dreadful",
+      "asterisk": true
+    },
+    "Cherryade": {
+      "previous": "Dreadful",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Yin-yang": {
+      "previous": "Terrifying",
+      "new": "Insane",
+      "asterisk": false
+    },
+    "Paper jam leafy": {
+      "previous": "Terrifying",
+      "new": "Dreadful",
+      "asterisk": true
+    }
+  }
+}

@@ -1,9 +1,0 @@
-== Character ==
-A poorly drawn smiling star with sparkles and a purple trail.
-
-== Obtaining ==
-You can find '''Wish''' at the top of the HQ building in [[City]].
-{{CharacterInfo|name=Wish|character=Wish.png|difficulty=Easy|area=City|hint=get up there and make a wish!}}
-[[Category:Easy Objects]]
-[[Category:City Objects]]
-[[Category:Objects]]

@@ -1,0 +1,804 @@
+{
+  "Sunset": {
+    "name": "Sunset",
+    "difficulty": "Hard",
+    "description": "find a way to ascend upwards",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Sunset",
+        "file": "Sunset.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Difficult"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Hard Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Vibe Check 4": {
+    "name": "Vibe Check 4",
+    "difficulty": "Hard",
+    "description": "THE SEQUEL.",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Vibe Check 4",
+        "file": "Vibe Check 4.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Cherry Grove Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Guava": {
+    "name": "Guava",
+    "difficulty": "Normal",
+    "description": "ah yes a guava, i have definitely heard of that before",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Guava",
+        "file": "Guava.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Intermediate"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Normal Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Star Coin": {
+    "name": "Star Coin",
+    "difficulty": "Normal",
+    "description": "i accidentally changed this characters' description and i don't feel like trying to remake it. sorry",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Star Coin",
+        "file": "Star Coin.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Intermediate"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Normal Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "168,855": {
+    "name": "168,855",
+    "difficulty": "Difficult",
+    "description": "our milestone for 168,855 visits- oh wait we already passed that a long time ago",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "168,855",
+        "file": "168,855.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Difficult Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "cool bracelety": {
+    "name": "cool bracelety",
+    "difficulty": "Difficult",
+    "description": "bracelety SNAP OUT OF IT!!! you're stuck in 2017",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "cool bracelety",
+        "file": "cool bracelety.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Cherry Grove Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cherry Blossom": {
+    "name": "Cherry Blossom",
+    "difficulty": "Normal",
+    "description": "right next to a cherry blossom tree",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Cherry Blossom",
+        "file": "Cherry Blossom.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Intermediate"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Normal Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Chainsaw": {
+    "name": "Chainsaw",
+    "difficulty": "Normal",
+    "description": "save them before they get down the waterfall!",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Chainsaw",
+        "file": "Chainsaw.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Intermediate",
+      "Normal"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Normal Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Jelly Bread": {
+    "name": "Jelly Bread",
+    "difficulty": "Difficult",
+    "description": "get to the top of the hill",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Jelly Bread",
+        "file": "Jelly Bread.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Cherry Grove Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Literal Air": {
+    "name": "Literal Air",
+    "difficulty": "Unforgiving",
+    "description": "jump down and you may find it",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Literal Air",
+        "file": "Literal Air.png"
+      },
+      {
+        "name": "Literal Air New",
+        "file": "Literal Air New.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bell Pepper": {
+    "name": "Bell Pepper",
+    "difficulty": "Extreme",
+    "description": "you may find them hanging on a tree...",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Bell Pepper",
+        "file": "Bell Pepper.webp"
+      },
+      {
+        "name": "Bell Pepper New",
+        "file": "Bell Pepper New.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Lantern": {
+    "name": "Lantern",
+    "difficulty": "Normal",
+    "description": "i think you can.. probably tell where this one is",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Lantern",
+        "file": "Lantern.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Intermediate"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Normal Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Sour Apple Sauce": {
+    "name": "Sour Apple Sauce",
+    "difficulty": "Intermediate",
+    "description": "uhh.. yikes? yeah i really got nothing for this one",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Sour Apple Sauce",
+        "file": "Sour Apple Sauce.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate_FTBC.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Intermediate Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Pykrete": {
+    "name": "Pykrete",
+    "difficulty": "Unforgiving",
+    "description": "i've never heard of pykrete before but it sounds cool",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Pykrete",
+        "file": "Pykrete.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "BFDI_BIGFAN": {
+    "name": "BFDI_BIGFAN",
+    "difficulty": "Intermediate",
+    "description": "this one's at a gouda spot! sorry... guess my jokes are a little too CHEESY! (Made by... someone they never gave their username)",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "BFDI_BIGFAN",
+        "file": "BFDI_BIGFAN.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Cherry Grove Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "oblique pentagonal prism": {
+    "name": "oblique pentagonal prism",
+    "difficulty": "Insane",
+    "description": "yoo it's the oblique pentagonal prism!!!! no way!!!",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "oblique pentagonal prism",
+        "file": "oblique pentagonal prism.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Cherry Grove Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Amber": {
+    "name": "Amber",
+    "difficulty": "Insane",
+    "description": "remember this: XYYXZWYXZXZWZ",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Amber",
+        "file": "Amber.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Insane Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Dragon": {
+    "name": "Dragon",
+    "difficulty": "Arduous",
+    "description": "find 5 buttons scattered throughout the islands",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Dragon",
+        "file": "Dragon.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [
+      "Remorseless",
+      "Strenuous"
+    ],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "Cherry Grove Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Yellow Gemstone": {
+    "name": "Yellow Gemstone",
+    "difficulty": "Insane",
+    "description": "isn't it funny how 3 of the 5 new cherry grove objects are gemstone related?",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Yellow Gemstone",
+        "file": "Yellow Gemstone.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Remorseless"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Insane Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Orange Gemstone": {
+    "name": "Orange Gemstone",
+    "difficulty": "Insane",
+    "description": "start by looking for a poem",
+    "realm": "Cherry Grove",
+    "realmData": {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "colors": [
+        "#896a2e",
+        "#cf973a"
+      ],
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Orange Gemstone",
+        "file": "Orange Gemstone.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Remorseless"
+    ],
+    "categories": [
+      "Cherry Grove Objects",
+      "Insane Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

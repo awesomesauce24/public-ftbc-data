@@ -1,0 +1,2064 @@
+{
+  "Asteroid": {
+    "name": "Asteroid",
+    "difficulty": "Extreme",
+    "description": "Look in the cave for an obby. It starts in the upper floor.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Asteroid",
+        "file": "Asteroid.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Sidewalk": {
+    "name": "Sidewalk",
+    "difficulty": "Intermediate",
+    "description": "On a sidewalk, where else do you think it would be?",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Sidewalk",
+        "file": "Sidewalk.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Lancer": {
+    "name": "Lancer",
+    "difficulty": "Difficult",
+    "description": "In the cave, chase after that rascal!",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Lancer",
+        "file": "Lancer.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Difficult Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Emerald": {
+    "name": "Emerald",
+    "difficulty": "Hard",
+    "description": "In the cave, being antisocial.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Emerald",
+        "file": "Emerald.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Difficult",
+      "Extreme"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Hard Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Deadly": {
+    "name": "Deadly",
+    "difficulty": "Difficult",
+    "description": "Beware the door in the cave.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Deadly",
+        "file": "Deadly.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Difficult Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Buzzer": {
+    "name": "Buzzer",
+    "difficulty": "Intermediate",
+    "description": "The big red buzzer in a building.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Buzzer",
+        "file": "Buzzer.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Beetroot": {
+    "name": "Beetroot",
+    "difficulty": "Extreme",
+    "description": "Start farming.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Beetroot",
+        "file": "Beetroot.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Robot Cake": {
+    "name": "Robot Cake",
+    "difficulty": "Hard",
+    "description": "Where do all robot cakes hide... Under a bridge, of course.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Robot Cake",
+        "file": "Robot Cake.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Hard Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Oxygen": {
+    "name": "Oxygen",
+    "difficulty": "Extreme",
+    "description": "Go where an unusual light shines.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Oxygen",
+        "file": "Oxygen.png"
+      },
+      {
+        "name": "Oxygen New",
+        "file": "Oxygen New.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Strenuous"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Infinity": {
+    "name": "Infinity",
+    "difficulty": "Extreme",
+    "description": "Do each obby on the beach, starting with the blue one.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Infinity",
+        "file": "Infinity.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Meatloaf": {
+    "name": "Meatloaf",
+    "difficulty": "Intermediate",
+    "description": "Look in the small cave area.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Meatloaf",
+        "file": "Meatloaf.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate_FTBC.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Intermediate Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Quiver": {
+    "name": "Quiver",
+    "difficulty": "Hard",
+    "description": "This sure does make me quiver... Look near where one may have passed away.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Quiver",
+        "file": "Quiver.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Difficult",
+      "Extreme"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Hard Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Magney": {
+    "name": "Magney",
+    "difficulty": "Difficult",
+    "description": "Upstairs in the cave.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Magney",
+        "file": "Magney.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Difficult Objects",
+      "Insane Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Spider Ball": {
+    "name": "Spider Ball",
+    "difficulty": "Hard",
+    "description": "Crawling around in the small cave area.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Spider Ball",
+        "file": "Spider Ball.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Hard Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Redcurrant": {
+    "name": "Redcurrant",
+    "difficulty": "Hard",
+    "description": "Get on top of the trees at spawn.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Redcurrant",
+        "file": "Redcurrant.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Grarblicker": {
+    "name": "Grarblicker",
+    "difficulty": "Dreadful",
+    "description": "Find 5 buttons around the spawn and cave areas. (WARNING: TELEPORTING WILL REMOVE YOUR PROGRESS!!!)",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Grarblicker",
+        "file": "Grarblicker.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Dreadful Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Latte": {
+    "name": "Latte",
+    "difficulty": "Intermediate",
+    "description": "Near the gigantic tree, just chilling.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Latte",
+        "file": "Latte.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Up Arrow": {
+    "name": "Up Arrow",
+    "difficulty": "Extreme",
+    "description": "In Deadly's area, look in the opposite direction of where this arrow is pointing.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Up Arrow",
+        "file": "Up Arrow.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Arduous",
+      "Terrifying"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Fruit Bowl": {
+    "name": "Fruit Bowl",
+    "difficulty": "Intermediate",
+    "description": "At one of the smaller islands in Greenhouse.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Fruit Bowl",
+        "file": "Fruit Bowl.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate_FTBC.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Intermediate Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Calamari Ring": {
+    "name": "Calamari Ring",
+    "difficulty": "Extreme",
+    "description": "Something's off with one of the Lancer rooms...",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Calamari Ring",
+        "file": "Calamari Ring.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful",
+      "Insane"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "BFDIA 5b": {
+    "name": "BFDIA 5b",
+    "difficulty": "Dreadful",
+    "description": "5b is a game, and this object is under a platform!",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "BFDIA 5b",
+        "file": "BFDIA 5b.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Elbow": {
+    "name": "Elbow",
+    "difficulty": "Difficult",
+    "description": "Got stuck in a chimney (elbow-zo. hah. get it?)",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Elbow",
+        "file": "Elbow.png"
+      },
+      {
+        "name": "Elbow New",
+        "file": "Elbow New.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Difficult Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bird From Egypt": {
+    "name": "Bird From Egypt",
+    "difficulty": "Remorseless",
+    "description": "It's time to feel pain. Find the hieroglyphs.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Bird From Egypt",
+        "file": "Bird From Egypt.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Sausage Roll": {
+    "name": "Sausage Roll",
+    "difficulty": "Arduous",
+    "description": "sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll sausage roll (in the Bird of Egypt obby)",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Sausage Roll",
+        "file": "Sausage Roll.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [
+      "Terrifying",
+      "Strenuous"
+    ],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Butter Churner": {
+    "name": "Butter Churner",
+    "difficulty": "Hard",
+    "description": "One of the houses is locked... perhaps you should find a key?",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Butter Churner",
+        "file": "Butter Churner.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving",
+      "Extreme"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Hard Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "GameGo": {
+    "name": "GameGo",
+    "difficulty": "Intermediate",
+    "description": "Near one of the bridges.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "GameGo",
+        "file": "GameGo.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Pear Tree": {
+    "name": "Pear Tree",
+    "difficulty": "Intermediate",
+    "description": "Hidden in Greenhouse, try to get up the big pear tree.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Pear Tree",
+        "file": "Pear Tree.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Jade": {
+    "name": "Jade",
+    "difficulty": "Remorseless",
+    "description": "Take a leap of faith in the cave.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Jade",
+        "file": "Jade.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Iolite": {
+    "name": "Iolite",
+    "difficulty": "Difficult",
+    "description": "Stuck between a ROCK and a hard place. (Start in Cave)",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Iolite",
+        "file": "Iolite.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Difficult Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Peapod": {
+    "name": "Peapod",
+    "difficulty": "Difficult",
+    "description": "Find a way on top of the greenhouse.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Peapod",
+        "file": "Peapod.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Rainbow Slinky": {
+    "name": "Rainbow Slinky",
+    "difficulty": "Extreme",
+    "description": "Find a rainbow rectangle in the Greenhouse.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Rainbow Slinky",
+        "file": "Rainbow Slinky.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cake's Dad": {
+    "name": "Cake's Dad",
+    "difficulty": "Horrifying",
+    "description": "Begin by going to Starter Place, check near the huge tree for a hint. Then, go to Timber Peaks, in search of a key. <b>All of this shall lead you to a perilous paradox.</b>",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Cake's Dad",
+        "file": "Cake's Dad.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Horrifying.png",
+      "color": "#2bd0fd"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Horrifying Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Veterany": {
+    "name": "Veterany",
+    "difficulty": "Unforgiving",
+    "description": "Get on top of the Starter Place house, then find another realm. Look under the bridges.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Veterany",
+        "file": "Veterany.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Administratory": {
+    "name": "Administratory",
+    "difficulty": "Strenuous",
+    "description": "Get on top of the Starter Place house, then find another realm. Scavenge for buttons.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Administratory",
+        "file": "Administratory.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Remorseless"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Objects",
+      "Strenuous Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Broccoli": {
+    "name": "Broccoli",
+    "difficulty": "Intermediate",
+    "description": "Just having a picnic!",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Broccoli",
+        "file": "Broccoli.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Container": {
+    "name": "Container",
+    "difficulty": "Hard",
+    "description": "Look on an island near spawn.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Container",
+        "file": "Container.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Mouthy": {
+    "name": "Mouthy",
+    "difficulty": "Intermediate",
+    "description": "On the beach.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Mouthy",
+        "file": "Mouthy.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Plastic Sun": {
+    "name": "Plastic Sun",
+    "difficulty": "Insane",
+    "description": "Start in Greenhouse - check near a lookalike of the object. [ hey a little fun fact! this was gonna be rem! ]",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Plastic Sun",
+        "file": "Plastic Sun.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Strenuous"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Insane Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bug Zapper": {
+    "name": "Bug Zapper",
+    "difficulty": "Unforgiving",
+    "description": "Start in greenhouse, then look for pesky buzzing sounds.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Bug Zapper",
+        "file": "Bug Zapper.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "2009 Firey": {
+    "name": "2009 Firey",
+    "difficulty": "Unforgiving",
+    "description": "Embrace your inner retro... Find 6 classic Roblox weapons around the map, then head to Starter Place.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "2009 Firey",
+        "file": "2009 Firey.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Arduous"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Peach": {
+    "name": "Peach",
+    "difficulty": "Extreme",
+    "description": "Start by finding a book in Greenhouse.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Peach",
+        "file": "Peach.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Crystal Firey": {
+    "name": "Crystal Firey",
+    "difficulty": "Extreme",
+    "description": "In the cave. Talk to Emerald to know more.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Crystal Firey",
+        "file": "Crystal Firey.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Clickbait Arrow": {
+    "name": "Clickbait Arrow",
+    "difficulty": "Dreadful",
+    "description": "There's like twenty of them, I'm sure you'll be able to find them!",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Clickbait Arrow",
+        "file": "Clickbait Arrow.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bolty": {
+    "name": "Bolty",
+    "difficulty": "Unforgiving",
+    "description": "Start by finding a weather machine.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Bolty",
+        "file": "Bolty.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Amethyst": {
+    "name": "Amethyst",
+    "difficulty": "Hard",
+    "description": "Where else do you think you'd find a gem, genius?",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Amethyst",
+        "file": "Amethyst.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Difficult"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Hard Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Dioptase": {
+    "name": "Dioptase",
+    "difficulty": "Extreme",
+    "description": "You can't reach that island. Unless... (Hidden in Cave)",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Dioptase",
+        "file": "Dioptase.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Three-Leaf Clover": {
+    "name": "Three-Leaf Clover",
+    "difficulty": "Arduous",
+    "description": "Find a set of clovers somewhere, then do 3 obbies.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Three-Leaf Clover",
+        "file": "Three-Leaf Clover.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Violet": {
+    "name": "Violet",
+    "difficulty": "Intermediate",
+    "description": "In the greenhouse, with all of her siblings!",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Violet",
+        "file": "Violet.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Square Lemon": {
+    "name": "Square Lemon",
+    "difficulty": "Intermediate",
+    "description": "Someone tell them to stop being so sour. (Hidden in Greenhouse)",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Square Lemon",
+        "file": "Square Lemon.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Birdie": {
+    "name": "Birdie",
+    "difficulty": "Difficult",
+    "description": "When they talked about canaries in coal mines, I don't think this is what they meant. (Start in Cave)",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Birdie",
+        "file": "Birdie.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful",
+      "Strenuous"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Difficult Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Spinel": {
+    "name": "Spinel",
+    "difficulty": "Extreme",
+    "description": "Because this update didn't have enough gems, we just had to add another! (Start in Cave)",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Spinel",
+        "file": "Spinel.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Classic Paradise Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Grapes": {
+    "name": "Grapes",
+    "difficulty": "Hard",
+    "description": "Hanging from a tree.",
+    "realm": "Classic Paradise",
+    "realmData": {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "colors": [
+        "#3487d6",
+        "#479ad9"
+      ],
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Grapes",
+        "file": "Grapes.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Classic Paradise Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

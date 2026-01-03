@@ -1,8 +1,0 @@
-
-{{CharacterInfo|name=Car Door|character=Car Door.png|difficulty=Easy|area=[[City]]}}
-
-== Info ==
-A green car door
-
-== Obtaining ==
-On the side of one of the cars in the car park in front of the Donut Shop

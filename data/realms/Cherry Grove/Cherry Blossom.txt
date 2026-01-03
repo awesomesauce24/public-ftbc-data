@@ -1,8 +1,0 @@
-{{CharacterInfo|name=Cherry Blossom|character=[[File:Cherry_blossom.png|thumb]]|difficulty=Intermediate|area=[[Cherry Grove]]|hint=PLACEHOLDER}}
-==Character==
-A happy Cherry Blossom that shares resemblance to [[Tree]]
-==Obtaining==
-{{Spoiler|text=It will be near the middle of Cherry Grove.}}
-[[Category:Intermediate Objects]]
-[[Category:Cherry Grove Objects]]
-[[Category:Objects]]

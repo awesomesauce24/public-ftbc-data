@@ -1,8 +1,0 @@
-{{CharacterInfo|name=Bronze Medal|character=[[File:Bronze Medal.png|Bronze Medal]]|difficulty=Medal|area=Medal Room|hint=50 characters are required for this object|info=|additionalinfo|previousdifficulties=<span style="color:#a1ff27">'''Normal'''</span> [[File:Normal.png]]}}
-==Character==
-Bronze Medal appears to be a regular bronze medal.
-==Obtaining==
-{{Spoiler|text=Teleport to the Medal Room by clicking "Medals" on the top-right corner of the Objectpedia. If you have 50+ objects, you can go through the "50 Characters" room.}}
-[[Category:Objects]]
-[[Category:Medal Objects]]
-[[Category:Medal Room Objects]]

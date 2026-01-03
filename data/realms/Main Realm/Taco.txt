@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Taco|character=[[File:Taco.png]]|difficulty=Moderate|area=[[Goiky]]|hint=reference to bfb 29|additionalinfo|previousdifficulties=<span style="color:#a1ff27">'''Normal'''</span> [[File:Normal.png]]}}
-==Character==
-"[[Blocky|You]] gotta stop defining your successes on how much others fail!"
-==Obtaining==
-Inside a bush near the Rules board at [[Goiky]].
-[[Category:Objects]]
-[[Category:Moderate Objects]]
-[[Category:Goiky Objects]]
-[[Category:BFB Contestants]]

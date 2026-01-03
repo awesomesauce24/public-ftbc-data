@@ -1,0 +1,2051 @@
+{
+  "Frog Four": {
+    "name": "Frog Four",
+    "difficulty": "Insane",
+    "description": "get it? because you have to \"frog\" jump onto a building for it? nobody clapping?",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Hand-Powered Recovery Center": {
+    "name": "Hand-Powered Recovery Center",
+    "difficulty": "Effortless",
+    "description": "this isn't really an animate object but okay",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#17a897"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Effortless Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Metal Ball": {
+    "name": "Metal Ball",
+    "difficulty": "Effortless",
+    "description": "get to the top of the summit",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Moderate"
+    ],
+    "categories": [
+      "Effortless Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Lollipop Plush": {
+    "name": "Lollipop Plush",
+    "difficulty": "Easy",
+    "description": "hidden in the allyways of yoylecity",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Easy.png",
+      "color": "#10da8d"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Easy Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Dragon Scale": {
+    "name": "Dragon Scale",
+    "difficulty": "Hard",
+    "description": "hidden in one of the hundreds of yoylebushes...",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Fish Cracker": {
+    "name": "Fish Cracker",
+    "difficulty": "Intermediate",
+    "description": "who's ready to go swimming?",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "A Tree": {
+    "name": "A Tree",
+    "difficulty": "Effortless",
+    "description": "yeah, just a tree and nothing else",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Moderate"
+    ],
+    "categories": [
+      "Effortless Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Evil Price Tag": {
+    "name": "Evil Price Tag",
+    "difficulty": "Extreme",
+    "description": "get on top of a roof",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Stabby": {
+    "name": "Stabby",
+    "difficulty": "Moderate",
+    "description": "stuck on the tower..",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Moderate.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Moderate Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Sky": {
+    "name": "Sky",
+    "difficulty": "Extreme",
+    "description": "THE SKY IS LITERALLY FALLING",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Eyes in the Dark": {
+    "name": "Eyes in the Dark",
+    "difficulty": "Effortless",
+    "description": "ooo spoopy eyes",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#17a897"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Effortless Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Long Pencil": {
+    "name": "Long Pencil",
+    "difficulty": "Effortless",
+    "description": "why did i add this? because i can",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#17a897"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Effortless Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Aloe Vera": {
+    "name": "Aloe Vera",
+    "difficulty": "Normal",
+    "description": "how can it grow here? just like pin said too little sun",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#a1ff27"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Normal Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Runner Up": {
+    "name": "Runner Up",
+    "difficulty": "Easy",
+    "description": "on the \"second\" light on the tower",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Easy.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Moderate"
+    ],
+    "categories": [
+      "Easy Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Sketchpad": {
+    "name": "Sketchpad",
+    "difficulty": "Moderate",
+    "description": "hanging off a platform as if he's some kind of god",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Moderate.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Intermediate"
+    ],
+    "categories": [
+      "Moderate Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Mangosteen": {
+    "name": "Mangosteen",
+    "difficulty": "Dreadful",
+    "description": "hidden in a blade of grass, oh no not again...",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Swappy": {
+    "name": "Swappy",
+    "difficulty": "Effortless",
+    "description": "i have no idea what to put here (pun intended)",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Easy"
+    ],
+    "categories": [
+      "Effortless Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Carrot Cake": {
+    "name": "Carrot Cake",
+    "difficulty": "Moderate",
+    "description": "CARROT CAKE!!!",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Moderate.png",
+      "color": "#07fc55"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Moderate Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Brownie": {
+    "name": "Brownie",
+    "difficulty": "Easy",
+    "description": "how does a brownie even stick to the wall like that?",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Easy.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Normal"
+    ],
+    "categories": [
+      "Easy Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Dreartop": {
+    "name": "Dreartop",
+    "difficulty": "Normal",
+    "description": "SHEEESH! HE GOT DAT DRIP THOUGH",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Moderate"
+    ],
+    "categories": [
+      "Normal Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Pandora Book": {
+    "name": "Pandora Book",
+    "difficulty": "Easy",
+    "description": "Hiding behind a building somewhere...",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Easy.png",
+      "color": "#10da8d"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Easy Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ice Cube Jr.": {
+    "name": "Ice Cube Jr.",
+    "difficulty": "Effortless",
+    "description": "making the water cooler",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#17a897"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Effortless Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Spongezilla": {
+    "name": "Spongezilla",
+    "difficulty": "Arduous",
+    "description": "there has to be a way up that tower...",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Blue Gelatin": {
+    "name": "Blue Gelatin",
+    "difficulty": "Easy",
+    "description": "how creative...",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Easy.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Normal"
+    ],
+    "categories": [
+      "Easy Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Pi": {
+    "name": "Pi",
+    "difficulty": "Hard",
+    "description": "well, what does pi equal?",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Daffodil": {
+    "name": "Daffodil",
+    "difficulty": "Intermediate",
+    "description": "look for grass",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate_FTBC.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Difficult"
+    ],
+    "categories": [
+      "Intermediate Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Vacuum": {
+    "name": "Vacuum",
+    "difficulty": "Dreadful",
+    "description": "cleaning on the side of a tower yeah thats completely natural",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Robot Firey": {
+    "name": "Robot Firey",
+    "difficulty": "Extreme",
+    "description": "complete an obby... or just frog jump depends if you suck at parkour",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Robot Leafy": {
+    "name": "Robot Leafy",
+    "difficulty": "Unforgiving",
+    "description": "look underneath robot firey",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Orange": {
+    "name": "Orange",
+    "difficulty": "Effortless",
+    "description": "hmm i dont know about you guys but i dont think he appreciates classification gasconading",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#17a897"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Effortless Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Boombox": {
+    "name": "Boombox",
+    "difficulty": "Effortless",
+    "description": "buy our new leafy detector",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#17a897"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Effortless Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Choo Choo The Train": {
+    "name": "Choo Choo The Train",
+    "difficulty": "Moderate",
+    "description": "CHOO CHOO!",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Moderate.png",
+      "color": "#07fc55"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Moderate Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Lasery": {
+    "name": "Lasery",
+    "difficulty": "Intermediate",
+    "description": "oh maybe they shouldn't have done that",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Wasabi": {
+    "name": "Wasabi",
+    "difficulty": "Unforgiving",
+    "description": "find an invisible path near lasery",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Paragraph": {
+    "name": "Paragraph",
+    "difficulty": "Intermediate",
+    "description": "removed the old description because it sucked badly",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Knife": {
+    "name": "Knife",
+    "difficulty": "Effortless",
+    "description": "hiding in a bush... i think?",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#17a897"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Effortless Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ice Cream": {
+    "name": "Ice Cream",
+    "difficulty": "Effortless",
+    "description": "lick lick",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#17a897"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Effortless Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Yoylelite": {
+    "name": "Yoylelite",
+    "difficulty": "Intermediate",
+    "description": "for one of the rarest minerals in the entire universe, they don't seem like that",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate FTBC.png",
+      "color": "#ffb700"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Intermediate Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "A BFDI": {
+    "name": "A BFDI",
+    "difficulty": "Arduous",
+    "description": "don't you wanna battle to win a prize?",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Lewis": {
+    "name": "Lewis",
+    "difficulty": "Easy",
+    "description": "i ain't giving up.. I AIN'T GIVING UP!!!! there's cake at stake lewis!!!",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Easy.png",
+      "color": "#10da8d"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Easy Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "A BFDIA": {
+    "name": "A BFDIA",
+    "difficulty": "Remorseless",
+    "description": "real\n(Start near Frog Four)",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Poison Marker": {
+    "name": "Poison Marker",
+    "difficulty": "Extreme",
+    "description": "this isn't find the markers i swear",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Swordy": {
+    "name": "Swordy",
+    "difficulty": "Extreme",
+    "description": "same deal as stabby",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bolf Gall": {
+    "name": "Bolf Gall",
+    "difficulty": "Extreme",
+    "description": "this one's for vextono",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Paint Drop": {
+    "name": "Paint Drop",
+    "difficulty": "Extreme",
+    "description": "somewhere of its color...",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Grape": {
+    "name": "Grape",
+    "difficulty": "Easy",
+    "description": "In the top left corner of the map.",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Easy.png",
+      "color": "#10da8d"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Easy Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Unpainted Gaty": {
+    "name": "Unpainted Gaty",
+    "difficulty": "Easy",
+    "description": "this is gaty, but unpainted... yeah idk what to say",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Easy.png",
+      "color": "#10da8d"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Easy Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Baba_Booey5875": {
+    "name": "Baba_Booey5875",
+    "difficulty": "Hard",
+    "description": "yoyle (Hidden on the windows)",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "dragonboy010814": {
+    "name": "dragonboy010814",
+    "difficulty": "Hard",
+    "description": "look inside a tree",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Kennel": {
+    "name": "Kennel",
+    "difficulty": "Hard",
+    "description": "find a way into one of the yoyle city buildings...",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Difficult"
+    ],
+    "categories": [
+      "Hard Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Squeaky Hammer": {
+    "name": "Squeaky Hammer",
+    "difficulty": "Difficult",
+    "description": "there has to be a way on top of the matchstick factory...",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "IV Bag": {
+    "name": "IV Bag",
+    "difficulty": "Extreme",
+    "description": "factory",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Stop Light": {
+    "name": "Stop Light",
+    "difficulty": "Normal",
+    "description": "find a stop light",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#a1ff27"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Normal Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bicycle Wheel": {
+    "name": "Bicycle Wheel",
+    "difficulty": "Difficult",
+    "description": "it's near lasery, that's all i'll tell ya.",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Fax Machine": {
+    "name": "Fax Machine",
+    "difficulty": "Strenuous",
+    "description": "start in a bfdi's area",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Shower": {
+    "name": "Shower",
+    "difficulty": "Hard",
+    "description": "",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Lipstick": {
+    "name": "Lipstick",
+    "difficulty": "Dreadful",
+    "description": "find a way upstairs in the stupid pets building. that's the real name lol",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Match Box": {
+    "name": "Match Box",
+    "difficulty": "Unforgiving",
+    "description": "it's exactly where you think it is",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Piano Key": {
+    "name": "Piano Key",
+    "difficulty": "Hard",
+    "description": "inside of fancy shop",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Difficult"
+    ],
+    "categories": [
+      "Hard Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "119WildUpdate": {
+    "name": "119WildUpdate",
+    "difficulty": "Hard",
+    "description": "robot firey obby",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ink Ball": {
+    "name": "Ink Ball",
+    "difficulty": "Intermediate",
+    "description": "at an area of the map where probably no one will check",
+    "realm": "Yoyleland",
+    "realmData": {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "colors": [
+        "#cd58e3",
+        "#70287a"
+      ],
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate_FTBC.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Intermediate Objects",
+      "Objects",
+      "Yoyleland Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

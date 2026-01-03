@@ -1,0 +1,62 @@
+{
+  "Contestants": {
+    "name": "Contestants",
+    "difficulty": "Horrifying",
+    "description": "big poo",
+    "realm": "Motionless",
+    "realmData": {
+      "label": "Motionless",
+      "icon": "",
+      "link": "Motionless",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Horrifying.png",
+      "color": "#2bd0fd"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Horrifying Objects",
+      "Motionless Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Motionless": {
+    "name": "Motionless",
+    "difficulty": "Remorseless",
+    "description": "eeeeee",
+    "realm": "Motionless",
+    "realmData": {
+      "label": "Motionless",
+      "icon": "",
+      "link": "Motionless",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "Motionless Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

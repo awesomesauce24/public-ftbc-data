@@ -1,8 +1,0 @@
-{{CharacterInfo|name=Poppy Seed Roll|character=[[File:Poppy Seed Roll.png]]|difficulty=Extreme|area=[[Polluted Marshlands]]|hint=[Hidden in Polluted Marshlands]}}
-==Character==
-Poppy Seed Roll is a pastry consisting of a roll of sweet yeast bread with a dense, rich, bittersweet filling of poppy seed.
-==Obtaining==
-It's on a random platform on the island [[Clothy]] is on.
-[[Category:Objects]]
-[[Category:Extreme Objects]]
-[[Category:Polluted Marshlands Objects]]

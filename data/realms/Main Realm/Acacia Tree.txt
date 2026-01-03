@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Acacia Tree|character=Acacia Tree.png|difficulty=Moderate|area=[[Number Playground]]|hint=literally stuck in a tree|additionalinfo|previousdifficulties=<span style="color:#ff7e21">'''Hard'''</span> [[File:Hard.png]]}}
-==Character==
-Acacia Tree appears to be an acacia tree, which is a type of tree found in mostly Australia.
-==Obtaining==
-{{Spoiler|text=In [[Number Playground]], climb a piece of wood leading to the top of a tree. After that, go through the three trees and you should find Acacia Tree on the side of one of them.}}
-[[Category:Objects]]
-[[Category:Moderate Objects]]
-[[Category:Number Playground Objects]]
-[[Category:Main Realm Objects]]

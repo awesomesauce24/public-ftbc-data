@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Rainbow Puppy|character=[[File:Rainbow Puppy.png]]|difficulty=Moderate|area=[[Floating Island]]|hint=yay puppeee (Hidden in Floating Island)|additionalinfo|previousdifficulties=<span style="color:#a1ff27">'''Normal'''</span> [[File:Normal.png]]}}
-==Info==
-Strong contrast with [[Rainbow]]. this one has nothing to offer.
-==Obtainment==
-After getting [[Orb]], climb up the rainbow, Rainbow Puppy will be at the top.
-[[Category:Objects]]
-[[Category:Main Realm Objects]]
-[[Category:Floating Island Objects]]
-[[Category:Moderate Objects]]

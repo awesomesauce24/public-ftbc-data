@@ -1,0 +1,1852 @@
+{
+  "Mango": {
+    "name": "Mango",
+    "difficulty": "Difficult",
+    "description": "what do you think mangoes are from?",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Mango",
+        "file": "Mango.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Robot Loser": {
+    "name": "Robot Loser",
+    "difficulty": "Hard",
+    "description": "somewhere isolated",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Robot Loser",
+        "file": "Robot Loser.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Obsidian": {
+    "name": "Obsidian",
+    "difficulty": "Unforgiving",
+    "description": "i literally dare you to find out where this one is",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Obsidian",
+        "file": "Obsidian.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Slingshot": {
+    "name": "Slingshot",
+    "difficulty": "Difficult",
+    "description": "based",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Slingshot",
+        "file": "Slingshot.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Red Balloony": {
+    "name": "Red Balloony",
+    "difficulty": "Hard",
+    "description": "weee",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Red Balloony",
+        "file": "Red Balloony.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Difficult",
+      "Extreme"
+    ],
+    "categories": [
+      "Hard Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Penny": {
+    "name": "Penny",
+    "difficulty": "Hard",
+    "description": "the start of a new journey",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Penny",
+        "file": "Penny.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Backpack": {
+    "name": "Backpack",
+    "difficulty": "Unforgiving",
+    "description": "how is this even possible",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Backpack",
+        "file": "Backpack.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Toxic Bomb": {
+    "name": "Toxic Bomb",
+    "difficulty": "Insane",
+    "description": "find a message and decode it",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Toxic Bomb",
+        "file": "Toxic Bomb.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful",
+      "Remorseless",
+      "Terrifying"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Princess Flower": {
+    "name": "Princess Flower",
+    "difficulty": "Dreadful",
+    "description": "impressive obby skills!",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Princess Flower",
+        "file": "Princess Flower.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [
+      "Remorseless",
+      "Terrifying"
+    ],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ribbon": {
+    "name": "Ribbon",
+    "difficulty": "Extreme",
+    "description": "i'll take my award for best-looking R in this realm",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Ribbon",
+        "file": "Ribbon.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Specimum Sandwich": {
+    "name": "Specimum Sandwich",
+    "difficulty": "Unforgiving",
+    "description": "all alone up there",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Specimum Sandwich",
+        "file": "Specimum Sandwich.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme",
+      "Insane"
+    ],
+    "categories": [
+      "Inverted Realm Objects",
+      "Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Sickle": {
+    "name": "Sickle",
+    "difficulty": "Extreme",
+    "description": "they're hanging on for dear life",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Sickle",
+        "file": "Sickle.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving",
+      "Insane"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Jello": {
+    "name": "Jello",
+    "difficulty": "Difficult",
+    "description": "he works with brain damage",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Jello",
+        "file": "Jello.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Max": {
+    "name": "Max",
+    "difficulty": "Difficult",
+    "description": "i don't have any words",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Max",
+        "file": "Max.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving",
+      "Insane"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Elevator": {
+    "name": "Elevator",
+    "difficulty": "Difficult",
+    "description": "too bad it doesn't work",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Elevator",
+        "file": "Elevator.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Stringy": {
+    "name": "Stringy",
+    "difficulty": "Extreme",
+    "description": "fall down twice, that's all",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Stringy",
+        "file": "Stringy.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving",
+      "Insane"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Meester Tweester": {
+    "name": "Meester Tweester",
+    "difficulty": "Difficult",
+    "description": "inside the pyramid",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Meester Tweester",
+        "file": "Meester Tweester.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Yellow Pancake": {
+    "name": "Yellow Pancake",
+    "difficulty": "Extreme",
+    "description": "got squished in the pyramid",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Yellow Pancake",
+        "file": "Yellow Pancake.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Mouse Trap": {
+    "name": "Mouse Trap",
+    "difficulty": "Unforgiving",
+    "description": "jump from a window",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Mouse Trap",
+        "file": "Mouse Trap.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ff143f"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Unforgiving Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "pen pog": {
+    "name": "pen pog",
+    "difficulty": "Hard",
+    "description": "poggers",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "pen pog",
+        "file": "pen pog.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Checkered Flag": {
+    "name": "Checkered Flag",
+    "difficulty": "Unforgiving",
+    "description": "find an invisible platform",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Checkered Flag",
+        "file": "Checkered Flag.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Inverted Realm Objects",
+      "Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Box of Free Puppies": {
+    "name": "Box of Free Puppies",
+    "difficulty": "Difficult",
+    "description": "they're on sale in the steakhouse, which doesn't make sense now that i'm saying it",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Box of Free Puppies",
+        "file": "Box of Free Puppies.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Folder": {
+    "name": "Folder",
+    "difficulty": "Difficult",
+    "description": "cons of being a folder: naming yourself con",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Folder",
+        "file": "Folder.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Box": {
+    "name": "Box",
+    "difficulty": "Difficult",
+    "description": "there is definitely no key under that box",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Box",
+        "file": "Box.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Gramophone": {
+    "name": "Gramophone",
+    "difficulty": "Difficult",
+    "description": "in the inverted number playground house",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Gramophone",
+        "file": "Gramophone.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving",
+      "Insane"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Coffin": {
+    "name": "Coffin",
+    "difficulty": "Difficult",
+    "description": "classic egyptian stuff",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Coffin",
+        "file": "Coffin.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Zero Dollar Bill": {
+    "name": "Zero Dollar Bill",
+    "difficulty": "Difficult",
+    "description": "it's worth not even a penny",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Zero Dollar Bill",
+        "file": "Zero Dollar Bill.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Pesticide": {
+    "name": "Pesticide",
+    "difficulty": "Extreme",
+    "description": "me when there is a substance used for destroying insects or other organisms harmful to cultivated plants or to animals in my body",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Pesticide",
+        "file": "Pesticide.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving",
+      "Insane"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "[Loading Object]": {
+    "name": "[Loading Object]",
+    "difficulty": "Terrifying",
+    "description": "Please wait while we process your chosen object.",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ink": {
+    "name": "Ink",
+    "difficulty": "Insane",
+    "description": "gross",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Ink",
+        "file": "Ink.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Hyper": {
+    "name": "Hyper",
+    "difficulty": "Dreadful",
+    "description": "what the fart is this",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Hyper",
+        "file": "Hyper.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane",
+      "Terrifying"
+    ],
+    "categories": [
+      "Dreadful Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Steel Drum": {
+    "name": "Steel Drum",
+    "difficulty": "Insane",
+    "description": "i promise this will be a very creative description uh uhhh",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Steel Drum",
+        "file": "Steel Drum.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Unforgiving",
+      "Insane"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "VR Headset": {
+    "name": "VR Headset",
+    "difficulty": "Hard",
+    "description": "put on these glasses and you'll enter the world of the game",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "VR Headset",
+        "file": "VR Headset.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Demon Ball": {
+    "name": "Demon Ball",
+    "difficulty": "Insane",
+    "description": "AAAAAA SCARY MAN!!!!!!",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Demon Ball",
+        "file": "Demon Ball.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful",
+      "Terrifying"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cube": {
+    "name": "Cube",
+    "difficulty": "Extreme",
+    "description": "cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube cube",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Cube",
+        "file": "Cube.png"
+      },
+      {
+        "name": "Cube New",
+        "file": "Cube New.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Scarfy": {
+    "name": "Scarfy",
+    "difficulty": "Difficult",
+    "description": "check behind one of the classic trees (Made by lowk3y_TJ)",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Scarfy",
+        "file": "Scarfy.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Toxic Mushroom": {
+    "name": "Toxic Mushroom",
+    "difficulty": "Difficult",
+    "description": "this guy and toxic bomb would be great pals",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Toxic Mushroom",
+        "file": "Toxic Mushroom.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Pomegranatey": {
+    "name": "Pomegranatey",
+    "difficulty": "Difficult",
+    "description": "get noob!! pomegranate gonna do anything",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Pomegranatey",
+        "file": "Pomegranatey.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Liberty Bell": {
+    "name": "Liberty Bell",
+    "difficulty": "Difficult",
+    "description": "who told bell about the US of A",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Liberty Bell",
+        "file": "Liberty Bell.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Pink Cary": {
+    "name": "Pink Cary",
+    "difficulty": "Extreme",
+    "description": "NO WAY IT'S PINK CARY HIMSELF!!!",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Pink Cary",
+        "file": "Pink Cary.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ottoman": {
+    "name": "Ottoman",
+    "difficulty": "Terrifying",
+    "description": "the sick man of the inverted realm",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Ottoman",
+        "file": "Ottoman.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Inverted Realm Objects",
+      "Objects",
+      "Terrifying Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Friesland": {
+    "name": "Friesland",
+    "difficulty": "Difficult",
+    "description": "they sure do love their fries... and land (Made by AccountDoesNothing)",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Friesland",
+        "file": "Friesland.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#f54f25"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Objects",
+      "Difficult Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Toothbrush": {
+    "name": "Toothbrush",
+    "difficulty": "Extreme",
+    "description": "that is not a genuine smile. they know exactly what they did. (Made by lowk3y_TJ)",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Toothbrush",
+        "file": "Toothbrush.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "City of LAy": {
+    "name": "City of LAy",
+    "difficulty": "Insane",
+    "description": "does this imply that inverted realm is more than a thousand times bigger than the city of LA? and the player too???",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "City of LAy",
+        "file": "City of LAy.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Frame": {
+    "name": "Frame",
+    "difficulty": "Extreme",
+    "description": "i honestly have no idea what this is supposed to be (hey guys it's me jade it's a keyframe from adobe animate)",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Frame",
+        "file": "Frame.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Geocache": {
+    "name": "Geocache",
+    "difficulty": "Dreadful",
+    "description": "in the inverted jungle",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Geocache",
+        "file": "Geocache.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Dreadful Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Gold Block": {
+    "name": "Gold Block",
+    "difficulty": "Arduous",
+    "description": "complete a timed obby after finding a button somewhere (Made by 0OFunkyPurple)",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Gold Block",
+        "file": "Gold Block.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Dreadful",
+      "Remorseless",
+      "Strenuous"
+    ],
+    "categories": [
+      "Arduous Objects",
+      "Inverted Realm Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Piece of Glass": {
+    "name": "Piece of Glass",
+    "difficulty": "Dreadful",
+    "description": "look near princess flower (Made by cluxser2)",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Piece of Glass",
+        "file": "Piece of Glass.png"
+      },
+      {
+        "name": "Piece of Glass New",
+        "file": "Piece of Glass New.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Desert Pillar": {
+    "name": "Desert Pillar",
+    "difficulty": "Terrifying",
+    "description": "start by exploring in the inverted jungle, then go to the area where toxic bomb is located (Made by 0OFunkyPurple)",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Desert Pillar",
+        "file": "Desert Pillar.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Arduous",
+      "Remorseless",
+      "Strenuous"
+    ],
+    "categories": [
+      "Inverted Realm Objects",
+      "Objects",
+      "Terrifying Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Jabuticaba": {
+    "name": "Jabuticaba",
+    "difficulty": "Dreadful",
+    "description": "do the gold block obby but uh... you're going the wrong way (Made by lowk3y_TJ)",
+    "realm": "Inverted Realm",
+    "realmData": {
+      "label": "Inverted Realm",
+      "icon": "",
+      "link": "Inverted_Realm",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Jabuticaba",
+        "file": "Jabuticaba.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Inverted Realm Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

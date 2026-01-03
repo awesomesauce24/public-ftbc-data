@@ -1,0 +1,242 @@
+{
+  "Black Square": {
+    "name": "Black Square",
+    "difficulty": "Extreme",
+    "description": "i remember when black square went \"it's black squarin' time\" and black squared all over the place",
+    "realm": "The Backrooms Level 3",
+    "realmData": {
+      "label": "The Backrooms Level 3",
+      "icon": "",
+      "link": "The_Backrooms_Level_3",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "The Backrooms Level 3 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Icicle": {
+    "name": "Icicle",
+    "difficulty": "Extreme",
+    "description": "inside a puddle of water",
+    "realm": "The Backrooms Level 3",
+    "realmData": {
+      "label": "The Backrooms Level 3",
+      "icon": "",
+      "link": "The_Backrooms_Level_3",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "The Backrooms Level 3 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Clowny": {
+    "name": "Clowny",
+    "difficulty": "Insane",
+    "description": "HEY KIDS",
+    "realm": "The Backrooms Level 3",
+    "realmData": {
+      "label": "The Backrooms Level 3",
+      "icon": "",
+      "link": "The_Backrooms_Level_3",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "The Backrooms Level 3 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Blueberry Machine": {
+    "name": "Blueberry Machine",
+    "difficulty": "Insane",
+    "description": "you give me: money, i give you: balls",
+    "realm": "The Backrooms Level 3",
+    "realmData": {
+      "label": "The Backrooms Level 3",
+      "icon": "",
+      "link": "The_Backrooms_Level_3",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "The Backrooms Level 3 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Badge": {
+    "name": "Badge",
+    "difficulty": "Insane",
+    "description": "awaiting you at the exit",
+    "realm": "The Backrooms Level 3",
+    "realmData": {
+      "label": "The Backrooms Level 3",
+      "icon": "",
+      "link": "The_Backrooms_Level_3",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "The Backrooms Level 3 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Snowglobe": {
+    "name": "Snowglobe",
+    "difficulty": "Extreme",
+    "description": "can you believe it guys? christmas! just a week away!",
+    "realm": "The Backrooms Level 3",
+    "realmData": {
+      "label": "The Backrooms Level 3",
+      "icon": "",
+      "link": "The_Backrooms_Level_3",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "The Backrooms Level 3 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Swirl": {
+    "name": "Swirl",
+    "difficulty": "Terrifying",
+    "description": "MUAHAHA!!! a backrooms update!!! bet you weren't expecting that",
+    "realm": "The Backrooms Level 3",
+    "realmData": {
+      "label": "The Backrooms Level 3",
+      "icon": "",
+      "link": "The_Backrooms_Level_3",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Backrooms Level 3 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Nightlighty": {
+    "name": "Nightlighty",
+    "difficulty": "Strenuous",
+    "description": "hope you aren't afraid of the dark >:)",
+    "realm": "The Backrooms Level 3",
+    "realmData": {
+      "label": "The Backrooms Level 3",
+      "icon": "",
+      "link": "The_Backrooms_Level_3",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "The Backrooms Level 3 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

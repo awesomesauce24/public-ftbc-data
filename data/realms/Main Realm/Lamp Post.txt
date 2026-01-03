@@ -1,7 +1,0 @@
-{{CharacterInfo|name=Lamp Post|character=[[Lamp Post.webp]]|difficulty=Easy|area=City|hint="i'm seeing double!" that was their last word (hidden in City)}}
-
-== Character ==
-A light black lamp post with a yellow lamp
-
-== Obtaining ==
-In the Park behind the museum in [[City]]

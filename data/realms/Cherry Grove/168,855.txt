@@ -1,8 +1,0 @@
-{{CharacterInfo|name=168,855|character=168,855.png|difficulty=Extreme|area=[[Cherry Grove]]|hint=our milestone for 168,855 visits- oh wait we already passed that a long time ago|info=}}
-==Character==
-168,855 is just blue text of, you guessed it, 168,855. It's also in a fancy font.
-==Obtaining==
-{{Spoiler|text=In the [[Cherry Grove]] realm, look behind a tree sometime near one of the waterfalls which has a pickaxe behind it. Then, use that same waterfall as a conveyor to reach an isolated ladder on the other side. You should break a rock on the island with your pickaxe which has 168,855 inside of it.}}
-[[Category:Extreme Objects]]
-[[Category:Cherry Grove Objects]]
-[[Category:Objects]]

@@ -1,0 +1,182 @@
+{
+  "Zomball": {
+    "name": "Zomball",
+    "difficulty": "Strenuous",
+    "description": "gargargargagarkgrgrgrga",
+    "realm": "Zombie Apocalypse",
+    "realmData": {
+      "label": "Zombie Apocalypse",
+      "icon": "",
+      "link": "Zombie_Apocalypse",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Zombie Apocalypse Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Zombified Coiny": {
+    "name": "Zombified Coiny",
+    "difficulty": "Strenuous",
+    "description": "grgrggrrrrrraggrggfa",
+    "realm": "Zombie Apocalypse",
+    "realmData": {
+      "label": "Zombie Apocalypse",
+      "icon": "",
+      "link": "Zombie_Apocalypse",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Zombie Apocalypse Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Zombified Snowball": {
+    "name": "Zombified Snowball",
+    "difficulty": "Strenuous",
+    "description": "grgfafaffgrgggrragr",
+    "realm": "Zombie Apocalypse",
+    "realmData": {
+      "label": "Zombie Apocalypse",
+      "icon": "",
+      "link": "Zombie_Apocalypse",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Zombie Apocalypse Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Zombified Conch Shell": {
+    "name": "Zombified Conch Shell",
+    "difficulty": "Strenuous",
+    "description": "grrgrgragggrgrrhra",
+    "realm": "Zombie Apocalypse",
+    "realmData": {
+      "label": "Zombie Apocalypse",
+      "icon": "",
+      "link": "Zombie_Apocalypse",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Zombie Apocalypse Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Zombified Two": {
+    "name": "Zombified Two",
+    "difficulty": "Strenuous",
+    "description": "grrgrgagrgghrgrrgagrgf",
+    "realm": "Zombie Apocalypse",
+    "realmData": {
+      "label": "Zombie Apocalypse",
+      "icon": "",
+      "link": "Zombie_Apocalypse",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Zombie Apocalypse Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Zombified Clapboard": {
+    "name": "Zombified Clapboard",
+    "difficulty": "Strenuous",
+    "description": "grgrggaggghrrrgrgg",
+    "realm": "Zombie Apocalypse",
+    "realmData": {
+      "label": "Zombie Apocalypse",
+      "icon": "",
+      "link": "Zombie_Apocalypse",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Zombie Apocalypse Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

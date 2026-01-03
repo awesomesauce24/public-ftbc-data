@@ -1,8 +1,0 @@
-{{CharacterInfo|name=Clover|character=[[File:Clover.png]]|difficulty=Normal|area=[[Warehouse]]|hint=PLACEHOLDER}}
-==Character==
-A happy four leafed clover!
-==Obtaining==
-On a bush at Warehouse, near [[RTCI Cast]]
-[[Category:Objects]]
-[[Category:Normal Objects]]
-[[Category:Warehouse Objects]]

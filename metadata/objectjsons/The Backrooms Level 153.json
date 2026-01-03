@@ -1,0 +1,362 @@
+{
+  "Fermata": {
+    "name": "Fermata",
+    "difficulty": "Dreadful",
+    "description": "look near a broken wall",
+    "realm": "The Backrooms Level 153",
+    "realmData": {
+      "label": "The Backrooms Level 153",
+      "icon": "",
+      "link": "The_Backrooms_Level_153",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "The Backrooms Level 153 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cord": {
+    "name": "Cord",
+    "difficulty": "Terrifying",
+    "description": "sticking out of a vending machine",
+    "realm": "The Backrooms Level 153",
+    "realmData": {
+      "label": "The Backrooms Level 153",
+      "icon": "",
+      "link": "The_Backrooms_Level_153",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Backrooms Level 153 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Civil Siren": {
+    "name": "Civil Siren",
+    "difficulty": "Dreadful",
+    "description": "WEE WOO WEE WOO!!!",
+    "realm": "The Backrooms Level 153",
+    "realmData": {
+      "label": "The Backrooms Level 153",
+      "icon": "",
+      "link": "The_Backrooms_Level_153",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "The Backrooms Level 153 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Grandfather Clock": {
+    "name": "Grandfather Clock",
+    "difficulty": "Strenuous",
+    "description": "i'll give you time to think about this one...",
+    "realm": "The Backrooms Level 153",
+    "realmData": {
+      "label": "The Backrooms Level 153",
+      "icon": "",
+      "link": "The_Backrooms_Level_153",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "The Backrooms Level 153 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Metronome": {
+    "name": "Metronome",
+    "difficulty": "Strenuous",
+    "description": "think about the song that plays",
+    "realm": "The Backrooms Level 153",
+    "realmData": {
+      "label": "The Backrooms Level 153",
+      "icon": "",
+      "link": "The_Backrooms_Level_153",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "The Backrooms Level 153 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Fake Firey": {
+    "name": "Fake Firey",
+    "difficulty": "Arduous",
+    "description": "caught you, faker!",
+    "realm": "The Backrooms Level 153",
+    "realmData": {
+      "label": "The Backrooms Level 153",
+      "icon": "",
+      "link": "The_Backrooms_Level_153",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "The Backrooms Level 153 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Galaxy Pillow": {
+    "name": "Galaxy Pillow",
+    "difficulty": "Strenuous",
+    "description": "there's a slightly miscolored locker.. look around it",
+    "realm": "The Backrooms Level 153",
+    "realmData": {
+      "label": "The Backrooms Level 153",
+      "icon": "",
+      "link": "The_Backrooms_Level_153",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "The Backrooms Level 153 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Karate Pot": {
+    "name": "Karate Pot",
+    "difficulty": "Dreadful",
+    "description": "i'm a... pot!!!!",
+    "realm": "The Backrooms Level 153",
+    "realmData": {
+      "label": "The Backrooms Level 153",
+      "icon": "",
+      "link": "The_Backrooms_Level_153",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "The Backrooms Level 153 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Skateboard": {
+    "name": "Skateboard",
+    "difficulty": "Dreadful",
+    "description": "some people are blessed with talent",
+    "realm": "The Backrooms Level 153",
+    "realmData": {
+      "label": "The Backrooms Level 153",
+      "icon": "",
+      "link": "The_Backrooms_Level_153",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "The Backrooms Level 153 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Obelus": {
+    "name": "Obelus",
+    "difficulty": "Remorseless",
+    "description": "the obelus is real..........",
+    "realm": "The Backrooms Level 153",
+    "realmData": {
+      "label": "The Backrooms Level 153",
+      "icon": "",
+      "link": "The_Backrooms_Level_153",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "The Backrooms Level 153 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Accordion": {
+    "name": "Accordion",
+    "difficulty": "Dreadful",
+    "description": "yes very accordion-like accordion accordion acc",
+    "realm": "The Backrooms Level 153",
+    "realmData": {
+      "label": "The Backrooms Level 153",
+      "icon": "",
+      "link": "The_Backrooms_Level_153",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "The Backrooms Level 153 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Wolfy": {
+    "name": "Wolfy",
+    "difficulty": "Arduous",
+    "description": "behind a file cabinet",
+    "realm": "The Backrooms Level 153",
+    "realmData": {
+      "label": "The Backrooms Level 153",
+      "icon": "",
+      "link": "The_Backrooms_Level_153",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#5d0cff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Arduous Objects",
+      "The Backrooms Level 153 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

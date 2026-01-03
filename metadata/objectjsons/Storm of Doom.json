@@ -1,0 +1,32 @@
+{
+  "Tornado": {
+    "name": "Tornado",
+    "difficulty": "Strenuous",
+    "description": "good luck (Made by lowk3y_TJ)",
+    "realm": "Storm of Doom",
+    "realmData": {
+      "label": "Storm of Doom",
+      "icon": "",
+      "link": "Storm_of_Doom",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Storm of Doom Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

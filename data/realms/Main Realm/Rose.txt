@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Rose|character=[[File:Rose.webp|thumb]]|difficulty=Easy|area=[[City]]|hint=bumblebees are out!|additionalinfo|previousdifficulties=<span style="color:#ff7e21">'''Hard'''</span> [[File:Hard.png]]}}
-== Character ==
-Rose from the hit series BFDI Mini. Shes a recurring RC, it even might be the face of the BFDI mini series
-== Obtaining ==
-{{Spoiler|text=Just standing there at the City's park.}}
-[[Category:Easy Objects]]
-[[Category:Objects]]
-[[Category:Main Realm Objects]]
-[[Category:City Objects]]

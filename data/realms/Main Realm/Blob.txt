@@ -1,8 +1,0 @@
-{{CharacterInfo|name=Blob|character=[[File:Blob.png|bloop]]|difficulty=Hard|area=[[Factory]]|hint=you need to vote for them, but how?}}
-==Character==
-'''Blob''' is a green blob, they MAY be related to [[Slimy]] and/or [[Everything|Blobby]].
-==Obtaining==
-Look at [[Vote]]'s description, it says "[C] for Blob", say "'''[C]'''" in chat.
-[[Category:Objects]]
-[[Category:Hard Objects]]
-[[Category:Factory Objects]]

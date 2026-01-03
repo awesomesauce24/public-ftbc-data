@@ -1,0 +1,32 @@
+{
+  "EVERYTHING": {
+    "name": "EVERYTHING",
+    "difficulty": "IMPOSSIBLE",
+    "description": "pee",
+    "realm": "nihilism",
+    "realmData": {
+      "label": "nihilism",
+      "icon": "",
+      "link": "nihilism",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unknown.png",
+      "color": "#000000"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "IMPOSSIBLE Objects",
+      "nihilism Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

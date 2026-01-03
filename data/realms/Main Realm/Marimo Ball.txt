@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Marimo Ball|character=[[File:Marimo Ball.png]]|difficulty=Hard|area=[[Goiky]]|hint=talk about camo...|additionalinfo|previousdifficulties=<span style="color:#ED2727">'''Extreme'''</span> [[File:Extreme.png]]}}
-==Character==
-A ball of grass.
-==Obtaining==
-Find a tree that you can fall through in [[Goiky]].
-[[Category:Objects]]
-[[Category:Hard Objects]]
-[[Category:Goiky Objects]]
-[[Category:Main Realm Objects]]

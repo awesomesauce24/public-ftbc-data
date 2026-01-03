@@ -1,3 +1,0 @@
-"""
-FTBC Wiki Management Package
-"""

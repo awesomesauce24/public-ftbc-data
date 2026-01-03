@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Buzzer|character=[[File:Buzzer.png]]|difficulty=Intermediate|area=[[Classic Paradise]]|hint=The big red buzzer in the building}}
-==Character==
-Buzzer is a gray (or grey) box with red button on it.
-==Obtaining==
-Inside one of the houses in [[Classic Paradise]].
-
-[[Category:Objects]]
-[[Category:Intermediate Objects]]
-[[Category:Classic Paradise Objects]]

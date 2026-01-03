@@ -1,0 +1,39 @@
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;"> //Keep this div. check realms.json, 
+{
+      "parent": "Main Realm",
+      "label": "City",
+      "image": "City.png",
+      "gradient": "-webkit-linear-gradient(#4a4a4a, #1a1a1a)",
+      "accent": "#87ceeb"
+    }, for the gradient values. (ignore "image": "City.png", unless its a realm)
+
+
+{{CharacterInfo|name=American Flag //object name from part in rbxlx fle
+|character=<gallery> //image has a new variant; so use a gallery to show both
+American Flag New.png|American Flag New
+American Flag.png|American Flag Old
+</gallery>
+|difficulty= [[File:Effortless.png]] <span style="color:#17a897">'''Effortless'''</span> //Difficulty from the rbxlx file, with the color coming from metadata/difficulties.json
+|area=[[City]] //Area from Main Realm
+|hint=this donut shop is america-certified. LAND OF THE FREEE BABY!!!!!!!! //description from the rbxlx file
+|additionalinfo //placeholder but should always be there
+|previousdifficulties = 
+[[File:Event.png]] <span style="color:#DF81C2">'''Event'''</span> //Old Difficulty
+[[File:Easy.png]] <span style="color:#10da8d">'''Easy'''</span> //Old Difficulty
+}}
+==Info== //optional, but recommended
+This object is the flag of the USA
+
+==Obtaining== //required; user input
+Above of the Donut Shop in [[City]].
+
+==Trivia== //optional
+*This used to be an Event object. It would be used to celebrate Independence Day(?)
+
+[[Category:Objects]] //Objects (every object has this)
+[[Category:Effortless Objects]] //Effortless Difficulty, so Effortless Objects
+[[Category:City Objects]] //City Area, in Main Realm, so City Objects
+[[Category:Main Realm Objects]] //Main Realm, so Main Realm Objects
+</div>

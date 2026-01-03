@@ -1,0 +1,32 @@
+{
+  "Dragonfruit": {
+    "name": "Dragonfruit",
+    "difficulty": "Horrifying",
+    "description": "ee",
+    "realm": "Mythical Forest",
+    "realmData": {
+      "label": "Mythical Forest",
+      "icon": "",
+      "link": "Mythical_Forest",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Horrifying.png",
+      "color": "#2bd0fd"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Horrifying Objects",
+      "Mythical Forest Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

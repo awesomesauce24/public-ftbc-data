@@ -1,0 +1,32 @@
+{
+  "King Cake": {
+    "name": "King Cake",
+    "difficulty": "Strenuous",
+    "description": "aaa",
+    "realm": "questionmarks",
+    "realmData": {
+      "label": "questionmarks",
+      "icon": "",
+      "link": "questionmarks",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "questionmarks Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

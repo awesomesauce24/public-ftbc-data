@@ -1,8 +1,0 @@
-<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;">[[File:Timber_Peaks.png|2000x2000px]]</div><div style="--theme-accent-color:-webkit-linear-gradient(#ff6f00, #b34700); --theme-accent-label-color:#ffffff;"><div style="position:relative; z-index:1;">{{CharacterInfo|name=S'mores|character=[[File:S'mores.png]]|difficulty=[[File:Difficult.png]] <span style="color:#f54f25">'''<b>Difficult</b>'''</span>|area=[[Timber Peaks]]|hint=i guess you could say you guys want S'MORE objects!!!!... this is why i don't make puns}}
-
-== Info ==
-S'mores.
-
-== Obtaining ==
-On the side of the Barn by Spawn.
-</div></div>

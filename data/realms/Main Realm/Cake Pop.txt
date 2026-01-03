@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Cake Pop|character=[[File:Cake Pop.png]]|difficulty=Extreme|area=[[Candyland]]|hint=what a lovely day innit bruv}}
-==Character==
-A smiling cake pop with sprinkles on top. Similar to [[Lollipop.]]
-==Obtaining==
-On the Candy Island at a Picnic Blanket. (Say {{Spoiler|text=/e bitternightmares}} at [[Milli Book]] to open the door there)
-[[Category:Objects]]
-[[Category:Extreme Objects]]
-[[Category:Candyland Objects]]
-[[Category:Main Realm Objects]]

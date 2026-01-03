@@ -1,75 +1,476 @@
 {
   "normal": [
-    { "icon": "Goiky.png", "link": "Main_Realm", "label": "Main Realm" },
-    { "icon": "InvertedRealm.png", "link": "Inverted", "label": "Inverted" },
-    { "icon": "YoylelandRealm.png", "link": "Yoyleland", "label": "Yoyleland" },
-    { "icon": "YoylefactoryRealm.png", "link": "Yoyle_Factory", "label": "Yoyle Factory" },
-    { "icon": "ClassicParadiseRealm.png", "link": "Classic_Paradise", "label": "Classic Paradise" },
-    { "icon": "EvilForestRealm.png", "link": "Evil_Forest", "label": "Evil Forest" },
-    { "icon": "-CherryRealm.png", "link": "Cherry_Grove", "label": "Cherry Grove" },
-    { "icon": "BarrenDesertRealm.png", "link": "Barren_Desert", "label": "Barren Desert" },
-    { "icon": "FrozenWorldRealm.png", "link": "Frozen_World", "label": "Frozen World" },
-    { "icon": "TimberRealm.png", "link": "Timber_Peaks", "label": "Timber Peaks" },
-    { "icon": "MidnightRooftopsRealm.png", "link": "Midnight_Rooftops", "label": "Midnight Rooftops" },
-    { "icon": "MagmaRealm.png", "link": "Magma_Canyon", "label": "Magma Canyon", "note": "Start at Barren Desert" },
-    { "icon": "SakuraRealm.png", "link": "Sakura_Serenity", "label": "Sakura Serenity", "note": "Start at Cherry Grove" },
-    { "icon": "PollutedMarshlandsRealm.png", "link": "Polluted_Marshlands", "label": "Polluted Marshlands" },
-    { "icon": "BF1DIcon.png", "link": "BF1D", "label": "BF1D", "note": "Not in the GUI; Start at Classic Roblox" }
+    {
+      "label": "Main Realm",
+      "icon": "Goiky.png",
+      "link": "Main_Realm",
+      "image": "Main Realm Sky.webp",
+      "gradient": "-webkit-linear-gradient(#78ff78, #00ff00)",
+      "accent": "#ffffff"
+    },
+    {
+      "label": "Inverted",
+      "icon": "InvertedRealm.png",
+      "link": "Inverted",
+      "image": "Inverted-realm-image.png",
+      "gradient": "-webkit-linear-gradient(#C45508, #EEDC5B)",
+      "accent": "#ffffff"
+    },
+    {
+      "label": "Yoyleland",
+      "icon": "YoylelandRealm.png",
+      "link": "Yoyleland",
+      "image": "Yoyleland.png",
+      "gradient": "-webkit-linear-gradient(#cd58e3, #70287a)",
+      "accent": "#ffffff"
+    },
+    {
+      "label": "Yoyle Factory",
+      "icon": "YoylefactoryRealm.png",
+      "link": "Yoyle_Factory",
+      "image": "YoylefactoryRealm.png",
+      "gradient": "-webkit-linear-gradient(#46515D, #2A3944)",
+      "accent": "#ffffff"
+    },
+    {
+      "label": "Classic Paradise",
+      "icon": "ClassicParadiseRealm.png",
+      "link": "Classic_Paradise",
+      "image": "ClassicParadiseRealm.png",
+      "gradient": "-webkit-linear-gradient(#3487d6, #479ad9)",
+      "accent": "#ffffff"
+    },
+    {
+      "label": "Evil Forest",
+      "icon": "EvilForestRealm.png",
+      "link": "Evil_Forest",
+      "image": "EVIL.png",
+      "gradient": "-webkit-linear-gradient(#b00000, #5a0000)",
+      "accent": "#ffffff"
+    },
+    {
+      "label": "Cherry Grove",
+      "icon": "-CherryRealm.png",
+      "link": "Cherry_Grove",
+      "image": "Cherry Grove.png",
+      "gradient": "-webkit-linear-gradient(#896a2e, #cf973a)",
+      "accent": "#ffffff"
+    },
+    {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    {
+      "label": "Frozen World",
+      "icon": "FrozenWorldRealm.png",
+      "link": "Frozen_World",
+      "image": "Darkice.jpg",
+      "gradient": "-webkit-linear-gradient(#4dd0e1, #006064)",
+      "accent": "#000000"
+    },
+    {
+      "label": "Timber Peaks",
+      "icon": "TimberRealm.png",
+      "link": "Timber_Peaks",
+      "image": "Timber Peaks.png",
+      "gradient": "-webkit-linear-gradient(#ff6f00, #b34700)",
+      "accent": "#ffffff"
+    },
+    {
+      "label": "Midnight Rooftops",
+      "icon": "MidnightRooftopsRealm.png",
+      "link": "Midnight_Rooftops",
+      "image": "Midnight-rooftops.png",
+      "gradient": "-webkit-linear-gradient(#050522, #140f4a)",
+      "accent": "#ffffff"
+    },
+    {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff",
+      "note": "Start at Barren Desert"
+    },
+    {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff",
+      "note": "Start at Cherry Grove"
+    },
+    {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    {
+      "label": "BF1D",
+      "icon": "BF1DIcon.png",
+      "link": "BF1D",
+      "image": "BF1D Sky.webp",
+      "gradient": "-webkit-linear-gradient(#808080, #404040)",
+      "accent": "#ffffff",
+      "note": "Not in the GUI; Start at Classic Roblox"
+    }
   ],
   "subrealms": {
     "Other": [
-      { "icon": "Missing_PNG.png", "link": "Motionless", "label": "Motionless" },
-      { "icon": "Missing_PNG.png", "link": "Mythical_Forest", "label": "Mythical Forest" },
-      { "icon": "NTE_Icon.png", "link": "Nearing_The_End", "label": "Nearing The End" },
-      { "icon": "Everything_void.png", "link": "Nihilism", "label": "<code>Nihilism</code>", "raw_label": true },
-      { "icon": "Missing_PNG.png", "link": "peep.", "label": "peep." },
-      { "icon": "Missing_PNG.png", "link": "Sanctuary", "label": "Sanctuary" },
-      { "icon": "HypostasisRealmIcon.png", "link": "Hypostasis_(Realm)", "label": "Hypostasis (Realm)" },
-      { "icon": "SoD.png", "link": "Storm_Of_Doom", "label": "Storm Of Doom" },
-      { "icon": "Missing_PNG.png", "link": "mooD_fo_mrotS", "label": "mooD fo mrotS" },
-      { "icon": "Missing_PNG.png", "link": "Zombie_Apocalypse", "label": "Zombie Apocalypse" },
-      { "icon": "BenevolenceIcon.png", "link": "Benevolence", "label": "Benevolence" }
+      {
+        "label": "Motionless",
+        "icon": "Missing_PNG.png",
+        "link": "Motionless",
+        "image": "Motionless.png",
+        "gradient": "-webkit-linear-gradient(#4a4a4a, #2a2a2a)",
+        "accent": "#ffffff"
+      },
+      {
+        "label": "Mythical Forest",
+        "icon": "Missing_PNG.png",
+        "link": "Mythical_Forest",
+        "image": "Mythical Forest.png",
+        "gradient": "-webkit-linear-gradient(#2d5016, #1a3d0a)",
+        "accent": "#ffffff"
+      },
+      {
+        "label": "Nearing The End",
+        "icon": "NTE_Icon.png",
+        "link": "Nearing_The_End",
+        "image": "NTE.png",
+        "gradient": "-webkit-linear-gradient(#8b0000, #4a0000)",
+        "accent": "#ffff00"
+      },
+      {
+        "label": "Nihilism",
+        "icon": "Everything_void.png",
+        "link": "Nihilism",
+        "image": "Nihilism.png",
+        "gradient": "-webkit-linear-gradient(#1a1a1a, #000000)",
+        "accent": "#00ff00",
+        "raw_label": true
+      },
+      {
+        "label": "peep.",
+        "icon": "Missing_PNG.png",
+        "link": "peep.",
+        "image": "peep.png",
+        "gradient": "-webkit-linear-gradient(#87ceeb, #4da6ff)",
+        "accent": "#ffffff"
+      },
+      {
+        "label": "Sanctuary",
+        "icon": "Missing_PNG.png",
+        "link": "Sanctuary",
+        "image": "Sanctuary.png",
+        "gradient": "-webkit-linear-gradient(#ffd700, #ffed4e)",
+        "accent": "#000000"
+      },
+      {
+        "label": "Hypostasis (Realm)",
+        "icon": "HypostasisRealmIcon.png",
+        "link": "Hypostasis_(Realm)",
+        "image": "Hypostasis.png",
+        "gradient": "-webkit-linear-gradient(#9370db, #6a0dad)",
+        "accent": "#ffffff"
+      },
+      {
+        "label": "Storm Of Doom",
+        "icon": "SoD.png",
+        "link": "Storm_Of_Doom",
+        "image": "SoD.png",
+        "gradient": "-webkit-linear-gradient(#2c3e50, #1a252f)",
+        "accent": "#ffffff"
+      },
+      {
+        "label": "mooD fo mrotS",
+        "icon": "Missing_PNG.png",
+        "link": "mooD_fo_mrotS",
+        "image": "mooD fo mrotS.png",
+        "gradient": "-webkit-linear-gradient(#ffff00, #ffa500)",
+        "accent": "#000000"
+      },
+      {
+        "label": "Zombie Apocalypse",
+        "icon": "Missing_PNG.png",
+        "link": "Zombie_Apocalypse",
+        "image": "Zombie Apocalypse.png",
+        "gradient": "-webkit-linear-gradient(#556b2f, #2d4a1f)",
+        "accent": "#ff0000"
+      },
+      {
+        "label": "Benevolence",
+        "icon": "BenevolenceIcon.png",
+        "link": "Benevolence",
+        "image": "Benevolence.png",
+        "gradient": "-webkit-linear-gradient(#ffd700, #fff700)",
+        "accent": "#000000"
+      }
     ],
     "Yoyleland": [
-      { "icon": "Radi.png", "link": "Abandonment", "label": "Abandonment" }
+      {
+        "label": "Abandonment",
+        "icon": "Radi.png",
+        "link": "Abandonment",
+        "image": "Abandonment.png",
+        "gradient": "-webkit-linear-gradient(#808080, #404040)",
+        "accent": "#ffffff"
+      }
     ],
-
     "Yoyle Factory": [
-      { "icon": "Basement.png", "link": "Basement", "label": "Basement" }
+      {
+        "label": "Basement",
+        "icon": "Basement.png",
+        "link": "Basement",
+        "image": "Basement.png",
+        "gradient": "-webkit-linear-gradient(#0f0f0f, #1a1a2e)",
+        "accent": "#e0e0e0"
+      }
     ],
     "Classic Paradise": [
-      { "icon": "Sp_icon.png", "link": "Starter_Place", "label": "Starter Place" },
-      { "icon": "Leaked.png", "link": "Classic_Insanity", "label": "Classic Insanity" },
-      { "icon": "Missing_PNG.png", "link": "Classic_Paradox", "label": "Classic Paradox" }
+      {
+        "label": "Starter Place",
+        "icon": "Sp_icon.png",
+        "link": "Starter_Place",
+        "image": "Sp icon.png",
+        "gradient": "-webkit-linear-gradient(#87ceeb, #4da6ff)",
+        "accent": "#ffffff"
+      },
+      {
+        "label": "Classic Insanity",
+        "icon": "Leaked.png",
+        "link": "Classic_Insanity",
+        "image": "Leaked.png",
+        "gradient": "-webkit-linear-gradient(#8b0000, #4a0000)",
+        "accent": "#ffff00"
+      },
+      {
+        "label": "Classic Paradox",
+        "icon": "Missing_PNG.png",
+        "link": "Classic_Paradox",
+        "image": "Classic Paradox.png",
+        "gradient": "-webkit-linear-gradient(#ffd700, #ffed4e)",
+        "accent": "#000000"
+      }
     ],
     "Evil Forest": [
-      { "icon": "Missing_PNG.png", "link": "Evle_Froets", "label": "Evle Froets" },
-      { "icon": "Missing_PNG.png", "link": "evefdpfroestost", "label": "evefdpfroestost" },
-      { "icon": "Missing_PNG.png", "link": "Limbo", "label": "Limbo" },
-      { "icon": "Level_Run.png", "link": "RUN", "label": "RUN" }
+      {
+        "label": "Evle Froets",
+        "icon": "Missing_PNG.png",
+        "link": "Evle_Froets",
+        "image": "Evle Froets.png",
+        "gradient": "-webkit-linear-gradient(#8b0000, #4a0000)",
+        "accent": "#ffffff"
+      },
+      {
+        "label": "evefdpfroestost",
+        "icon": "Missing_PNG.png",
+        "link": "evefdpfroestost",
+        "image": "evefdpfroestost.png",
+        "gradient": "-webkit-linear-gradient(#1a1a1a, #000000)",
+        "accent": "#00ff00"
+      },
+      {
+        "label": "Limbo",
+        "icon": "Missing_PNG.png",
+        "link": "Limbo",
+        "image": "Limbo.png",
+        "gradient": "-webkit-linear-gradient(#4a4a4a, #2a2a2a)",
+        "accent": "#ff00ff"
+      },
+      {
+        "label": "RUN",
+        "icon": "Level_Run.png",
+        "link": "RUN",
+        "image": "RUN Evil.png",
+        "gradient": "-webkit-linear-gradient(#ff0000, #cc0000)",
+        "accent": "#ffff00"
+      }
     ],
     "Midnight Rooftops": [
-      { "icon": "Missing_PNG.png", "link": "Gooey_Escape", "label": "Gooey Escape" }
+      {
+        "label": "Gooey Escape",
+        "icon": "Missing_PNG.png",
+        "link": "Gooey_Escape",
+        "image": "Gooey Escape.png",
+        "gradient": "-webkit-linear-gradient(#90ee90, #32cd32)",
+        "accent": "#000000"
+      }
     ],
     "The Backrooms": [
-      { "icon": "Missing_PNG.png", "link": "Level_0", "label": "Level 0" },
-      { "icon": "Missing_PNG.png", "link": "Level_1", "label": "Level 1" },
-      { "icon": "Missing_PNG.png", "link": "Level_2", "label": "Level 2" },
-      { "icon": "Missing_PNG.png", "link": "Level_3", "label": "Level 3" },
-      { "icon": "Missing_PNG.png", "link": "Level_4", "label": "Level 4" },
-      { "icon": "Missing_PNG.png", "link": "Level_153", "label": "Level 153" },
-      { "icon": "Missing_PNG.png", "link": "stairwell", "label": "stairwell" }
+      {
+        "label": "Level 0",
+        "icon": "Missing_PNG.png",
+        "link": "Level_0",
+        "image": "Level0.png",
+        "gradient": "-webkit-linear-gradient(#e6d7b8, #c9a961)",
+        "accent": "#ffffff"
+      },
+      {
+        "label": "Level 1",
+        "icon": "Missing_PNG.png",
+        "link": "Level_1",
+        "image": "Level1.png",
+        "gradient": "-webkit-linear-gradient(#8b7355, #5d4a37)",
+        "accent": "#ffffff"
+      },
+      {
+        "label": "Level 2",
+        "icon": "Missing_PNG.png",
+        "link": "Level_2",
+        "image": "Level2.png",
+        "gradient": "-webkit-linear-gradient(#4a4a4a, #2a2a2a)",
+        "accent": "#ffffff"
+      },
+      {
+        "label": "Level 3",
+        "icon": "Missing_PNG.png",
+        "link": "Level_3",
+        "image": "Level3.png",
+        "gradient": "-webkit-linear-gradient(#1a1a2e, #0f0f1e)",
+        "accent": "#00ff00"
+      },
+      {
+        "label": "Level 4",
+        "icon": "Missing_PNG.png",
+        "link": "Level_4",
+        "image": "Level4.png",
+        "gradient": "-webkit-linear-gradient(#2c3e50, #1a252f)",
+        "accent": "#ff0000"
+      },
+      {
+        "label": "Level 153",
+        "icon": "Missing_PNG.png",
+        "link": "Level_153",
+        "image": "Level153.png",
+        "gradient": "-webkit-linear-gradient(#9370db, #6a0dad)",
+        "accent": "#ffff00"
+      },
+      {
+        "label": "RUN FOR YOUR LIFE",
+        "icon": "Missing_PNG.png",
+        "link": "RUN",
+        "image": "RUN.png",
+        "gradient": "-webkit-linear-gradient(#ff0000, #cc0000)",
+        "accent": "#ffff00"
+      },
+      {
+        "label": "stairwell",
+        "icon": "Missing_PNG.png",
+        "link": "stairwell",
+        "image": "stairwell.png",
+        "gradient": "-webkit-linear-gradient(#696969, #505050)",
+        "accent": "#ffffff"
+      }
     ]
   },
-  "cancelled": [
-    { "icon": "Missing_PNG.png", "link": "Algebraic_Laboratory", "label": "Algebraic Laboratory" },
-    { "icon": "Missing_PNG.png", "link": "Classic_Reality", "label": "Classic Reality" },
-    { "icon": "Missing_PNG.png", "link": "Nearing_The_End_(Classic)", "label": "Nearing The End" },
-    { "icon": "Snowytundra.png", "link": "Snowy_Tops", "label": "Snowy Tops" },
-    { "icon": "Missing_PNG.png", "link": "Sunken_Sanctuary", "label": "Sunken Sanctuary" }
-  ],
-  "future": [
-    { "icon": "The_fourest.webp", "link": "The_Fourest", "label": "The Fourest" },
-    { "icon": "Missing_PNG.png", "link": "Yoyleite_Terminal", "label": "Yoyleite Terminal" }
+  "areas": [
+    {
+      "parent": "Main Realm",
+      "label": "Candyland",
+      "image": "Candyland.png",
+      "gradient": "-webkit-linear-gradient(#ff69b4, #ffb6d9)",
+      "accent": "#ffffff"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "City",
+      "image": "City.png",
+      "gradient": "-webkit-linear-gradient(#4a4a4a, #1a1a1a)",
+      "accent": "#87ceeb"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "Classic Roblox",
+      "image": "Classic__Roblox.png",
+      "gradient": "-webkit-linear-gradient(#ff0000, #0000ff)",
+      "accent": "#ffff00"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "Desert",
+      "image": "Desert.png",
+      "gradient": "-webkit-linear-gradient(#daa520, #8b4513)",
+      "accent": "#ffffff"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "Factory",
+      "image": "Factory.png",
+      "gradient": "-webkit-linear-gradient(#696969, #2f4f4f)",
+      "accent": "#ff6b6b"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "Floating Island",
+      "image": "Floating_Island.png",
+      "gradient": "-webkit-linear-gradient(#87ceeb, #e0ffff)",
+      "accent": "#ffffff"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "Fossil Falls",
+      "image": "Fossil_Falls.png",
+      "gradient": "-webkit-linear-gradient(#8b7355, #654321)",
+      "accent": "#ffffff"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "Goiky",
+      "image": "Goiky.png",
+      "gradient": "-webkit-linear-gradient(#78ff78, #00ff00)",
+      "accent": "#ffffff"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "Hotel",
+      "image": "Hotel.png",
+      "gradient": "-webkit-linear-gradient(#daa520, #ffd700)",
+      "accent": "#000000"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "Jungle",
+      "image": "Jungle.png",
+      "gradient": "-webkit-linear-gradient(#228b22, #006400)",
+      "accent": "#ffff00"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "Number Playground",
+      "image": "Number_Playground.png",
+      "gradient": "-webkit-linear-gradient(#ff00ff, #00ffff)",
+      "accent": "#ffffff"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "Snowy",
+      "image": "Snowy.png",
+      "gradient": "-webkit-linear-gradient(#e0ffff, #4dd0e1)",
+      "accent": "#000000"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "Tropical Islands",
+      "image": "Tropical_Islands.png",
+      "gradient": "-webkit-linear-gradient(#00ced1, #ffa500)",
+      "accent": "#ffffff"
+    },
+    {
+      "parent": "Main Realm",
+      "label": "Warehouse",
+      "image": "Warehouse.png",
+      "gradient": "-webkit-linear-gradient(#808080, #505050)",
+      "accent": "#ffffff"
+    }
   ]
 }

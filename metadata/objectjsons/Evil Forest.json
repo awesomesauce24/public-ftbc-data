@@ -1,0 +1,354 @@
+{
+  "Evil Gelatin": {
+    "name": "Evil Gelatin",
+    "difficulty": "Dreadful",
+    "description": "look in the campsite",
+    "realm": "Evil Forest",
+    "realmData": {
+      "label": "Evil Forest",
+      "icon": "EvilForestRealm.png",
+      "link": "Evil_Forest",
+      "image": "EVIL.png",
+      "colors": [
+        "#b00000",
+        "#5a0000"
+      ],
+      "gradient": "-webkit-linear-gradient(#b00000, #5a0000)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Evil Gelatin",
+        "file": "Evil Gelatin.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Evil Forest Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Evil David": {
+    "name": "Evil David",
+    "difficulty": "Terrifying",
+    "description": "ylsuoires wa",
+    "realm": "Evil Forest",
+    "realmData": {
+      "label": "Evil Forest",
+      "icon": "EvilForestRealm.png",
+      "link": "Evil_Forest",
+      "image": "EVIL.png",
+      "colors": [
+        "#b00000",
+        "#5a0000"
+      ],
+      "gradient": "-webkit-linear-gradient(#b00000, #5a0000)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Evil David",
+        "file": "Evil David.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Evil Forest Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Evily": {
+    "name": "Evily",
+    "difficulty": "Terrifying",
+    "description": "the evilest of them all!!!!!",
+    "realm": "Evil Forest",
+    "realmData": {
+      "label": "Evil Forest",
+      "icon": "EvilForestRealm.png",
+      "link": "Evil_Forest",
+      "image": "EVIL.png",
+      "colors": [
+        "#b00000",
+        "#5a0000"
+      ],
+      "gradient": "-webkit-linear-gradient(#b00000, #5a0000)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Evily",
+        "file": "Evily.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Strenuous"
+    ],
+    "categories": [
+      "Evil Forest Objects",
+      "Objects",
+      "Terrifying Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Evil Book": {
+    "name": "Evil Book",
+    "difficulty": "Dreadful",
+    "description": "behind a large safe",
+    "realm": "Evil Forest",
+    "realmData": {
+      "label": "Evil Forest",
+      "icon": "EvilForestRealm.png",
+      "link": "Evil_Forest",
+      "image": "EVIL.png",
+      "colors": [
+        "#b00000",
+        "#5a0000"
+      ],
+      "gradient": "-webkit-linear-gradient(#b00000, #5a0000)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Evil Book",
+        "file": "Evil Book.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Evil Forest Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Evil Firey": {
+    "name": "Evil Firey",
+    "difficulty": "Insane",
+    "description": "it's on the campfire, duh",
+    "realm": "Evil Forest",
+    "realmData": {
+      "label": "Evil Forest",
+      "icon": "EvilForestRealm.png",
+      "link": "Evil_Forest",
+      "image": "EVIL.png",
+      "colors": [
+        "#b00000",
+        "#5a0000"
+      ],
+      "gradient": "-webkit-linear-gradient(#b00000, #5a0000)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Evil Firey",
+        "file": "Evil Firey.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Evil Forest Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Evil Pin": {
+    "name": "Evil Pin",
+    "difficulty": "Terrifying",
+    "description": "get trolled!! lol!!!!",
+    "realm": "Evil Forest",
+    "realmData": {
+      "label": "Evil Forest",
+      "icon": "EvilForestRealm.png",
+      "link": "Evil_Forest",
+      "image": "EVIL.png",
+      "colors": [
+        "#b00000",
+        "#5a0000"
+      ],
+      "gradient": "-webkit-linear-gradient(#b00000, #5a0000)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Evil Pin",
+        "file": "Evil Pin.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Arduous"
+    ],
+    "categories": [
+      "Evil Forest Objects",
+      "Objects",
+      "Terrifying Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Torn Pillow": {
+    "name": "Torn Pillow",
+    "difficulty": "Dreadful",
+    "description": "people have asked me why i added this to the evil forest... and to that i say that pillow is a complete menace.",
+    "realm": "Evil Forest",
+    "realmData": {
+      "label": "Evil Forest",
+      "icon": "EvilForestRealm.png",
+      "link": "Evil_Forest",
+      "image": "EVIL.png",
+      "colors": [
+        "#b00000",
+        "#5a0000"
+      ],
+      "gradient": "-webkit-linear-gradient(#b00000, #5a0000)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Torn Pillow",
+        "file": "Torn Pillow.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Evil Forest Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Evil Jarry": {
+    "name": "Evil Jarry",
+    "difficulty": "Dreadful",
+    "description": "find a cabin",
+    "realm": "Evil Forest",
+    "realmData": {
+      "label": "Evil Forest",
+      "icon": "EvilForestRealm.png",
+      "link": "Evil_Forest",
+      "image": "EVIL.png",
+      "colors": [
+        "#b00000",
+        "#5a0000"
+      ],
+      "gradient": "-webkit-linear-gradient(#b00000, #5a0000)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Evil Jarry",
+        "file": "Evil Jarry.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Evil Forest Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Evil Spongy": {
+    "name": "Evil Spongy",
+    "difficulty": "Dreadful",
+    "description": "how would evil spongy even move around??",
+    "realm": "Evil Forest",
+    "realmData": {
+      "label": "Evil Forest",
+      "icon": "EvilForestRealm.png",
+      "link": "Evil_Forest",
+      "image": "EVIL.png",
+      "colors": [
+        "#b00000",
+        "#5a0000"
+      ],
+      "gradient": "-webkit-linear-gradient(#b00000, #5a0000)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Evil Spongy",
+        "file": "Evil Spongy.webp"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#db25ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Dreadful Objects",
+      "Evil Forest Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

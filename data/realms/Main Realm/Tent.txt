@@ -1,5 +1,0 @@
-{{CharacterInfo|name=Tent|character=Tent.png|difficulty=Easy|area=[[Classic Roblox]]|hint=who gave the tent boxing gloves (Hidden in Classic Roblox)}}
-
-[[Category:Objects]]
-[[Category:Effortless Objects]]
-[[Category:Classic Roblox Objects]]

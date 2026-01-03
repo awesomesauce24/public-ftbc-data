@@ -1,0 +1,212 @@
+{
+  "Jarry": {
+    "name": "Jarry",
+    "difficulty": "Hard",
+    "description": "find a shelf somewhere",
+    "realm": "The Backrooms Level 1",
+    "realmData": {
+      "label": "The Backrooms Level 1",
+      "icon": "",
+      "link": "The_Backrooms_Level_1",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "The Backrooms Level 1 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "DS": {
+    "name": "DS",
+    "difficulty": "Extreme",
+    "description": "he's such a gamer, he doesn't even need friends!",
+    "realm": "The Backrooms Level 1",
+    "realmData": {
+      "label": "The Backrooms Level 1",
+      "icon": "",
+      "link": "The_Backrooms_Level_1",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "The Backrooms Level 1 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "One Recommended Character Per Recommender Sign": {
+    "name": "One Recommended Character Per Recommender Sign",
+    "difficulty": "Insane",
+    "description": "he is not off-balance, hooray for him!",
+    "realm": "The Backrooms Level 1",
+    "realmData": {
+      "label": "The Backrooms Level 1",
+      "icon": "",
+      "link": "The_Backrooms_Level_1",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "The Backrooms Level 1 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Phone": {
+    "name": "Phone",
+    "difficulty": "Insane",
+    "description": "find a wall you can noclip through",
+    "realm": "The Backrooms Level 1",
+    "realmData": {
+      "label": "The Backrooms Level 1",
+      "icon": "",
+      "link": "The_Backrooms_Level_1",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "The Backrooms Level 1 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Charger Box": {
+    "name": "Charger Box",
+    "difficulty": "Extreme",
+    "description": "he isn't on the outlet he isn't on the outlet he isn't on the outlet he isn't on the outlet he isn't on the outlet",
+    "realm": "The Backrooms Level 1",
+    "realmData": {
+      "label": "The Backrooms Level 1",
+      "icon": "",
+      "link": "The_Backrooms_Level_1",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "The Backrooms Level 1 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Plus": {
+    "name": "Plus",
+    "difficulty": "Insane",
+    "description": "find a ladder.. or not",
+    "realm": "The Backrooms Level 1",
+    "realmData": {
+      "label": "The Backrooms Level 1",
+      "icon": "",
+      "link": "The_Backrooms_Level_1",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "The Backrooms Level 1 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Lava Lamp": {
+    "name": "Lava Lamp",
+    "difficulty": "Hard",
+    "description": "do i even have to explain?",
+    "realm": "The Backrooms Level 1",
+    "realmData": {
+      "label": "The Backrooms Level 1",
+      "icon": "",
+      "link": "The_Backrooms_Level_1",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "The Backrooms Level 1 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Quiver|character=[[File:Quiver.png]]|difficulty=Difficult|area=[[Classic Paradise]]|hint=this sure does make me quiver|additionalinfo|previousdifficulties=<span style="color:#ED2727">'''Extreme'''</span> [[File:Extreme.png]]}}
-==Character==
-Quiver is a quiver, with five visible arrows.
-==Obtaining==
-In the island with a giant tree, lies a gravestone. Behind that gravestone, '''Quiver''' will be there.
-
-[[Category:Objects]]
-[[Category:Difficult Objects]]
-[[Category:Classic Paradise Objects]]

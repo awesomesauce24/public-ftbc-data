@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Up Arrow|character=[[File:Up Arrow.png]]|difficulty=Arduous|area=[[Classic Paradise]]|hint=try looking the exact opposite of where the arrow is facing|additionalinfo|previousdifficulties=<span style="color:#8b17ff">'''Terrifying'''</span> [[File:Terrifying.png]]}}
-==Character==
-[[Up Arrow]] is a yellow arrow that is pointing up and smiling.
-==Obtaining==
-Start in [[Deadly]]'s Obby, then look under when you reach the void part.
-
-[[Category:Objects]]
-[[Category:Arduous Objects]]
-[[Category:Classic Paradise Objects]]

@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Fossil|character=[[File:Fossil.png]]|difficulty=Hard|area=[[Floating Island]]|hint=click on a fossil somewhere...}}
-==Info==
-Its a funny looking fossil.
-==Obtainment==
-On the left side of the island theres a fossil, click the top of it to teleport to Fossil.
-[[Category:Object]]
-[[Category:Main Realm Objects]]
-[[Category:Floating Island Objects]]
-[[Category:Hard Objects]]

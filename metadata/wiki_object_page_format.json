@@ -1,4 +1,4 @@
-<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|image from realm_gradents.json}}}|{{{Size|2000px}}}]] </div>
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|image from realms.json}}}|{{{Size|2000px}}}]] </div>
 <div style="--theme-accent-color:{gradient}}; --theme-accent-label-color:{accent};">
 <div style="position:relative; z-index:1;">
 

@@ -1,0 +1,332 @@
+{
+  "Danger Sign": {
+    "name": "Danger Sign",
+    "difficulty": "Insane",
+    "description": "what could be inside that very tiny proportionately sized hallway?",
+    "realm": "The Backrooms Level 4",
+    "realmData": {
+      "label": "The Backrooms Level 4",
+      "icon": "",
+      "link": "The_Backrooms_Level_4",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "The Backrooms Level 4 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Locker": {
+    "name": "Locker",
+    "difficulty": "Insane",
+    "description": "it was just... a locker?",
+    "realm": "The Backrooms Level 4",
+    "realmData": {
+      "label": "The Backrooms Level 4",
+      "icon": "",
+      "link": "The_Backrooms_Level_4",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "The Backrooms Level 4 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Mason": {
+    "name": "Mason",
+    "difficulty": "Terrifying",
+    "description": "i can't say the actual OC name unfortunately, but also this is annoying",
+    "realm": "The Backrooms Level 4",
+    "realmData": {
+      "label": "The Backrooms Level 4",
+      "icon": "",
+      "link": "The_Backrooms_Level_4",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Backrooms Level 4 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ushanka": {
+    "name": "Ushanka",
+    "difficulty": "Terrifying",
+    "description": "in russia, ushanka puts on you",
+    "realm": "The Backrooms Level 4",
+    "realmData": {
+      "label": "The Backrooms Level 4",
+      "icon": "",
+      "link": "The_Backrooms_Level_4",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Backrooms Level 4 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Wild West Painting": {
+    "name": "Wild West Painting",
+    "difficulty": "Terrifying",
+    "description": "this truly shows everything about society",
+    "realm": "The Backrooms Level 4",
+    "realmData": {
+      "label": "The Backrooms Level 4",
+      "icon": "",
+      "link": "The_Backrooms_Level_4",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Backrooms Level 4 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cup Stacky": {
+    "name": "Cup Stacky",
+    "difficulty": "Terrifying",
+    "description": "they are stacking cups alone",
+    "realm": "The Backrooms Level 4",
+    "realmData": {
+      "label": "The Backrooms Level 4",
+      "icon": "",
+      "link": "The_Backrooms_Level_4",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Backrooms Level 4 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Rainbow Orb": {
+    "name": "Rainbow Orb",
+    "difficulty": "Insane",
+    "description": "congratulations, you've made it to level 4!",
+    "realm": "The Backrooms Level 4",
+    "realmData": {
+      "label": "The Backrooms Level 4",
+      "icon": "",
+      "link": "The_Backrooms_Level_4",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "The Backrooms Level 4 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Placeholdery": {
+    "name": "Placeholdery",
+    "difficulty": "Strenuous",
+    "description": "this description is still a placeholder",
+    "realm": "The Backrooms Level 4",
+    "realmData": {
+      "label": "The Backrooms Level 4",
+      "icon": "",
+      "link": "The_Backrooms_Level_4",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "The Backrooms Level 4 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bodywash Soapy": {
+    "name": "Bodywash Soapy",
+    "difficulty": "Terrifying",
+    "description": "complete an invisible maze",
+    "realm": "The Backrooms Level 4",
+    "realmData": {
+      "label": "The Backrooms Level 4",
+      "icon": "",
+      "link": "The_Backrooms_Level_4",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Backrooms Level 4 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Music Box": {
+    "name": "Music Box",
+    "difficulty": "Insane",
+    "description": "i simply don't know what to put here",
+    "realm": "The Backrooms Level 4",
+    "realmData": {
+      "label": "The Backrooms Level 4",
+      "icon": "",
+      "link": "The_Backrooms_Level_4",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "The Backrooms Level 4 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Laundry Basket": {
+    "name": "Laundry Basket",
+    "difficulty": "Terrifying",
+    "description": "inside of a room with a mop",
+    "realm": "The Backrooms Level 4",
+    "realmData": {
+      "label": "The Backrooms Level 4",
+      "icon": "",
+      "link": "The_Backrooms_Level_4",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "The Backrooms Level 4 Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Orb|character=[[File:Orb.png]]|difficulty=Easy|area=[[Floating Island]]|hint=floating orb, floating island|additionalinfo|previousdifficulties=<span style="color:#a1ff27">'''Normal'''</span> [[File:Normal.png]]}}
-==Info==
-hmmmm, yes, this is an orb
-==Obtainment==
-Climb the fallen tree which [[Scissors]] is stabbed in, then jump to the tree where Orb is located.
-[[Category:Objects]]
-[[Category:Main Realm Objects]]
-[[Category:Floating Island Objects]]
-[[Category:Easy Objects]]

@@ -1,0 +1,746 @@
+{
+  "Shrimp Tempura": {
+    "name": "Shrimp Tempura",
+    "difficulty": "Arduous",
+    "description": "tasty",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Shrimp Tempura",
+        "file": "Shrimp Tempura.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Arduous Objects",
+      "Magma Canyon Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Na": {
+    "name": "Na",
+    "difficulty": "Extreme",
+    "description": "should i make davidland a realm? hmm, na.",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Na",
+        "file": "Na.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Magma Canyon Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Flour": {
+    "name": "Flour",
+    "difficulty": "Difficult",
+    "description": "unrelated but i know what you did 5 minutes ago",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Flour",
+        "file": "Flour.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Magma Canyon Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bababa": {
+    "name": "Bababa",
+    "difficulty": "Hard",
+    "description": "i love myself some bababas",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Bababa",
+        "file": "Bababa.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Normal"
+    ],
+    "categories": [
+      "Hard Objects",
+      "Magma Canyon Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Mr. Feet": {
+    "name": "Mr. Feet",
+    "difficulty": "Hard",
+    "description": "i hate everything about this",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Mr. Feet",
+        "file": "Mr. Feet.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Magma Canyon Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Shoe": {
+    "name": "Shoe",
+    "difficulty": "Difficult",
+    "description": "1 2 buckle my... wait what is tha",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Shoe",
+        "file": "Shoe.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Magma Canyon Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Meatball": {
+    "name": "Meatball",
+    "difficulty": "Extreme",
+    "description": "infinite meatballs",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Meatball",
+        "file": "Meatball.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Magma Canyon Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "refsbcj": {
+    "name": "refsbcj",
+    "difficulty": "Extreme",
+    "description": "sfdaasdjojfnjadlcxzqo",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "refsbcj",
+        "file": "refsbcj.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Magma Canyon Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Block Party": {
+    "name": "Block Party",
+    "difficulty": "Hard",
+    "description": "IT'S HIM!!!!!! (Character is owned by illuminite06)",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Block Party",
+        "file": "Block Party.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Normal"
+    ],
+    "categories": [
+      "Hard Objects",
+      "Magma Canyon Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cardy": {
+    "name": "Cardy",
+    "difficulty": "Dreadful",
+    "description": "they love cards",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Cardy",
+        "file": "Cardy.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Dreadful Objects",
+      "Magma Canyon Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Spongy's Mother": {
+    "name": "Spongy's Mother",
+    "difficulty": "Hard",
+    "description": "so... does this make spongezilla spongy's father?",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Spongy's Mother",
+        "file": "Spongy's Mother.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Normal"
+    ],
+    "categories": [
+      "Hard Objects",
+      "Magma Canyon Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "CrystalBallOSC": {
+    "name": "CrystalBallOSC",
+    "difficulty": "Strenuous",
+    "description": "The way you get this one is genuinely deranged I'm sorry (Made by SleepyyXavier)",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "CrystalBallOSC",
+        "file": "CrystalBallOSC.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Magma Canyon Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "megapidragon": {
+    "name": "megapidragon",
+    "difficulty": "Normal",
+    "description": "I HATE WHEN MY GAS CANS",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "megapidragon",
+        "file": "megapidragon.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#a1ff27"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Normal Objects",
+      "Magma Canyon Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Just_Summa": {
+    "name": "Just_Summa",
+    "difficulty": "Hard",
+    "description": "after AGES... after objects like pizza jr and cookie pizza... after millions of pizza rcs... WE  GET PIZZA IN GAME AS OBJECT!!!!",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Just_Summa",
+        "file": "Just_Summa.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Magma Canyon Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Robot Puppet": {
+    "name": "Robot Puppet",
+    "difficulty": "Arduous",
+    "description": "how could they do this to my man puppet!!!!",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Robot Puppet",
+        "file": "Robot Puppet.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Arduous Objects",
+      "Magma Canyon Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "ca2": {
+    "name": "ca2",
+    "difficulty": "Dreadful",
+    "description": "i don't know what this means but surely it means something",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "ca2",
+        "file": "ca2.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Dreadful Objects",
+      "Magma Canyon Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "wax slitly weathered cut copper stairs": {
+    "name": "wax slitly weathered cut copper stairs",
+    "difficulty": "Hard",
+    "description": "special thanks to Noobie_Sonic2 for this incredible idea",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "wax slitly weathered cut copper stairs",
+        "file": "wax slitly weathered cut copper stairs.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Magma Canyon Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Erlenmeyer": {
+    "name": "Erlenmeyer",
+    "difficulty": "Unforgiving",
+    "description": "oh boy this one sure is so much fun",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Erlenmeyer",
+        "file": "Erlenmeyer.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Magma Canyon Objects",
+      "Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Turkey": {
+    "name": "Turkey",
+    "difficulty": "Hard",
+    "description": "Will this realm EVER get any good content? Find out next time on Find the BFB Characters the Totally Real Series that Definitely Exists!",
+    "realm": "Magma Canyon",
+    "realmData": {
+      "label": "Magma Canyon",
+      "icon": "MagmaRealm.png",
+      "link": "Magma_Canyon",
+      "image": "Magma Canyon.png",
+      "colors": [
+        "#954116",
+        "#e93b14"
+      ],
+      "gradient": "-webkit-linear-gradient(#954116, #e93b14)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Turkey",
+        "file": "Turkey.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Normal"
+    ],
+    "categories": [
+      "Hard Objects",
+      "Magma Canyon Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

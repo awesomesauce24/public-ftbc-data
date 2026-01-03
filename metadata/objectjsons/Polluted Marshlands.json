@@ -1,0 +1,610 @@
+{
+  "Clothy": {
+    "name": "Clothy",
+    "difficulty": "Hard",
+    "description": "they just need a break",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Hard Objects",
+      "Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Hamburger": {
+    "name": "Hamburger",
+    "difficulty": "Intermediate",
+    "description": "truly a one-of-a-kind delicacy",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Intermediate_FTBC.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Intermediate Objects",
+      "Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Redstrike8k": {
+    "name": "Redstrike8k",
+    "difficulty": "Hard",
+    "description": "hey guys! can i be part of your  [                           ]?",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "AndrewRoblox3333": {
+    "name": "AndrewRoblox3333",
+    "difficulty": "Extreme",
+    "description": "it's slightly transparent",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Drum Kid": {
+    "name": "Drum Kid",
+    "difficulty": "Extreme",
+    "description": "on a tilted tree",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Starfruit": {
+    "name": "Starfruit",
+    "difficulty": "Unforgiving",
+    "description": "patience is key.",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Polluted Marshlands Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Blueberry Cupcake": {
+    "name": "Blueberry Cupcake",
+    "difficulty": "Extreme",
+    "description": "the thousand yard stare",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Soy": {
+    "name": "Soy",
+    "difficulty": "Arduous",
+    "description": "find a way onto a sinking pipe. this was originally extreme difficulty but then i realized how absurdly hard it is to time it",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Arduous Objects",
+      "Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Poppy Seed Roll": {
+    "name": "Poppy Seed Roll",
+    "difficulty": "Extreme",
+    "description": "",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Branchy": {
+    "name": "Branchy",
+    "difficulty": "Dreadful",
+    "description": "i bet you can never guess where this one is",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Dreadful.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Dreadful Objects",
+      "Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "scenerycloud": {
+    "name": "scenerycloud",
+    "difficulty": "Insane",
+    "description": "look beneath a wooden platform",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "China": {
+    "name": "China",
+    "difficulty": "Unforgiving",
+    "description": "honey, bring out the fine china",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Objects",
+      "Polluted Marshlands Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Torso": {
+    "name": "Torso",
+    "difficulty": "Terrifying",
+    "description": ":)",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cat Witch": {
+    "name": "Cat Witch",
+    "difficulty": "Strenuous",
+    "description": "BURN THE WITCH!!",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Dragonman": {
+    "name": "Dragonman",
+    "difficulty": "Insane",
+    "description": "dragon 2",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Mojito Glass": {
+    "name": "Mojito Glass",
+    "difficulty": "Insane",
+    "description": "get a key to access the sewers",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Austrian Shield": {
+    "name": "Austrian Shield",
+    "difficulty": "Insane",
+    "description": "",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Theebs": {
+    "name": "Theebs",
+    "difficulty": "Terrifying",
+    "description": "find a pile of books laying around",
+    "realm": "Polluted Marshlands",
+    "realmData": {
+      "label": "Polluted Marshlands",
+      "icon": "PollutedMarshlandsRealm.png",
+      "link": "Polluted_Marshlands",
+      "image": "Leak2.jpg",
+      "colors": [
+        "#3d5a3d",
+        "#1a3a1a"
+      ],
+      "gradient": "-webkit-linear-gradient(#3d5a3d, #1a3a1a)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Polluted Marshlands Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

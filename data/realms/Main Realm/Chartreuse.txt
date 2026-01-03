@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Chartreuse|character=[[Chartreuse.png|Chartreuse]]|difficulty=Remorseless|area=[[Throne]]'s Room|hint=start in the throne room and find a way upwards}}
-
-== Appearance ==
-Chartreuse ([https://www.roblox.com/catalog/80661504 Chartreuse Periastron Gamma]) is a Roblox gear.
-== Obtaining ==
-In [[Throne|Throne's]] room, climb the windows and find an invisible truss.
-[[Category:Objects]]
-[[Category:Remorseless Objects]]
-[[Category:Main Realm Objects]]

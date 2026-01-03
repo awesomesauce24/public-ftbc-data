@@ -1,0 +1,72 @@
+{
+  "Administratory": {
+    "name": "Administratory",
+    "difficulty": "Remorseless",
+    "description": "finish the job. (Made by AccountDoesNothing)",
+    "realm": "Classic Insanity",
+    "realmData": {
+      "label": "Classic Insanity",
+      "icon": "",
+      "link": "Classic_Insanity",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Administratory",
+        "file": "Administratory.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "Classic Insanity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Veterany": {
+    "name": "Veterany",
+    "difficulty": "Terrifying",
+    "description": "look beneath the bridge (Made by AccountDoesNothing)",
+    "realm": "Classic Insanity",
+    "realmData": {
+      "label": "Classic Insanity",
+      "icon": "",
+      "link": "Classic_Insanity",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Veterany",
+        "file": "Veterany.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Classic Insanity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

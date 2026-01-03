@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Ornament|character=[[File:Ornament.png]]|difficulty=Easy|area=[[Snowy]]|hint=it's an ornament, yep. sorry i dont really have anyrthing to say (Hidden in Snowy)}}
-==Info==
-Same Klaptai... Same...
-==Obtainment==
-On the side of a small tree near [[Icey]]
-[[Category:Objects]]
-[[Category:Main Realm Objects]]
-[[Category:Snowy Objects]]
-[[Category:Easy Objects]]

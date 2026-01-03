@@ -1,0 +1,158 @@
+the rbxlx jsons made should be our BASE data.
+
+After that, we check if it has a wiki page.
+
+example: American Flag -> https://ftbc.fandom.com/wiki/American_Flag
+
+i'll go over each section of the wiki page that we need to parse.
+-----------------------------------------------------------------
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:{{{File|Main Realm Sky.webp}}}|{{{Size|2000px}}}]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#23bd1c,#188a13); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+
+this is the background image section.
+basically replace File|Main Realm Sky.webp with the realm icon image from realms.json:
+Main Realm Sky.webp
+then we replace #23bd1c,#188a13 with the two colors from the realm icon in realms.json:
+"colors": [
+        "#23bd1c",
+        "#188a13"
+    ]
+then we keep the #ffffff as is.
+-----------------------------------------------------------------
+
+{{CharacterInfo|name=American Flag
+|character=<gallery>
+American Flag New.png|American Flag New
+American Flag.png|American Flag Old
+</gallery>
+|difficulty= [[File:Effortless.png]] <span style="color:#17a897">'''Effortless'''</span>
+|area=[[City]]
+|hint=this donut shop is america-certified. LAND OF THE FREEE BABY!!!!!!!!
+|additionalinfo
+|previousdifficulties = 
+[[File:Event.png]] <span style="color:#DF81C2">'''Event'''</span>
+[[File:Easy.png]] <span style="color:#10da8d">'''Easy'''</span>
+}}
+
+this is the CharacterInfo template section.
+we replace the name= value with the name of the item.
+then we replace the |character= gallery images with the images from the rbxlx json.
+then we replace the |difficulty= value with the current difficulty of the item from the rbxlx json.
+then we replace the |area= value with the realm of the item from the rbxlx json.
+then we replace the |hint= value with the description/hint of the item from the rbxlx json.
+then we leave |additionalinfo as is.
+then we replace the |previousdifficulties= value with the previous difficulties of the item from the rbxlx json.
+-----------------------------------------------------------------
+[[Category:Objects]]
+[[Category:Effortless Objects]]
+[[Category:City Objects]]
+[[Category:Main Realm Objects]]
+these are the categories at the bottom of the wiki page.
+we replace the categories based on the data from the rbxlx json.
+stuff like City Objects can be implemented later, so...
+
+Objects is for ALL items.
+then we add a category for the current difficulty of the item, e.g. Effortless Objects.
+then we add a category for the realm of the item, e.g. Main Realm Objects.
+-----------------------------------------------------------------
+page example 2: Jade -> https://ftbc.fandom.com/wiki/Jade
+<div align="center" style="position:fixed; z-index:-1; top:0; left:0; right:0; bottom:0;"> [[File:ClassicParadiseRealm.png|2000px]] </div>
+<div style="--theme-accent-color:-webkit-linear-gradient(#3487d6, #479ad9); --theme-accent-label-color:#ffffff;">
+<div style="position:relative; z-index:1;">
+{{CharacterInfo|name=Jade
+|character=[[File:Jade.webp]]
+|difficulty= [[File:Remorseless.png]] <span style="color:#2084ff">'''Remorseless'''</span>
+|area=[[Classic Paradise]]
+|hint=Take a leap of faith in the cave.
+}}
+
+==Info==
+Jade is a green, faceted gemstone with a nervous expression, featuring wide oval eyes and a tense, gritted smile carved into the front of her gem. She is one of Ruby's many sisters.
+
+==Obtaining==
+{| class="article-table mw-collapsible mw-collapsed" data-expandtext="&#9660;" data-collapsetext="&#9650;"
+!'''How to Find Jade [SPOILERS]'''||
+|-
+|Head into the main cave of Classic Paradise. There’s a hidden drop that’s safe to fall into — take the leap of faith.<br>
+Once inside the chamber, you’ll encounter three puzzle panels:
+== Puzzle 1: “maybe look at it from another angle?” ==
+'''Hint 1:''' Try physically rotating or flipping the letters you’re given. Some upside-down letter shapes resemble numbers.<br>
+'''Hint 2:''' Each 4-letter chunk becomes a sequence of digits. Don’t add them! Just place them in order.<br>
+'''Hint 3:''' After assembling the digit groups, consider converting numbers to letters (A1Z26 may help).
+== Puzzle 2: “lol no it’s not!” ==
+'''Hint 1:''' The layout resembles something very common with 3×3 grids.<br>
+'''Hint 2:''' Don’t focus on the squares themselves, check what each square represents.<br>
+'''Hint 3:''' Sort the items alphabetically, then apply a cipher associated with 3×3 grids.
+== Puzzle 3: “watch out, it’s a devious one…” ==
+'''Hint 1:''' One of the strings resembles a YouTube ID, but the other string is the actual puzzle.<br>
+'''Hint 2:''' The video subtly suggests which cipher to apply... think classical substitutions.<br>
+'''Hint 3:''' You will likely need to apply two ciphers in sequence.
+== Results ==
+After solving all three puzzles, you’ll receive a code in the format: '''/e 1-2-3''' (not the actual code). All of the codes are Gemstones.<br>
+Enter it in the text box, and Jade will appear near one of the corners of the room. 
+|}
+
+[[Category:Objects]]
+[[Category:Remorseless Objects]]
+[[Category:Classic Paradise Objects]]
+</div>
+</div>
+this is another example of a wiki page.
+notice a few differences (besides obtainment and info)?
+1. the |character= section has only one image instead of a gallery.
+that is because the "New" image doesn't exist. So we just take [[File:Jade.webp]] from the html.
+2. there is no |previousdifficulties= section because there are no previous difficulties for this item.
+so we just leave that part out entirely.
+3. there is an ==Info== and ==Obtaining== section.
+we don't need to parse these sections, we can just leave them as is.
+4. the categories at the bottom are different based on the realm and difficulty of the item.
+-----------------------------------------------------------------
+json format example:
+"Cheese Orb": {
+    "name": "Cheese Orb",
+    "difficulty": "Easy",
+    "description": "cheese orb is in the game. peace has been restored",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Easy.png",
+      "color": "#10da8d"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Easy Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+this is found in /metadata/objectjsons/Barren Desert.json
+-----------------------------------------------------------------
+How to grab images:
+this should be first priority (helps with getting the correct characterinfo format!):
+try all image variants:
+- .jpg, .png, .webp
+https://ftbc.fandom.com/wiki/File:Jade.webp
+https://ftbc.fandom.com/wiki/File:Jade.png
+https://ftbc.fandom.com/wiki/File:Jade.jpg
+- with "New" suffix (e.g. American Flag New.png)
+https://ftbc.fandom.com/wiki/File:Jade New.webp
+https://ftbc.fandom.com/wiki/File:Jade New.png
+https://ftbc.fandom.com/wiki/File:Jade New.jpg
+if you get "New" and the original, use both in a gallery.
+if you only get one image, just use that one.
+if you get no images, leave it blank.
+-----------------------------------------------------------------

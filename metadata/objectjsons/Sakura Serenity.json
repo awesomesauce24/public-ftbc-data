@@ -1,0 +1,886 @@
+{
+  "Supermario432158": {
+    "name": "Supermario432158",
+    "difficulty": "Extreme",
+    "description": "one of these trees is off...",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "HaydounDO": {
+    "name": "HaydounDO",
+    "difficulty": "Extreme",
+    "description": "climb onto a spike",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bamboo": {
+    "name": "Bamboo",
+    "difficulty": "Difficult",
+    "description": "look in a bush",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Davidy": {
+    "name": "Davidy",
+    "difficulty": "Insane",
+    "description": "first roboty-y, now this???",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Grapefruit": {
+    "name": "Grapefruit",
+    "difficulty": "Difficult",
+    "description": "what a peculiar fruit this is",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Butters": {
+    "name": "Butters",
+    "difficulty": "Extreme",
+    "description": "delicious (Made by Just_Summa)",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Spikey": {
+    "name": "Spikey",
+    "difficulty": "Extreme",
+    "description": "look for a hole.. (Made by Fireballz_37)",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Red Leaf": {
+    "name": "Red Leaf",
+    "difficulty": "Extreme",
+    "description": "don't worry it isn't evil leafy.. i think",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Robot Saw": {
+    "name": "Robot Saw",
+    "difficulty": "Difficult",
+    "description": "wouldn't a robot saw just be a chainsaw?",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Horn": {
+    "name": "Horn",
+    "difficulty": "Difficult",
+    "description": "they're standing on a paifang",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "oMg": {
+    "name": "oMg",
+    "difficulty": "Terrifying",
+    "description": "yep, that sure is a thing",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Chocolate Circle": {
+    "name": "Chocolate Circle",
+    "difficulty": "Extreme",
+    "description": "find a way onto one of the bigger structures",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Extreme Objects",
+      "Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Red crayon who is also blue but probably isn't green": {
+    "name": "Red crayon who is also blue but probably isn't green",
+    "difficulty": "Terrifying",
+    "description": "you heard the name (find five pieces of codes around the map)",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Non-Slip Shoes so Ha": {
+    "name": "Non-Slip Shoes so Ha",
+    "difficulty": "Terrifying",
+    "description": "true fashion",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bonsai": {
+    "name": "Bonsai",
+    "difficulty": "Difficult",
+    "description": "this does not resemble a bonsai in the slightest",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "?": {
+    "name": "?",
+    "difficulty": "Insane",
+    "description": "?",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Strenuous"
+    ],
+    "categories": [
+      "Insane Objects",
+      "Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Humorous Hummus": {
+    "name": "Humorous Hummus",
+    "difficulty": "Insane",
+    "description": "quite humorous indeed",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Planter": {
+    "name": "Planter",
+    "difficulty": "Difficult",
+    "description": "check inside of one of the houses",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Difficult Objects",
+      "Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Snickerdoodle": {
+    "name": "Snickerdoodle",
+    "difficulty": "Extreme",
+    "description": "wait... this is a REAL thing???",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Moon": {
+    "name": "Moon",
+    "difficulty": "Arduous",
+    "description": "find a way to make it become midnight..",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Arduous.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Remorseless"
+    ],
+    "categories": [
+      "Arduous Objects",
+      "Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "k": {
+    "name": "k",
+    "difficulty": "Hard",
+    "description": "this is truly a k moment",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Taiyaki": {
+    "name": "Taiyaki",
+    "difficulty": "Extreme",
+    "description": "on a tree",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Wildy": {
+    "name": "Wildy",
+    "difficulty": "Unforgiving",
+    "description": "ooooooooooooo swwwwirllllyyyy",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Terrifying"
+    ],
+    "categories": [
+      "Objects",
+      "Sakura Serenity Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Plant": {
+    "name": "Plant",
+    "difficulty": "Insane",
+    "description": "why are there two plants in the same realm??",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bean Can": {
+    "name": "Bean Can",
+    "difficulty": "Unforgiving",
+    "description": "BEANS!!!!!!!",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Objects",
+      "Sakura Serenity Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bugspray": {
+    "name": "Bugspray",
+    "difficulty": "Hard",
+    "description": "there are bugs all over them",
+    "realm": "Sakura Serenity",
+    "realmData": {
+      "label": "Sakura Serenity",
+      "icon": "SakuraRealm.png",
+      "link": "Sakura_Serenity",
+      "image": "Sakura Serenity.png",
+      "colors": [
+        "#b56f8f",
+        "#8e4f5f"
+      ],
+      "gradient": "-webkit-linear-gradient(#b56f8f, #8e4f5f)",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Sakura Serenity Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

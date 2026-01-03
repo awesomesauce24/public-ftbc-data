@@ -84,10 +84,10 @@ class WikiAuth:
                 self.authenticated = True
                 self.username = username
                 
-                print(f"✓ Logged in as {username}")
+                print(f"[+] Logged in as {username}")
                 return self.session
             else:
-                print(f"✗ Login failed: {result}")
+                print(f"[x] Login failed: {result}")
                 raise RuntimeError(f"Wiki login failed: {result}")
                 
         except requests.RequestException as e:

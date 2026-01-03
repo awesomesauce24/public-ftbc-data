@@ -1,0 +1,1322 @@
+{
+  "Cheese Orb": {
+    "name": "Cheese Orb",
+    "difficulty": "Moderate",
+    "description": "cheese orb is in the game. peace has been restored",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Cheese Orb",
+        "file": "Cheese Orb.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Moderate.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Easy"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Moderate Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Think Emote": {
+    "name": "Think Emote",
+    "difficulty": "Hard",
+    "description": "this may require you to THINK about it",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Think Emote",
+        "file": "Think Emote.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Sand Clock": {
+    "name": "Sand Clock",
+    "difficulty": "Easy",
+    "description": "look in one of those buildings",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Sand Clock",
+        "file": "Sand Clock.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Easy.png",
+      "color": "#10da8d"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Easy Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bag of Sand": {
+    "name": "Bag of Sand",
+    "difficulty": "Effortless",
+    "description": "hmm yes bag of sand",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Bag of Sand",
+        "file": "Bag of Sand.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Easy"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Effortless Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Can of Black Olives": {
+    "name": "Can of Black Olives",
+    "difficulty": "Normal",
+    "description": "look around the map",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Can of Black Olives",
+        "file": "Can of Black Olives.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#a1ff27"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Normal Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Sierpinski": {
+    "name": "Sierpinski",
+    "difficulty": "Terrifying",
+    "description": "uhm.. what??? also, look under the map",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Sierpinski",
+        "file": "Sierpinski.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "5 Yen Coin": {
+    "name": "5 Yen Coin",
+    "difficulty": "Difficult",
+    "description": "donut is looking a little different today",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "5 Yen Coin",
+        "file": "5 Yen Coin.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Difficult Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Hazelnut": {
+    "name": "Hazelnut",
+    "difficulty": "Intermediate",
+    "description": "hazelnut :DDDDD",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Hazelnut",
+        "file": "Hazelnut.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Intermediate_FTBC.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Normal"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Intermediate Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Fernandez": {
+    "name": "Fernandez",
+    "difficulty": "Difficult",
+    "description": "reach towards the sun",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Fernandez",
+        "file": "Fernandez.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Difficult.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Difficult Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cardboard": {
+    "name": "Cardboard",
+    "difficulty": "Hard",
+    "description": "he's doing stuff n' things",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Cardboard",
+        "file": "Cardboard.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Normal"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Hard Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Oyster": {
+    "name": "Oyster",
+    "difficulty": "Extreme",
+    "description": "check the ceiling",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Oyster",
+        "file": "Oyster.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Softball": {
+    "name": "Softball",
+    "difficulty": "Unforgiving",
+    "description": "there's a giant cactus, i think you can see it..",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Softball",
+        "file": "Softball.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Extreme"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bacon Bit": {
+    "name": "Bacon Bit",
+    "difficulty": "Hard",
+    "description": "is it controbersial to say that i don't like bacon? it tastes.. awful",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Bacon Bit",
+        "file": "Bacon Bit.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ellipsis": {
+    "name": "Ellipsis",
+    "difficulty": "Normal",
+    "description": "this one is at...",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Ellipsis",
+        "file": "Ellipsis.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#a1ff27"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Normal Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Deep Fried Breath": {
+    "name": "Deep Fried Breath",
+    "difficulty": "Insane",
+    "description": "find yourself somewhere unprecedented",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Deep Fried Breath",
+        "file": "Deep Fried Breath.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Strenuous"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Insane Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Churro": {
+    "name": "Churro",
+    "difficulty": "Effortless",
+    "description": "yeah",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Churro",
+        "file": "Churro.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Easy"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Effortless Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Hashy": {
+    "name": "Hashy",
+    "difficulty": "Extreme",
+    "description": "complete the obby near spawn!",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Hashy",
+        "file": "Hashy.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ED2727"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Extreme Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Robot Woody": {
+    "name": "Robot Woody",
+    "difficulty": "Normal",
+    "description": "[insert robot screaming]",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Robot Woody",
+        "file": "Robot Woody.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#a1ff27"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Normal Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Pan Flute": {
+    "name": "Pan Flute",
+    "difficulty": "Insane",
+    "description": "IT'S IN THE GOSH DARN WALLS!!!!",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Pan Flute",
+        "file": "Pan Flute.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Insane.png",
+      "color": "#FF1C95"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Insane Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Potato": {
+    "name": "Potato",
+    "difficulty": "Moderate",
+    "description": "find some potatoes lying around",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Potato",
+        "file": "Potato.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Moderate.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Moderate Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "You Tried Star": {
+    "name": "You Tried Star",
+    "difficulty": "Strenuous",
+    "description": "complete the four trials",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "You Tried Star",
+        "file": "You Tried Star.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Magic Conch": {
+    "name": "Magic Conch",
+    "difficulty": "Effortless",
+    "description": "look near where conch shell was in the main realm",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Magic Conch",
+        "file": "Magic Conch.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Effortless.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Easy"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Effortless Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Cheese Slice": {
+    "name": "Cheese Slice",
+    "difficulty": "Normal",
+    "description": "look in the abandoned hamlet",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Cheese Slice",
+        "file": "Cheese Slice.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#a1ff27"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Normal Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Wicker Basket": {
+    "name": "Wicker Basket",
+    "difficulty": "Normal",
+    "description": "there's a rusty building, look inside of it",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Wicker Basket",
+        "file": "Wicker Basket.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#a1ff27"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Normal Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Toffee": {
+    "name": "Toffee",
+    "difficulty": "Extreme",
+    "description": "i have never heard of toffee before in my life",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Toffee",
+        "file": "Toffee.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Extreme.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Hard"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Extreme Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Hot Cheese Puff": {
+    "name": "Hot Cheese Puff",
+    "difficulty": "Remorseless",
+    "description": "find an encrypted message",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Hot Cheese Puff",
+        "file": "Hot Cheese Puff.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Remorseless.png",
+      "color": "#2084FF"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Remorseless Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Sponge Cake": {
+    "name": "Sponge Cake",
+    "difficulty": "Terrifying",
+    "description": "1... 2... 3... 4... who do we? not adore? spongy!!! spongy!!! spongy!!!",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Sponge Cake",
+        "file": "Sponge Cake.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Terrifying.png",
+      "color": "#8b17ff"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Terrifying Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Bow And Arrow": {
+    "name": "Bow And Arrow",
+    "difficulty": "Easy",
+    "description": "next to some other bows",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Bow And Arrow",
+        "file": "Bow And Arrow.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Easy.png",
+      "color": "#10da8d"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Easy Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Virtual Pet Lizard": {
+    "name": "Virtual Pet Lizard",
+    "difficulty": "Hard",
+    "description": "find a wonky looking cactus",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Virtual Pet Lizard",
+        "file": "Virtual Pet Lizard.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Johnson": {
+    "name": "Johnson",
+    "difficulty": "Hard",
+    "description": "the johnson is real",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Johnson",
+        "file": "Johnson.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Normal"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Hard Objects",
+      "Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Curly Arrow": {
+    "name": "Curly Arrow",
+    "difficulty": "Easy",
+    "description": "no way!!!!! real!!!",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Curly Arrow",
+        "file": "Curly Arrow.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Easy.png",
+      "color": "#10da8d"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Easy Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Firey Jr. Jr.": {
+    "name": "Firey Jr. Jr.",
+    "difficulty": "Normal",
+    "description": "at this point you can't even SEE him",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Firey Jr. Jr.",
+        "file": "Firey Jr. Jr..png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Normal.png",
+      "color": "#a1ff27"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Normal Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Fire Melon": {
+    "name": "Fire Melon",
+    "difficulty": "Hard",
+    "description": "this melon is on fire!!!",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Fire Melon",
+        "file": "Fire Melon.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Hard.png",
+      "color": "#ff7e21"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Hard Objects",
+      "Barren Desert Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  },
+  "Ice Bracelety": {
+    "name": "Ice Bracelety",
+    "difficulty": "Unforgiving",
+    "description": "ice in the desert? how does that make any sense",
+    "realm": "Barren Desert",
+    "realmData": {
+      "label": "Barren Desert",
+      "icon": "BarrenDesertRealm.png",
+      "link": "Barren_Desert",
+      "image": "Barren Desert Sky.webp",
+      "colors": [
+        "#c4a747",
+        "#8b7355"
+      ],
+      "gradient": "-webkit-linear-gradient(#c4a747, #8b7355)",
+      "accent": "#ffffff"
+    },
+    "images": [
+      {
+        "name": "Ice Bracelety",
+        "file": "Ice Bracelety.png"
+      }
+    ],
+    "difficultyInfo": {
+      "icon": "Unforgiving.png",
+      "color": "#ffffff"
+    },
+    "previousDifficulties": [
+      "Insane"
+    ],
+    "categories": [
+      "Barren Desert Objects",
+      "Objects",
+      "Unforgiving Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

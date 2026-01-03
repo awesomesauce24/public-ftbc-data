@@ -1,9 +1,0 @@
-{{CharacterInfo|name=GameGo|character=[[File:GameGo.png]]|difficulty=Intermediate|area=[[Classic Paradise]]|hint=one of the bridges on the side}}
-==Character==
-What looks to be a handheld gaming console with pixelated facial features.
-==Obtaining==
-It will be on the side of the bridge above the cave
-
-[[Category:Objects]]
-[[Category:Intermediate Objects]]
-[[Category:Classic Paradise Objects]]

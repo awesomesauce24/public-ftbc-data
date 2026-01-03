@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Metal Scrap|character=[[File:Metal Scrap.png]]|difficulty=Normal|area=[[Floating Island]]|hint=more like uhh... metal CRAP. i am a little #edgy (Made by FunkyPurple) (Start in Floating Island)}}
-==Info==
-This object is a replacement of [[Blood Jar]] exactly cool yea. ok im running out of things to say.
-==Obtainment==
-Go to the opposite side of the island and jump down, youll fall into a tiny island on the sea where Metal Scrap will be.
-[[Category:Objects]]
-[[Category:Main Realm Objects]]
-[[Category:Floating Island Objects]]
-[[Category:Normal Objects]]

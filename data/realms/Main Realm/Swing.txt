@@ -1,6 +1,0 @@
-{{stub}}
-{{CharacterInfo|name=Swing|character=Swing.png|difficulty=Easy|area=[[Classic Roblox]]|hint=does this even remotely resemble a swing?? (Hidden in Classic Roblox)}}
-
-[[Category:Objects]]
-[[Category:Easy Objects]]
-[[Category:Classic Roblox Objects]]

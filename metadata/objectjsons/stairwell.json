@@ -1,0 +1,32 @@
+{
+  "BEEP Fusion": {
+    "name": "BEEP Fusion",
+    "difficulty": "Strenuous",
+    "description": "aaaaaaa",
+    "realm": "stairwell",
+    "realmData": {
+      "label": "stairwell",
+      "icon": "",
+      "link": "stairwell",
+      "image": "",
+      "colors": [],
+      "gradient": "",
+      "accent": "#ffffff"
+    },
+    "images": [],
+    "difficultyInfo": {
+      "icon": "Strenuous.png",
+      "color": "#4048E5"
+    },
+    "previousDifficulties": [],
+    "categories": [
+      "Objects",
+      "Strenuous Objects",
+      "stairwell Objects"
+    ],
+    "wiki": {
+      "info": "",
+      "obtaining": ""
+    }
+  }
+}

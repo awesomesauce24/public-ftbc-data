@@ -1,9 +1,0 @@
-{{CharacterInfo|name=Squeaky Hammer|character=[[File:Squeaky hammer.png|thumb]]|difficulty=Unforgiving|area=[[Yoyleland]]|hint=PLACEHOLDER}}
-
-== Character ==
-A smiling squeaky Hammer with arms and legs
-== Obtaining ==
-{{Spoiler|text=In yoyleland, near [[Dragonboy010814]] there will be a button. it will spawn a ball which you have to push to [[Lewis]]. Near [[Lewis]] there will be a pad that makes the ball jump up. go on the ball while it jumps to get on top of the factory.}}
-[[Category:Unforgiving Objects]]
-[[Category:Yoyleland Objects]]
-[[Category:Objects]]

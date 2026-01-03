@@ -1,9 +1,0 @@
-== Character ==
-Just a piece of thick cardboard
-
-== Obtaining ==
-You can find '''Cardboard''' on the roof of one of the houses on a sand hill.
-{{CharacterInfo|name=Cardboard|character=Cardboard.png|difficulty=Normal|area=Barren Desert|hint=he's doing stuff n' things}}
-[[Category:Barren Desert Objects]]
-[[Category:Objects]]
-[[Category:Normal Objects]]
