@@ -3,8 +3,17 @@
 PyWikiBot configuration for FTBC Fandom wiki.
 
 This file configures pywikibot to work with the FTBC wiki.
-Update the bot credentials below with your actual bot username/password.
+Loads credentials from .env file automatically.
 """
+
+import os
+from pathlib import Path
+
+# Load .env file if it exists
+env_file = Path(__file__).parent / '.env'
+if env_file.exists():
+    from dotenv import load_dotenv
+    load_dotenv(env_file)
 
 # Family and language settings
 family = 'fandom'
@@ -15,24 +24,9 @@ site = {
     'fandom:en': ('ftbc.fandom.com', '/api.php')
 }
 
-# Bot account credentials
-# Set these to your bot username and password
-# Options:
-# 1. Set directly here (NOT RECOMMENDED for security):
-#    usernames['fandom']['en'] = 'YourBotUsername'
-#    password = 'YourBotPassword'
-#
-# 2. Use environment variables (RECOMMENDED):
-#    Set PYWIKIBOT_FTBC_USER and PYWIKIBOT_FTBC_PASS
-#
-# 3. Use credentials file (RECOMMENDED):
-#    Create a file with your credentials and reference it
-
-import os
-
-# Try to load from environment variables
-ftbc_user = os.environ.get('PYWIKIBOT_FTBC_USER')
-ftbc_pass = os.environ.get('PYWIKIBOT_FTBC_PASS')
+# Bot account credentials - load from .env or environment
+ftbc_user = os.environ.get('BOT_USERNAME')
+ftbc_pass = os.environ.get('BOT_PASSWORD')
 
 if ftbc_user and ftbc_pass:
     usernames['fandom']['en'] = ftbc_user
